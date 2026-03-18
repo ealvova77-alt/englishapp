@@ -1897,6 +1897,10 @@ export default function IrregularVerbsTrainer() {
   const [feedback, setFeedback] = useState(null);
   const [openStat, setOpenStat] = useState(null);
   const [mistakesMode, setMistakesMode] = useState("list");
+  const [mistakeVerbBase, setMistakeVerbBase] = useState(null);
+  const [mistakeAnswerPast, setMistakeAnswerPast] = useState("");
+  const [mistakeAnswerPP, setMistakeAnswerPP] = useState("");
+  const [mistakeFeedback, setMistakeFeedback] = useState(null);
   const [session, setSession] = useState({ correct: 0, total: 0 });
   const [toast, setToast] = useState("");
 
@@ -2004,15 +2008,14 @@ export default function IrregularVerbsTrainer() {
   currentVerbRef.current = currentVerb;
 
   const quizPool = useMemo(() => {
-    const all = enrichedVerbs;
+    const noMistakes = enrichedVerbs.filter((v) => !v.progress.mistaken);
+    const all = noMistakes.length ? noMistakes : enrichedVerbs;
     const hard = all.filter((v) => v.difficulty === "hard");
     const unlearned = all.filter((v) => !v.progress.known);
     const starred = all.filter((v) => v.progress.starred);
-    const mistakes = all.filter((v) => v.progress.mistaken);
     if (quizFilter === "hard") return hard.length ? hard : all;
     if (quizFilter === "unlearned") return unlearned.length ? unlearned : all;
     if (quizFilter === "starred") return starred.length ? starred : all;
-    if (quizFilter === "mistakes") return mistakes.length ? mistakes : all;
     if (["basic", "advanced", "rare"].includes(quizFilter)) {
       const level = all.filter((v) => v.level === quizFilter);
       return level.length ? level : all;
@@ -2023,6 +2026,11 @@ export default function IrregularVerbsTrainer() {
     }
     return all;
   }, [enrichedVerbs, quizFilter]);
+
+  const mistakeVerb = useMemo(() => {
+    if (!mistakeVerbBase) return null;
+    return enrichedVerbs.find((v) => v.base === mistakeVerbBase) || null;
+  }, [enrichedVerbs, mistakeVerbBase]);
 
   const quizVerb = useMemo(() => {
     return quizPool.find((v) => v.base === quizVerbBase) || quizPool[0] || null;
@@ -2159,10 +2167,23 @@ export default function IrregularVerbsTrainer() {
     applyQuizResult(quizVerb, success);
   }
 
+  function submitMistakeQuiz() {
+    if (!mistakeVerb) return;
+    const okPast = isCorrect(mistakeAnswerPast, mistakeVerb.past);
+    const okPP = isCorrect(mistakeAnswerPP, mistakeVerb.pp);
+    const success = okPast && okPP;
+    setMistakeFeedback({ success, okPast, okPP, userPast: mistakeAnswerPast, userPP: mistakeAnswerPP });
+    if (success) {
+      updateProgress(mistakeVerb.base, { mistaken: false });
+    }
+  }
+
   function nextQuiz() {
-    const pool = shuffle(quizPool);
-    const next = pool.find((v) => v.base !== quizVerb?.base) || pool[0];
-    setQuizVerbBase(next?.base || null);
+    const current = quizVerbBase;
+    const others = quizPool.filter((v) => v.base !== current);
+    const pool = others.length ? others : quizPool;
+    const picked = shuffle(pool)[0];
+    setQuizVerbBase(picked?.base || null);
     setAnswerPast("");
     setAnswerPP("");
     setChoiceSelected("");
@@ -2270,7 +2291,10 @@ export default function IrregularVerbsTrainer() {
                           {quizVerb?.common ? <Badge tone="dark">частый</Badge> : null}
                         </div>
                       </div>
-                      <button onClick={() => speakVerb(quizVerb, settings.speechRate)} className="rounded-xl bg-zinc-100 p-3 text-zinc-600 transition hover:bg-zinc-200"><Volume2 className="h-5 w-5" /></button>
+                      <div className="flex gap-2">
+                        <button onClick={() => toggleStar(quizVerb)} className={`rounded-xl p-3 transition ${quizVerb?.progress.starred ? "bg-amber-50 text-amber-500" : "bg-zinc-100 text-zinc-400 hover:bg-zinc-200"}`}><Star className={`h-5 w-5 ${quizVerb?.progress.starred ? "fill-amber-400" : ""}`} /></button>
+                        <button onClick={() => speakVerb(quizVerb, settings.speechRate)} className="rounded-xl bg-zinc-100 p-3 text-zinc-600 transition hover:bg-zinc-200"><Volume2 className="h-5 w-5" /></button>
+                      </div>
                     </div>
 
                     <div className="mt-5">
@@ -2347,11 +2371,7 @@ export default function IrregularVerbsTrainer() {
                       )}
                     </div>
 
-                    {feedback ? (
-                      <div className="mt-4">
-                        <button type="button" onClick={nextQuiz} className="w-full rounded-xl bg-zinc-900 px-4 py-3 text-sm font-medium text-white transition hover:bg-zinc-800">Следующий →</button>
-                      </div>
-                    ) : (
+                    {feedback ? null : (
                       <div className="mt-4">
                         <button
                           type="button"
@@ -2365,7 +2385,7 @@ export default function IrregularVerbsTrainer() {
                     )}
 
                     {feedback ? (
-                      <div className="mt-4 space-y-4">
+                      <div className="mt-4">
                         <div className={`rounded-xl p-4 ${feedback.success ? "bg-emerald-50 ring-1 ring-emerald-200" : "bg-rose-50 ring-1 ring-rose-200"}`}>
                           <div className={`font-semibold ${feedback.success ? "text-emerald-800" : "text-rose-800"}`}>{feedback.success ? "Верно!" : "Есть ошибки"}</div>
                           <div className="mt-2 rounded-lg bg-white p-3 text-sm text-zinc-700">
@@ -2404,20 +2424,8 @@ export default function IrregularVerbsTrainer() {
                           ) : (
                             <div className="mt-2 text-sm text-slate-500">Твой выбор: {feedback.selected}</div>
                           )}
+                          <button type="button" onClick={nextQuiz} className="mt-4 w-full rounded-xl bg-zinc-900 px-4 py-3 text-sm font-medium text-white transition hover:bg-zinc-800">{feedback.success ? "Следующий →" : "Понятно, дальше →"}</button>
                         </div>
-
-                        <div className="rounded-xl bg-white p-4 shadow-sm ring-1 ring-zinc-100">
-                          <div className="text-xs font-medium uppercase tracking-wider text-zinc-400">Примеры</div>
-                          <div className="mt-2 grid gap-1.5">
-                            {buildTenseExamples(quizVerb).map(([label, sentence]) => (
-                              <div key={label} className="rounded-lg bg-zinc-50 px-3 py-2 text-sm text-zinc-700">
-                                <span className="font-medium text-zinc-400">{label}:</span> {sentence}
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-
-                        <button type="button" onClick={nextQuiz} className="w-full rounded-xl bg-zinc-900 px-4 py-3 text-sm font-medium text-white transition hover:bg-zinc-800">Следующий →</button>
                       </div>
                     ) : null}
                   </div>
@@ -2533,7 +2541,7 @@ export default function IrregularVerbsTrainer() {
                 <>
                   <div className="flex gap-2">
                     <FilterChip active={mistakesMode === "list"} onClick={() => setMistakesMode("list")}>Список</FilterChip>
-                    <FilterChip active={mistakesMode === "train"} onClick={() => { setMistakesMode("train"); setQuizFilter("mistakes"); setFeedback(null); setAnswerPast(""); setAnswerPP(""); setChoiceSelected(""); setTranslateSelected(""); const pool = enrichedVerbs.filter((v) => v.progress.mistaken); if (pool.length) setQuizVerbBase(shuffle(pool)[0].base); }}>Тренировать</FilterChip>
+                    <FilterChip active={mistakesMode === "train"} onClick={() => { setMistakesMode("train"); setMistakeFeedback(null); setMistakeAnswerPast(""); setMistakeAnswerPP(""); const pool = enrichedVerbs.filter((v) => v.progress.mistaken); if (pool.length) setMistakeVerbBase(shuffle(pool)[0].base); }}>Тренировать</FilterChip>
                   </div>
 
                   {mistakesMode === "list" ? (
@@ -2576,57 +2584,49 @@ export default function IrregularVerbsTrainer() {
                         <div className="flex items-start justify-between gap-3">
                           <div>
                             <div className="text-xs font-medium uppercase tracking-wider text-zinc-400">Исправь ошибку</div>
-                            <h2 className="mt-1.5 text-4xl font-bold tracking-tight text-zinc-900">{quizVerb?.base}</h2>
-                            <div className="mt-1 text-zinc-500">{quizVerb?.ru}</div>
+                            <h2 className="mt-1.5 text-4xl font-bold tracking-tight text-zinc-900">{mistakeVerb?.base}</h2>
+                            <div className="mt-1 text-zinc-500">{mistakeVerb?.ru}</div>
                           </div>
-                          <button onClick={() => speakVerb(quizVerb, settings.speechRate)} className="rounded-xl bg-zinc-100 p-3 text-zinc-600 transition hover:bg-zinc-200"><Volume2 className="h-5 w-5" /></button>
+                          <button onClick={() => speakVerb(mistakeVerb, settings.speechRate)} className="rounded-xl bg-zinc-100 p-3 text-zinc-600 transition hover:bg-zinc-200"><Volume2 className="h-5 w-5" /></button>
                         </div>
 
                         <div className="mt-5 space-y-3">
                           <div>
                             <label className="mb-1.5 block text-sm font-medium text-zinc-700">Past Simple</label>
-                            <input value={answerPast} onChange={(e) => setAnswerPast(e.target.value)} onKeyDown={handleQuizKeyDown} disabled={Boolean(feedback)} placeholder="Введи Past Simple" className="w-full rounded-xl border border-zinc-200 bg-zinc-50 px-4 py-2.5 outline-none transition focus:border-teal-500 focus:ring-1 focus:ring-teal-500 disabled:opacity-60" />
+                            <input value={mistakeAnswerPast} onChange={(e) => setMistakeAnswerPast(e.target.value)} onKeyDown={(e) => { if (e.key !== "Enter") return; if (mistakeFeedback) { const pool = enrichedVerbs.filter((v) => v.progress.mistaken); if (!pool.length) { setMistakesMode("list"); return; } const next = shuffle(pool).find((v) => v.base !== mistakeVerb?.base) || pool[0]; setMistakeVerbBase(next.base); setMistakeAnswerPast(""); setMistakeAnswerPP(""); setMistakeFeedback(null); } else { submitMistakeQuiz(); } }} disabled={Boolean(mistakeFeedback)} placeholder="Введи Past Simple" className="w-full rounded-xl border border-zinc-200 bg-zinc-50 px-4 py-2.5 outline-none transition focus:border-teal-500 focus:ring-1 focus:ring-teal-500 disabled:opacity-60" />
                           </div>
                           <div>
                             <label className="mb-1.5 block text-sm font-medium text-zinc-700">Past Participle</label>
-                            <input value={answerPP} onChange={(e) => setAnswerPP(e.target.value)} onKeyDown={handleQuizKeyDown} disabled={Boolean(feedback)} placeholder="Введи Past Participle" className="w-full rounded-xl border border-zinc-200 bg-zinc-50 px-4 py-2.5 outline-none transition focus:border-teal-500 focus:ring-1 focus:ring-teal-500 disabled:opacity-60" />
+                            <input value={mistakeAnswerPP} onChange={(e) => setMistakeAnswerPP(e.target.value)} onKeyDown={(e) => { if (e.key !== "Enter") return; if (mistakeFeedback) { const pool = enrichedVerbs.filter((v) => v.progress.mistaken); if (!pool.length) { setMistakesMode("list"); return; } const next = shuffle(pool).find((v) => v.base !== mistakeVerb?.base) || pool[0]; setMistakeVerbBase(next.base); setMistakeAnswerPast(""); setMistakeAnswerPP(""); setMistakeFeedback(null); } else { submitMistakeQuiz(); } }} disabled={Boolean(mistakeFeedback)} placeholder="Введи Past Participle" className="w-full rounded-xl border border-zinc-200 bg-zinc-50 px-4 py-2.5 outline-none transition focus:border-teal-500 focus:ring-1 focus:ring-teal-500 disabled:opacity-60" />
                           </div>
                         </div>
 
-                        {feedback ? (
+                        {mistakeFeedback ? (
                           <div className="mt-4">
-                            <button type="button" onClick={() => { const pool = enrichedVerbs.filter((v) => v.progress.mistaken); if (!pool.length) { setMistakesMode("list"); return; } const next = shuffle(pool).find((v) => v.base !== quizVerb?.base) || pool[0]; setQuizVerbBase(next.base); setAnswerPast(""); setAnswerPP(""); setFeedback(null); }} className="w-full rounded-xl bg-zinc-900 px-4 py-3 text-sm font-medium text-white transition hover:bg-zinc-800">Следующий →</button>
+                            <div className={`rounded-xl p-4 ${mistakeFeedback.success ? "bg-emerald-50 ring-1 ring-emerald-200" : "bg-rose-50 ring-1 ring-rose-200"}`}>
+                              <div className={`font-semibold ${mistakeFeedback.success ? "text-emerald-800" : "text-rose-800"}`}>{mistakeFeedback.success ? "Верно! Слово убрано из ошибок" : "Есть ошибки"}</div>
+                              <div className="mt-3 space-y-2">
+                                <div className={`flex items-center justify-between rounded-lg px-3 py-2 text-sm ${mistakeFeedback.okPast ? "bg-emerald-50 text-emerald-800" : "bg-rose-50 text-rose-800"}`}>
+                                  <div>
+                                    <span className="font-medium">Past Simple: </span>
+                                    {mistakeFeedback.okPast ? <span>{mistakeFeedback.userPast} ✓</span> : <span><s className="text-rose-400">{mistakeFeedback.userPast || "(пусто)"}</s> → <span className="font-semibold">{mistakeVerb?.past}</span></span>}
+                                  </div>
+                                </div>
+                                <div className={`flex items-center justify-between rounded-lg px-3 py-2 text-sm ${mistakeFeedback.okPP ? "bg-emerald-50 text-emerald-800" : "bg-rose-50 text-rose-800"}`}>
+                                  <div>
+                                    <span className="font-medium">Past Participle: </span>
+                                    {mistakeFeedback.okPP ? <span>{mistakeFeedback.userPP} ✓</span> : <span><s className="text-rose-400">{mistakeFeedback.userPP || "(пусто)"}</s> → <span className="font-semibold">{mistakeVerb?.pp}</span></span>}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <button type="button" onClick={() => { const pool = enrichedVerbs.filter((v) => v.progress.mistaken); if (!pool.length) { setMistakesMode("list"); return; } const next = shuffle(pool).find((v) => v.base !== mistakeVerb?.base) || pool[0]; setMistakeVerbBase(next.base); setMistakeAnswerPast(""); setMistakeAnswerPP(""); setMistakeFeedback(null); }} className="mt-4 w-full rounded-xl bg-zinc-900 px-4 py-3 text-sm font-medium text-white transition hover:bg-zinc-800">Следующий →</button>
                           </div>
                         ) : (
                           <div className="mt-4">
-                            <button type="button" onClick={submitQuiz} className="w-full rounded-xl bg-teal-700 px-4 py-3 text-sm font-medium text-white transition hover:bg-teal-800">Проверить</button>
+                            <button type="button" onClick={submitMistakeQuiz} className="w-full rounded-xl bg-teal-700 px-4 py-3 text-sm font-medium text-white transition hover:bg-teal-800">Проверить</button>
                           </div>
                         )}
-
-                        {feedback ? (
-                          <div className="mt-4 space-y-2">
-                            <div className={`flex items-center justify-between rounded-lg px-3 py-2 text-sm ${feedback.okPast ? "bg-emerald-50 text-emerald-800" : "bg-rose-50 text-rose-800"}`}>
-                              <div>
-                                <span className="font-medium">Past Simple: </span>
-                                {feedback.okPast ? (
-                                  <span>{feedback.userPast} ✓</span>
-                                ) : (
-                                  <span><s className="text-rose-400">{feedback.userPast || "(пусто)"}</s> → <span className="font-semibold">{quizVerb?.past}</span></span>
-                                )}
-                              </div>
-                            </div>
-                            <div className={`flex items-center justify-between rounded-lg px-3 py-2 text-sm ${feedback.okPP ? "bg-emerald-50 text-emerald-800" : "bg-rose-50 text-rose-800"}`}>
-                              <div>
-                                <span className="font-medium">Past Participle: </span>
-                                {feedback.okPP ? (
-                                  <span>{feedback.userPP} ✓</span>
-                                ) : (
-                                  <span><s className="text-rose-400">{feedback.userPP || "(пусто)"}</s> → <span className="font-semibold">{quizVerb?.pp}</span></span>
-                                )}
-                              </div>
-                            </div>
-                          </div>
-                        ) : null}
                       </div>
 
                       <div className="text-center text-xs text-zinc-400">Осталось: {enrichedVerbs.filter((v) => v.progress.mistaken).length} слов с ошибками</div>
@@ -2647,7 +2647,7 @@ export default function IrregularVerbsTrainer() {
             <div className="mx-auto max-w-3xl space-y-4">
               <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
                 <StatCard icon={CheckCircle2} label="Выучено" value={`${stats.mastered}/${VERBS.length}`} hint={`${VERBS.length} глаголов`} onClick={() => setOpenStat(openStat === "mastered" ? null : "mastered")} active={openStat === "mastered"} />
-                <StatCard icon={Trophy} label="Точность" value={`${stats.accuracy}%`} onClick={() => setOpenStat(openStat === "accuracy" ? null : "accuracy")} active={openStat === "accuracy"} />
+                <StatCard icon={Trophy} label="Точность" value={`${stats.accuracy}%`} />
                 <StatCard icon={Star} label="Избранное" value={stats.starred} onClick={() => setOpenStat(openStat === "starred" ? null : "starred")} active={openStat === "starred"} />
                 <StatCard icon={Brain} label="Повторений" value={stats.reviews} onClick={() => setOpenStat(openStat === "reviews" ? null : "reviews")} active={openStat === "reviews"} />
               </div>
@@ -2718,7 +2718,6 @@ export default function IrregularVerbsTrainer() {
                 {openStat === "mastered" && "Выученные слова"}
                 {openStat === "starred" && "Избранные слова"}
                 {openStat === "reviews" && "Самые повторяемые"}
-                {openStat === "accuracy" && "Точность по словам"}
               </h2>
               <button type="button" onClick={() => setOpenStat(null)} className="rounded-lg bg-zinc-100 p-2 text-zinc-600 transition hover:bg-zinc-200"><X className="h-5 w-5" /></button>
             </div>
@@ -2765,27 +2764,6 @@ export default function IrregularVerbsTrainer() {
                 ) : <div className="text-sm text-zinc-400 text-center py-8">Пока нет повторений. Начни тестирование!</div>
               ) : null}
 
-              {openStat === "accuracy" ? (
-                enrichedVerbs.filter((v) => (v.progress.right || 0) + (v.progress.wrong || 0) > 0).length ? (
-                  [...enrichedVerbs].filter((v) => (v.progress.right || 0) + (v.progress.wrong || 0) > 0).sort((a, b) => {
-                    const aTotal = a.progress.right + a.progress.wrong;
-                    const bTotal = b.progress.right + b.progress.wrong;
-                    return (aTotal ? a.progress.right / aTotal : 0) - (bTotal ? b.progress.right / bTotal : 0);
-                  }).map((v) => {
-                    const total = (v.progress.right || 0) + (v.progress.wrong || 0);
-                    const acc = total ? Math.round((v.progress.right / total) * 100) : 0;
-                    return (
-                      <div key={v.base} className="flex items-center justify-between rounded-xl bg-zinc-50 px-3 py-2.5">
-                        <div>
-                          <span className="font-medium text-zinc-900">{v.base}</span>
-                          <span className="ml-2 text-sm text-zinc-400">{v.progress.right}✓ {v.progress.wrong}✗</span>
-                        </div>
-                        <span className={`text-sm font-medium ${acc >= 80 ? "text-teal-700" : acc >= 50 ? "text-amber-600" : "text-red-600"}`}>{acc}%</span>
-                      </div>
-                    );
-                  })
-                ) : <div className="text-sm text-zinc-400 text-center py-8">Пока нет данных. Пройди тест!</div>
-              ) : null}
 
             </div>
           </div>
