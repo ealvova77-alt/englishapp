@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "machine",
+      "meaning": "a piece of equipment that does work"
+    },
+    {
+      "term": "sensor",
+      "meaning": "a part of a machine that detects movement, light, or heat"
+    },
+    {
+      "term": "motor",
+      "meaning": "a part that makes a machine move"
+    },
+    {
+      "term": "program",
+      "meaning": "to give a robot instructions through code"
+    },
+    {
+      "term": "automatic",
+      "meaning": "working by itself without much human control"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the word 'robot'?",
     "Will robots take over the world one day?",

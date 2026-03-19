@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "manager",
+      "meaning": "a person who controls or organizes work"
+    },
+    {
+      "term": "schedule",
+      "meaning": "a plan of times and tasks"
+    },
+    {
+      "term": "organize",
+      "meaning": "to arrange people or things well"
+    },
+    {
+      "term": "efficient",
+      "meaning": "working well without wasting time or effort"
+    },
+    {
+      "term": "supervise",
+      "meaning": "to watch and direct the work of others"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'management'?",
     "Would you like to work in management?",

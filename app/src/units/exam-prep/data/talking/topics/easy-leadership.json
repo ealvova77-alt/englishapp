@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "leader",
+      "meaning": "a person who guides or influences others"
+    },
+    {
+      "term": "decision",
+      "meaning": "a choice made after thinking carefully"
+    },
+    {
+      "term": "motivate",
+      "meaning": "to encourage people to act or work well"
+    },
+    {
+      "term": "responsible",
+      "meaning": "having a duty to care for something or someone"
+    },
+    {
+      "term": "confident",
+      "meaning": "sure of yourself and your abilities"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'leadership'?",
     "Do people automatically have leadership or must they learn it?",

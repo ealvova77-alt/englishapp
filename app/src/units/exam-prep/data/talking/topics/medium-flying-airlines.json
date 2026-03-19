@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 10,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "runway",
+      "meaning": "the long strip where planes take off and land"
+    },
+    {
+      "term": "boarding pass",
+      "meaning": "the document that allows you to get on a plane"
+    },
+    {
+      "term": "luggage",
+      "meaning": "the bags you take when travelling"
+    },
+    {
+      "term": "land",
+      "meaning": "to come down to the ground in a plane"
+    },
+    {
+      "term": "delayed",
+      "meaning": "happening later than planned"
+    }
+  ],
   "questions": [
     "Do you enjoy flying? What do you like/dislike about it?",
     "What is your favourite airline? Why?",

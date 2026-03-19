@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 18,
+  "sharedVocabularyIds": [
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "astronaut",
+      "meaning": "a person trained to travel in space"
+    },
+    {
+      "term": "orbit",
+      "meaning": "the curved path of a planet or spacecraft around another object"
+    },
+    {
+      "term": "gravity",
+      "meaning": "the force that pulls things toward the earth or another planet"
+    },
+    {
+      "term": "spacesuit",
+      "meaning": "special clothing worn in space"
+    },
+    {
+      "term": "brave",
+      "meaning": "ready to face danger or difficulty without fear"
+    }
+  ],
   "questions": [
     "Would you like to be an astronaut?",
     "Did you ever want to be an astronaut?",

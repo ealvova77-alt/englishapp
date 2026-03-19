@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "slide",
+      "meaning": "one page shown on a screen during a presentation"
+    },
+    {
+      "term": "audience",
+      "meaning": "the people watching and listening to a speaker"
+    },
+    {
+      "term": "explain",
+      "meaning": "to make something clear by giving details"
+    },
+    {
+      "term": "rehearse",
+      "meaning": "to practise something before doing it in public"
+    },
+    {
+      "term": "clear",
+      "meaning": "easy to understand"
+    }
+  ],
   "questions": [
     "What do you think when you hear the word 'presentation'?",
     "Do you like making presentations? Why / Why not?",

@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 5,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "tuition",
+      "meaning": "money paid for teaching or study"
+    },
+    {
+      "term": "subject",
+      "meaning": "an area of study at school or university"
+    },
+    {
+      "term": "assignment",
+      "meaning": "a piece of work given to students"
+    },
+    {
+      "term": "scholarship",
+      "meaning": "money given to support a student?s education"
+    },
+    {
+      "term": "academic",
+      "meaning": "related to study, school, or education"
+    }
+  ],
   "questions": [
     "What do you learn in university? What kind of skills? What type of knowledge? Is it specific or general?",
     "What do you think about your professors? Are they qualified to be teaching at the university? Are they good teachers? Why or why not? Do they provide interesting lectures? Is this important?",

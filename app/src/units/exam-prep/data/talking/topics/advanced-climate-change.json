@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "climate",
+      "meaning": "the usual weather conditions of a place over a long time"
+    },
+    {
+      "term": "emission",
+      "meaning": "gas or other substance sent into the air"
+    },
+    {
+      "term": "drought",
+      "meaning": "a long period with very little rain"
+    },
+    {
+      "term": "adapt",
+      "meaning": "to change your behaviour or systems to deal with new conditions"
+    },
+    {
+      "term": "extreme",
+      "meaning": "very great or severe"
+    }
+  ],
   "questions": [
     "How do you feel about climate change?",
     "Are you more worried about climate change or the war on terror?",

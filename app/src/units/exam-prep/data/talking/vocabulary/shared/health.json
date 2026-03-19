@@ -1,0 +1,37 @@
+{
+  "id": "health",
+  "title": "Health essentials",
+  "description": "Useful words for health, medicine, exercise, and healthcare.",
+  "items": [
+    {
+      "term": "stay healthy",
+      "meaning": "to keep your body and mind in good condition",
+      "example": "Regular exercise and sleep help people stay healthy."
+    },
+    {
+      "term": "prevent illness",
+      "meaning": "to stop health problems before they begin",
+      "example": "Vaccines can help prevent illness."
+    },
+    {
+      "term": "medical treatment",
+      "meaning": "care provided by doctors or hospitals",
+      "example": "Good medical treatment should be available to everyone."
+    },
+    {
+      "term": "healthy lifestyle",
+      "meaning": "a way of living that supports good health",
+      "example": "A healthy lifestyle includes exercise and balanced meals."
+    },
+    {
+      "term": "mental well-being",
+      "meaning": "a healthy emotional and psychological state",
+      "example": "Work-life balance is important for mental well-being."
+    },
+    {
+      "term": "access to healthcare",
+      "meaning": "the ability to get medical help when needed",
+      "example": "Access to healthcare should not depend only on income."
+    }
+  ]
+}

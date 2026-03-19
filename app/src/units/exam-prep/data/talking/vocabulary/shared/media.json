@@ -1,0 +1,37 @@
+{
+  "id": "media",
+  "title": "Media essentials",
+  "description": "Useful words for news, journalism, websites, and online platforms.",
+  "items": [
+    {
+      "term": "reliable source",
+      "meaning": "a source of information that can be trusted",
+      "example": "It is important to check whether a news story comes from a reliable source."
+    },
+    {
+      "term": "spread information",
+      "meaning": "to share news or facts with many people",
+      "example": "Social media can spread information very quickly."
+    },
+    {
+      "term": "online platform",
+      "meaning": "a website or app where people interact or publish content",
+      "example": "Many young people get their news from an online platform."
+    },
+    {
+      "term": "media coverage",
+      "meaning": "the amount and type of attention a story gets in the media",
+      "example": "Major events usually receive global media coverage."
+    },
+    {
+      "term": "misleading information",
+      "meaning": "content that gives a false or confusing impression",
+      "example": "Misleading information can spread faster than corrections."
+    },
+    {
+      "term": "keep up with the news",
+      "meaning": "to stay informed about recent events",
+      "example": "I use podcasts to keep up with the news."
+    }
+  ]
+}

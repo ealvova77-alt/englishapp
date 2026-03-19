@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "customer",
+      "meaning": "a person who buys goods or services"
+    },
+    {
+      "term": "profit",
+      "meaning": "money made after costs are paid"
+    },
+    {
+      "term": "manager",
+      "meaning": "a person who controls the work of others"
+    },
+    {
+      "term": "sell",
+      "meaning": "to give something to someone for money"
+    },
+    {
+      "term": "successful",
+      "meaning": "achieving the result you wanted"
+    }
+  ],
   "questions": [
     "Are you interested in the world of business?",
     "Do you think you have a good head for business?",

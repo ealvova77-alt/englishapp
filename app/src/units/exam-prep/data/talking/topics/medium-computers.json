@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "keyboard",
+      "meaning": "the set of keys used to type on a computer"
+    },
+    {
+      "term": "file",
+      "meaning": "a set of information stored on a computer"
+    },
+    {
+      "term": "browser",
+      "meaning": "a program used to look at websites"
+    },
+    {
+      "term": "click",
+      "meaning": "to press a mouse button or tap a screen"
+    },
+    {
+      "term": "digital",
+      "meaning": "using electronic technology and computer data"
+    }
+  ],
   "questions": [
     "What is a computer?",
     "When did you use a computer for the first time?",

@@ -1,0 +1,37 @@
+{
+  "id": "communication",
+  "title": "Communication essentials",
+  "description": "Useful words for speaking, presenting, and interacting with an audience.",
+  "items": [
+    {
+      "term": "express ideas clearly",
+      "meaning": "to explain thoughts in an easy-to-understand way",
+      "example": "A strong speaker can express ideas clearly without using difficult words."
+    },
+    {
+      "term": "make a strong impression",
+      "meaning": "to be memorable and effective",
+      "example": "A confident introduction can make a strong impression on the audience."
+    },
+    {
+      "term": "hold attention",
+      "meaning": "to keep people focused and interested",
+      "example": "Good examples and stories help a presenter hold attention."
+    },
+    {
+      "term": "respond to questions",
+      "meaning": "to answer what other people ask",
+      "example": "Public speakers should be ready to respond to questions calmly."
+    },
+    {
+      "term": "speak persuasively",
+      "meaning": "to convince people through clear speaking",
+      "example": "Lawyers often need to speak persuasively in front of others."
+    },
+    {
+      "term": "voice projection",
+      "meaning": "the ability to make your voice strong and clear",
+      "example": "Teachers need good voice projection in a large classroom."
+    }
+  ]
+}

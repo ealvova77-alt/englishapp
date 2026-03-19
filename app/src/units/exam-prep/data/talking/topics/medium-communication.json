@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 12,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "message",
+      "meaning": "information sent from one person to another"
+    },
+    {
+      "term": "listener",
+      "meaning": "a person who pays attention to what someone says"
+    },
+    {
+      "term": "clarify",
+      "meaning": "to make something easier to understand"
+    },
+    {
+      "term": "respond",
+      "meaning": "to answer or react to something"
+    },
+    {
+      "term": "direct",
+      "meaning": "clear and honest in speech or writing"
+    }
+  ],
   "questions": [
     "Is it important to be a good communicator in your profession?",
     "Do you think that people who communicate well are more successful?",

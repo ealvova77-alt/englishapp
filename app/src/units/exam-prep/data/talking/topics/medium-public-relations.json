@@ -5,6 +5,32 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication",
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "image",
+      "meaning": "the way people think about a person or company"
+    },
+    {
+      "term": "press release",
+      "meaning": "an official statement given to newspapers or other media"
+    },
+    {
+      "term": "campaign",
+      "meaning": "a planned set of actions to achieve a public goal"
+    },
+    {
+      "term": "promote",
+      "meaning": "to help people notice or support something"
+    },
+    {
+      "term": "positive",
+      "meaning": "good and likely to create approval"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the term 'public relations'?",
     "What do you think of public relations?",

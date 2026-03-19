@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "airport",
+      "meaning": "a place where planes take off and land"
+    },
+    {
+      "term": "boarding",
+      "meaning": "the process of getting onto a plane"
+    },
+    {
+      "term": "luggage",
+      "meaning": "bags and cases used when travelling"
+    },
+    {
+      "term": "flight",
+      "meaning": "a journey through the air in a plane"
+    },
+    {
+      "term": "nervous",
+      "meaning": "worried or afraid about something"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'flying'?",
     "What are the best things about flying?",

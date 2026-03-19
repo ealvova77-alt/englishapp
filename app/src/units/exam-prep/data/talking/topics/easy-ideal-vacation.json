@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 5,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "resort",
+      "meaning": "a place where people go for rest and holidays"
+    },
+    {
+      "term": "sightseeing",
+      "meaning": "visiting interesting places while travelling"
+    },
+    {
+      "term": "beach",
+      "meaning": "a sandy or stony area by the sea"
+    },
+    {
+      "term": "relax",
+      "meaning": "to rest and become less tired or worried"
+    },
+    {
+      "term": "memorable",
+      "meaning": "worth remembering because it is special"
+    }
+  ],
   "questions": [
     "What is the purpose of a vacation? Why do we need vacations? When is the best time to take a vacation? Are some seasons better than others for vacationing?",
     "What do you enjoy most about a vacation? Do you like to play, rest or travel? When you vacation what do you like to do?",

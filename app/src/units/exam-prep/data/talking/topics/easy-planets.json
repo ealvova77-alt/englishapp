@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "galaxy",
+      "meaning": "a huge group of stars and planets in space"
+    },
+    {
+      "term": "orbit",
+      "meaning": "the path a planet follows around a star"
+    },
+    {
+      "term": "surface",
+      "meaning": "the outer part of something"
+    },
+    {
+      "term": "massive",
+      "meaning": "very large and heavy"
+    },
+    {
+      "term": "distant",
+      "meaning": "far away in space or time"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'planets'?",
     "Are you interested in the planets?",

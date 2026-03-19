@@ -5,6 +5,32 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "science",
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "vaccine",
+      "meaning": "a substance that protects people from disease"
+    },
+    {
+      "term": "researcher",
+      "meaning": "a person who studies something carefully to discover facts"
+    },
+    {
+      "term": "trial",
+      "meaning": "a medical test of a treatment on people"
+    },
+    {
+      "term": "diagnose",
+      "meaning": "to identify a disease or problem after examination"
+    },
+    {
+      "term": "lifesaving",
+      "meaning": "able to prevent death"
+    }
+  ],
   "questions": [
     "Who is the most famous scientist from your country? What did he/she do?",
     "In what ways has science most advanced society?",

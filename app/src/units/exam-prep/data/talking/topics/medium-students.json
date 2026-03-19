@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "classroom",
+      "meaning": "a room where students learn"
+    },
+    {
+      "term": "deadline",
+      "meaning": "the latest time something must be finished"
+    },
+    {
+      "term": "notebook",
+      "meaning": "a book of empty pages for writing notes"
+    },
+    {
+      "term": "study",
+      "meaning": "to spend time learning about something"
+    },
+    {
+      "term": "motivated",
+      "meaning": "wanting strongly to work or learn well"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'student'?",
     "Were / Are you a good student?",

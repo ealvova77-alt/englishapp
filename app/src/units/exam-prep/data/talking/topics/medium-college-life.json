@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 10,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "campus",
+      "meaning": "the buildings and grounds of a college"
+    },
+    {
+      "term": "dormitory",
+      "meaning": "a building where students live"
+    },
+    {
+      "term": "lecture",
+      "meaning": "a talk given to teach students"
+    },
+    {
+      "term": "roommate",
+      "meaning": "a person who shares a room with another person"
+    },
+    {
+      "term": "social",
+      "meaning": "relating to meeting and spending time with other people"
+    }
+  ],
   "questions": [
     "What are the most popular clubs on campus? Why?",
     "How much free time do you have? What do you do with it?",

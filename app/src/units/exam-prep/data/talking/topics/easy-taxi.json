@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "fare",
+      "meaning": "the money paid for a taxi ride"
+    },
+    {
+      "term": "driver",
+      "meaning": "the person who drives the taxi"
+    },
+    {
+      "term": "meter",
+      "meaning": "a device that shows the cost of the journey"
+    },
+    {
+      "term": "pickup",
+      "meaning": "the act of collecting a passenger"
+    },
+    {
+      "term": "available",
+      "meaning": "ready to be used or chosen"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'taxi'?",
     "How often do you take a taxi?",

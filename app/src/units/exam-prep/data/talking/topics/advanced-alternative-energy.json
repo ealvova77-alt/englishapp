@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 13,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "solar",
+      "meaning": "related to energy from the sun"
+    },
+    {
+      "term": "wind farm",
+      "meaning": "an area with many large wind machines producing electricity"
+    },
+    {
+      "term": "fuel",
+      "meaning": "a substance used to produce energy"
+    },
+    {
+      "term": "generate",
+      "meaning": "to produce energy or power"
+    },
+    {
+      "term": "renewable",
+      "meaning": "able to be replaced naturally and used again"
+    }
+  ],
   "questions": [
     "Do you try to save energy in your home? In what ways?",
     "Would you be willing to pay more for electricity if it came from renewable energy sources?",

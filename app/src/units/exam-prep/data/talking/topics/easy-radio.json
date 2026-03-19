@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 18,
+  "sharedVocabularyIds": [
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "station",
+      "meaning": "a company or place that broadcasts radio programs"
+    },
+    {
+      "term": "broadcast",
+      "meaning": "to send out a program by radio or television"
+    },
+    {
+      "term": "presenter",
+      "meaning": "a person who introduces and leads a program"
+    },
+    {
+      "term": "tune",
+      "meaning": "to adjust a radio to receive a station clearly"
+    },
+    {
+      "term": "live",
+      "meaning": "happening at the same time as it is broadcast"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'radio'?",
     "How important is the radio in your life?",

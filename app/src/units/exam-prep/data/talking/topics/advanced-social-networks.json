@@ -5,6 +5,32 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 14,
+  "sharedVocabularyIds": [
+    "technology",
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "network",
+      "meaning": "a group of connected people or accounts"
+    },
+    {
+      "term": "feed",
+      "meaning": "the stream of posts shown on a social media page"
+    },
+    {
+      "term": "comment",
+      "meaning": "a written reaction to something posted online"
+    },
+    {
+      "term": "connect",
+      "meaning": "to join with someone online"
+    },
+    {
+      "term": "private",
+      "meaning": "not open for everyone to see"
+    }
+  ],
   "questions": [
     "Which social network sites do you use? Which one is your favorite? Why?",
     "How much time do you spend on social networking sites?",

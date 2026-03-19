@@ -5,6 +5,9 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 9,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
   "vocabulary": [
     {
       "term": "technological breakthrough",

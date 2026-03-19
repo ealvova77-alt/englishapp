@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "screen",
+      "meaning": "the flat surface where information appears on a phone"
+    },
+    {
+      "term": "message",
+      "meaning": "written information sent from one person to another"
+    },
+    {
+      "term": "app",
+      "meaning": "a program used on a phone or tablet"
+    },
+    {
+      "term": "charge",
+      "meaning": "to put electricity into a phone battery"
+    },
+    {
+      "term": "portable",
+      "meaning": "easy to carry and use in different places"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the words 'mobile telephone'?",
     "What was life like before mobile telephones came along?",

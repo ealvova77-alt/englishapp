@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "reactor",
+      "meaning": "the part of a nuclear plant where energy is produced"
+    },
+    {
+      "term": "uranium",
+      "meaning": "a heavy metal used as fuel in nuclear power"
+    },
+    {
+      "term": "waste",
+      "meaning": "material left over that is not wanted or safe to use"
+    },
+    {
+      "term": "supply",
+      "meaning": "the amount of something available for use"
+    },
+    {
+      "term": "hazardous",
+      "meaning": "dangerous and likely to cause harm"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the term 'nuclear energy'?",
     "What are the good things and bad things about nuclear energy?",

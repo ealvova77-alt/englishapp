@@ -5,36 +5,29 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
   "vocabulary": [
     {
-      "term": "take off",
-      "meaning": "to leave the ground and begin flying",
-      "example": "I still get excited when the plane starts to take off."
+      "term": "runway",
+      "meaning": "the long strip where a plane takes off and lands"
     },
     {
-      "term": "land safely",
-      "meaning": "to arrive on the ground without problems",
-      "example": "Most passengers just want the flight to land safely and on time."
+      "term": "cockpit",
+      "meaning": "the place where the pilot controls the plane"
     },
     {
-      "term": "window seat",
-      "meaning": "a seat next to the window on a plane",
-      "example": "I usually choose a window seat because I like the view."
+      "term": "pilot",
+      "meaning": "the person who flies a plane"
     },
     {
-      "term": "long-haul flight",
-      "meaning": "a very long flight, usually between distant countries",
-      "example": "I try to sleep during a long-haul flight."
+      "term": "cabin",
+      "meaning": "the part of the plane where passengers sit"
     },
     {
-      "term": "jet lag",
-      "meaning": "tiredness after a long flight across time zones",
-      "example": "Jet lag can make the first day of a trip difficult."
-    },
-    {
-      "term": "air turbulence",
-      "meaning": "sudden movement of the plane caused by unstable air",
-      "example": "I do not like air turbulence, but I know it is usually not dangerous."
+      "term": "turbulence",
+      "meaning": "sudden movement of the plane caused by unstable air"
     }
   ],
   "questions": [

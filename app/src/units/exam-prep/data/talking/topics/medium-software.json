@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "update",
+      "meaning": "a newer version of software"
+    },
+    {
+      "term": "install",
+      "meaning": "to put a program onto a computer or phone so it can be used"
+    },
+    {
+      "term": "feature",
+      "meaning": "an important part or function of software"
+    },
+    {
+      "term": "crash",
+      "meaning": "to stop working suddenly because of a problem"
+    },
+    {
+      "term": "useful",
+      "meaning": "helpful for doing something"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'software'?",
     "How often do you buy new software?",

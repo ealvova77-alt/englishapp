@@ -5,6 +5,32 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 14,
+  "sharedVocabularyIds": [
+    "science",
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "rocket",
+      "meaning": "a vehicle used for travelling into space"
+    },
+    {
+      "term": "astronaut",
+      "meaning": "a person trained to travel in space"
+    },
+    {
+      "term": "launch",
+      "meaning": "to send a rocket or spacecraft into space"
+    },
+    {
+      "term": "orbit",
+      "meaning": "the path of an object moving around a planet or star"
+    },
+    {
+      "term": "weightless",
+      "meaning": "having little or no feeling of body weight"
+    }
+  ],
   "questions": [
     "When do you think people will visit Mars? What do you think they will find there?",
     "Have you ever used a telescope? What did you look at?",

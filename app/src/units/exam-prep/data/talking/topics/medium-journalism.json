@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "reporter",
+      "meaning": "a person who gathers and writes news stories"
+    },
+    {
+      "term": "headline",
+      "meaning": "the title of a news story"
+    },
+    {
+      "term": "interview",
+      "meaning": "a conversation where questions are asked and answered"
+    },
+    {
+      "term": "investigate",
+      "meaning": "to examine something carefully to discover facts"
+    },
+    {
+      "term": "factual",
+      "meaning": "based on real facts"
+    }
+  ],
   "questions": [
     "What is journalism?",
     "What do you know or can guess about the history of journalism?",

@@ -1,4 +1,5 @@
 import useTalkingTopic from "../hooks/useTalkingTopic";
+import useTalkingSharedVocabulary from "../hooks/useTalkingSharedVocabulary";
 
 const PACK_GUIDES = {
   easy: {
@@ -43,8 +44,34 @@ function VocabularyCard({ item }) {
   );
 }
 
+function VocabularyGroup({ title, description, items }) {
+  if (!items.length) {
+    return null;
+  }
+
+  return (
+    <section className="flex flex-col gap-3">
+      <div>
+        <h4 className="text-sm font-semibold uppercase tracking-wide text-zinc-700">{title}</h4>
+        <p className="mt-1 text-sm leading-relaxed text-zinc-500">{description}</p>
+      </div>
+
+      <div className="grid gap-3">
+        {items.map((item) => (
+          <VocabularyCard key={item.key ?? item.term} item={item} />
+        ))}
+      </div>
+    </section>
+  );
+}
+
 export default function TalkingTopicScreen({ topicId }) {
   const { topic, isLoading, error } = useTalkingTopic(topicId);
+  const {
+    sharedSets,
+    isLoading: isSharedVocabularyLoading,
+    error: sharedVocabularyError,
+  } = useTalkingSharedVocabulary(topic?.sharedVocabularyIds ?? []);
 
   if (isLoading) {
     return (
@@ -72,7 +99,20 @@ export default function TalkingTopicScreen({ topicId }) {
   }
 
   const guide = PACK_GUIDES[topic.packId] ?? PACK_GUIDES.medium;
-  const vocabulary = Array.isArray(topic.vocabulary) ? topic.vocabulary : [];
+  const localVocabulary = Array.isArray(topic.vocabulary) ? topic.vocabulary : [];
+  const coreVocabulary = sharedSets.flatMap((set) =>
+    Array.isArray(set.items)
+      ? set.items.map((item) => ({
+          ...item,
+          key: `${set.id}-${item.term}`,
+        }))
+      : []
+  );
+  const topicVocabulary = localVocabulary.map((item) => ({
+    ...item,
+    key: `${topic.id}-${item.term}`,
+  }));
+  const vocabularyCount = coreVocabulary.length + topicVocabulary.length;
 
   return (
     <div className="flex flex-col gap-5 pt-4">
@@ -89,7 +129,7 @@ export default function TalkingTopicScreen({ topicId }) {
         </p>
       </div>
 
-      {vocabulary.length ? (
+      {vocabularyCount > 0 || isSharedVocabularyLoading || sharedVocabularyError ? (
         <details
           open
           className="rounded-3xl border border-zinc-200 bg-white p-6 shadow-sm"
@@ -98,18 +138,39 @@ export default function TalkingTopicScreen({ topicId }) {
             <div>
               <h3 className="text-lg font-semibold text-zinc-900">Useful vocabulary</h3>
               <p className="mt-1 text-sm leading-relaxed text-zinc-500">
-                Use 1-2 of these words or phrases to make your answer sound more natural.
+                Build answers from a small core set, then add topic-specific words when you need
+                more precision.
               </p>
             </div>
             <span className="rounded-full bg-blue-50 px-3 py-1 text-xs font-medium text-blue-700">
-              {vocabulary.length} items
+              {vocabularyCount} items
             </span>
           </summary>
 
-          <div className="mt-4 grid gap-3">
-            {vocabulary.map((item) => (
-              <VocabularyCard key={`${topic.id}-${item.term}`} item={item} />
-            ))}
+          <div className="mt-4 flex flex-col gap-5">
+            {isSharedVocabularyLoading ? (
+              <div className="rounded-2xl border border-zinc-200 bg-zinc-50 px-4 py-3 text-sm text-zinc-500">
+                Loading shared vocabulary...
+              </div>
+            ) : null}
+
+            {sharedVocabularyError ? (
+              <div className="rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-700">
+                Shared vocabulary could not be loaded for this topic.
+              </div>
+            ) : null}
+
+            <VocabularyGroup
+              title="Core vocabulary"
+              description="Reusable words and phrases from the broader category."
+              items={coreVocabulary}
+            />
+
+            <VocabularyGroup
+              title="Topic-specific vocabulary"
+              description="Extra words that fit this exact discussion topic."
+              items={topicVocabulary}
+            />
           </div>
         </details>
       ) : null}

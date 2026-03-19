@@ -5,6 +5,32 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 17,
+  "sharedVocabularyIds": [
+    "technology",
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "profile",
+      "meaning": "a personal page with information about someone online"
+    },
+    {
+      "term": "follower",
+      "meaning": "a person who chooses to receive another person's online posts"
+    },
+    {
+      "term": "post",
+      "meaning": "something put online for other people to see"
+    },
+    {
+      "term": "share",
+      "meaning": "to make something available to other people online"
+    },
+    {
+      "term": "public",
+      "meaning": "open for everyone to see"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the term 'social networking'?",
     "Hasn't social networking been a part of human society for tens of thousands of years?",

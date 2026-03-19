@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 2,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "nutrition",
+      "meaning": "the food and substances your body needs"
+    },
+    {
+      "term": "balance",
+      "meaning": "a healthy combination of different parts of life"
+    },
+    {
+      "term": "rest",
+      "meaning": "time spent relaxing or sleeping"
+    },
+    {
+      "term": "active",
+      "meaning": "doing a lot of movement or exercise"
+    },
+    {
+      "term": "healthy",
+      "meaning": "in good physical condition"
+    }
+  ],
   "questions": [
     "What is the most important thing to remember about healthy living?",
     "Is sleep important for healthy living? Why or why not?"

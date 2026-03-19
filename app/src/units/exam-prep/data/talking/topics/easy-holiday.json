@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 13,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "festival",
+      "meaning": "a special time of celebration"
+    },
+    {
+      "term": "tradition",
+      "meaning": "a custom followed by people over many years"
+    },
+    {
+      "term": "gift",
+      "meaning": "something given to another person"
+    },
+    {
+      "term": "decorate",
+      "meaning": "to make something look more attractive for a celebration"
+    },
+    {
+      "term": "joyful",
+      "meaning": "very happy and full of pleasure"
+    }
+  ],
   "questions": [
     "How is New Year's celebrated in your culture?",
     "What is your favorite holiday and why?",

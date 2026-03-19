@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "lesson",
+      "meaning": "a period of teaching in a class"
+    },
+    {
+      "term": "explain",
+      "meaning": "to make something clear by giving details"
+    },
+    {
+      "term": "homework",
+      "meaning": "schoolwork students do at home"
+    },
+    {
+      "term": "mark",
+      "meaning": "to check and score a student's work"
+    },
+    {
+      "term": "patient",
+      "meaning": "able to stay calm while helping someone learn"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the word 'teaching'?",
     "Do you think teaching is easy?",

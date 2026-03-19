@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 17,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "accent",
+      "meaning": "the way people pronounce words from a certain place or background"
+    },
+    {
+      "term": "translate",
+      "meaning": "to change words from one language into another"
+    },
+    {
+      "term": "memorize",
+      "meaning": "to learn something so you can remember it exactly"
+    },
+    {
+      "term": "native",
+      "meaning": "connected with the first language a person learns"
+    },
+    {
+      "term": "accurate",
+      "meaning": "correct and free from mistakes"
+    }
+  ],
   "questions": [
     "What languages have you studied? How well can you read, write and speak each of them?",
     "Have you ever had a friendship with someone who spoke a different language? What language(s) did you use to communicate?",

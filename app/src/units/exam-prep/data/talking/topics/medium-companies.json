@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "employee",
+      "meaning": "a person who works for a company"
+    },
+    {
+      "term": "office",
+      "meaning": "a place where people do company work"
+    },
+    {
+      "term": "brand",
+      "meaning": "the name or image of a company or product"
+    },
+    {
+      "term": "hire",
+      "meaning": "to give someone a job"
+    },
+    {
+      "term": "global",
+      "meaning": "connected with many countries around the world"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'company'?",
     "What are your favourite companies?",

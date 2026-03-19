@@ -5,6 +5,32 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology",
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "algorithm",
+      "meaning": "a set of rules a computer follows to solve a problem"
+    },
+    {
+      "term": "data",
+      "meaning": "facts or information used by a computer"
+    },
+    {
+      "term": "predict",
+      "meaning": "to say what is likely to happen in the future"
+    },
+    {
+      "term": "train",
+      "meaning": "to teach a computer system by giving it data"
+    },
+    {
+      "term": "autonomous",
+      "meaning": "able to act independently without direct human control"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the term 'artificial intelligence'?",
     "What is artificial intelligence?",

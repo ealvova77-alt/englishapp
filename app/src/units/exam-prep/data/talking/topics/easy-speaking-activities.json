@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "dialogue",
+      "meaning": "a conversation between two or more people"
+    },
+    {
+      "term": "role-play",
+      "meaning": "an activity where people act as different characters"
+    },
+    {
+      "term": "discuss",
+      "meaning": "to talk about something together"
+    },
+    {
+      "term": "pronounce",
+      "meaning": "to say a word in a particular way"
+    },
+    {
+      "term": "confident",
+      "meaning": "feeling sure about your ability to speak"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the term 'speaking activities'?",
     "Do you think speaking activities are important? Why?",

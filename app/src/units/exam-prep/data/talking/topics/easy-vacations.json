@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 14,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "suitcase",
+      "meaning": "a case used for carrying clothes while travelling"
+    },
+    {
+      "term": "booking",
+      "meaning": "an arrangement to reserve a room, seat, or trip"
+    },
+    {
+      "term": "tour",
+      "meaning": "a journey where you visit different places"
+    },
+    {
+      "term": "relax",
+      "meaning": "to rest and become less tired or worried"
+    },
+    {
+      "term": "sunny",
+      "meaning": "bright with a lot of sunshine"
+    }
+  ],
   "questions": [
     "Where did you go on your last holiday?",
     "Where are you planning on going for your next holiday?",

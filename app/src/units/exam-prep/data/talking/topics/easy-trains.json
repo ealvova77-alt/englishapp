@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "platform",
+      "meaning": "the place at a station where people get on a train"
+    },
+    {
+      "term": "carriage",
+      "meaning": "one section of a train for passengers"
+    },
+    {
+      "term": "railway",
+      "meaning": "the system of tracks used by trains"
+    },
+    {
+      "term": "delay",
+      "meaning": "a situation when something happens later than planned"
+    },
+    {
+      "term": "crowded",
+      "meaning": "full of many people"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'trains'?",
     "Is the train system in your country good?",

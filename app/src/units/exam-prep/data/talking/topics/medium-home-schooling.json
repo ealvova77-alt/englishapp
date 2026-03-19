@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "parent",
+      "meaning": "a mother or father"
+    },
+    {
+      "term": "lesson plan",
+      "meaning": "a plan for what will be taught in a lesson"
+    },
+    {
+      "term": "worksheet",
+      "meaning": "a paper with exercises for students to complete"
+    },
+    {
+      "term": "study",
+      "meaning": "to spend time learning about something"
+    },
+    {
+      "term": "flexible",
+      "meaning": "able to change easily when needed"
+    }
+  ],
   "questions": [
     "Do you think home schooling is a good idea?",
     "What are the advantages of hone schooling?",

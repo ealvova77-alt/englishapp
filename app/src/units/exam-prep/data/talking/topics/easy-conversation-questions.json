@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "answer",
+      "meaning": "a response to a question"
+    },
+    {
+      "term": "discuss",
+      "meaning": "to talk about something in detail"
+    },
+    {
+      "term": "opinion",
+      "meaning": "what a person thinks about something"
+    },
+    {
+      "term": "respond",
+      "meaning": "to say or do something as a reaction"
+    },
+    {
+      "term": "polite",
+      "meaning": "showing respect and good manners"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'conversation'?",
     "People say conversation is an art. Do you think so?",

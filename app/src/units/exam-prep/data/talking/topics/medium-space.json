@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 10,
+  "sharedVocabularyIds": [
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "galaxy",
+      "meaning": "a huge group of stars, gas, and dust in space"
+    },
+    {
+      "term": "planet",
+      "meaning": "a large object that moves around a star"
+    },
+    {
+      "term": "astronaut",
+      "meaning": "a person trained to travel in space"
+    },
+    {
+      "term": "explore",
+      "meaning": "to travel through a place to learn more about it"
+    },
+    {
+      "term": "vast",
+      "meaning": "extremely large"
+    }
+  ],
   "questions": [
     "What is the difference between 'astrology' and 'astronomy'?",
     "Are you interested in astrology, the signs of the zodiac, etc? What star sign are you? Do you read your horoscope regularly? Why/not?",

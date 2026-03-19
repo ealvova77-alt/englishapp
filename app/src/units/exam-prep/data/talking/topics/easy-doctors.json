@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "clinic",
+      "meaning": "a place where people go for medical treatment"
+    },
+    {
+      "term": "patient",
+      "meaning": "a person receiving medical care"
+    },
+    {
+      "term": "diagnose",
+      "meaning": "to identify a disease or health problem"
+    },
+    {
+      "term": "prescribe",
+      "meaning": "to officially tell someone to take medicine"
+    },
+    {
+      "term": "caring",
+      "meaning": "kind and helpful toward other people"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'doctor'?",
     "How often do you go to the doctor?",

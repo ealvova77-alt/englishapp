@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 18,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "clinic",
+      "meaning": "a place where people receive medical treatment"
+    },
+    {
+      "term": "nurse",
+      "meaning": "a medical worker who takes care of patients"
+    },
+    {
+      "term": "treatment",
+      "meaning": "care given to help someone get better"
+    },
+    {
+      "term": "system",
+      "meaning": "an organized way of doing something"
+    },
+    {
+      "term": "affordable",
+      "meaning": "not too expensive for most people"
+    }
+  ],
   "questions": [
     "How is the health care in your country?",
     "Is the health care in your country getting better or worse?",

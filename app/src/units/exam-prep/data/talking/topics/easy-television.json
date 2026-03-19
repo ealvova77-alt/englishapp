@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "channel",
+      "meaning": "a television station or service"
+    },
+    {
+      "term": "remote",
+      "meaning": "a device used to control a television from a distance"
+    },
+    {
+      "term": "series",
+      "meaning": "a set of television episodes with the same story or characters"
+    },
+    {
+      "term": "documentary",
+      "meaning": "a factual television program about real events or people"
+    },
+    {
+      "term": "entertaining",
+      "meaning": "interesting and enjoyable to watch"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the word 'television'?",
     "What are the good things and bad things about television?",

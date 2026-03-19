@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 12,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "route",
+      "meaning": "the way from one place to another"
+    },
+    {
+      "term": "vehicle",
+      "meaning": "something used for carrying people or goods"
+    },
+    {
+      "term": "traffic",
+      "meaning": "the movement of vehicles on roads"
+    },
+    {
+      "term": "commute",
+      "meaning": "to travel regularly between home and work or school"
+    },
+    {
+      "term": "public",
+      "meaning": "used by everyone, not by one person only"
+    }
+  ],
   "questions": [
     "Which is your favourite means of private transport?",
     "What skills do you need to practise to pass the driving test in your country? Did you pass your test first time? What do you find most difficult about driving?",

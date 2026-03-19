@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 16,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "herb",
+      "meaning": "a plant used for cooking or healing"
+    },
+    {
+      "term": "remedy",
+      "meaning": "a treatment used to help a health problem"
+    },
+    {
+      "term": "heal",
+      "meaning": "to make someone healthy again"
+    },
+    {
+      "term": "massage",
+      "meaning": "rubbing the body to help it relax or feel better"
+    },
+    {
+      "term": "natural",
+      "meaning": "coming from nature, not made by chemicals"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the term 'traditional medicine'?",
     "What is 'traditional' about traditional medicine?",

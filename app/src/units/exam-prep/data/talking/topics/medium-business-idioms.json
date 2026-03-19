@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "idiom",
+      "meaning": "a phrase with a meaning different from the exact words"
+    },
+    {
+      "term": "expression",
+      "meaning": "a word or phrase people often use"
+    },
+    {
+      "term": "literal",
+      "meaning": "following the exact meaning of each word"
+    },
+    {
+      "term": "memorize",
+      "meaning": "to learn something so you can remember it"
+    },
+    {
+      "term": "common",
+      "meaning": "used often by many people"
+    }
+  ],
   "questions": [
     "Why do business people focus on the bottom line so much?",
     "Do you break even at the end of the month, or are you in the red, or even in the black?",

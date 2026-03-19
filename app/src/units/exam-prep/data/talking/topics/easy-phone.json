@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 1,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "call",
+      "meaning": "to use a phone to speak to someone"
+    },
+    {
+      "term": "signal",
+      "meaning": "the system that allows phones to connect"
+    },
+    {
+      "term": "voicemail",
+      "meaning": "recorded messages left when someone cannot answer"
+    },
+    {
+      "term": "ring",
+      "meaning": "to make the sound of an incoming call"
+    },
+    {
+      "term": "convenient",
+      "meaning": "easy and useful to use"
+    }
+  ],
   "questions": [
     "Do you experience phantom vibration?"
   ],

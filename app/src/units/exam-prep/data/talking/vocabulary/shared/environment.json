@@ -1,0 +1,37 @@
+{
+  "id": "environment",
+  "title": "Environment essentials",
+  "description": "Useful words for climate, pollution, and sustainability topics.",
+  "items": [
+    {
+      "term": "protect the environment",
+      "meaning": "to take action that reduces harm to nature",
+      "example": "Recycling is only one small way to protect the environment."
+    },
+    {
+      "term": "reduce waste",
+      "meaning": "to produce less unnecessary trash",
+      "example": "People can reduce waste by reusing everyday items."
+    },
+    {
+      "term": "natural resources",
+      "meaning": "materials from nature such as water, forests, and fuel",
+      "example": "We should use natural resources more carefully."
+    },
+    {
+      "term": "environmental damage",
+      "meaning": "harm done to nature and ecosystems",
+      "example": "Air pollution causes serious environmental damage."
+    },
+    {
+      "term": "sustainable solution",
+      "meaning": "a long-term solution that does not harm the future",
+      "example": "Public transport can be a more sustainable solution than private cars."
+    },
+    {
+      "term": "raise awareness",
+      "meaning": "to help more people understand a problem",
+      "example": "Schools should raise awareness about climate issues."
+    }
+  ]
+}

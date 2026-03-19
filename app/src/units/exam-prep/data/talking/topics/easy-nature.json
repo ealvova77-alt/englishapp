@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "forest",
+      "meaning": "a large area covered with trees"
+    },
+    {
+      "term": "river",
+      "meaning": "a long natural flow of water"
+    },
+    {
+      "term": "wildlife",
+      "meaning": "animals living in nature"
+    },
+    {
+      "term": "peaceful",
+      "meaning": "quiet and calm"
+    },
+    {
+      "term": "natural",
+      "meaning": "existing in nature and not made by people"
+    }
+  ],
   "questions": [
     "What things do you think about when you hear the word 'nature'?",
     "How important is nature to you? Why?",

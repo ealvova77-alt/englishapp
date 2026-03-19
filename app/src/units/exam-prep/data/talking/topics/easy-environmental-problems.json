@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "pollution",
+      "meaning": "damage caused by harmful substances in the environment"
+    },
+    {
+      "term": "waste",
+      "meaning": "materials that are thrown away"
+    },
+    {
+      "term": "litter",
+      "meaning": "rubbish left in public places"
+    },
+    {
+      "term": "recycle",
+      "meaning": "to use materials again instead of throwing them away"
+    },
+    {
+      "term": "harmful",
+      "meaning": "causing damage or danger"
+    }
+  ],
   "questions": [
     "What do you think when you hear the words 'environmental problem'?",
     "Do you add to the environment's problems in your daily life?",

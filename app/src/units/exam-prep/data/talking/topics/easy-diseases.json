@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 3,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "cure",
+      "meaning": "something that makes a disease go away"
+    },
+    {
+      "term": "treatment",
+      "meaning": "medical care given to fight an illness"
+    },
+    {
+      "term": "epidemic",
+      "meaning": "a disease that spreads quickly among many people"
+    },
+    {
+      "term": "bacteria",
+      "meaning": "very small living organisms, some of which cause disease"
+    },
+    {
+      "term": "contagious",
+      "meaning": "able to spread from one person to another"
+    }
+  ],
   "questions": [
     "What dangerous diseases are people scared of nowadays?",
     "Should we be better-informed about the dangers of these diseases?",

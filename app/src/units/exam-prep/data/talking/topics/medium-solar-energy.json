@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "panel",
+      "meaning": "a flat piece that collects energy from sunlight"
+    },
+    {
+      "term": "sunlight",
+      "meaning": "light that comes from the sun"
+    },
+    {
+      "term": "battery",
+      "meaning": "a device that stores energy"
+    },
+    {
+      "term": "generate",
+      "meaning": "to produce energy or power"
+    },
+    {
+      "term": "renewable",
+      "meaning": "able to be replaced naturally and used again"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the term 'solar energy'?",
     "Are you interested in solar energy?",

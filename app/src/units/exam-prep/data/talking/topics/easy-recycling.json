@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "bin",
+      "meaning": "a container for putting rubbish or used things into"
+    },
+    {
+      "term": "paper",
+      "meaning": "material made from wood that can often be recycled"
+    },
+    {
+      "term": "plastic",
+      "meaning": "a light material used to make many bottles and containers"
+    },
+    {
+      "term": "sort",
+      "meaning": "to separate things into different groups"
+    },
+    {
+      "term": "reusable",
+      "meaning": "able to be used again"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'recycling'?",
     "How does recycling benefit the planet?",

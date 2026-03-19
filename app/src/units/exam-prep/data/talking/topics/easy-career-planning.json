@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 10,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "goal",
+      "meaning": "something you want to achieve in the future"
+    },
+    {
+      "term": "skill",
+      "meaning": "an ability developed through practice or learning"
+    },
+    {
+      "term": "salary",
+      "meaning": "money paid regularly for a job"
+    },
+    {
+      "term": "apply",
+      "meaning": "to ask formally for a job or course"
+    },
+    {
+      "term": "ambitious",
+      "meaning": "determined to be successful"
+    }
+  ],
   "questions": [
     "What kind of job do you think you will get after college?",
     "Which do you think is more important: money or job security in a job and why?",

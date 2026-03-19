@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 18,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "profession",
+      "meaning": "a type of job that needs special training"
+    },
+    {
+      "term": "employer",
+      "meaning": "a person or company that gives people work"
+    },
+    {
+      "term": "promotion",
+      "meaning": "a move to a higher position at work"
+    },
+    {
+      "term": "resign",
+      "meaning": "to leave a job officially"
+    },
+    {
+      "term": "experienced",
+      "meaning": "having knowledge from doing something for a long time"
+    }
+  ],
   "questions": [
     "It is impossible to have a successful career and a happy family life. You have to choose one or the other. Do you agree?",
     "How important is it to have a good (well-paid/secure) job?",

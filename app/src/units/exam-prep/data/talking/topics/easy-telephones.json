@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "receiver",
+      "meaning": "the part of a telephone you hold to your ear"
+    },
+    {
+      "term": "dial",
+      "meaning": "to enter a phone number"
+    },
+    {
+      "term": "caller",
+      "meaning": "the person who makes a phone call"
+    },
+    {
+      "term": "landline",
+      "meaning": "a telephone connected by wires in a building"
+    },
+    {
+      "term": "answer",
+      "meaning": "to reply to a phone call"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'telephone'?",
     "How important is the telephone to you?",

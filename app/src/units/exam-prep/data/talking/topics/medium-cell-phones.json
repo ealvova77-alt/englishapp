@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "battery",
+      "meaning": "the part of a phone that stores power"
+    },
+    {
+      "term": "text",
+      "meaning": "a short written message sent by phone"
+    },
+    {
+      "term": "charger",
+      "meaning": "a device used to put power into a phone"
+    },
+    {
+      "term": "swipe",
+      "meaning": "to move your finger across a screen"
+    },
+    {
+      "term": "portable",
+      "meaning": "easy to carry and use in different places"
+    }
+  ],
   "questions": [
     "What was life like before cell phones?",
     "What cell phone functions are important for you?",

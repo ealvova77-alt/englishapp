@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Ideas, Ethics & Debate",
   "questionCount": 14,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "prescription",
+      "meaning": "a doctor's written order for medicine"
+    },
+    {
+      "term": "dose",
+      "meaning": "the amount of medicine taken at one time"
+    },
+    {
+      "term": "addiction",
+      "meaning": "a strong need to keep using a drug or doing something"
+    },
+    {
+      "term": "treat",
+      "meaning": "to give medical care to make someone better"
+    },
+    {
+      "term": "effective",
+      "meaning": "working well and producing the result you want"
+    }
+  ],
   "questions": [
     "Do most people in your country prefer traditional medicine, modern medicine, or a combination of the two?",
     "Do you think there are any legal drugs that should be illegal? What about illegal ones that should be legal?",

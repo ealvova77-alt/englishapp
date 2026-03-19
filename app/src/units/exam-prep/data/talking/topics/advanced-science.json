@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 18,
+  "sharedVocabularyIds": [
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "theory",
+      "meaning": "a set of ideas used to explain something"
+    },
+    {
+      "term": "laboratory",
+      "meaning": "a room where scientific tests and experiments are done"
+    },
+    {
+      "term": "discover",
+      "meaning": "to find something for the first time"
+    },
+    {
+      "term": "observe",
+      "meaning": "to watch something carefully in order to learn about it"
+    },
+    {
+      "term": "scientific",
+      "meaning": "related to science and careful study"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the word 'science'?",
     "How important is science?",

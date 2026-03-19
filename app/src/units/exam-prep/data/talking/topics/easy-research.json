@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "data",
+      "meaning": "facts or information collected for study"
+    },
+    {
+      "term": "survey",
+      "meaning": "a set of questions asked to many people"
+    },
+    {
+      "term": "experiment",
+      "meaning": "a test done to learn something new"
+    },
+    {
+      "term": "measure",
+      "meaning": "to find the size, amount, or level of something"
+    },
+    {
+      "term": "accurate",
+      "meaning": "correct and exact"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'research'?",
     "What would you like to research?",

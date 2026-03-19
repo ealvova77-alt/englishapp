@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 5,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "target",
+      "meaning": "a result or goal you want to reach"
+    },
+    {
+      "term": "budget",
+      "meaning": "a plan for how money will be spent"
+    },
+    {
+      "term": "invest",
+      "meaning": "to put money into something to get a future return"
+    },
+    {
+      "term": "expand",
+      "meaning": "to make a business grow larger"
+    },
+    {
+      "term": "efficient",
+      "meaning": "working well without wasting time or money"
+    }
+  ],
   "questions": [
     "Why do companies need a business strategy?",
     "Do individual people need business strategies? Why or why not?",

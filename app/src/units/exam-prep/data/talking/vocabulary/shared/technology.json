@@ -1,0 +1,37 @@
+{
+  "id": "technology",
+  "title": "Technology essentials",
+  "description": "Useful words for science, innovation, and the impact of new technology.",
+  "items": [
+    {
+      "term": "drive innovation",
+      "meaning": "to cause or encourage new ideas and inventions",
+      "example": "Competition between companies can drive innovation."
+    },
+    {
+      "term": "scientific research",
+      "meaning": "careful study done to discover new facts",
+      "example": "Scientific research often requires long-term funding."
+    },
+    {
+      "term": "solve real-world problems",
+      "meaning": "to fix problems that affect everyday life",
+      "example": "Technology should help solve real-world problems, not create more of them."
+    },
+    {
+      "term": "have a social impact",
+      "meaning": "to affect people and society",
+      "example": "Social media has had a huge social impact in the last decade."
+    },
+    {
+      "term": "use technology responsibly",
+      "meaning": "to use technology in a careful and ethical way",
+      "example": "Students need to learn how to use technology responsibly."
+    },
+    {
+      "term": "keep pace with change",
+      "meaning": "to stay updated as new things develop quickly",
+      "example": "Older institutions sometimes struggle to keep pace with change."
+    }
+  ]
+}

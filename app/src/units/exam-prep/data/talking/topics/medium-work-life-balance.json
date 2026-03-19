@@ -5,6 +5,32 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 11,
+  "sharedVocabularyIds": [
+    "work",
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "schedule",
+      "meaning": "a plan that shows when things will happen"
+    },
+    {
+      "term": "overtime",
+      "meaning": "time spent working beyond normal hours"
+    },
+    {
+      "term": "rest",
+      "meaning": "time spent relaxing and recovering energy"
+    },
+    {
+      "term": "stress",
+      "meaning": "worry or pressure caused by difficult situations"
+    },
+    {
+      "term": "balanced",
+      "meaning": "kept in a healthy and fair proportion"
+    }
+  ],
   "questions": [
     "Do you work to live or live to work? Do you find your job stressful?",
     "How does your job compare with 10 years ago? Is it more stressful or less stressful today?",

@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "virus",
+      "meaning": "a very small living thing that can cause illness"
+    },
+    {
+      "term": "symptom",
+      "meaning": "a sign that shows someone is ill"
+    },
+    {
+      "term": "infection",
+      "meaning": "an illness caused by harmful bacteria or viruses"
+    },
+    {
+      "term": "recover",
+      "meaning": "to become healthy again after illness"
+    },
+    {
+      "term": "serious",
+      "meaning": "dangerous or important enough to need attention"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'disease'?",
     "Do you worry about diseases?",

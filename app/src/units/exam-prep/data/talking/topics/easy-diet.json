@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "nutrition",
+      "meaning": "the food the body needs to stay healthy"
+    },
+    {
+      "term": "calories",
+      "meaning": "units that measure the energy in food"
+    },
+    {
+      "term": "protein",
+      "meaning": "a nutrient needed for growth and strength"
+    },
+    {
+      "term": "balanced",
+      "meaning": "including the right amount of different foods"
+    },
+    {
+      "term": "healthy",
+      "meaning": "good for your body and mind"
+    }
+  ],
   "questions": [
     "Can you explain the difference between a diet, diet and to diet?",
     "Can you tell me about your regular diet?",

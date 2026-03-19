@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "assignment",
+      "meaning": "a piece of work given to a student"
+    },
+    {
+      "term": "worksheet",
+      "meaning": "a paper with tasks to complete"
+    },
+    {
+      "term": "revise",
+      "meaning": "to study something again in order to remember it better"
+    },
+    {
+      "term": "complete",
+      "meaning": "to finish doing something"
+    },
+    {
+      "term": "careful",
+      "meaning": "giving close attention and avoiding mistakes"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'homework'?",
     "What do you think when your teacher says you're going to have some homework?",

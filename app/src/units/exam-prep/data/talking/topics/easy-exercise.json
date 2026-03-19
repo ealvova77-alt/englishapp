@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "stretch",
+      "meaning": "to move your body to make muscles longer and looser"
+    },
+    {
+      "term": "jogging",
+      "meaning": "running slowly for exercise"
+    },
+    {
+      "term": "fitness",
+      "meaning": "the condition of being healthy and physically strong"
+    },
+    {
+      "term": "energetic",
+      "meaning": "full of energy and activity"
+    },
+    {
+      "term": "routine",
+      "meaning": "something you do regularly in the same way"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'exercise'?",
     "Why is exercise so important?",

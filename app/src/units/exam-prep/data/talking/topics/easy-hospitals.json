@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "ward",
+      "meaning": "a section of a hospital where patients stay"
+    },
+    {
+      "term": "surgery",
+      "meaning": "a medical operation performed by a doctor"
+    },
+    {
+      "term": "ambulance",
+      "meaning": "a vehicle that takes sick or injured people to hospital"
+    },
+    {
+      "term": "patient",
+      "meaning": "a person receiving medical care"
+    },
+    {
+      "term": "emergency",
+      "meaning": "a serious situation needing immediate help"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'hospital'?",
     "What are your experiences of hospitals?",

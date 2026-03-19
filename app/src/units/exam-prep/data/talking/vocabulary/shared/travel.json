@@ -1,0 +1,37 @@
+{
+  "id": "travel",
+  "title": "Travel essentials",
+  "description": "Useful words for transport, flights, and travel experiences.",
+  "items": [
+    {
+      "term": "book a ticket",
+      "meaning": "to reserve a seat for a trip",
+      "example": "I usually book a ticket online a few weeks before I travel."
+    },
+    {
+      "term": "departure",
+      "meaning": "the time or act of leaving",
+      "example": "I always arrive early before departure."
+    },
+    {
+      "term": "arrival",
+      "meaning": "the time or act of reaching a destination",
+      "example": "The arrival time changed because of bad weather."
+    },
+    {
+      "term": "carry-on bag",
+      "meaning": "a small bag you take with you onto the plane",
+      "example": "I keep my passport and charger in my carry-on bag."
+    },
+    {
+      "term": "travel comfortably",
+      "meaning": "to have an easy and pleasant trip",
+      "example": "I prefer to travel comfortably, even if it costs a bit more."
+    },
+    {
+      "term": "be on time",
+      "meaning": "to happen or arrive at the planned time",
+      "example": "Public transport is much less stressful when it is on time."
+    }
+  ]
+}

@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 18,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "player",
+      "meaning": "a person who plays a game"
+    },
+    {
+      "term": "level",
+      "meaning": "one stage of a game"
+    },
+    {
+      "term": "controller",
+      "meaning": "a device used to control a game"
+    },
+    {
+      "term": "compete",
+      "meaning": "to try to win against others"
+    },
+    {
+      "term": "virtual",
+      "meaning": "created by a computer, not physically real"
+    }
+  ],
   "questions": [
     "Do you own a computer?",
     "What type of computer is it?",

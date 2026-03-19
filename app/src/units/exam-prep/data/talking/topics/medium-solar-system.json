@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "science"
+  ],
+  "vocabulary": [
+    {
+      "term": "planet",
+      "meaning": "a large object that moves around a star"
+    },
+    {
+      "term": "orbit",
+      "meaning": "the curved path an object follows around another object in space"
+    },
+    {
+      "term": "moon",
+      "meaning": "a natural object that moves around a planet"
+    },
+    {
+      "term": "telescope",
+      "meaning": "an instrument used to look at far objects in space"
+    },
+    {
+      "term": "distant",
+      "meaning": "far away in space or time"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the term 'solar system'?",
     "What is your place in the solar system?",

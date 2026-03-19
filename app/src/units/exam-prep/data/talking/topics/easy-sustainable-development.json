@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "resource",
+      "meaning": "something useful such as water, land, or energy"
+    },
+    {
+      "term": "waste",
+      "meaning": "materials that are not needed and are thrown away"
+    },
+    {
+      "term": "balance",
+      "meaning": "a state where different needs are kept in a fair way"
+    },
+    {
+      "term": "conserve",
+      "meaning": "to protect something and use it carefully"
+    },
+    {
+      "term": "sustainable",
+      "meaning": "able to continue for a long time without causing harm"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the term 'sustainable development'?",
     "What is sustainable development?",

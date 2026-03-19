@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "device",
+      "meaning": "a piece of electronic equipment"
+    },
+    {
+      "term": "internet",
+      "meaning": "the global computer network used for information and communication"
+    },
+    {
+      "term": "software",
+      "meaning": "programs used by a computer or phone"
+    },
+    {
+      "term": "innovate",
+      "meaning": "to introduce new ideas or technology"
+    },
+    {
+      "term": "digital",
+      "meaning": "using computer technology or electronic systems"
+    }
+  ],
   "questions": [
     "What is the digital revolution?",
     "What is so revolutionary about it?",

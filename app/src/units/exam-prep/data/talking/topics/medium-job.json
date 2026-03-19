@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 3,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "salary",
+      "meaning": "money paid regularly for doing a job"
+    },
+    {
+      "term": "colleague",
+      "meaning": "a person you work with"
+    },
+    {
+      "term": "task",
+      "meaning": "a piece of work that needs to be done"
+    },
+    {
+      "term": "apply",
+      "meaning": "to make a formal request for a job"
+    },
+    {
+      "term": "reliable",
+      "meaning": "able to be trusted to do good work"
+    }
+  ],
   "questions": [
     "What is your job? How long have you been doing it? Do you like it? What do you like/dislike about it? Do you plan to keep on doing it?",
     "What do you think of your colleagues at work?",

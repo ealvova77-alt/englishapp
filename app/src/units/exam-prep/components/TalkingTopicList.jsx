@@ -25,9 +25,6 @@ function PackCard({ pack, active, onClick }) {
         <span className="rounded-full bg-white px-2.5 py-1">
           {pack.questionCount} questions
         </span>
-        <span className="rounded-full bg-white px-2.5 py-1">
-          Imported from PDF
-        </span>
       </div>
     </button>
   );

@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "pension",
+      "meaning": "money paid regularly after a person stops working"
+    },
+    {
+      "term": "savings",
+      "meaning": "money kept for future use"
+    },
+    {
+      "term": "retire",
+      "meaning": "to stop working because of age"
+    },
+    {
+      "term": "hobby",
+      "meaning": "an activity you do for pleasure in your free time"
+    },
+    {
+      "term": "retired",
+      "meaning": "no longer working because of age"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'retirement'?",
     "Are you looking forward to your retirement?",

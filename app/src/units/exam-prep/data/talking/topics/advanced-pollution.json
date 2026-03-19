@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "smog",
+      "meaning": "dirty air made from smoke and pollution"
+    },
+    {
+      "term": "waste",
+      "meaning": "materials that are not needed and are thrown away"
+    },
+    {
+      "term": "factory",
+      "meaning": "a building where goods are made"
+    },
+    {
+      "term": "contaminate",
+      "meaning": "to make something dirty or unsafe"
+    },
+    {
+      "term": "toxic",
+      "meaning": "poisonous and harmful"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'pollution'?",
     "What different forms of pollution do you know of?",

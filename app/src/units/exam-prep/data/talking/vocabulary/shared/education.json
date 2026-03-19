@@ -1,0 +1,37 @@
+{
+  "id": "education",
+  "title": "Education essentials",
+  "description": "Useful words for school, university, and academic life.",
+  "items": [
+    {
+      "term": "gain knowledge",
+      "meaning": "to learn and build understanding",
+      "example": "Students go to university to gain knowledge and practical skills."
+    },
+    {
+      "term": "develop skills",
+      "meaning": "to improve useful abilities through study or practice",
+      "example": "Group projects help students develop skills such as teamwork."
+    },
+    {
+      "term": "attend lectures",
+      "meaning": "to go to formal classes at a college or university",
+      "example": "Some students attend lectures in person, while others watch online."
+    },
+    {
+      "term": "meet deadlines",
+      "meaning": "to finish work before the required time",
+      "example": "Time management is important if you want to meet deadlines."
+    },
+    {
+      "term": "tuition fees",
+      "meaning": "money paid for education at a school or university",
+      "example": "Tuition fees can be a serious burden for some families."
+    },
+    {
+      "term": "higher education",
+      "meaning": "education at college or university level",
+      "example": "Higher education can open the door to more career options."
+    }
+  ]
+}

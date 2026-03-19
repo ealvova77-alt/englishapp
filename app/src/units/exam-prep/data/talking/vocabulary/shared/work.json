@@ -1,0 +1,37 @@
+{
+  "id": "work",
+  "title": "Work essentials",
+  "description": "Useful words for jobs, careers, business, and professional life.",
+  "items": [
+    {
+      "term": "build a career",
+      "meaning": "to develop long-term professional experience and progress",
+      "example": "Many young people want to build a career in a field they enjoy."
+    },
+    {
+      "term": "gain experience",
+      "meaning": "to learn practical skills by doing a job",
+      "example": "Internships help students gain experience before graduating."
+    },
+    {
+      "term": "job satisfaction",
+      "meaning": "the feeling of being happy with your work",
+      "example": "Salary matters, but job satisfaction matters too."
+    },
+    {
+      "term": "work under pressure",
+      "meaning": "to do your job well in stressful situations",
+      "example": "Customer service staff often have to work under pressure."
+    },
+    {
+      "term": "professional skills",
+      "meaning": "abilities needed to succeed at work",
+      "example": "Communication is one of the most useful professional skills."
+    },
+    {
+      "term": "career opportunities",
+      "meaning": "chances to get better jobs or grow professionally",
+      "example": "Big cities usually offer more career opportunities."
+    }
+  ]
+}

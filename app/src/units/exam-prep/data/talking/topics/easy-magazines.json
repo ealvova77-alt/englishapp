@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "article",
+      "meaning": "a piece of writing in a magazine or newspaper"
+    },
+    {
+      "term": "editor",
+      "meaning": "a person who prepares writing for publication"
+    },
+    {
+      "term": "cover",
+      "meaning": "the front page of a magazine"
+    },
+    {
+      "term": "publish",
+      "meaning": "to produce something for people to read"
+    },
+    {
+      "term": "glossy",
+      "meaning": "smooth, shiny, and attractive in appearance"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'magazines'?",
     "What were the first magazines you started reading?",

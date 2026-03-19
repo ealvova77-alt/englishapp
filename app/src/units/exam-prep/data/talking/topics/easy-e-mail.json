@@ -5,6 +5,32 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication",
+    "technology"
+  ],
+  "vocabulary": [
+    {
+      "term": "inbox",
+      "meaning": "the place where received emails appear"
+    },
+    {
+      "term": "attachment",
+      "meaning": "a file sent together with an email"
+    },
+    {
+      "term": "reply",
+      "meaning": "to answer a message"
+    },
+    {
+      "term": "formal",
+      "meaning": "polite and suitable for official communication"
+    },
+    {
+      "term": "delete",
+      "meaning": "to remove a message from your device"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'e-mail'?",
     "How important is e-mail to you?",

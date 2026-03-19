@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "backpack",
+      "meaning": "a bag carried on your back during a trip"
+    },
+    {
+      "term": "hostel",
+      "meaning": "cheap accommodation often used by travellers"
+    },
+    {
+      "term": "trail",
+      "meaning": "a path used for walking in nature"
+    },
+    {
+      "term": "camp",
+      "meaning": "to stay outdoors in a tent"
+    },
+    {
+      "term": "adventurous",
+      "meaning": "willing to try new and exciting experiences"
+    }
+  ],
   "questions": [
     "Have you ever been backpacking?",
     "What are the advantages of backpacking?",

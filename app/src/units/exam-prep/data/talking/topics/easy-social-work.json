@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "work"
+  ],
+  "vocabulary": [
+    {
+      "term": "client",
+      "meaning": "a person who receives help or services"
+    },
+    {
+      "term": "support",
+      "meaning": "help or care given to someone"
+    },
+    {
+      "term": "shelter",
+      "meaning": "a safe place for people to stay"
+    },
+    {
+      "term": "protect",
+      "meaning": "to keep someone safe from harm"
+    },
+    {
+      "term": "local",
+      "meaning": "belonging to a particular area or community"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the phrase \"social work'?",
     "Is social work a key part of your country's society?",

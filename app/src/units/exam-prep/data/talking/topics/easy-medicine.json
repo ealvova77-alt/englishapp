@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "tablet",
+      "meaning": "a small solid piece of medicine"
+    },
+    {
+      "term": "injection",
+      "meaning": "medicine put into the body with a needle"
+    },
+    {
+      "term": "pharmacy",
+      "meaning": "a shop or place where medicine is prepared and sold"
+    },
+    {
+      "term": "heal",
+      "meaning": "to become healthy again or make someone healthy again"
+    },
+    {
+      "term": "medical",
+      "meaning": "related to medicine or treatment"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'medicine'?",
     "Do you hate taking medicine?",

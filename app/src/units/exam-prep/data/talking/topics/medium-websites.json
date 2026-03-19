@@ -5,6 +5,32 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "technology",
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "webpage",
+      "meaning": "one page on a website"
+    },
+    {
+      "term": "link",
+      "meaning": "a connection you click to open another page"
+    },
+    {
+      "term": "upload",
+      "meaning": "to put a file onto the Internet"
+    },
+    {
+      "term": "search",
+      "meaning": "to look for information online"
+    },
+    {
+      "term": "online",
+      "meaning": "connected to or available through the Internet"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'website'?",
     "Do you think websites are interesting?",

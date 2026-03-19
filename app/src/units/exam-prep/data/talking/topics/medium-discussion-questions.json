@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "topic",
+      "meaning": "the subject people are talking about"
+    },
+    {
+      "term": "opinion",
+      "meaning": "what a person thinks or believes"
+    },
+    {
+      "term": "answer",
+      "meaning": "something said or written in reply"
+    },
+    {
+      "term": "debate",
+      "meaning": "a serious discussion where people express different views"
+    },
+    {
+      "term": "open-ended",
+      "meaning": "allowing different answers instead of only one"
+    }
+  ],
   "questions": [
     "What springs to mind when you hear the word 'discussion'?",
     "What's a healthy discussion?",

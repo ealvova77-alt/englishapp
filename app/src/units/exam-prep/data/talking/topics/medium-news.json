@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "Society, Media & The World",
   "questionCount": 24,
+  "sharedVocabularyIds": [
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "headline",
+      "meaning": "the title of a news story"
+    },
+    {
+      "term": "report",
+      "meaning": "a story that gives information about an event"
+    },
+    {
+      "term": "update",
+      "meaning": "new information about a situation"
+    },
+    {
+      "term": "event",
+      "meaning": "something that happens"
+    },
+    {
+      "term": "recent",
+      "meaning": "happening not long ago"
+    }
+  ],
   "questions": [
     "What images spring to mind when you hear the word 'news'?",
     "Do you think news is usually happy or sad?",

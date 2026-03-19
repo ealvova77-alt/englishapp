@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 4,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "vocabulary",
+      "meaning": "all the words a person knows or uses"
+    },
+    {
+      "term": "speaking",
+      "meaning": "the skill of using your voice to communicate"
+    },
+    {
+      "term": "listening",
+      "meaning": "the skill of understanding spoken language"
+    },
+    {
+      "term": "improve",
+      "meaning": "to become better at something"
+    },
+    {
+      "term": "fluent",
+      "meaning": "able to speak a language easily and well"
+    }
+  ],
   "questions": [
     "What's the easiest/hardest thing about learning English?",
     "How do you usually study? Do you have any special methods or techniques that you use?",

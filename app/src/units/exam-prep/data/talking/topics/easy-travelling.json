@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 24,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "passport",
+      "meaning": "an official document used for international travel"
+    },
+    {
+      "term": "tourist",
+      "meaning": "a person visiting a place for pleasure"
+    },
+    {
+      "term": "journey",
+      "meaning": "the act of travelling from one place to another"
+    },
+    {
+      "term": "explore",
+      "meaning": "to travel around a place and discover it"
+    },
+    {
+      "term": "foreign",
+      "meaning": "belonging to another country"
+    }
+  ],
   "questions": [
     "Where have been on vacation?",
     "Have you ever visited a different country? Where did you go?",

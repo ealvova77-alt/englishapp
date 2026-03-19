@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "knowledge",
+      "meaning": "information and understanding gained through study or experience"
+    },
+    {
+      "term": "study",
+      "meaning": "to spend time learning about something"
+    },
+    {
+      "term": "understand",
+      "meaning": "to know the meaning of something clearly"
+    },
+    {
+      "term": "curious",
+      "meaning": "wanting to know or learn more"
+    },
+    {
+      "term": "progress",
+      "meaning": "improvement or development over time"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'learning'?",
     "What do you know about learning?",

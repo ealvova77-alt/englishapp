@@ -5,6 +5,9 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 6,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
   "vocabulary": [
     {
       "term": "speak with confidence",

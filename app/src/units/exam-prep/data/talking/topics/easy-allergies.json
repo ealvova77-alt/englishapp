@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "allergy",
+      "meaning": "a bad reaction to food, medicine, dust, or something in the environment"
+    },
+    {
+      "term": "pollen",
+      "meaning": "fine powder from flowers that can cause allergies"
+    },
+    {
+      "term": "sneeze",
+      "meaning": "to suddenly push air out through your nose and mouth"
+    },
+    {
+      "term": "rash",
+      "meaning": "red or irritated marks on the skin"
+    },
+    {
+      "term": "allergic",
+      "meaning": "having a negative physical reaction to something"
+    }
+  ],
   "questions": [
     "Do you have any allergies?",
     "What do you think would be the worst thing to be allergic to?",

@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 19,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "stress",
+      "meaning": "worry or pressure caused by difficult situations"
+    },
+    {
+      "term": "anxiety",
+      "meaning": "a strong feeling of fear or worry"
+    },
+    {
+      "term": "therapy",
+      "meaning": "treatment that helps with mental or emotional problems"
+    },
+    {
+      "term": "calm",
+      "meaning": "peaceful and not worried or excited"
+    },
+    {
+      "term": "emotional",
+      "meaning": "connected with feelings"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the term 'mental health'?",
     "What do you think your mental health will be like in the future?",

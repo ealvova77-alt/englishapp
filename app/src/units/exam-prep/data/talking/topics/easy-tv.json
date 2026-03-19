@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 21,
+  "sharedVocabularyIds": [
+    "media"
+  ],
+  "vocabulary": [
+    {
+      "term": "channel",
+      "meaning": "a television station or service"
+    },
+    {
+      "term": "episode",
+      "meaning": "one part of a television series"
+    },
+    {
+      "term": "screen",
+      "meaning": "the flat surface where television pictures appear"
+    },
+    {
+      "term": "remote",
+      "meaning": "a device used to control a television from a distance"
+    },
+    {
+      "term": "popular",
+      "meaning": "liked by many people"
+    }
+  ],
   "questions": [
     "Do you watch TV often?",
     "How long do you watch TV for each day?",

@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "School, Work & Practical Life",
   "questionCount": 7,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "fluency",
+      "meaning": "the ability to speak a language smoothly and easily"
+    },
+    {
+      "term": "pronunciation",
+      "meaning": "the way words are spoken"
+    },
+    {
+      "term": "grammar",
+      "meaning": "the rules for forming sentences in a language"
+    },
+    {
+      "term": "practice",
+      "meaning": "repeated activity done to improve a skill"
+    },
+    {
+      "term": "bilingual",
+      "meaning": "able to use two languages"
+    }
+  ],
   "questions": [
     "In what ways are you a good or bad language learner?",
     "How many languages can you speak and how well can you speak them?",

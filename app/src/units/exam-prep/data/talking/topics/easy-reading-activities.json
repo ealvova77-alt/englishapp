@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "text",
+      "meaning": "written words that are read"
+    },
+    {
+      "term": "paragraph",
+      "meaning": "a section of writing made up of several sentences"
+    },
+    {
+      "term": "skim",
+      "meaning": "to read quickly to get the main idea"
+    },
+    {
+      "term": "understand",
+      "meaning": "to know the meaning of what you read"
+    },
+    {
+      "term": "silent",
+      "meaning": "without speaking aloud"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the term 'reading activity'?",
     "What do you think when your teacher says you're going to do some reading?",

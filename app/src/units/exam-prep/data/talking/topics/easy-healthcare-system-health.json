@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 5,
+  "sharedVocabularyIds": [
+    "health"
+  ],
+  "vocabulary": [
+    {
+      "term": "insurance",
+      "meaning": "financial protection that helps pay for treatment"
+    },
+    {
+      "term": "treatment",
+      "meaning": "medical care given to help a patient"
+    },
+    {
+      "term": "appointment",
+      "meaning": "an arranged time to see a doctor"
+    },
+    {
+      "term": "emergency",
+      "meaning": "a serious situation needing immediate help"
+    },
+    {
+      "term": "public",
+      "meaning": "provided by the government for everyone"
+    }
+  ],
   "questions": [
     "How does your healthcare system work? Who pays the doctors? What percentage does the patient pay for care? What percentage does the government or insurance pay?",
     "Is your healthcare system fair? Do smokers or heavy drinkers pay more for care? Do old and young people pay equally for healthcare? Should everyone pay an equal amount for healthcare?",

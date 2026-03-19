@@ -5,6 +5,31 @@
   "packTitle": "Advanced",
   "theme": "Society, Media & The World",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "environment"
+  ],
+  "vocabulary": [
+    {
+      "term": "temperature",
+      "meaning": "how hot or cold something is"
+    },
+    {
+      "term": "carbon",
+      "meaning": "an element found in gases linked to global warming"
+    },
+    {
+      "term": "ice cap",
+      "meaning": "a large area of ice covering land near the poles"
+    },
+    {
+      "term": "melt",
+      "meaning": "to change from solid ice into water"
+    },
+    {
+      "term": "rising",
+      "meaning": "going up or increasing"
+    }
+  ],
   "questions": [
     "What comes to mind when you think of global warming?",
     "Do you think human activity is responsible for global warming?",

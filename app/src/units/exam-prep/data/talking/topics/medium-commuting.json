@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 12,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "route",
+      "meaning": "the way from one place to another"
+    },
+    {
+      "term": "rush hour",
+      "meaning": "the busy time when many people travel to or from work"
+    },
+    {
+      "term": "fare",
+      "meaning": "the money paid for a journey"
+    },
+    {
+      "term": "transfer",
+      "meaning": "to change from one bus or train to another"
+    },
+    {
+      "term": "crowded",
+      "meaning": "full of many people"
+    }
+  ],
   "questions": [
     "How do you commute to your place of work?",
     "How far do you travel and how long does it take?",

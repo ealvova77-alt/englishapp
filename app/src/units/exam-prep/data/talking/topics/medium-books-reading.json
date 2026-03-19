@@ -5,6 +5,31 @@
   "packTitle": "Medium",
   "theme": "School, Work & Practical Life",
   "questionCount": 11,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "novel",
+      "meaning": "a long written story in book form"
+    },
+    {
+      "term": "chapter",
+      "meaning": "one main section of a book"
+    },
+    {
+      "term": "author",
+      "meaning": "the person who writes a book"
+    },
+    {
+      "term": "borrow",
+      "meaning": "to take something for a time and return it later"
+    },
+    {
+      "term": "interesting",
+      "meaning": "holding your attention"
+    }
+  ],
   "questions": [
     "Do you read mainly for information or for entertainment?",
     "Who is your favourite author?",

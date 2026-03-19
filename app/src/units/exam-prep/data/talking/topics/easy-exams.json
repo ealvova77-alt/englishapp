@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "School, Work & Practical Life",
   "questionCount": 22,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "revise",
+      "meaning": "to study again before a test"
+    },
+    {
+      "term": "mark",
+      "meaning": "the score given for school work or a test"
+    },
+    {
+      "term": "nervous",
+      "meaning": "worried or anxious about something important"
+    },
+    {
+      "term": "question",
+      "meaning": "a task or sentence that asks for an answer"
+    },
+    {
+      "term": "pass",
+      "meaning": "to succeed in an exam or test"
+    }
+  ],
   "questions": [
     "Do you get nervous before exams?",
     "Your last exam: what result did you expect and what did you get?",

@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 10,
+  "sharedVocabularyIds": [
+    "education"
+  ],
+  "vocabulary": [
+    {
+      "term": "focus",
+      "meaning": "careful attention given to one thing"
+    },
+    {
+      "term": "strategy",
+      "meaning": "a plan used to achieve a goal"
+    },
+    {
+      "term": "revise",
+      "meaning": "to study again in order to remember better"
+    },
+    {
+      "term": "organize",
+      "meaning": "to arrange things in a clear and useful way"
+    },
+    {
+      "term": "effective",
+      "meaning": "working well and producing good results"
+    }
+  ],
   "questions": [
     "Who has helped you learn the most and how did they do it?",
     "What has helped you learn the most?",

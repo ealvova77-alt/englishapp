@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 17,
+  "sharedVocabularyIds": [
+    "travel"
+  ],
+  "vocabulary": [
+    {
+      "term": "traffic",
+      "meaning": "the movement of vehicles on roads"
+    },
+    {
+      "term": "vehicle",
+      "meaning": "something used for carrying people or goods"
+    },
+    {
+      "term": "commute",
+      "meaning": "to travel regularly between home and work or school"
+    },
+    {
+      "term": "convenient",
+      "meaning": "easy to use and helpful in daily life"
+    },
+    {
+      "term": "crowded",
+      "meaning": "full of many people or vehicles"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the word 'transportation'?",
     "What's you favourite method of transportation?",

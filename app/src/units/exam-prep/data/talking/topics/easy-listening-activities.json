@@ -5,6 +5,31 @@
   "packTitle": "Easy",
   "theme": "Everyday Life & Personal Experience",
   "questionCount": 20,
+  "sharedVocabularyIds": [
+    "communication"
+  ],
+  "vocabulary": [
+    {
+      "term": "audio",
+      "meaning": "sound that is recorded or broadcast"
+    },
+    {
+      "term": "speaker",
+      "meaning": "a person who is talking"
+    },
+    {
+      "term": "repeat",
+      "meaning": "to say or do something again"
+    },
+    {
+      "term": "attention",
+      "meaning": "careful listening or watching"
+    },
+    {
+      "term": "careful",
+      "meaning": "giving close attention and avoiding mistakes"
+    }
+  ],
   "questions": [
     "What comes to mind when you hear the term 'listening activities'?",
     "What do you think when your teacher says you're going to do a listening activity?",

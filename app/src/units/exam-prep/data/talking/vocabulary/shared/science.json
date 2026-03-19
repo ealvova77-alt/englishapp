@@ -1,0 +1,37 @@
+{
+  "id": "science",
+  "title": "Science essentials",
+  "description": "Useful words for research, discovery, and scientific progress.",
+  "items": [
+    {
+      "term": "scientific discovery",
+      "meaning": "new knowledge found through research",
+      "example": "Scientific discovery has changed the way we live."
+    },
+    {
+      "term": "carry out research",
+      "meaning": "to do a careful scientific study",
+      "example": "Universities carry out research in many important fields."
+    },
+    {
+      "term": "evidence-based",
+      "meaning": "supported by facts, data, or research",
+      "example": "Public health policy should be evidence-based."
+    },
+    {
+      "term": "make progress",
+      "meaning": "to improve or move forward",
+      "example": "Science helps society make progress in medicine and energy."
+    },
+    {
+      "term": "practical application",
+      "meaning": "a real use for an idea or discovery",
+      "example": "Some discoveries are exciting but have no practical application yet."
+    },
+    {
+      "term": "benefit society",
+      "meaning": "to help people as a whole",
+      "example": "Research funding should focus on projects that benefit society."
+    }
+  ]
+}
