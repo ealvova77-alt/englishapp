@@ -1,0 +1,12 @@
+{
+  "id": "easy-houses-and-architecture",
+  "title": "Houses and Architecture",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 1,
+  "questions": [
+    "Can you describe your dream house? Describe a building you dislike. Why don't you like it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

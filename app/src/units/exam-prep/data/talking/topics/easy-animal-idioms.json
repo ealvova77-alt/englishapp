@@ -1,0 +1,31 @@
+{
+  "id": "easy-animal-idioms",
+  "title": "Animal Idioms",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Does your teacher ever have to badger you to get your homework?",
+    "Who is the black sheep of your family and what is it about them that is so bad?",
+    "Did you ever cry wolf when you were young, and then no one believed your stories?",
+    "Who really annoys you and gets your goat? Why do they get your goat?",
+    "What do you think of road hogs? How can the police stop their bad manners and dangerous driving?",
+    "Have you ever been a guinea pig and let someone test something on you?",
+    "Do you always take the bull by the horns and make strong decisions?",
+    "Has your government ever wasted money on a white elephant - a project that was a really, really bad idea that no one used?",
+    "Did you have a piggy bank as a child? Did you smash it?",
+    "Has anyone made a monkey out of you and made you look foolish?",
+    "When was the last time you had a whale of a time? What was so great about it",
+    "What was the last thing you did in two shakes of a lamb's tail?",
+    "Do you believe that a leopard cannot change its spots? Are you flexible?",
+    "Have you ever seen a sporting competition with a strong and weak team - like lambs to the slaughter?",
+    "Do you usually manage to get or end up with the lion's share of something? Is this good or bad?",
+    "Are you a lone wolf or do you like being with other people?",
+    "Do you agree that the 9-to-5 lifestyle is a rat race?",
+    "When was the last time you were so hungry you wolfed your food down in a few seconds?",
+    "Are you good at smelling a rat and noticing suspicious things?",
+    "Do you always go the whole hog and do, buy, eat... everything possible?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

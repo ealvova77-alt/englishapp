@@ -1,0 +1,24 @@
+{
+  "id": "easy-missing",
+  "title": "Missing",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "Have you ever lost anything of value? Where and when did you lose it?",
+    "When you were a child, did you ever get separated from your parents in a public place? What happened? How long did it take your parents to find you?",
+    "What steps do you think should be taken immediately after a child goes missing? What should the parents and the authorities do first?",
+    "What happens in your country when a child goes missing?",
+    "If a child is not found quickly, how long should the authorities continue to look for him/her?",
+    "Do you think child abduction/kidnapping happens more or less than in the past? Are children more at risk than they used to be?",
+    "What can be done to reduce the risk of a child going missing, being abducted or being kidnapped?",
+    "How old do you think a child should be before he/she can stay at home alone, or go out alone?",
+    "How old do you think children should be before they are taught about 'stranger danger' (the risk of talking to strangers or getting in cars with them, for example).",
+    "What are the risks of over-protecting children?",
+    "How should child abductors/kidnappers etc. be dealt with when they are caught by the police?",
+    "Some adults voluntarily 'go missing'. Why do you think this is?",
+    "If you decided to disappear for a while, where would you go? Why would you choose to go to that place in particular? How long would you stay?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

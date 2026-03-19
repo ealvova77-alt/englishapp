@@ -1,0 +1,31 @@
+{
+  "id": "medium-argentina",
+  "title": "Argentina",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Argentina?",
+    "What are the good things and bad things about Argentina?",
+    "What is Argentina most famous for?",
+    "What do you know about Argentina's history?",
+    "What are the differences between Argentina and your country?",
+    "What do you think about Argentine people?",
+    "What has Argentina given to the world?",
+    "Would you like to visit Argentina, or live there?",
+    "What do you know about the geography of Argentina?",
+    "Who are the most famous Argentine people you know?",
+    "How different is Argentina from other South American countries?",
+    "What was the last news story you heard about Argentina?",
+    "What do you think Argentina's neighbours think of it?",
+    "What do you think Argentina will be like 50 years from now?",
+    "Does your country have good relations with Argentina?",
+    "What could you do on a holiday in Argentina?",
+    "What is your idea of a typical Argentine person?",
+    "What things about Argentina do you think Argentines are proud of?",
+    "What do you know about Argentine culture?",
+    "What would you like to ask an Argentine about Argentina?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

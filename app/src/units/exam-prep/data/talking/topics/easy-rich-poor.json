@@ -1,0 +1,19 @@
+{
+  "id": "easy-rich-poor",
+  "title": "Rich, Poor",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 8,
+  "questions": [
+    "What kind of aid should the governments of rich countries give to poor countries?",
+    "Population control is more important in rich countries than in poor countries since rich babies consume much more of the world's resources than poor ones. Do you agree?",
+    "Economic Unions made up of rich countries are a form of protectionism which prevents fair trade with Third World countries. Do you agree?",
+    "Economic colonialism where multinational companies provide most of the work opportunities is just as bad as colonialism where poor countries belong to rich ones. Do you agree?",
+    "It is right for rich countries to have strict immigration controls to stop people from poorer countries entering them and sharing in their better standard of living. Do you agree?",
+    "Immigration should not be limited to people of similar race and culture. We should welcome the opportunity of a truly multi-racial society. Do you agree?",
+    "Everybody should be encouraged to do Voluntary Service Overseas (i.e. to live and work in the Third World) so that we can understand the problems of poorer countries and make a contribution to help them. Do you agree?",
+    "Would you like to be an overseas volunteer in a Third World country? If so, which one and how could you contribute to that country's development?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

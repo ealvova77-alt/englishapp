@@ -1,0 +1,31 @@
+{
+  "id": "easy-rubbish",
+  "title": "Rubbish",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'rubbish'?",
+    "Do you create a lot of rubbish?",
+    "Do you always put your rubbish in rubbish bins?",
+    "Do you think your country produces too much rubbish?",
+    "Have you ever bought something and then thought it was rubbish when you got home?",
+    "Is there a lot of rubbish in the streets in your town?",
+    "Do you prefer the word 'rubbish', 'trash' or 'garbage'?",
+    "Have you ever said \"That's rubbish!\" in English when you disagreed with what someone said?",
+    "Why is there so much rubbish on TV?",
+    "What will happen when we run out of land to use as rubbish dumps?",
+    "What are the laws in your town concerning the recycling of rubbish?",
+    "What music do you think is total rubbish?",
+    "Which person in the world do you think usually talks absolute rubbish?",
+    "What's the difference between rubbish and litter?",
+    "What does \"to rubbish\" someone (or their ideas) mean? Have you ever rubbished someone or have you ever been rubbished?",
+    "Are there newspapers in your country that often print a load of rubbish?",
+    "Have you ever thought \"He's/She's a rubbish actor / football player / singer\"?",
+    "What's the solution to the world's rubbish problem?",
+    "How often should rubbish collection take place?",
+    "What city have you been to where the streets were full of rubbish?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

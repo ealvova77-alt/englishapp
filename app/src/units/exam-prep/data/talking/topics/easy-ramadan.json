@@ -1,0 +1,31 @@
+{
+  "id": "easy-ramadan",
+  "title": "Ramadan",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "How do people celebrate Ramadan in your country?",
+    "How do you feel the week and the day before Ramadan starts?",
+    "What do you like most about Ramadan?",
+    "Are you sad when Ramadan is over?",
+    "What's your best Ramadan memory?",
+    "Do you think each Ramadan changes you as a person?",
+    "What would you like non-Muslims to understand about Ramadan?",
+    "Do you think Ramadan is hard on your body?",
+    "What's your favourite Ramadan food?",
+    "Who do you think enjoys Ramadan more, children or adults?",
+    "What springs to mind when you hear the word 'Ramadan'?",
+    "Do you say special prayers during Ramadan?",
+    "Are there medical benefits to Ramadan?",
+    "Do people in different countries celebrate Ramadan differently?",
+    "Do you think all countries with Muslim population should have special national holidays to celebrate Ramadan?",
+    "How would you explain what Ramadan is to someone who didn't know?",
+    "Do you ever feel Ramadan interrupts your daily schedule?",
+    "Do you think the way people celebrate Ramadan today is different to how they celebrated it in the past?",
+    "Would you like to go to another country to celebrate Ramadan?",
+    "Would you prefer Ramadan to be at the same time every year or do you like the Ramadan period moving forward each year?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

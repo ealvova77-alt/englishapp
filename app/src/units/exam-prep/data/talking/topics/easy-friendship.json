@@ -1,0 +1,24 @@
+{
+  "id": "easy-friendship",
+  "title": "Friendship",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "Do you think friends are more important than family these days? Why/not?",
+    "Do you agree with the following humorous quotation: 'A friend is someone who knows all about you....and still likes you!'?",
+    "Do you think that friends should have a lot in common? Is it important to have the same nationality, background, opinions, taste, financial status, religious beliefs etc?",
+    "Who is your best friend? Why is s/he your best friend?",
+    "What qualities do you look for in a friend? Which of these qualities do you think is the most important? Do you look for the same qualities in a best friend or do you want something extra in your closest friend?",
+    "Who was your first friend at school? Why did s/he become your best friend? How long did the friendship last? Who were your friends before you went to school? Did you have a particular toy that was your friend? Do you still have it? Why/not?",
+    "Did you have any imaginary friends as a child? When did you grow out of them?",
+    "Have you lost contact with any good friends? What stops you getting back in contact?",
+    "How difficult is it to maintain a friendship? Can a friendship last a lifetime?",
+    "Have you ever fallen out with your friends? How did you make it up?",
+    "Do you prefer going on holiday with your family or your friends? Do you think it is a good idea to go on holiday with friends? Why/not?",
+    "What are the advantages of having a pen-pal or an e-pal of a different nationality? Do you have a pen-pal or an e-pal? Would you like one?",
+    "Do you think men and women can be platonic friends?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

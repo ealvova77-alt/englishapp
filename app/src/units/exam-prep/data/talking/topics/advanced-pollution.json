@@ -1,0 +1,31 @@
+{
+  "id": "advanced-pollution",
+  "title": "Pollution",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'pollution'?",
+    "What different forms of pollution do you know of?",
+    "How bad is pollution in your town?",
+    "What do you do every day that adds to pollution?",
+    "What do you do every day that helps to reduce pollution?",
+    "Is there a lot of pollution in your country?",
+    "What do you think of people who buy big, gas-guzzling 4WDs when they don't really need them?",
+    "How does pollution affect our health?",
+    "Do you think pollution will be a bigger issue in fifty years than it is now?",
+    "The former US president Ronald Reagan once said: \"Cars don't cause pollution, trees do.\" Do you think US presidents understand a little more about pollution now?",
+    "What is pollution?",
+    "What harm does pollution do to the environment?",
+    "What do you get most angry about when you think about pollution?",
+    "Do you think the Kyoto Protocol and international meetings help reduce pollution?",
+    "Which bothers you more, noise pollution from traffic or environmental pollution from traffic?",
+    "What do you know about air, marine and river pollution?",
+    "What are the worst pollutants and who are the worst polluters?",
+    "What simple, everyday thing could help reduce pollution most?",
+    "What do you think about noise pollution?",
+    "The famous marine biologist Jacques Cousteau said: \"Water and air...have become global garbage cans.\" What do you think of his words?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

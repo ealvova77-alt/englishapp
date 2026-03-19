@@ -1,0 +1,18 @@
+{
+  "id": "easy-genetics",
+  "title": "Genetics",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 7,
+  "questions": [
+    "What are the advantages and disadvantages of genetically modifying food?",
+    "How do you feel about genetically modifying other crops (such as cotton)?",
+    "Do you think forensic evidence based on DNA fingerprinting should be used in court? Why/not?",
+    "Do you think suspected criminals should be convicted on evidence based on genetic fingerprinting alone? Why/not?",
+    "What are the advantages and disadvantages of cloning people?",
+    "Would you want to have your own clone? Why/not?",
+    "Do you agree with the cloning of working animals (for example animals which work on farms, police sniffer dogs etc)? How do you feel about the cloning of animals which we eat, such as cows?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

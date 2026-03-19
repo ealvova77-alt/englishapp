@@ -1,0 +1,15 @@
+{
+  "id": "advanced-politicians-personal-lives",
+  "title": "Politicians' Personal Lives",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 4,
+  "questions": [
+    "Does a politician's personal life have an effect on their ability to do their job?",
+    "Do you think the media pays too much attention to politicians' personal lives?",
+    "Do certain types of media give too much coverage?",
+    "Information concerning personal lives circulates quickly on social networks. Is this good or bad?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

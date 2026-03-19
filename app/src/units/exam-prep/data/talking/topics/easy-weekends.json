@@ -1,0 +1,27 @@
+{
+  "id": "easy-weekends",
+  "title": "Weekends",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "What comes to mind when you hear the word 'weekends'?",
+    "Are you happy with a two-day weekend or should it be three days?",
+    "Weekends in some countries are Fridays and Saturdays, in other countries it's Saturdays and Sundays. Which days are best?",
+    "Why do we have weekends?",
+    "What do you usually do on your weekends?",
+    "How do you feel the evening before the weekend starts?",
+    "Novelist Chuck Palahniuk said: \"The only reason why we ask other people how their weekend was is so we can tell them about our own weekend.\" Do you agree?",
+    "Bill Watterson said: \"Weekends don't count unless you spend them doing something completely pointless.\" Do you agree?",
+    "Do you think we're lucky to have weekends?",
+    "How would the world change if weekends were three days long?",
+    "What are you doing this weekend?",
+    "How do you feel the evening the weekend is over?",
+    "Do you believe in working on the weekends?",
+    "Which are better - weekends now or weekends as a child?",
+    "John Shirley said: \"Weekends are a bit like rainbows; they look good from a distance but disappear when you get up close to them.\" Do you agree?",
+    "Loesje asked: \"Why wait for the weekend to have fun?\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-risk",
+  "title": "Risk",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'risk'?",
+    "Do you take a lot of risks in life or are you risk averse?",
+    "What's the biggest risk you've ever taken?",
+    "What risks are there in your normal daily life?",
+    "What health risks do you worry about?",
+    "What is something you would risk your life to get?",
+    "What are the risks of using the Internet?",
+    "What are the risks of not taking risks?",
+    "Would you do a job that was full of risks?",
+    "Only a person who risks is free. (Unknown) Do you think this is true?",
+    "Would life be boring without risk?",
+    "Are risk-takers more successful in life?",
+    "Do you think life is riskier today than it was 50 years ago?",
+    "What is risk management? Have you ever applied it in your life?",
+    "What risks have you taken that have gone wrong, and which have worked?",
+    "Have you ever taken a risk with money and it paid off?",
+    "If you invested money, would you be cautious and spread your risks, or be adventurous and invest in high-risk investments?",
+    "How do the risks in our life change as we move through childhood to old age?",
+    "Do you live in a town that is risky to live in?",
+    "Do you need to take risks to be better at English?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

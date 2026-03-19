@@ -1,0 +1,31 @@
+{
+  "id": "medium-computers",
+  "title": "Computers",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What is a computer?",
+    "When did you use a computer for the first time?",
+    "How useful are computers to you?",
+    "What is the best thing about a computer?",
+    "What is you favorite piece of software?",
+    "What would life be like without your computer?",
+    "Can you keep up to date with the latest computer technology?",
+    "Do you control computers or do they control you?",
+    "Would you like to spend more time with your computer?",
+    "What would happen if all of the world's computers suddenly stopped forever?",
+    "Do you like computers?",
+    "Do you have your own computer?",
+    "Do computers ever make you want to pull your hair out (i.e. become very frustrated)?",
+    "What is the worst thing about computers?",
+    "Do you know a lot about computers?",
+    "Do you think computers will always look similar to the way they do now ( a screen with a keyboard)?",
+    "What would you miss most if your computer was taken away?",
+    "Would you like to take a course in computer science?",
+    "Do you think it's cool to be a nerd or computer geek?",
+    "What would you like computers to do that they can't do now?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

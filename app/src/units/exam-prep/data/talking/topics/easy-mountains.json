@@ -1,0 +1,31 @@
+{
+  "id": "easy-mountains",
+  "title": "Mountains",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'mountain'?",
+    "Do you like mountains?",
+    "How often do you go to the mountains?",
+    "What kind of mountains do you like?",
+    "Do you like holidays in the mountains?",
+    "Are there any beautiful mountains in your country?",
+    "Are mountains important?",
+    "Do you prefer the mountains or the beach?",
+    "Do you like mountain climbing?",
+    "Which mountain would you really like to climb?",
+    "Would you like to have a mountain named after you?",
+    "Would you like to live in the mountains for a year?",
+    "Do you ever feel in life that you have a real mountain to climb?",
+    "What mountains look the most beautiful (e.g. snow capped, rocky, etc)?",
+    "How would the world be different if there were no mountains?",
+    "What things can you do on top of a mountain?",
+    "Do you think climbing Mount Everest would change your life?",
+    "Do you think you could survive better in the mountains or jungle?",
+    "Have you ever made a mountain out of a mole hill?",
+    "What do you think of mountain scenery?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

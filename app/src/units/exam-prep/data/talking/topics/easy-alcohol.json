@@ -1,0 +1,31 @@
+{
+  "id": "easy-alcohol",
+  "title": "Alcohol",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is your favorite alcoholic drink?",
+    "How often do you drink?",
+    "Do you ever... / How often do you drink to excess?",
+    "Why do you drink alcoholic drinks?",
+    "Is alcohol a drug?",
+    "Should governments allow people to drink products that make people violent?",
+    "Are the drinking and driving laws in your country too strict?",
+    "How does alcohol change your behavior, personality and face?",
+    "What are the most popular forms of alcohol in your country?",
+    "What part does alcohol play in the culture of your country?",
+    "When did you start drinking?",
+    "What should be the legal age to drink alcohol?",
+    "Can bars serve alcohol 24 hours a day in your country?",
+    "In the USA, you cannot drink alcohol on the street. What are the laws regarding drinking in public in your country?",
+    "What kinds of social problems does alcohol cause in your country?",
+    "What do you think of very drunk people?",
+    "Alcohol is forbidden in Islam. Is this good?",
+    "Do you think people from different countries act differently when drunk?",
+    "Have you ever said or done something under the influence of alcohol that you later regretted?",
+    "What is the best cure for a hangover?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

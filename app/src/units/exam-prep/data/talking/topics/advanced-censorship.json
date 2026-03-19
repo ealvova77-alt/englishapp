@@ -1,0 +1,31 @@
+{
+  "id": "advanced-censorship",
+  "title": "Censorship",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "How would you explain censorship to someone unfamiliar with it?",
+    "Do you think the Internet should be censored?",
+    "Is it up to the government or other agencies to censor things?",
+    "What things should never be censored?",
+    "Does censorship result in reduced chances of education for society?",
+    "Would you like to be a movie censor?",
+    "What do you think censors are more afraid of, print, songs, movies or the Internet?",
+    "Are history books in your country censored to hide your nation's historical wrongdoing?",
+    "Many world governments have asked Google Earth to censor parts of its maps that show sensitive areas. Do you agree with this?",
+    "The European Union is considering censoring racism and hate propaganda on the Internet - is this good censorship?",
+    "Do you agree there should be censorship in societies?",
+    "Do you think censorship violates freedom of speech?",
+    "Do you thing heavy censorship harms or protects societies?",
+    "Do you think musical lyrics need censoring?",
+    "What kind of interview, qualifications and experience do you think government censors should have?",
+    "Do you think the website MySpace needs to be censored?",
+    "Is it necessary to censor nudity on television and in movies?",
+    "What would the world be like if there was no censorship at all?",
+    "What or who would you most like to censor?",
+    "What is worst - moral, political, military or religious censorship?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

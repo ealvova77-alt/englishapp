@@ -1,0 +1,31 @@
+{
+  "id": "easy-appearances",
+  "title": "Appearances",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'appearances'?",
+    "What things do you first notice about someone's appearance?",
+    "How do you think you look today?",
+    "When is your appearance most important?",
+    "What do you think when you look at yourself in the mirror?",
+    "Do you think the expression 'Appearances are deceptive' is true? Why?",
+    "Do you ever say someone looks good but really they don't?",
+    "Has your mother ever complained about your appearance?",
+    "What part of the way you look are you happiest with (and why)?",
+    "How are people's appearances today different from 100 year ago?",
+    "How important is a person's appearance?",
+    "What could you do to improve your appearance?",
+    "What could I do to improve my appearance?",
+    "Has your appearance ever made you feel bad all day?",
+    "Is it rude to tell someone that they need to improve their appearance?",
+    "How often do you check your appearance in the mirror?",
+    "How often do you talk about other people's appearances?",
+    "Are people obsessed by appearance today?",
+    "Is what's on the inside more important than what's on the outside?",
+    "Is appearance more important in politics or show business?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

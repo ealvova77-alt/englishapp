@@ -1,0 +1,31 @@
+{
+  "id": "easy-hip-hop",
+  "title": "Hip-Hop",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images come to mind when you hear the word 'hip hop'?",
+    "What do you think of hip hop?",
+    "Is American hip hop the best?",
+    "What different kinds of hip hop do you know about?",
+    "What do you know about the history of hip hop?",
+    "Why does hip hop sometimes have a negative image?",
+    "How would you define hip hop as a musical style?",
+    "What impact has hip hop had on the culture of your country?",
+    "Who are the biggest hip hop stars?",
+    "What is hip hop fashion?",
+    "What do you think of international hip hop?",
+    "What are the differences between hip hop and rap?",
+    "What do your parents think of hip hop?",
+    "What are your favourite hip hop songs?",
+    "What makes hip hop so popular?",
+    "Do you think hip hop is replacing rock music?",
+    "Can you rap?",
+    "Do you understand why some people think hip hop isn't music?",
+    "Do you think hip hop music gives a voice to people who follow it?",
+    "Who's best - Eminem or 50 Cent, Beyonce Knowles or Missy Elliot?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

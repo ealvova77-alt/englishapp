@@ -1,0 +1,31 @@
+{
+  "id": "easy-oil",
+  "title": "Oil",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Why is oil so important?",
+    "What do you think of oil companies?",
+    "What will happen when the oil runs out?",
+    "Do you think taking all of the oil from under the earth and oceans is dangerous?",
+    "How will oil-producing companies survive financially when their oil has all run out?",
+    "Are you interested in what happens to oil prices?",
+    "What do you know about oil crises?",
+    "Do you think Iraq was really invaded because of oil?",
+    "What do you know about OPEC?",
+    "What environmental impact does oil production have?",
+    "What springs to mind when you hear the word 'oil'?",
+    "Why do you think oil money isn't used to reduce poverty?",
+    "How can oil be owned by a company or country when it's part of the Earth's natural resources?",
+    "Do you think oil companies are ethical?",
+    "What would you like to change about oil companies?",
+    "Why aren't the citizens of oil producing companies very rich?",
+    "Do you think oil companies do enough to protect the environment, especially after oil spills in the ocean?",
+    "What is oil used for?",
+    "Should oil companies all be owned by governments, who would then share oil profits with their citizens?",
+    "What would the world be like if the world's oil ran out tomorrow?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

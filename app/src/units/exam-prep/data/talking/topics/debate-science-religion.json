@@ -1,0 +1,29 @@
+{
+  "id": "debate-science-religion",
+  "title": "Science, Religion",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 18,
+  "questions": [
+    "What are some limitations of science?",
+    "Is a scientific explanation of life depressing for you?",
+    "Have you ever witnessed a miracle or something supernatural?",
+    "Do you believe in evolution?",
+    "The Survival of the Fittest: How important are survival skills in our society? Does the term \"Survival of the Fittest\" still apply?",
+    "Is Darwin's \"Natural Selection\" still happening?",
+    "Is artificial insemination against human nature and evolution?",
+    "Are there any strange religious groups in your country?",
+    "Do you think the end of the world is near?",
+    "Nature vs. Nurture: Is intelligence rooted in genetics?",
+    "Survival of the Fittest: Do you think society would benefit if we let loose a handful of wild and dangerous animals (e.g. grizzly bears, hippos) into urban areas, e.g. the downtown of your city?",
+    "What would life be like if we succeeded in improving the gene pool by 30%?",
+    "Should people be allowed to know what their IQ is?",
+    "Thou Shalt Not Lie is the 9th Commandment. Do you agree with it?",
+    "Do you believe in the distinction between left-brained and right-brained people?",
+    "Do some people, or animals, have a sixth sense?",
+    "Have you ever witnessed or experienced inexplicable phenomenon? What is déjŕ vu? Do you occasionally experience it?",
+    "Do you believe in stories about out of body experiences?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-words",
+  "title": "Words",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'words'?",
+    "What are your favourite English words?",
+    "Are you good with words?",
+    "How often do you look in the dictionary for the meaning of a word?",
+    "What words of wisdom do you have for students learning English?",
+    "Parents tell their children, \"Sticks and stones may break your bones but words can never hurt you.\" Is this true?",
+    "How would you describe yourself in three words?",
+    "How many wpm can you type?",
+    "Someone once said: \"Love is just a word until someone comes along and gives it meaning.\" Do you agree?",
+    "James Earl Jones said: \"One of the hardest things in life is having words in your heart that you can't utter.\" What does this mean? Do you agree?",
+    "What are your favourite words in your own language?",
+    "Have words ever hurt you?",
+    "Are there any bad words and swear words in your language you don't like using?",
+    "Have words ever failed you and you've been left speechless?",
+    "How often is a word on the tip of your tongue?",
+    "What do you do if you read something and don't understand the words?",
+    "What would you like your last words to be?",
+    "Is it true that actions speak louder than words?",
+    "Someone once said: \"One picture is worth ten thousand words.\" What does this mean? Do you agree?",
+    "Harriet Beecher Stowe said: \"The bitterest tears shed over graves are for words left unsaid.\" What does this mean? Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

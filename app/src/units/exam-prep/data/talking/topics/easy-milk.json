@@ -1,0 +1,31 @@
+{
+  "id": "easy-milk",
+  "title": "Milk",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'milk'?",
+    "What do you think of milk?",
+    "What would the world be like without milk?",
+    "How useful and versatile is milk?",
+    "Do you think milk is good value for money?",
+    "What do you think of soya milk and coconut milk?",
+    "Why is milk so good for your health?",
+    "Is cow's milk best, or do you think goat's or camel's milk is better?",
+    "How often do you drink milk?",
+    "What's your favourite milk shake and why?",
+    "What do you know about milk?",
+    "Do you prefer no-fat, low-fat, regular or full-fat milk?",
+    "How did people first find out that we could drink cow's milk?",
+    "Would you like to try elephant's milk or tiger's milk?",
+    "Is taking a bath in milk good for you? Would you like to try?",
+    "Why don't all mothers feed their babies on breast milk? Isn't it much better for the baby than milk powder / formula?",
+    "What do you think of putting milk powder in tea and coffee?",
+    "Have you ever had any bad experiences with sour milk?",
+    "Do you prefer milk chocolate or dark chocolate?",
+    "Hot milk or cold milk - which is best, and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

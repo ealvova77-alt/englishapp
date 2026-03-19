@@ -1,0 +1,21 @@
+{
+  "id": "advanced-nature-nurture",
+  "title": "Nature, Nurture",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 10,
+  "questions": [
+    "What skill do you share with one of your parents?",
+    "What makes you different from your parents?",
+    "Who has had more of an effect on you; your mother or father and why?",
+    "What have you learned most from your teachers?",
+    "How are your parents diferent from your gandparents?",
+    "How are you different from your parents?",
+    "Why do you think there is a generation gap?",
+    "Who are you more like, your mother or father? How so?",
+    "What has had the greatest effect on your life? How did it effect you?",
+    "What do you think most people would like to change about themselves and why?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

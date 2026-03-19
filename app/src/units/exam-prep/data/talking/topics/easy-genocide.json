@@ -1,0 +1,31 @@
+{
+  "id": "easy-genocide",
+  "title": "Genocide",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'genocide'?",
+    "What does genocide mean? - Do you know how the word is made?",
+    "How can genocide happen?",
+    "What genocides do you know of in the past century?",
+    "Why is genocide still happening in the world?",
+    "What are the differences between genocide and crimes against humanity?",
+    "What is the most appropriate punishment for someone involved in genocide?",
+    "Is there anything in your country's history that was genocide, or could be describes as genocide?",
+    "What do you think of the term 'ethnic cleansing'?",
+    "What do you think of countries that deny their violent history and avoid putting terrible massacres in school history books?",
+    "What do you think of those who deny the Holocaust ever happened?",
+    "Do you think the destruction of Hiroshima and Nagasaki was genocide?",
+    "Why is African slavery rarely regarded as genocide?",
+    "It seems the world doesn't act when genocide happens in Africa. Do you agree?",
+    "Do you think genocide will ever stop?",
+    "The International Criminal Court was set up to prosecute war criminals. The USA and China are among a few countries who refuse to allow their citizens to be tried in it. What do you think of this?",
+    "What are the signs that genocide might happen in the future?",
+    "After Rwanda, politicians swore genocide would never happen again. We had Bosnia and now have Darfur. What went wrong?",
+    "Do you think there should be an International Genocide Day?",
+    "What does genocide do to a country once it has finished?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

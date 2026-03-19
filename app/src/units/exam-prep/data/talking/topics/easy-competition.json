@@ -1,0 +1,31 @@
+{
+  "id": "easy-competition",
+  "title": "Competition",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'competition'?",
+    "Are you a competitive person. Why/why not?",
+    "Why are some people very competitive?",
+    "Is competition good for us?",
+    "Do you like competitive people?",
+    "In what way is education a competition in your country?",
+    "Do you think life is a competition?",
+    "Do we learn to be competitive or are we born competitive?",
+    "David Sarnoff said: \"Competition brings out the best in products and the worst in people.\" What does this mean? Do you agree?",
+    "Dr T.P.Chia said: \"A competitive person is always a winner. An uncompetitive person is always a loser.\" What do you think?",
+    "What's your favourite competition?",
+    "Are you competing with other students in your English class?",
+    "Do you compete with yourself?",
+    "How did competition begin?",
+    "Which country is in \"competition\" with your country?",
+    "What would the world be like without competition?",
+    "Are men more competitive than women?",
+    "How can you learn to be more competitive?",
+    "Do drivers in your country drive as if they are in a competition?",
+    "Do you care if you lose when you are in a competition?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

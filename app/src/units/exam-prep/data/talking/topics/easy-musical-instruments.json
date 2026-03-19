@@ -1,0 +1,31 @@
+{
+  "id": "easy-musical-instruments",
+  "title": "Musical Instruments",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What's your favourite musical instrument?",
+    "Have you ever learnt to play a musical instrument?",
+    "What musical instrument do you not like the sound of?",
+    "Do you think everyone should learn to play a musical instrument when they are at school?",
+    "Why is it good to learn a musical instrument?",
+    "What musical instrument will your children learn to play?",
+    "What is the most unusual musical instrument you know of?",
+    "If you were a musical instrument, what would you be and why?",
+    "How would your life be different if you could play a musical instrument very well?",
+    "What is the most useful musical instrument to know how to play?",
+    "Have you ever been jealous of someone who can play a musical instrument really well?",
+    "What musical instrument looks the most beautiful?",
+    "Do you prefer electric musical instruments or acoustic?",
+    "What musical instruments are unique to your country or culture?",
+    "Do you think a record turntable is a musical instrument when it's used in hip-hop?",
+    "Can any object be a musical instrument if it's used to make music?",
+    "What musical instruments from other countries do you love the sound of?",
+    "Do you think a synthesizer can reproduce the sounds of musical instruments?",
+    "Do you think jazz musicians and classical musicians view their musical instruments differently?",
+    "What musical instrument sounds best when played solo?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

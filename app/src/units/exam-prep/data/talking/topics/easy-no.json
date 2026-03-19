@@ -1,0 +1,31 @@
+{
+  "id": "easy-no",
+  "title": "No",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'no'?",
+    "Which do you say more, 'no' or 'yes'?",
+    "Is it sometimes difficult for you to say 'no'?",
+    "What did you think when your parents said 'no' when you were a child?",
+    "What is a no-no?",
+    "When was the last time you had to shout 'no'?",
+    "Are there any no-go areas in your town? Is your room a no-go area?",
+    "Do you prefer no-frills, no-nonsense stores or do you like expensive department stores?",
+    "Have you ever been in a no-win situation?",
+    "Do you think 'no' always means 'no'?",
+    "What do you think of the word 'no'?",
+    "When was the last time you said 'no'?",
+    "Have you ever said 'no' when you really wanted to say 'yes'?",
+    "What would the world be like if everyone said 'no'?",
+    "What do you think are common questions to which people reply 'no'?",
+    "Why do you think people might say 'no, no, no, no, no'?",
+    "Which question would you always say 'no' to?",
+    "What words do you know that commonly follow 'no'?",
+    "What times in your life has your head said 'yes' but your heart said 'no' - or vice versa?",
+    "Why might your government start a \"Say No\" campaign?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

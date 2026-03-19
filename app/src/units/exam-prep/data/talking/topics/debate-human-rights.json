@@ -1,0 +1,23 @@
+{
+  "id": "debate-human-rights",
+  "title": "Human Rights",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 12,
+  "questions": [
+    "What are human rights?",
+    "Does your government have a good record on human rights?",
+    "Which countries do you think have the worst human rights records and why do you think this is so?",
+    "Do you think all people in the world are equal and everyone deserves the same rights?",
+    "Do you think each government should have a minister/secretary for human rights?",
+    "Are you interested in reading and watching news stories on human rights?",
+    "Do you give money to human rights charities?",
+    "What do you know about the Universal Declaration of Human Rights?",
+    "What human right is the most important?",
+    "Do unborn children have human rights?",
+    "Do religions respect human rights?",
+    "Do you always respect other people's rights?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

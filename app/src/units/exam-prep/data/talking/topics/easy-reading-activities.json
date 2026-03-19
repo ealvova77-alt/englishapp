@@ -1,0 +1,31 @@
+{
+  "id": "easy-reading-activities",
+  "title": "Reading Activities",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'reading activity'?",
+    "What do you think when your teacher says you're going to do some reading?",
+    "What kind of reading practice do you need most? Which reading skills do you need to improve?",
+    "Do you like the reading activities your teacher gives you?",
+    "Do you have an example of how a reading lesson really improved your reading?",
+    "Do you know of any websites that have good reading activities?",
+    "How different is reading in English to reading in your own language?",
+    "Do you always understand the reasons why the teacher asks you to do a particular reading activity?",
+    "What are your biggest problems with reading?",
+    "How important are reading activities compared with writing, speaking and listening activities?",
+    "Do you like doing reading activities in class?",
+    "Do you ever think reading activities are a waste of time?",
+    "Do you prefer reading things in books and magazines or reading things on the Internet?",
+    "Is the topic important when you do a reading activity?",
+    "What things are important for a reading activity to be successful?",
+    "What advice would you give to a student who says he/she is no good at reading or hates reading?",
+    "How does the ability to read in English improve your life?",
+    "Are there some things you like reading in English more than you do in your own language?",
+    "Do you think you need reading practice in every class?",
+    "What questions would you like to ask your teacher about reading?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

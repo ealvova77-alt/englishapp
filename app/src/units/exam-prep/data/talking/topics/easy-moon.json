@@ -1,0 +1,31 @@
+{
+  "id": "easy-moon",
+  "title": "Moon",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'moon'?",
+    "What do you know about the Moon?",
+    "Is the Moon important in your culture?",
+    "Do you like looking at the Moon?",
+    "What do you think about when you look at the Moon?",
+    "Would you like to visit the Moon?",
+    "Do you think there'll be cities on the Moon in the future with McDonalds and Starbucks?",
+    "What would happen to the Earth if the Moon disappeared?",
+    "What are the different phases of the Moon?",
+    "What would you do if you spent a day on the Moon?",
+    "Is our Moon better than other moons?",
+    "Do you think countries will fight each other day for territory on the Moon?",
+    "Why do some cultures say the Moon is made of cheese?",
+    "Why is it important to study the Moon?",
+    "Why can you sometimes see the Moon during the day?",
+    "What do you like doing by moonlight?",
+    "Why do you think people say the Moon landing didn't really happen, that it was just a hoax?",
+    "Someone once said, \"Moonlight is sculpture; Sunlight is painting.\" What do you think?",
+    "Do you think you'll ever go to the Moon?",
+    "What movies have you seen about the Moon?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

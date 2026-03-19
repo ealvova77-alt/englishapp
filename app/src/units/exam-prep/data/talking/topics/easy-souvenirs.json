@@ -1,0 +1,30 @@
+{
+  "id": "easy-souvenirs",
+  "title": "Souvenirs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'souvenir'?",
+    "What do you think of the souvenirs on sale in your town?",
+    "Where do you usually put souvenirs?",
+    "Do you ever regret buying souvenirs?",
+    "What kinds of souvenirs do your parents have in their home?",
+    "Do you ever \"take\" things from a hotel as a souvenir?",
+    "Are photos the best kind of souvenirs?",
+    "What do you think of souvenirs from theme parks?",
+    "What's the difference between a souvenir and a present?",
+    "Do you like souvenirs?",
+    "What are the best souvenirs people can buy from your country?",
+    "How long do you keep souvenirs for before throwing them away?",
+    "Are souvenirs ever useful?",
+    "Do you like shopping for souvenirs or is it too much hassle?",
+    "Why are most souvenirs just cheap rubbish?",
+    "Is food a good souvenir?",
+    "What do you think of souvenir shops at airports?",
+    "Does the word 'souvenir' suggest something cheap or expensive?",
+    "How much money do you think souvenir shops make?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

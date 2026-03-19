@@ -1,0 +1,31 @@
+{
+  "id": "easy-what-s-your-favourite",
+  "title": "What's Your Favourite...?",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What's your favourite time of the day (and why)?",
+    "Where's your favourite place to study (and why)?",
+    "Who's your favourite and least favourite actor (and why)?",
+    "What are your favourite sports (and why)?",
+    "Where's your favourite place to go and relax and think about life?",
+    "What's your favourite expression in English?",
+    "What was your favourite TV programme when you were a child?",
+    "What's your favourite fast food and fast food restaurant?",
+    "What's your favourite 'English mistake' story?",
+    "What are your favourite clothes and clothes stores?",
+    "What are your favourite pieces of software and computer programmes?",
+    "Who are your favourite and least favourite teachers (and why)?",
+    "What were your favourite and least favourite subjects at school?",
+    "What are your least favourite words (in English and in your own language)?",
+    "What's your favourite and least favourite feature (this could be part of your face and body or your personality)?",
+    "What's your favourite song (and why)?",
+    "Who is your favourite and least favourite world leader (and why)?",
+    "What's your favourite joke? Tell it to me.",
+    "What's your favourite and least favourite time of the year (and why)?",
+    "Who is your favourite person in the whole wide world?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

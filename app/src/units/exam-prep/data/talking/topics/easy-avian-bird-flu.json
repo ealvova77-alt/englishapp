@@ -1,0 +1,30 @@
+{
+  "id": "easy-avian-bird-flu",
+  "title": "Avian Bird Flu",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "How concerned are you about avian bird flu?",
+    "What do you know about avian bird flu?",
+    "Do you think the world is treating the threat seriously enough?",
+    "Influenza killed up to 40 million people in 1918. Do you think bird flu could be as deadly?",
+    "What is your government doing to protect your country?",
+    "What do you think is the best way to avoid the bird flu virus?",
+    "Do you think world governments and agencies are coordinated enough in fighting bird flu?",
+    "Has your government provided a lot of information to help you understand bird flu?",
+    "Does your country import live chickens?",
+    "Do you think you might become suspicious of flocks of wild birds?",
+    "What would you do if a human-to-human strain found its way into your country?",
+    "Do you think your country has enough vaccines to cope with a pandemic?",
+    "Avian bird flu has killed relatively few people. Are people over-reacting to the dangers?",
+    "Do you know what the symptoms of bird flu are?",
+    "Would you travel to countries which have had reported cases of bird flu?",
+    "Do you think bird flu will disappear the way the SARS virus disappeared?",
+    "How can a government stop the virus from entering the country?",
+    "Will you now think twice about eating chicken?",
+    "Would you ever eat raw chicken or raw eggs?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

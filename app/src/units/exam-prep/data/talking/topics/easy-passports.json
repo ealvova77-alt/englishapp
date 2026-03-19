@@ -1,0 +1,31 @@
+{
+  "id": "easy-passports",
+  "title": "Passports",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'passport'?",
+    "Do you like your passport?",
+    "Are there many stamps and visas in your passport?",
+    "Would you worry if you lost your passport while overseas?",
+    "If you could have an additional passport from another country, what would it be?",
+    "Is the passport from your country more or less useful than passports from other countries?",
+    "Do you like your passport photo?",
+    "What do you think passports will be like in the future?",
+    "What do you do to keep your passport safe in other countries?",
+    "Should we change the name of passports? We rarely travel through ports nowadays.",
+    "Is it easy to get a passport in your country?",
+    "What are the dangers to passports?",
+    "Do you think there is a system that is better than everyone having to carry a passport every time they travel?",
+    "Do you ever get nervous going through passport control at airports or border crossings?",
+    "How much is a passport in your country? Do you think they should be free?",
+    "What do you think about the new biometric passports?",
+    "Do you ever get tired of filling out your passport details?",
+    "What's the passport application process like in your country?",
+    "Are there any personal documents more important than a passport?",
+    "Would you prefer an American or British passport?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

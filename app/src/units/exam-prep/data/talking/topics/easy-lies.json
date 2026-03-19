@@ -1,0 +1,27 @@
+{
+  "id": "easy-lies",
+  "title": "Lies",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "Is it OK to tell lies?",
+    "What's the biggest lie you've ever told?",
+    "Children who are good liars often grow up to be very intelligent. Were you a good liar when you were a child?",
+    "Have you ever lied in a job interview?",
+    "Have you told any lies today?",
+    "Who lies more, men or women?",
+    "Has a lie someone told you ever hurt you?",
+    "What do you think of liars?",
+    "People often say: \"It's easy to tell when politicians lie - they move their lips.\" Do you agree with this?",
+    "Would you ever lie in a court of law?",
+    "Do you think you could lie and beat a lie detection test?",
+    "Someone once said there are 'lies, damned lies and statistics.' What do you think of this?",
+    "How many lies are there in a pack of lies?",
+    "Have you ever cheated on or lied to a partner?",
+    "Do you feel guilty when you tell a lie?",
+    "Have you ever been found out when telling a lie?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

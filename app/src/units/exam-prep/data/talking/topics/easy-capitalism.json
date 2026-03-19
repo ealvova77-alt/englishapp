@@ -1,0 +1,31 @@
+{
+  "id": "easy-capitalism",
+  "title": "Capitalism",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is capitalism?",
+    "Is capitalism the best economic system for the world?",
+    "Who likes capitalism?",
+    "Who suffers from capitalism?",
+    "Will the whole world be capitalist one day?",
+    "What are the advantages of capitalism over communism?",
+    "What is the free market?",
+    "What is the difference between capitalism and greed?",
+    "What happens to the less intelligent or able under capitalism?",
+    "If capitalism is so great, why are there many people living below the poverty line in capitalist countries?",
+    "Is capitalism a nice word?",
+    "Are there better alternatives to capitalism?",
+    "Does capitalism make the rich richer and the poor poorer?",
+    "Is it ethical for CEOs to get giant salaries?",
+    "Aren't capitalists people who exploit workers?",
+    "Does capitalism destroy the environment?",
+    "Are giant, multinational corporations good for the world?",
+    "What are the objectives of anti-capitalism activists?",
+    "Bill Gates has billions of dollars. Many people in New Orleans live below the poverty line. Is that capitalism?",
+    "Are you a supporter of capitalism?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

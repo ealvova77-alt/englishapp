@@ -1,0 +1,16 @@
+{
+  "id": "easy-knowledge",
+  "title": "Knowledge",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What comes to mind when you hear the word 'knowledge'?",
+    "How is your general knowledge? Are you good at quizzes?",
+    "What is the tree of knowledge and what would you like to take from it?",
+    "What is more important, knowledge or common sense?",
+    "Are you angry when people do things without your knowledge?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

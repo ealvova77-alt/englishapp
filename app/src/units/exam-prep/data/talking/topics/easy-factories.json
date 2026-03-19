@@ -1,0 +1,31 @@
+{
+  "id": "easy-factories",
+  "title": "Factories",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What kind of factories are there in your town?",
+    "What factories were in your town 50 years ago?",
+    "Do you think factories are the same all over the world?",
+    "Would you like to work in a factory?",
+    "Which country do you think has the most efficient factories?",
+    "Have overseas companies built factories in your country?",
+    "What do factories need to do to protect the environment?",
+    "How have mass production techniques in factories changed our lives?",
+    "How have working conditions in factories changed since the Industrial Revolution?",
+    "What should be done about multinational companies employing children in sweat shops?",
+    "Have you ever visited a factory and seen a production line?",
+    "Should factories be full of workers or robots?",
+    "Why do you think many countries copy Japanese factories?",
+    "What do you think factories of the future will look like?",
+    "What do you think the differences are working in a car factory and silicon chip factory?",
+    "How did factories change societies?",
+    "Do you think all factories need organized unions?",
+    "What is your image of 'fast food factories'?",
+    "Do you think there were weapons factories in Iraq during Saddam Hussein's rule?",
+    "Would you like to visit Willie Wonka's chocolate factory?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

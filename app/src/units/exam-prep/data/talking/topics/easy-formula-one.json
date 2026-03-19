@@ -1,0 +1,31 @@
+{
+  "id": "easy-formula-one",
+  "title": "Formula One",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like Formula 1?",
+    "Have you ever watched a race from start to finish?",
+    "What do you think of the driving skill of the drivers?",
+    "Would you like to be able sit next to a driver (if there was a passenger seat) during a two-hour Formula 1 race?",
+    "How important is teamwork in Formula 1?",
+    "Do you think Formula 1 is only for very rich people?",
+    "Would you like to train to be a Formula 1 driver?",
+    "Which drivers do you know and what do you think of their personalities?",
+    "What do you think of Formula 1 as a business and huge marketing success?",
+    "What do you think it's like to be a Formula 1 driver?",
+    "What comes to mind when you hear the word 'Formula 1'?",
+    "Who do you think is the greatest driver ever?",
+    "What other car racing championships do you know and why is Formula 1 more popular than them?",
+    "What do you think of tobacco company sponsorship in Formula 1?",
+    "How do you think Formula 1 survived before television?",
+    "Do you like reading news about Formula 1?",
+    "Why do you think there are so many scandals in Formula 1?",
+    "Do you think Lewis Hamilton is the next big thing in Formula 1?",
+    "Which of the world's Formula 1 Grands Prix would you like to go to?",
+    "What questions would you like to ask a Formula 1 driver?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

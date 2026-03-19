@@ -1,0 +1,17 @@
+{
+  "id": "easy-how-many",
+  "title": "How Many",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 6,
+  "questions": [
+    "How many TVs does your family own?",
+    "How many people are in this room?",
+    "How many times have you visited France?",
+    "How many students are in your class?",
+    "How many hamburgers can you eat for one meal?",
+    "How many countries play in the world cup?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

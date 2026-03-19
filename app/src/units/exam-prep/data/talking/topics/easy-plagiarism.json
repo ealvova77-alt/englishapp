@@ -1,0 +1,31 @@
+{
+  "id": "easy-plagiarism",
+  "title": "Plagiarism",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What exactly is plagiarism?",
+    "Have you ever copied someone's words without saying whose words they were?",
+    "How bad is plagiarism?",
+    "How can we prevent plagiarism?",
+    "Teachers can easily Google search sentences they thing were copied. Is it foolish to copy?",
+    "Is plagiarism just innocent laziness?",
+    "Why do some countries think plagiarism is normal?",
+    "How would you feel if someone plagiarised your work?",
+    "Have you ever cheated in a test?",
+    "Someone once said: \"If you steal from one author it's plagiarism; if you steal from many it's research.\" Do you agree?",
+    "Is plagiarism against your ethical values?",
+    "Is there any time when plagiarism might be OK (e.g. if you have tons of homework and no time to do it)?",
+    "Do you think it's difficult to know what is plagiarism and what isn't?",
+    "Do you think schools are universities are too strict when they expel students for plagiarism?",
+    "Can you plagiarize yourself?",
+    "Has cut and paste decreased creativity and original thought?",
+    "How would you feel in front of your teachers or colleagues if you were caught plagiarising?",
+    "Do you think plagiarism will be a bigger problem in the future?",
+    "Should all teachers put their students' homework, writing, essays, etc. through plagiarism software?",
+    "Someone one said: \"Originality is undetected plagiarism.\" What does this mean, and do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

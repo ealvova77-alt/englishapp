@@ -1,0 +1,31 @@
+{
+  "id": "easy-learning",
+  "title": "Learning",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'learning'?",
+    "What do you know about learning?",
+    "When do you think we first start learning?",
+    "What kinds or methods of learning do you like best?",
+    "Why are some people better at learning than others?",
+    "Do you have any learning difficulties?",
+    "What is the best learning experience you've had?",
+    "How can you make sure learning is always fun?",
+    "Do you think you'll always be involved in lifelong learning?",
+    "Do you think learning by doing or learning by listening is best?",
+    "Are you good at learning new things?",
+    "When you learn new things, is there always a steep learning curve?",
+    "What's the difference between teaching and learning? Does teaching always lead to learning?",
+    "Does learning always make you motivated to do things?",
+    "What tips on learning would you give to other people?",
+    "Do you think we ever stop learning? Are we ever too old to start learning something new?",
+    "What's the unhappiest you've been while learning something?",
+    "What good and bad experiences have you had learning English?",
+    "Confucius said: 'Thought without learning is perilous.' Do you agree?",
+    "Is learning something new ever a total waste of time?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-presentations",
+  "title": "Presentations",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What do you think when you hear the word 'presentation'?",
+    "Do you like making presentations? Why / Why not?",
+    "What's the best presentation you have ever heard?",
+    "How can you stop being nervous about a presentation?",
+    "What do you think of PowerPoint? Are you good at using it?",
+    "Is it better to give a presentation to five people or thirty? Why?",
+    "Do you like listening to presentations?",
+    "What kind of slides are best - those with pictures or those with words?",
+    "Whose presentation would you like to see (anyone in the world)? Why?",
+    "Do you think giving presentations makes you more confident?",
+    "How do you feel one minute before you have to make a presentation?",
+    "Will your next presentation be good? Why do you think so?",
+    "What is the most difficult thing about making a presentation?",
+    "What advice would you give to people making a presentation?",
+    "How many slides should a good presentation have? Why?",
+    "How scary is making a presentation? Why?",
+    "Do you like people looking at you when you make a presentation?",
+    "How rude is it to talk during presentations?",
+    "What do you think when people talk during your presentation?",
+    "How do you feel when your presentation is over? Why?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

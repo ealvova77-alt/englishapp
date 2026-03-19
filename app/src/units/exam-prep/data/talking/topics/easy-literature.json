@@ -1,0 +1,18 @@
+{
+  "id": "easy-literature",
+  "title": "Literature",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 7,
+  "questions": [
+    "What comes to mind when you hear the word 'literature'?",
+    "Who is your favourite character from literature?",
+    "Have you read any books by winners of the Nobel Prize for Literature?",
+    "Would you like to study English literature?",
+    "Do you think songwriters should be eligible for the Nobel Prize for Literature?",
+    "Would you like to study the history of world literature?",
+    "What image do you have of people who study literature at university?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

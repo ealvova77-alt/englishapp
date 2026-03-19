@@ -1,0 +1,31 @@
+{
+  "id": "advanced-protests",
+  "title": "Protests",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What do you think about when you hear the word \"protests\"?",
+    "Is it good or bad to protest?",
+    "What protests are happening around the world right now? Do you agree with them?",
+    "How should police deal with protestors?",
+    "How have protests changed the history of different countries?",
+    "Why do governments protestors?",
+    "What things do you need to take on a protest?",
+    "How many different things can you do to protest?",
+    "Is there a better way than protesting to make your voice heard?",
+    "Can a protest by one person be as powerful as a protest by a million?",
+    "What would you protest about?",
+    "What would your parents think if they saw you on TV news protesting?",
+    "Are protestors heroes?",
+    "How do things like Twitter and Facebook help protests?",
+    "What are the dangers in protesting?",
+    "What are the dangers in not protesting?",
+    "Do you think governments worry about protests?",
+    "What do police officers think about when they are policing a protest?",
+    "Is a protest better online or on the streets?",
+    "What are the biggest protests in (recent) history?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

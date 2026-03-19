@@ -1,0 +1,31 @@
+{
+  "id": "easy-donuts",
+  "title": "Donuts",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like donuts?",
+    "What importance do donuts play in our lives?",
+    "What kind of donut would really make your mouth water?",
+    "How would you describe the smell of freshly-made donuts?",
+    "Do you ever go to donut cafes?",
+    "Which is the better spelling of the word - 'donut' or 'doughnut'?",
+    "Do you think a 'healthy donut' restaurant would catch on?",
+    "Does your country have its own unique kinds of donuts?",
+    "What do you know about the nutritional value of donuts?",
+    "Why do you think donuts are so popular around the world?",
+    "What do you think when you hear the word 'donut'?",
+    "What do you think when you see lots of freshly-made donuts?",
+    "Where do you think the word 'doughnut' came from?",
+    "What is your favourite kind of donut?",
+    "What do you know about the history of donuts?",
+    "Why are donuts round? Do you think other shapes would be popular?",
+    "What is your favourite donut shop or chain?",
+    "How many donuts could you eat in one go?",
+    "Do you think donuts are good value for money?",
+    "Which do you prefer, ring donuts or filled donuts?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

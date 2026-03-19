@@ -1,0 +1,24 @@
+{
+  "id": "easy-humor",
+  "title": "Humor",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "In 'lonely hearts' columns people trying to find a partner often require that he or she should have a GSOH (a good sense of humour). How important do you think it is to have a good sense of humour in relationships?",
+    "Do you have a good sense of humour? Does your partner? And your teacher/boss...?",
+    "Do you know anyone who has an infectious laugh? How often do you laugh?",
+    "Are you good at telling jokes? Do you know any good (clean!) jokes?",
+    "Do you enjoy playing practical jokes on people? Have you ever been the victim of a practical joke?",
+    "Small children often say funny things. If you have children, what are the funniest things your children have said to you?",
+    "Do you enjoy watching humorous programmes such as sitcoms (situation comedies), funny films, cartoons, etc. Why/not?",
+    "Who is your favourite comedy actor/stand up comic? Why do you find him/her so funny?",
+    "Who is the funniest person you know? In what way is this person funny?",
+    "How would you define humour?",
+    "People of different nationalities seem to find different things funny. Why do you think there are national variations in humour?",
+    "British comedians have a tradition of making fun of the 'mother-in-law'. Do you have the same tradition in your country? Who/What do comedians in your country make fun of in particular?",
+    "Why do humans have a sense of humour? What purpose does it serve?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-robots",
+  "title": "Robots",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'robot'?",
+    "Will robots take over the world one day?",
+    "The West sees robots as menacing, Japan sees them as helpful - how about you?",
+    "Which movie robot is your favourite?",
+    "What would you like your robot to do?",
+    "What role will robots play in our society later this century?",
+    "Will robots ever like identical to humans?",
+    "Do you think robots will ever have emotions or be able to love?",
+    "What would happen if you programmed a robot to hate and to build other robots that hated?",
+    "What name would you give to your robot?",
+    "Will robots have rights?",
+    "When do you think robots will replace McDonalds workers?",
+    "Have you ever felt as though you were a robot?",
+    "Do you think people will have robots as companions, instead of a pet?",
+    "What kind of economic chaos would there be if robots took over our jobs?",
+    "Could a team of robots ever beat a human football team?",
+    "Would you rather deal with a robot or a human clerk in a local government department?",
+    "Would you cry if your robot of ten years died?",
+    "How much of the human body will be replaced by machines? Will there be androids in the future?",
+    "Would a robot be a better leader than the leader of your country?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "easy-past",
+  "title": "Past",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 22,
+  "questions": [
+    "Is life today better than in the past? Think about the following : Education - employment - job satisfaction, Health : prevention, treatment, new discoveries, social security, etc., Comfort : standard of living (housing/transport/leisure), Violence, Social issues : single mothers, unmarried couples, homosexuality...",
+    "What did you do yesterday? Why did you do that?",
+    "What did you do on Sunday?",
+    "What did you do last week?",
+    "What did you do in the last vacation?",
+    "What did you watch at the movies last time?",
+    "What happened in the movie?",
+    "What did you eat for breakfast? What did it taste like?",
+    "Where did you go last night? What happened?",
+    "Who did you see on Monday night?",
+    "What did you do on your birthday? What gifts did you get? How did it make you feel?",
+    "What grade did you get on your last English exam?",
+    "What did your parents say to you when you were young?",
+    "Which singers did you like when you were younger? Why did you like them?",
+    "Which elementary school did you go to? What was it like?",
+    "What do you think it was like to live in your country 100 years ago? What did people eat at that time?",
+    "Can you describe your parents' lives when they were your age? What music did they like? What food did they eat? What was their fashion like?",
+    "Can you describe a day that you really enjoyed? What happened? Where did you go?",
+    "Can you tell me what you did to prepare for your last exams?",
+    "Can you tell me five things you did during the Christmas vacation?",
+    "Can you tell me what nice things your friends did for you last year?",
+    "Did you play computer games last week? Why? Why not?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "advanced-amnesty-international",
+  "title": "Amnesty International",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What is Amnesty's primary function?",
+    "How important is Amnesty compared to charities such as Save The Children or Help The Aged?",
+    "Do you think Amnesty International is a good name?",
+    "Who is Amnesty International's most famous prisoner of conscience?",
+    "Why do many governments, including that of the USA, refuse to believe many of Amnesty's reports?",
+    "Do you think Amnesty International is effective?",
+    "How do you think Amnesty gets information about \"closed\" countries and despotic regimes?",
+    "How can we help protect and promote human rights?",
+    "Do you think there are many countries that do not commit human rights violations?",
+    "Do you think working for Amnesty International can be dangerous?",
+    "Why is Amnesty International important?",
+    "What could Amnesty do to increase its profile?",
+    "What do you think of the Amnesty International logo?",
+    "What do you know about the history of Amnesty International?",
+    "Do you know of any other organizations similar to Amnesty?",
+    "How can Amnesty be sure its facts are true?",
+    "Have you ever participated in any Amnesty events?",
+    "Would you ever write a letter to a government urging them to release a prisoner or stop an execution?",
+    "Which countries are the biggest human rights violators?",
+    "Why do you think Amnesty refuses funds from governments?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

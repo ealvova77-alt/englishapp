@@ -1,0 +1,33 @@
+{
+  "id": "easy-exams",
+  "title": "Exams",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 22,
+  "questions": [
+    "Do you get nervous before exams?",
+    "Your last exam: what result did you expect and what did you get?",
+    "How do you prepare for exams?",
+    "Do you always read the questions carefully in a written exam?",
+    "Have you ever been unfairly treated in an exam?",
+    "If you saw another student cheating in an exam, would you report them?",
+    "Would you help another student who asked for assistance during an exam?",
+    "Are exams a necessary evil?",
+    "Do exams motivate students to give their best?",
+    "What do you think of alternatives to exams, such as projects and continuous assessment?",
+    "Would you agree that exams are only really valuable if you are allowed to see your paper once it has been marked, so you can learn from your mistakes?",
+    "Should you be given warning before an exam? Why (not)?",
+    "Should dictionaries and other reference books be permitted during exams? Why (not)?",
+    "Should you be allowed to repeat an exam if you fail? If so, how often?",
+    "Should attendance at a course always be required in order to take an exam?",
+    "Do you think language exams should always contain a speaking component (an oral exam)? Why/not?",
+    "Two popular ways of examining students are the 'continuous assessment' method (students are assessed on their work throughout the course) and the 'final 'exam' method (students are assessed on their performance in an exam at the end of the course). Which do you prefer? Why? What are the advantages and disadvantages of each method?",
+    "In many exams, if the candidates cheat they are disqualified. Do you think this is right? Is it OK to cheat a little? Have you ever cheated? Would you go to a dentist who had cheated in his/her dental exams?",
+    "Do you enjoy taking exams? Do you feel nervous before them? Do you revise regularly throughout the course or do you leave all your revision until the last minute?",
+    "Which do you find more difficult: written exams (e.g. History, Literature etc) or practical exams (e.g. Chemistry, Driving etc.) Why?",
+    "Do you think that exams which are taken in one country should be valid all over the world (e.g. English exams, driving tests etc)? Why/not?",
+    "Do you think that your exam results are an accurate reflection of your ability? Why/not? Are exams a waste of time?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

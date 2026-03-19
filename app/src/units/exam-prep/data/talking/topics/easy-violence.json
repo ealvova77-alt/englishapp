@@ -1,0 +1,32 @@
+{
+  "id": "easy-violence",
+  "title": "Violence",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 21,
+  "questions": [
+    "What springs to mind when you hear the word 'violence'?",
+    "How often do you see violence in your country?",
+    "What makes people violent?",
+    "Is there a cure for violence?",
+    "Do you think there's too much violence on TV and in video games?",
+    "Do you think humans will ever be nonviolent?",
+    "Do you think men or women like violence more? Why do you think so?",
+    "Why are the words 'sex' and 'violence' so often used together in the phrase 'sex and violence'?",
+    "Sam Peckinpah said: \"There is a great streak of violence in every human being. If it is not channeled and understood, it will break out in war or in madness.\" Do you agree?",
+    "Martin Luther King, Jr. said: \"Nonviolence means avoiding not only external physical violence but also internal violence of spirit. You not only refuse to shoot a man, but you refuse to hate him. Do you agree?",
+    "Do you enjoy watching violence in real life or in the movies?",
+    "How big a problem is domestic violence in your country?",
+    "Does violence ever achieve anything?",
+    "Have you ever resorted to violence?",
+    "Is violent crime on the increase in your countries?",
+    "Do people learn to be violent?",
+    "Is there much ethnic violence in your country?",
+    "Do you think countries can be violent?",
+    "Gandhi said: \"Victory attained by violence is tantamount to a defeat, for it is momentary.\" Do you agree?",
+    "Madge Micheels-Cyrus said: \"Nonviolence doesn't always work - but violence never does.\" Do you agree?",
+    "Television cameras should not record crowd disturbances during sporting events such as football matches. What do you think?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

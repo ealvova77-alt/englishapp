@@ -1,0 +1,21 @@
+{
+  "id": "easy-homosexuality",
+  "title": "Homosexuality",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "Is your country gay-friendly?",
+    "Does your city have any gay pride events?",
+    "Are there any jobs homosexuals should be prohibited from doing?",
+    "Do you believe homosexuality comes from genetics or the environment?",
+    "Should gays be allowed to marry?",
+    "Freud argued that most people have both heterosexual and homosexual tendencies. What do you think of this?",
+    "What would you do if you found out your son or daughter were gay?",
+    "Can homosexuality be 'cured'?",
+    "Why are some people against gay marriage?",
+    "How would your parents react if you told them you were gay?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

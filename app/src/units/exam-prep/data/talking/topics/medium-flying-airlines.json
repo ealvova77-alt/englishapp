@@ -1,0 +1,21 @@
+{
+  "id": "medium-flying-airlines",
+  "title": "Flying, Airlines",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 10,
+  "questions": [
+    "Do you enjoy flying? What do you like/dislike about it?",
+    "What is your favourite airline? Why?",
+    "Do you prefer budget or luxury airlines? Why?",
+    "What was your worst flying experience? What was the problem? Was it a bumpy flight? Was there a problem with the booking?",
+    "What was your best flying experience? What made it so good?",
+    "Are you nervous flyer? If so, why? Have you had a bad flying experience?",
+    "Do you prefer to travel by air or over land, e.g. by train? What are the pros and cons?",
+    "Compare two airlines you have travelled with in the past. Which was better and why?",
+    "Compare economy, business class and first class. What are the biggest differences?",
+    "I don't mind flying, but I hate getting to the airport, queuing, checking in bags, going through security and all the things that go along with it! Do these things annoy you, too?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-greece",
+  "title": "Greece",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Greece?",
+    "What are the good things and bad things about Greece?",
+    "What is Greece famous for?",
+    "What do you know about Greek history?",
+    "What images of Greece do you have that are romantic?",
+    "What importance has Greece played in world history?",
+    "What has Greece given to the world?",
+    "Would you like to visit Greece or live there?",
+    "Is Greece the most historic country in the world?",
+    "Who are the most famous Greek people you know?",
+    "How different is Greece from other European countries?",
+    "Do you think Greece is one of the world's most important nations?",
+    "Why is Greece one of the top tourist destinations in the world?",
+    "What do you know about the ancient Greek gods and mythology?",
+    "Does your country have good relations with Greece?",
+    "What do you think about Greek food?",
+    "What is your idea of a typical Greek person?",
+    "What things about Greece do you think Greek people are proud of?",
+    "What do you know about Greek politics?",
+    "What would you like to ask a Greek person about Greece?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

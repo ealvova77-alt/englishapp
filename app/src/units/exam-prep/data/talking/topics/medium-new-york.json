@@ -1,0 +1,31 @@
+{
+  "id": "medium-new-york",
+  "title": "New York",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear 'New York'?",
+    "What are the good things and bad things about New York?",
+    "What is New York famous for?",
+    "What do you know about New York's history?",
+    "What images of New York do you have that are exciting?",
+    "What do you think about New York?",
+    "Why is New York described as a world city?",
+    "Would you like to visit New York, or live there?",
+    "What do you think of New Yorkers?",
+    "What adjectives would you use to describe New York and why?",
+    "How different is New York from other American cities?",
+    "What would you do if you could spend one day in New York?",
+    "What movies do you know that are set in New York?",
+    "What do you think New York will be like 50 years from now?",
+    "What do you know or remember about 9/11?",
+    "What do you think about New York's nickname, the 'Big Apple'?",
+    "What is your idea of a typical New Yorker?",
+    "What things about New York do you think New Yorkers are proud of?",
+    "What news stories do you know of that are about New York?",
+    "What would you like to ask a New Yorker about New York?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

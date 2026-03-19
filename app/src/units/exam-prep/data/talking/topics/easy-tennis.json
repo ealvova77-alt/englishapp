@@ -1,0 +1,31 @@
+{
+  "id": "easy-tennis",
+  "title": "Tennis",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'tennis'?",
+    "Do you like watching tennis?",
+    "Do you think men's or women's tennis is best?",
+    "What do you think of the clothes tennis stars wear on court?",
+    "Why do you think 'zero' in tennis is 'love'?",
+    "Which do you like better - singles or doubles?",
+    "What is the world's greatest tennis tournament?",
+    "Do you think tennis stars get paid too much?",
+    "Does your country have a strong tradition of playing tennis?",
+    "Who is the greatest ever men's and ladies' tennis player?",
+    "Are you good at tennis?",
+    "Is tennis usually only for rich people?",
+    "Why do you think tennis balls are yellow?",
+    "Do you think the rules of tennis are easy of difficult?",
+    "Would you prefer to watch a tennis game on TV or at the court?",
+    "Should players be banned from grunting in tennis?",
+    "What don't British players do so well, seeing they invented the game?",
+    "Do you think the top women's player could ever beat a men's player ranked towards the bottom of the world rankings?",
+    "Is tennis the world's most polite game?",
+    "Do you think tennis will be different 100 years from now?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

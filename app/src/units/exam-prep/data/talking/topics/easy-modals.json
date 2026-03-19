@@ -1,0 +1,17 @@
+{
+  "id": "easy-modals",
+  "title": "Modals",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 6,
+  "questions": [
+    "Should gay/lesbian couples be allowed to adopt children? Why or why not?",
+    "Should marijuana be legalized? Why or why not?",
+    "In your country, what might happen to someone who loses their job?",
+    "What are some things you should have done last week, but didn't do?",
+    "What must you do in your country to obtain a driver's license?",
+    "Can you name two things that you couldn't do last year that you can do this year?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-superstitions",
+  "title": "Superstitions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'superstition'?",
+    "What superstitions do you know?",
+    "Which ones do you believe?",
+    "Do you believe that some numbers, days or dates are lucky or unlucky?",
+    "Do any animals or insects bring good or bad luck?",
+    "Are any colors lucky or unlucky?",
+    "What can you do to prevent bad things from happening?",
+    "Would you change your phone number or home address to avoid 'bad numbers'?",
+    "Do you believe that some materials are lucky/unlucky (such as gold, silk, etc.)?",
+    "Would you change your name if you heard your name was unlucky?",
+    "What do you think about superstition?",
+    "How do you think some superstitions started?",
+    "What is your opinion of superstitious people?",
+    "Are there any actions that can bring bad luck (such as walking under a ladder, breaking a mirror, spilling salt, etc.)?",
+    "What symbols in your culture bring good luck? Why is that?",
+    "What happens when someone talks about you in your absence?",
+    "What will happen if one of your hands or feet is itchy?",
+    "Where does the expression \"Bless you\" or \"God bless you\" (when someone sneezes) come from?",
+    "Do you have any objects that are said to bring good luck, such as a rabbit's foot, a lucky coin, etc.?",
+    "Can the location of a house or the position of furniture bring good or bad luck?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

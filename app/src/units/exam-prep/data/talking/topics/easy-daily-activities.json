@@ -1,0 +1,13 @@
+{
+  "id": "easy-daily-activities",
+  "title": "Daily Activities",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 2,
+  "questions": [
+    "What time do you go to work/school?",
+    "What time do you get out of class/get off work?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

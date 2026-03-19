@@ -1,0 +1,31 @@
+{
+  "id": "easy-lebanon",
+  "title": "Lebanon",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Lebanon?",
+    "What are the good things and bad things about Lebanon?",
+    "What is Lebanon famous for?",
+    "What do you know about Lebanese history?",
+    "What images of Lebanon do you have that are beautiful or sad?",
+    "What do you think about Lebanese people?",
+    "What has Lebanon given to the world?",
+    "Would you like to visit Lebanon, or live there?",
+    "What do you know about the geography of Lebanon?",
+    "Who are the most famous Lebanese people you know?",
+    "How different is Lebanon from other Middle Eastern countries?",
+    "What do you know about Lebanese food?",
+    "Why isn't Lebanon one of the richest countries in the Middle East?",
+    "What do you think Lebanon will be like 50 years from now?",
+    "Does your country have good relations with Lebanon?",
+    "Do you think Lebanon will ever have peace and security?",
+    "What do you know about the religious make up of Lebanon?",
+    "What things about Lebanon do you think Lebanese people are proud of?",
+    "What do you know about Lebanese politics?",
+    "What would you like to ask a Lebanese person about Lebanon?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

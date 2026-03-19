@@ -1,0 +1,31 @@
+{
+  "id": "debate-prejudice",
+  "title": "Prejudice",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'prejudice'?",
+    "What kinds of prejudice exist in your country?",
+    "Why does prejudice occur?",
+    "What does your government do to fight prejudice?",
+    "Christian Bovee said: \"The great obstacle to progress is prejudice.\" What do you think of this?",
+    "What is the answer to prejudice?",
+    "What's the worst form of prejudice you know of?",
+    "Have you ever suffered because of prejudice?",
+    "What would you do if prejudice was directed against you?",
+    "Would you act if you saw cases of prejudice?",
+    "What is prejudice?",
+    "What makes someone prejudiced?",
+    "Goldini said: \"He who never leaves his country is full of prejudices.\" Do you agree with this?",
+    "Are men or women more likely to be prejudiced?",
+    "Do you know any people who have prejudices?",
+    "Do you think everyone in the world has prejudices?",
+    "Do you think prejudices would exist if sight didn't?",
+    "Should ways to reduce prejudices be taught in schools?",
+    "Do you think your county's leader is prejudiced?",
+    "Will the world be free of prejudices one day?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

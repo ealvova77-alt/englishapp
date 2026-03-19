@@ -1,0 +1,31 @@
+{
+  "id": "easy-great-britain",
+  "title": "Great Britain",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Is Britain great?",
+    "What is the difference between Great Britain, England and the United Kingdom?",
+    "What do you know about British food and weather?",
+    "What would you like to do and see in Britain on a three-week holiday?",
+    "How do you think British people would describe their country?",
+    "Do you think Britain has too much political power in the world?",
+    "Would you like to live in Great Britain?",
+    "What parts of British culture are popular in your country?",
+    "Does your country have good relations with Britain?",
+    "What do you think when you see the Union Jack?",
+    "What do you know about Great Britain?",
+    "How important is Britain in the world?",
+    "How did Britain lose its empire?",
+    "What has Great Britain contributed to the world?",
+    "Would you like to speak with a British accent?",
+    "Who is the most famous British person ever?",
+    "What is Britain most famous for?",
+    "What mistakes has Great Britain made?",
+    "Do you like British fashion and music?",
+    "What do you think of the British Queen?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

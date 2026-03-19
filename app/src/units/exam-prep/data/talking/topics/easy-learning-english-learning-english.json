@@ -1,0 +1,15 @@
+{
+  "id": "easy-learning-english-learning-english",
+  "title": "Learning English, Learning, English",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 4,
+  "questions": [
+    "What's the easiest/hardest thing about learning English?",
+    "How do you usually study? Do you have any special methods or techniques that you use?",
+    "Do you plan on achieving native-like fluency in English? How fluent is enough for you? Why?",
+    "What do you use English for in real life?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

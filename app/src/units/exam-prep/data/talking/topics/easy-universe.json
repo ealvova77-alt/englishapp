@@ -1,0 +1,29 @@
+{
+  "id": "easy-universe",
+  "title": "Universe",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What images spring to mind when you hear the word 'universe'?",
+    "What would you like to know about the universe?",
+    "What are the laws of the universe?",
+    "Would you like to travel around the universe?",
+    "What do you think the edge of the universe looks like?",
+    "What is the shape and colour of the universe?",
+    "Why do we know more about the universe than the human brain?",
+    "Einstein said: \"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.\" What does he mean? Do you agree?",
+    "Stephen Hawking said: \"We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.\" Do you agree?",
+    "What is the universe?",
+    "Who is the centre of your universe?",
+    "How did the universe start?",
+    "What is a parallel universe? Do you think another you lives in one?",
+    "Do you think McDonalds and Starbucks will be in the outer regions of the universe one day?",
+    "What three adjectives would you choose to describe the universe?",
+    "Do you think a big bang started our universe?",
+    "Aldous Huxley said: \"There is only one corner of the universe you can be certain of improving, and that's your own self.\" Do you agree?",
+    "Dyer said: \"Everything is perfect in the universe.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

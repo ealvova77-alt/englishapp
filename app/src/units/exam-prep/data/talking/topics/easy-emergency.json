@@ -1,0 +1,22 @@
+{
+  "id": "easy-emergency",
+  "title": "Emergency",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "What is a natural disaster? What are some kinds of natural disasters?",
+    "What are some examples of non-natural disasters?",
+    "Have their been any major disasters in your area?",
+    "What are some major disasters that you can remember?",
+    "Have you ever been seriously lost?",
+    "If you had one minute to leave your home, what would you take with you?",
+    "If you lost everything, how would you rebuild your life?",
+    "What would you do if you lost all of your possessions?",
+    "Have you ever been in a fire?",
+    "Would you rather burn or freeze to death?",
+    "Could you live in an area that could have a natural disaster at any moment?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

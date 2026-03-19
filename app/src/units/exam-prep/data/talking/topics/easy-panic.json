@@ -1,0 +1,31 @@
+{
+  "id": "easy-panic",
+  "title": "Panic",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'panic'?",
+    "How do you usually panic?",
+    "Have you ever panicked while using a computer?",
+    "Do you keep a cool head while you are panicking?",
+    "Have you ever seen panic in the streets?",
+    "Have you ever suffered a panic attack?",
+    "Why do some people panic in a situation when other people remain calm?",
+    "Why do men panic when women cry?",
+    "Do you think you're a good person to have around in times of panic?",
+    "Have you ever panicked because of money?",
+    "Are you a panic?",
+    "What makes you panic?",
+    "Do you panic if you oversleep?",
+    "When was the last time you hit the panic button?",
+    "Who is the biggest panic you know?",
+    "What is the medical reason for panic?",
+    "What's the best way for people to overcome panic?",
+    "Can you hide your panic from other people or do you rush to the panic stations and totally lose control?",
+    "What do you do to calm down someone who is panicking?",
+    "Have you ever done something because of panic that you now regret?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "debate-weapons",
+  "title": "Weapons",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'weapon'?",
+    "Do you think everyone has the right to carry a weapon?",
+    "Are there a lot of weapons in your country?",
+    "Do you agree with the amount of money your government spends on weapons?",
+    "What's your opinion on countries with nuclear weapons and those who want weapons?",
+    "Do you think terrorists will ever use nuclear, chemical or biological weapons?",
+    "Would you ever carry or use a weapon?",
+    "What do you think of the weapons trade?",
+    "Seneca said: \"A sword is never a killer, it is a tool in the killer's hands.\" Do you agree?",
+    "Joseph Stalin said: \"Ideas are more powerful than guns. We would not let our enemies have guns, why should we let them have ideas.\" What do you think of this quote?",
+    "Do you think weapons are interesting?",
+    "Do you think the world will ever be free from weapons of mass destruction?",
+    "What are the laws in your country regarding deadly and lethal weapons?",
+    "Would you like to work in the weapons industry?",
+    "What do you think the personality of a weapons designer is like?",
+    "What do you think the weapons of the future will be like?",
+    "The tongue is mightier than the sword; Is free speech a weapon?",
+    "What weapons can you buy in stores in your country?",
+    "Albert Einstein said: \"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.\" What does this quote mean? Do you agree?",
+    "Hermione Gingold said: \"Fighting is essentially a masculine idea; a woman's weapon is her tongue.\" Do you agree?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

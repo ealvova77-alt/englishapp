@@ -1,0 +1,18 @@
+{
+  "id": "easy-taboo",
+  "title": "Taboo",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 7,
+  "questions": [
+    "Do you use taboo words in your own language? Why/not?",
+    "Why do you think some people use taboo words a lot?",
+    "Why do you think some people are particularly offended by taboo words?",
+    "Why do students often find it easy to remember taboo words in English?",
+    "How useful is it for you to know taboo words in English?",
+    "Do you think learning taboo words is a waste of time? Why/not?",
+    "Do you think teachers should teach taboo words to students or not? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

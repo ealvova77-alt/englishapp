@@ -1,0 +1,31 @@
+{
+  "id": "easy-chocolate",
+  "title": "Chocolate",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like chocolate?",
+    "Which country do you think makes the most delicious chocolate?",
+    "Do you like getting chocolate as a present?",
+    "Do you know how chocolate is made?",
+    "How much chocolate should children eat?",
+    "Is chocolate part of any celebrations in your country?",
+    "Do you think chocolate is healthy?",
+    "Who do you think are the world's biggest chocolate eaters?",
+    "Why is chocolate so often associated with romance?",
+    "What would the world be like without chocolate?",
+    "What do you know about the history of chocolate?",
+    "Did you eat a lot of chocolate when you were a child?",
+    "Why do you think so many people are addicted to chocolate?",
+    "What is your favourite brand / bar / kind of chocolate?",
+    "Would you like to eat some chocolate right now?",
+    "Do you have a favourite chocolate TV commercial?",
+    "How can the word 'chocolate' be a countable and uncountable noun?",
+    "Have you read the book 'Charlie and the Chocolate Factory'?",
+    "Does eating chocolate change our feelings?",
+    "What are your earliest memories of chocolate?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

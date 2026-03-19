@@ -1,0 +1,31 @@
+{
+  "id": "easy-silence",
+  "title": "Silence",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'silence'?",
+    "When are the best times for silence?",
+    "There is a famous Simon and Garfunkel song called Sound of Silence. What is the sound of silence?",
+    "When does silence worry you?",
+    "Would you like life and the world to be more silent?",
+    "Is silence golden? Why do you think English has this expression? If it isn't golden, what colour is it?",
+    "We sometimes see the expression \"the silence was deafening\" - How can this be?",
+    "How often do you experience awkward silences when you are talking to someone?",
+    "Henry David Thoreau said: \"Tragedy begins, not when there is misunderstanding about words, but when silence is not understood.\" Do you agree?",
+    "Dante said: \"Silence is boring.\" Do you agree?",
+    "Do you like silence?",
+    "When does silence make you happy?",
+    "When is it that you are really in complete and utter silence?",
+    "How much silence is there in your life?",
+    "Do you ever wish people would put their mobiles (and mouths) on silent?",
+    "Have you experienced a situation when there was deadly silence?",
+    "What do you think of the moment of silence to remember the dead?",
+    "What do you think of governments who try to silence people?",
+    "Martin Luther King, Jr. said: \"In the end, we will remember not the words of our enemies, but the silence of our friends.\" Do you agree?",
+    "Jibo said: \"Silence says more than words ever could.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-patience",
+  "title": "Patience",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'patience'?",
+    "Is patience important?",
+    "What kinds of people do you have little or no patience with?",
+    "When during the day is your patience at its lowest and why?",
+    "Why do people say 'patience is a virtue'?",
+    "How can you increase your patience?",
+    "When was the last time you ran out of patience with someone?",
+    "Do you think you're getting more patient or impatient as you get older?",
+    "How long can a company put you on hold before your patience goes?",
+    "Are you more patient with the ones you love?",
+    "Do you have a lot of patience?",
+    "When does your patience wear thin?",
+    "Have you ever run out of patience while shopping?",
+    "Do you have a lot of patience with children?",
+    "Is it possible to have infinite patience?",
+    "Do you think a teacher needs a lot of patience? How about our teacher?",
+    "Who or what in your life requires the most patience from you?",
+    "When was the last time you were rewarded for your patience?",
+    "Do you know anyone who would try the patience of a saint?",
+    "Of all the people you know, who lacks patience the most?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

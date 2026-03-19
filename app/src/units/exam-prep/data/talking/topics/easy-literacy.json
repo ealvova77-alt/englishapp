@@ -1,0 +1,30 @@
+{
+  "id": "easy-literacy",
+  "title": "Literacy",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What do you think about literacy?",
+    "How are literacy rates in your country?",
+    "Is literacy linked to one's intelligence?",
+    "How does literacy affect your life?",
+    "How do high levels of literacy help a country?",
+    "How do literacy levels in your country compare with other countries?",
+    "What can governments do to improve literacy rates?",
+    "What do you think 'Family Literacy' is?",
+    "Elizabeth Hardwick said: \"The greatest gift is a passion for reading.\" Do you agree?",
+    "What is literacy?",
+    "How would your life be different if you were illiterate?",
+    "Do you think there should be an International Literacy Day?",
+    "How do illiterate people in your country get by?",
+    "What would you do to improve your children's literacy?",
+    "What is the biggest barrier to literacy and how can we overcome it?",
+    "What do you think the Internet has done to improve literacy around the world?",
+    "A writer said that in the future, \"the new illiterate will be the person who has not learned how to learn.\" What do you think of this quote?",
+    "How literate are you in English?",
+    "What would the world be like if books and reading had never been invented?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

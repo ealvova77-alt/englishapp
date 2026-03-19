@@ -1,0 +1,31 @@
+{
+  "id": "easy-quality",
+  "title": "Quality",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'quality'?",
+    "Would you rather have quality or quantity?",
+    "Do you always believe a company that says its products are of the highest quality?",
+    "Do you always have to pay for quality?",
+    "How do companies control the quality of their goods and services?",
+    "Do you mind paying extra for better quality?",
+    "Which countries produce top quality goods?",
+    "Do you luxury, brand goods are worth the money? Is the quality so much better than non-brand goods that are half the price?",
+    "What was the last thing you bought where you looked at the quality?",
+    "Is good quality toilet paper important to you?",
+    "Is quality important to you?",
+    "When do you want top quality service?",
+    "When was the last time something disappointed you because of its poor quality?",
+    "How would you rate the quality of your English tuition?",
+    "What do you think of the air quality and water quality in your town?",
+    "How important to you is the sound quality of your music player?",
+    "Which stores or companies offer goods and services at an affordable quality?",
+    "What do you think about the quality of the goods and services at McDonalds?",
+    "Which makers or products have a reputation for good build quality?",
+    "What do you do in life that is top quality?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

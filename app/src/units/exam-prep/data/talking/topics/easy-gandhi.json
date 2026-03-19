@@ -1,0 +1,31 @@
+{
+  "id": "easy-gandhi",
+  "title": "Gandhi",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you know about Gandhi?",
+    "Why do you think Gandhi never won the Nobel Peace Prize?",
+    "What did Gandhi teach the world?",
+    "Do you think India is following Gandhi's teaching today?",
+    "What kind of world would we live in if we followed Gandhi's teaching?",
+    "How many battles have been won through non-violence?",
+    "Why do you think Gandhi was assassinated?",
+    "Gandhi said: \"An eye for an eye makes the whole world blind.\" Do you agree with this?",
+    "Gandhi believed people should lead as simple a life as possible. Do you think people can do this today?",
+    "What do you think Gandhi would say about today's war on terror?",
+    "What images come to mind when you hear the name 'Gandhi'?",
+    "Is Gandhi's message and example of peaceful protest still important today?",
+    "What do you think of Gandhi?",
+    "What do you think Gandhi would dislike about today's world?",
+    "Do you think he would be happy with the economic success and nuclear weapons of India?",
+    "Gandhi said: \"There are many causes that I am prepared to die for but no causes that I am prepared to kill for.\" What do you think?",
+    "In what ways are you like Gandhi?",
+    "Are there any criticisms of Gandhi that you know of?",
+    "What is Gandhi's legacy?",
+    "What questions would you like to have asked Gandhi?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

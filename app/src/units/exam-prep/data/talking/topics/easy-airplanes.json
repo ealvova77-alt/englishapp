@@ -1,0 +1,63 @@
+{
+  "id": "easy-airplanes",
+  "title": "Airplanes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "vocabulary": [
+    {
+      "term": "take off",
+      "meaning": "to leave the ground and begin flying",
+      "example": "I still get excited when the plane starts to take off."
+    },
+    {
+      "term": "land safely",
+      "meaning": "to arrive on the ground without problems",
+      "example": "Most passengers just want the flight to land safely and on time."
+    },
+    {
+      "term": "window seat",
+      "meaning": "a seat next to the window on a plane",
+      "example": "I usually choose a window seat because I like the view."
+    },
+    {
+      "term": "long-haul flight",
+      "meaning": "a very long flight, usually between distant countries",
+      "example": "I try to sleep during a long-haul flight."
+    },
+    {
+      "term": "jet lag",
+      "meaning": "tiredness after a long flight across time zones",
+      "example": "Jet lag can make the first day of a trip difficult."
+    },
+    {
+      "term": "air turbulence",
+      "meaning": "sudden movement of the plane caused by unstable air",
+      "example": "I do not like air turbulence, but I know it is usually not dangerous."
+    }
+  ],
+  "questions": [
+    "What springs to mind when you hear the word 'airplane'?",
+    "How important are airplanes?",
+    "What do you know about the history of airplanes?",
+    "What different kinds of airplane are there?",
+    "How have airplanes changed over the years?",
+    "Would you like your own plane?",
+    "What is the best airplane in the world?",
+    "Is it better to travel by airplane or by cruise ship? Why?",
+    "What do you think when you see an airplane in the sky?",
+    "Would you like to work on an airplane?",
+    "How do airplanes work?",
+    "How dangerous are airplanes?",
+    "What will airplanes be like in the future?",
+    "Which is better, Boeing or Airbus?",
+    "What movies have you seen about airplanes?",
+    "Would you like to fly (pilot) an airplane? Why?",
+    "What effect do airplanes have on the environment?",
+    "How do airplanes get off the ground and fly?",
+    "How cool are airplanes?",
+    "What three adjectives describe airplanes?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-restaurants",
+  "title": "Restaurants",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'restaurant'?",
+    "What is your favourite restaurant and why?",
+    "Do you like expensive restaurants?",
+    "How often do you go to restaurants?",
+    "Do you think the ambience is important in restaurants?",
+    "What kind of restaurant would you like to open?",
+    "What's the best restaurant name you've heard of?",
+    "Are you happy with the restaurants in your town?",
+    "Is restaurant food the best?",
+    "Have you ever complained about the food or service in a restaurant?",
+    "If you could have your own restaurant, what would you call it?",
+    "What do you think of fast food restaurants?",
+    "Would you go to a romantic restaurant with a friend?",
+    "What do you think people study on a restaurant management course?",
+    "Do you prefer restaurants that are cheap and cheerful or very fancy?",
+    "Do you think you should tip the staff in restaurants?",
+    "Would you like to work as a restaurant critic?",
+    "What's the longest you'd wait for a restaurant table?",
+    "What's the most expensive meal you've had at a restaurant?",
+    "Would you like to eat at a different restaurant every night for the rest of your life?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

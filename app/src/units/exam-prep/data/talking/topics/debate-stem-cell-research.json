@@ -1,0 +1,31 @@
+{
+  "id": "debate-stem-cell-research",
+  "title": "Stem Cell Research",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What is stem cell research?",
+    "Do you support stem cell research?",
+    "What are your thoughts on stem cell research?",
+    "What are the potential benefits for stem cell research?",
+    "Why are so many people against stem cell research?",
+    "Do you agree that stem cell research is like scientists playing God?",
+    "Would you allow scientists to use your stem cells to reproduce body parts for you?",
+    "Do you think the religious leaders should stay out of the debate on stem cell research?",
+    "Do you think stem cell research will provide cures to many illnesses?",
+    "Do you think stem cell research will be a normal and accepted part of medicine in the future?",
+    "What springs to mind when you hear the term 'stem cell research'?",
+    "What do you think stem cells are and why do you think they are so useful?",
+    "Stem cells are taken from laboratory-created embryos that are four or five days old. Is this murder?",
+    "Do you think new viruses might accidentally be created with the use of stem cells?",
+    "Are you worried that stem cell research is like cloning?",
+    "Do you think it's wrong to put the brakes on scientific research, especially with something like stem cell research?",
+    "Do you think stem cell research is like creating Frankenstein's monster?",
+    "Would you help fund stem cell research if it helped cure people you know from illness?",
+    "Where will stem cell research be 50 years from now?",
+    "What would you really like to know about stem cell research?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-snakes",
+  "title": "Snakes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like snakes?",
+    "How important are snakes in nature?",
+    "What do you know about the different kinds of snakes?",
+    "Do you think snakes make good pets?",
+    "Why are so many people afraid of snakes?",
+    "Would you like to eat snake?",
+    "What do you know about deadly, venomous snakes?",
+    "What would you do if a snake bit you?",
+    "What do you think of snake-skin products?",
+    "What do you think a snake does all day?",
+    "What springs to mind when you hear the word 'snake'?",
+    "What kinds of snakes are there in your country?",
+    "What's creepier, a snake or a hairy spider?",
+    "Could you touch, hold or put a snake around your neck?",
+    "What's the best snake movie?",
+    "What would you do if you found a snake in your living room?",
+    "What abilities of a snake would you like to have?",
+    "What does it mean if there is a snake in your dream?",
+    "Do you have any personal snake stories?",
+    "Do you think it would be interesting to study and work with snakes?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

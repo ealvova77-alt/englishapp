@@ -1,0 +1,20 @@
+{
+  "id": "easy-naked",
+  "title": "Naked",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 9,
+  "questions": [
+    "Have you ever been to a nudist beach? What was it like? (If you have never been to a nudist beach, would you like to? Why/not?)",
+    "Why do you think nudity is acceptable to some people/cultures but not to others?",
+    "How acceptable is nudity in your country? In what situations is it acceptable (films, art, the news, documentaries etc)?",
+    "Why is nudity often considered shocking?",
+    "At what age do you think children should be allowed to see nude adults in the media (in films, in documentaries, in paintings, etc.)?",
+    "Do you think there is too much nudity in your country or too little?",
+    "Do you think people who go naked in public should be arrested? Why/not?",
+    "Do you think advertising posters in public places should be allowed to show naked people, topless women, etc? Why/not?",
+    "Have you ever accidentally walked in on someone in the nude (or vice versa)? What happened? What did you say?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

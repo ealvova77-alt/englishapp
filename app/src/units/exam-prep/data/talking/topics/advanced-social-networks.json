@@ -1,0 +1,25 @@
+{
+  "id": "advanced-social-networks",
+  "title": "Social Networks",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 14,
+  "questions": [
+    "Which social network sites do you use? Which one is your favorite? Why?",
+    "How much time do you spend on social networking sites?",
+    "What do you think of facebook?",
+    "What do you think of twitter?",
+    "What do you think of pinterest?",
+    "Do you share your photos on social networks?",
+    "What are the good things about social networks? What are the bad things?",
+    "Do your friends use social networking sites?",
+    "Do you think these sites can be addictive? Why?",
+    "Have you had any problems on these sites? What were they?",
+    "When did you first start using them?",
+    "How could you practise your English on these sites?",
+    "What annoys you about these sites?",
+    "Do you have any friends who annoy you on facebook?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

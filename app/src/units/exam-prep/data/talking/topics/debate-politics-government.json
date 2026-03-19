@@ -1,0 +1,30 @@
+{
+  "id": "debate-politics-government",
+  "title": "Politics, Government",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 19,
+  "questions": [
+    "How are government officials chosen in your country? Do you think this method is fair?",
+    "In your opinion, how much should governments contribute to university education?",
+    "How interested are you in politics?",
+    "What type of information--if any--do you think a government should keep from its citizens?",
+    "What do you think is the most important political issue right now? Why is it important?",
+    "How much does a politician's personal life effect their ability to do their job? Why do you think the media pays a lot of attention to politicians' personal lives?",
+    "Can you describe an important political event in your country's recent history?",
+    "Why do you think the US government doesn't do more about guns?",
+    "What do you think of American politics?",
+    "Which American political figure do you admire?",
+    "How successful do you think the European Union has been/will be?",
+    "Is military service required in your country? Do you think it's a good idea?",
+    "Do you think it's important for a country to have a strong military? Why or why not?",
+    "What do you think of President Barack Obama?",
+    "Have you ever been to a political demonstration or rally?",
+    "Why do you think there aren't more women in politics?",
+    "Do you think people pay more attention to female politicians than male ones?",
+    "What can governments do about poverty?",
+    "The US has one lawyer for every ten people. Why do you think this is?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

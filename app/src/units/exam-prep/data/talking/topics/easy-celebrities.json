@@ -1,0 +1,27 @@
+{
+  "id": "easy-celebrities",
+  "title": "Celebrities",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "What is a celebrity?",
+    "What do you think are the downsides to being a celebrity?",
+    "Are there any celebrities you hate the sight of?",
+    "Would you like to be interviewed by celebrity magazines?",
+    "Do you think there are different levels of celebrity?",
+    "Which celebrities would you invite to your birthday party and why?",
+    "Is there a differences between a 'celebrity' and a 'famous person'?",
+    "Do you think all celebrities are talented?",
+    "Do you have a favourite celebrity?",
+    "Do you like reading about celebrities in magazines, online etc?",
+    "Would you like to be a celebrity?",
+    "Do you think celebrities like being celebrities?",
+    "Would you see your friends often if you became a world celebrity?",
+    "Have you ever met any celebrities?",
+    "Which two celebrities would you like to see interview one another?",
+    "Which celebrity would you like to swap places with?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

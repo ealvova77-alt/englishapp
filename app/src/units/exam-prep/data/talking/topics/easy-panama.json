@@ -1,0 +1,31 @@
+{
+  "id": "easy-panama",
+  "title": "Panama",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country name Panama?",
+    "What are the good things and bad things about Panama?",
+    "What is Panama famous for?",
+    "What do you know about Panama's history?",
+    "What do you know about Panama's famous canal?",
+    "What do you think about Panamanians?",
+    "What has Panama given to the world?",
+    "Would you like to visit Panama, or live there?",
+    "What do you know about the geography of Panama?",
+    "Who are the most famous Panamanians you know?",
+    "How different is Panama from other Latin American countries?",
+    "Do you think the name 'Panama' is a good name?",
+    "Why do you think Ecuador makes more Panama hats than Panama does?",
+    "What do you think Panama will be like 50 years from now?",
+    "Does your country have good relations with Panama?",
+    "What do you know about sport in Panama?",
+    "What is your idea of a typical Panamanian person?",
+    "What things about Panama do you think Panamanians are proud of?",
+    "What do you know about Panamanian politics?",
+    "What would you like to ask a Panamanian person about Panama?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

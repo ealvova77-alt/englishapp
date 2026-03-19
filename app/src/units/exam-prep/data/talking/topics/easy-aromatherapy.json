@@ -1,0 +1,31 @@
+{
+  "id": "easy-aromatherapy",
+  "title": "Aromatherapy",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'aromatherapy'?",
+    "What do you know about aromatherapy?",
+    "Do you think aromatherapy is a good form of medicine?",
+    "How does aromatherapy work?",
+    "What does someone have to study to become an aromatherapist?",
+    "Would you like to try aromatherapy to cure your ills?",
+    "Do you think aromatherapy could be dangerous?",
+    "Would you like to work as an aromatherapist?",
+    "What do you think aromatherapists think of people who doubt aromatherapy?",
+    "Would you like to learn about aromatherapy and become your own doctor?",
+    "Do you know anyone who has tried aromatherapy?",
+    "What smells make you feel good?",
+    "Why are the oils used in aromatherapy called 'essential' oils? What do you think is essential about them?",
+    "Do you like the idea that aromatherapy uses natural products like lavender oil and peppermint oil?",
+    "Do you think aromatherapy could be effective for reducing stress, helping you sleep, and making you study better?",
+    "If aromatherapy works, why do you think it is not used in most of the world's hospitals?",
+    "Do you think aromatherapy can help with things like broken bones? How?",
+    "Do you think aromatherapy is just a \"hippy thing\"?",
+    "Do you think there are smells that are bad for our health?",
+    "What would you really like to know about aromatherapy?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

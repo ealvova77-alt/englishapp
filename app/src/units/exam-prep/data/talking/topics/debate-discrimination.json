@@ -1,0 +1,31 @@
+{
+  "id": "debate-discrimination",
+  "title": "Discrimination",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "Have you ever been discriminated against?",
+    "Have you ever discriminated against people?",
+    "What is the worst kind of discrimination?",
+    "Do you think discrimination in the world will ever disappear?",
+    "What kind of racial discrimination exists in your country?",
+    "Is there discrimination in your school / company?",
+    "How do people who are discriminated against react in your country?",
+    "Are people in your country discriminated against because of the way they talk?",
+    "Where does discrimination come from?",
+    "Are you someone who holds zero discriminatory beliefs and attitudes?",
+    "What is discrimination?",
+    "What kind of discrimination exists in your country?",
+    "Do you ever have thoughts that are discriminatory?",
+    "Which countries around the world have shocking levels of discrimination?",
+    "Are there strong laws in your country to prevent discrimination?",
+    "What kind of sexual discrimination exists in your country?",
+    "What do you do when you see discrimination?",
+    "Does ageism exist in your country?",
+    "Do you think there is religious discrimination in the war on terror?",
+    "Is there a class or caste system in your country?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

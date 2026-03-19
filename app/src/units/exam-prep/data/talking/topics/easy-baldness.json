@@ -1,0 +1,31 @@
+{
+  "id": "easy-baldness",
+  "title": "Baldness",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think about baldness?",
+    "What causes baldness?",
+    "Do you think there'll ever be a cure for baldness?",
+    "How do you think baldness affects people?",
+    "Do you think bald men and women are attractive?",
+    "Do you think it's a good idea for a bald person to wear a wig?",
+    "Do you feel sorry for teenagers who start receding or thinning on top?",
+    "Does hair loss run in the family?",
+    "Do you think men from different races look good bald?",
+    "Why do we need hair on our heads?",
+    "How much time and money do you spend on your hair?",
+    "If you were bald, would you consider a hair transplant?",
+    "What are the advantages of being bald?",
+    "Would you ever shave your head?",
+    "What are the nicknames for bald people in your country?",
+    "Do you think there should be a World Bald Day - everyone shaves his / her head?",
+    "Can you imagine a totally bald world?",
+    "What advice would you give to someone worried about going bald?",
+    "Do you think combing hair across a bald area of the head to hide the baldness underneath looks good?",
+    "Which famous people look good bald?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-property",
+  "title": "Property",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear the word 'property'?",
+    "Are you interested in property?",
+    "Do you think property is always a good investment?",
+    "Is buying property risky?",
+    "Would you prefer to rent or buy your own property?",
+    "Would you consider buying property overseas?",
+    "Would you like a job selling property?",
+    "Where's the best place to buy property in your country?",
+    "What do you know about the property market?",
+    "Are property values going up or down in your country? What causes these changes?",
+    "Do you think property developers are good for the environment?",
+    "Why do poor people always lose out to property developers?",
+    "Which do you think offers the best investment, commercial property or residential property?",
+    "Who gets the property in a divorce?",
+    "What do you think of the property taxes in your country?",
+    "What does a property management company do?",
+    "What is intellectual property and how important is it?",
+    "What do you know about private property laws in your country?",
+    "What do you know about property booms and slumps in your country?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

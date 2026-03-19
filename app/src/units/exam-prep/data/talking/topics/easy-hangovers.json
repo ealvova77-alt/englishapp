@@ -1,0 +1,30 @@
+{
+  "id": "easy-hangovers",
+  "title": "Hangovers",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What do you imagine when you hear the word 'hangover'?",
+    "Do you get hangovers?",
+    "Why do some people get worse hangovers than others?",
+    "Do you have any sympathy for people with a hangover?",
+    "Do you think having a bad hangover is a good excuse to take a day off sick from work?",
+    "Why don't people stop drinking forever after a bad hangover?",
+    "What are the symptoms of a hangover?",
+    "What do people usually do when they have a hangover?",
+    "Do you think scientists will ever produce a cure for hangovers?",
+    "How long do hangovers last for?",
+    "What do you think when you see someone nursing a hangover?",
+    "Do you think hangovers are or can be dangerous?",
+    "Has a bad hangover ever stopped you from missing something or doing something important?",
+    "What do you eat when you have a hangover?",
+    "Some people believe in the \"hair of the dog\" - having another alcoholic drink - as a hangover cure. Do you think this is good?",
+    "What do you think the hangover blues are?",
+    "Why do you think a hangover is called a hangover?",
+    "What do you know about the science and biology of hangovers?",
+    "How many times do you think the average drinker says 'never again'?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

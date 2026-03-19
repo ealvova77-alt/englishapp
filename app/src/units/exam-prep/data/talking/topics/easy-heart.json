@@ -1,0 +1,31 @@
+{
+  "id": "easy-heart",
+  "title": "Heart",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'heart'?",
+    "What do you know abut the human heart?",
+    "Do you ever think about your heart?",
+    "Do you worry about having heart problems?",
+    "Is there a history of heart disease in your country?",
+    "Do you know the names of the different parts of the heart?",
+    "What do you know about heart transplants?",
+    "What do you think of transplanting an animal heart into a human?",
+    "Does your heart ever miss a beat?",
+    "Where do you think the romantic heart shape comes from?",
+    "Do you have a lifestyle that looks after your heart?",
+    "When and how do you think a human heart first starts beating?",
+    "What things are really bad for your heart?",
+    "What do you know about heart attacks?",
+    "When does your heart pound?",
+    "Have you ever had a broken heart?",
+    "What can you do to look after your heart?",
+    "What do you know about your heart rate?",
+    "Do you think governments should do more to reduce heart disease in your country?",
+    "Do you think scientists will produce a mechanical heart one day that will be able to work forever?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

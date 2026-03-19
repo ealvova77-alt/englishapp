@@ -1,0 +1,26 @@
+{
+  "id": "debate-guns",
+  "title": "Guns",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 15,
+  "questions": [
+    "Do you own a gun? If so, what do you use it for?",
+    "In your opinion, is it a basic human right for people to be able to own, carry and use guns?",
+    "How old must you be to buy a gun in your country? Do you think this age limit is right?",
+    "How easy or difficult is it for people in your country to buy a gun?",
+    "Is it better to keep guns at home or at gun clubs?",
+    "In your opinion, do people have the right to shoot intruders in their home?",
+    "Do you think there should be a limit on the number of guns one person can own? If so, what do you think would be a reasonable number?",
+    "Are hunting, shooting and target practise popular pastimes in your country? Why do you think this is?",
+    "Have you ever been in a situation where you have had to stick to your guns? What happened?",
+    "Do you know anyone who had a shotgun wedding? What was it like?",
+    "Have you ever jumped the gun in a situation? What happened?",
+    "Gun ownership is quite common in many countries but gun violence seems most prevalent in the United States of America. Why do you think this is?",
+    "In your opinion, what can be done to reduce gun-related crimes?",
+    "To what extent do you think the film and music industries glorify guns?",
+    "What do you think can be done to prevent people going on killing sprees and shooting large numbers of members of the public (e.g Hungerford, UK, Virginia Tech, USA)?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

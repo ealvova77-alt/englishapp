@@ -1,0 +1,31 @@
+{
+  "id": "easy-cosmetics",
+  "title": "Cosmetics",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think of cosmetics?",
+    "Is there anything strange about people using cosmetics?",
+    "How much more beautiful do you / do people look with cosmetics?",
+    "Do you think cosmetics are reasonable priced?",
+    "What do you think of men wearing lipstick, mascara and foundation?",
+    "Why is most lipstick red or pink? What's wrong with black or green?",
+    "Do you think people look better without make-up and cosmetics?",
+    "Don't you think cosmetics are a waste of money?",
+    "Do people use cosmetics because they lack confidence?",
+    "Do you think we'll always use cosmetics?",
+    "How important are cosmetics?",
+    "Do you think cosmetics are good for the skin?",
+    "From what age is it OK to start using cosmetics?",
+    "Do you believe cosmetics companies' ads that say their products erase wrinkles and slow down the aging process?",
+    "Do you know anyone who uses too much make-up?",
+    "Do people use cosmetics differently in different countries?",
+    "Which cosmetics and cosmetics companies are best?",
+    "Do you think cosmetics companies should advertise their products using 'normal' women, instead of supermodels?",
+    "How long do you think people spend each day applying and removing cosmetics?",
+    "What new type of cosmetics would you like to see on the market?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

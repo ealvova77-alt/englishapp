@@ -1,0 +1,31 @@
+{
+  "id": "easy-magazines",
+  "title": "Magazines",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'magazines'?",
+    "What were the first magazines you started reading?",
+    "Do you subscribe to any magazines?",
+    "What do you think of the selection of magazines usually found in dental clinics, doctor's surgeries and hair salons?",
+    "What's your favourite magazine?",
+    "Do you think there are magazines for every kind of hobby and interest?",
+    "Do you read magazines that are published especially for English learners?",
+    "Do you think magazines in English are better than those in your own language?",
+    "Do you keep magazines after you've read them or do you throw them away?",
+    "Do you ever read online magazines? Do you think they are better than paper magazines?",
+    "Do you read magazines in English?",
+    "What kinds of magazines are there in your country?",
+    "Which do you like better, magazines or newspapers?",
+    "Do you ever read or look at magazine's written for members of the opposite sex - men's magazine and women's magazines?",
+    "How different do you think magazines are in Arab countries, Japan and Sweden?",
+    "What kinds of magazines in your country are on the top shelf? Is this where they belong?",
+    "Are magazines the best thing to use to kill insects in your house?",
+    "Would you prefer to read a fashion, gossip, sports or car magazine?",
+    "What magazine would you like to see created that would be perfect for you?",
+    "If your face could be on the cover of any magazine in the world, what publication would you choose, and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

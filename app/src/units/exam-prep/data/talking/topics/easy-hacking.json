@@ -1,0 +1,30 @@
+{
+  "id": "easy-hacking",
+  "title": "Hacking",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What do you know about hacking?",
+    "Why do you think hackers do what they do?",
+    "Do you think hackers add to new technology developments?",
+    "What do you think technology companies think about hackers?",
+    "Are you worried someone could hack into your computer?",
+    "What could you lose if someone hacked into your computer and how upset would you be?",
+    "Do you always download security updates to protect your computer from hackers?",
+    "Do you think large companies fear hackers?",
+    "Who do you think is ahead of the game, the hackers or the software companies?",
+    "What kind of damage could terrorist hackers do?",
+    "Have you heard of any big hacking cases?",
+    "Many companies hide hacking attempts against them because of public relations embarrassment. Do you think hacking is a bigger problem than we hear about?",
+    "What punishment should a hacker receive?",
+    "What do you think of the schoolchild hackers that get in the news?",
+    "Do you think your computer is becoming less or more secure?",
+    "Do you think it's possible for a hacker to steal and take over your whole identity and life?",
+    "Do you think a hacker could take over another country?",
+    "Do you worry that hackers read your e-mail or credit card details?",
+    "What question would you like to ask a hacker? What do you think his / her answer would be and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

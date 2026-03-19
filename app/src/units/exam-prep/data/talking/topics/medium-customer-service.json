@@ -1,0 +1,23 @@
+{
+  "id": "medium-customer-service",
+  "title": "Customer Service",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 12,
+  "questions": [
+    "What is the best way to deal with a complaining customer, in your opinion?",
+    "Would you like to work in a department that dealt with customer complaints? Why/why not?",
+    "Which types of businesses have the best customer service? Which have the worst?",
+    "Do you think customer service is better or worse than it was 20 years ago?",
+    "What is your opinion of customer service hotlines? Have you ever called such a hotline?",
+    "Do you think more and more companies will use call-centres and hotlines in the future?",
+    "Do you think people who work in customer service should be specially trained?",
+    "What are the best/worst qualities for someone to have if they work in customer service?",
+    "Does your company have a good customer service department?",
+    "What do you think is the key to providing good customer service?",
+    "Do you think customer service is better or worse in other countries?",
+    "Have you ever returned a product you had bought? What happened?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-homework-activities",
+  "title": "Homework Activities",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'homework'?",
+    "What do you think when your teacher says you're going to have some homework?",
+    "What kind of homework do you like most?",
+    "Do you like the homework activities your teacher gives you?",
+    "What happens when you don't do your homework?",
+    "Would you like your teacher to give you more or less homework?",
+    "How important do you think homework is?",
+    "Do you always understand the reasons why the teacher asks you to do a particular homework activity?",
+    "Do you have a special routine and place to study when you do homework?",
+    "Do you have a different attitude to English homework now than you did when you were younger?",
+    "Do you ever do homework in class?",
+    "Do you ever think homework is a waste of time?",
+    "Do you think it's better if you choose the things to study at home and set your own homework?",
+    "Do you think life outside the classroom is like a kind of ongoing homework?",
+    "Do you ever do your homework with friends or ask someone to help you?",
+    "What advice would you give to a student who says he/she hates homework?",
+    "Do you think your teacher spends enough time looking at your homework?",
+    "What was the last piece of homework you really loved doing?",
+    "Do you think you need a homework after every class?",
+    "What questions would you like to ask your teacher about homework?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

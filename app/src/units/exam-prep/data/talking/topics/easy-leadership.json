@@ -1,0 +1,30 @@
+{
+  "id": "easy-leadership",
+  "title": "Leadership",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'leadership'?",
+    "Do people automatically have leadership or must they learn it?",
+    "Why is good leadership important?",
+    "What do you think of the leadership of your country?",
+    "What is the most important thing a leader must remember about leadership?",
+    "Have you ever been in positions of leadership?",
+    "What leadership quality do you most value/admire?",
+    "Who in the world do you think possesses the greatest leadership skills?",
+    "Would you like to take a course in leadership?",
+    "What do you think of the leadership of the US President and your country's leader?",
+    "What leadership qualities do you want or need in the future?",
+    "Are people who have leadership qualities more physically attractive than people with no leadership skills?",
+    "Is there always stress with leadership?",
+    "Does leadership exist in a romantic partnership?",
+    "Is leadership an art or a science?",
+    "Do you think people with no leadership skills have a more or les happy life?",
+    "Does good leadership require bullying?",
+    "What different kinds of leadership styles are there?",
+    "How often are there leadership battles in your country? Do they interest you?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

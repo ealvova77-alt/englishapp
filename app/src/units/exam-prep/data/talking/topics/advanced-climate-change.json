@@ -1,0 +1,31 @@
+{
+  "id": "advanced-climate-change",
+  "title": "Climate Change",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "How do you feel about climate change?",
+    "Are you more worried about climate change or the war on terror?",
+    "Has climate change affected the country in which you live?",
+    "Do you believe everything scientists say about climate change?",
+    "Do you believe everything politicians say about climate change?",
+    "What do you think the world's climate will be like 50 years from now?",
+    "What do you do to try to limit the effects of climate change?",
+    "What is your country doing to limit the effects of climate change?",
+    "Do you think the USA and China are doing enough?",
+    "How often do you thin about climate change?",
+    "How would you explain climate change to someone who knew nothing about it?",
+    "What can the world do to reverse climate change?",
+    "Are \"eco-friendly\" cars and electrical appliances really eco-friendly?",
+    "What will our grandchildren think of us using so much carbon?",
+    "What do you know about carbon footprints?",
+    "Which industries need to become cleaner and greener?",
+    "Do you think there'll be climate change refugees in the future?",
+    "What are you most worried about with climate change?",
+    "Are there any positives to come from climate change?",
+    "Is climate change the worst thing ever to happen to humankind?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

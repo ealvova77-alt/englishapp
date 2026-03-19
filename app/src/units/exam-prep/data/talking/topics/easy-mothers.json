@@ -1,0 +1,31 @@
+{
+  "id": "easy-mothers",
+  "title": "Mothers",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'mother'?",
+    "Can you describe your mother in one word? Why that word?",
+    "Have you ever thought that mothers might have ESP?",
+    "Do you always buy your mother a present on Mother's Day?",
+    "What are the differences between a mother and a mother-in-law?",
+    "In what ways do you take after your mother?",
+    "What is your mother's biggest fault?",
+    "Is your mother more like a mother or a best friend?",
+    "What do/did your mother and you argue about?",
+    "What do you think of Mother's Day? Is it necessary?",
+    "What are the biggest differences between mothers and fathers?",
+    "Why and how did your father fall in love with your mother?",
+    "Are you happy with the way your mother raised you?",
+    "Should mothers stay at home and look after the kids?",
+    "What's the best piece of advice your mother has given you?",
+    "Do you think mothers are the same all around the world?",
+    "How are mothers and grandmothers different?",
+    "What do you think is the hardest thing about being a mother?",
+    "What's the biggest lie you've ever told your mother?",
+    "What do you talk to your mother about on the phone?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

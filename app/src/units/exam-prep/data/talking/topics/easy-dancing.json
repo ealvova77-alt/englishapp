@@ -1,0 +1,30 @@
+{
+  "id": "easy-dancing",
+  "title": "Dancing",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Do you like dancing?",
+    "How often do you dance?",
+    "What kinds of dancing can we see in your country?",
+    "Do you like dancing in discos?",
+    "Do you have any early memories of dancing?",
+    "Why do people like to dance?",
+    "Do you ever go to see dance performances?",
+    "What dances from other countries do you like?",
+    "Are you good at dancing?",
+    "Is there a national dance in your country?",
+    "Are there any famous dancing groups in your country?",
+    "Do you think being a professional dancer would be a good job?",
+    "Do you like movies about dancing?",
+    "What kind of music do you think is good to dance to?",
+    "Do you prefer dancing alone or with other people?",
+    "What do you think of ballet?",
+    "Do you ever dance in the streets at festivals?",
+    "Have you seen or taken part in dances that tell a story?",
+    "What is the difference between a good dancer and a bad dancer?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

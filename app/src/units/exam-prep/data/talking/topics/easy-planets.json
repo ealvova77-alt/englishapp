@@ -1,0 +1,31 @@
+{
+  "id": "easy-planets",
+  "title": "Planets",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'planets'?",
+    "Are you interested in the planets?",
+    "What do you think of the planet names?",
+    "What do you think is the most mysterious planet?",
+    "Do you think there's life on other planets?",
+    "Would you like to visit another planet?",
+    "Do you think we should look for life on other planets?",
+    "How are all the planets different?",
+    "What do the names of the planets mean?",
+    "Would you like to see our planet from space?",
+    "What are planets?",
+    "How are planets formed?",
+    "Why doesn't life exist on other planets in our solar system?",
+    "What do you think of the idea of moving to another planet after we're finished with Earth?",
+    "Do you know anyone who's from another planet?",
+    "Do you think it will be possible one day to go to planets in other solar systems?",
+    "Do you think there'll ever be a war between planets - Star Wars?",
+    "What fictional planets do you know of from books and movies?",
+    "Do you think our planet will survive?",
+    "Do you think Earth is a good name for our planet? Is it the same in your language?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

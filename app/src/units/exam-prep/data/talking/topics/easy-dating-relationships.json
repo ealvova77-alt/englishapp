@@ -1,0 +1,24 @@
+{
+  "id": "easy-dating-relationships",
+  "title": "Dating, Relationships",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "What qualities are most important to you in a partner? For example, intelligence, sense of humor, money.",
+    "Would you like to have a boyfriend or girlfriend who was a lot more attractive than you? What about a husband or wife?",
+    "If you cheated on your partner, would you tell him or her? Why or why not?",
+    "Would you move to a place far from your family and friends to be with the person you loved? Why or why not?",
+    "Can you describe a perfect romantic evening? Is it common for couples to live together before marriage in your country? Would you want to live with someone before marriage? Why or why not?",
+    "How old were you when you went on your first date? Who was it with? Where did you go and what did you do?",
+    "Would you continue to date someone you really liked if your parents did not like this person? Why or why not?",
+    "Would you ever consider using the personals to find a date? Why or why not? Do you know anyone who has had an arranged marriage? Do you think marriages based on love are more successful than those that are arranged?",
+    "Have you or anyone you've known ever met someone over the Internet? Do you think that these types of relationships can be successful? Why or why not?",
+    "(TO A GIRL) Would you ask a man out? Why or why not?",
+    "(TO A GUY) Would you like it if a woman asked you out? Why or why not?",
+    "Do women usually work after getting married in your country? Why or why not?",
+    "More than half of American marriages end in divorce. What do you think are some of the reasons for this?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

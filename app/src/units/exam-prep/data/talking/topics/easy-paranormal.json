@@ -1,0 +1,24 @@
+{
+  "id": "easy-paranormal",
+  "title": "Paranormal",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "Have you ever been to see a fortune teller or psychic? If so, do you think it was worth the money?",
+    "Do you believe in ghosts? What are they? Have you ever seen or felt one?",
+    "What numbers are lucky in your country? Unlucky? Do you have a lucky number? Unlucky?",
+    "Do you know of any haunted places? Have you ever been to one of them?",
+    "What do you for good luck? Do you think it works?",
+    "Have you (or anyone you know) ever had a dream that later came true?",
+    "What sign are you? Do you think your personality reflects this? Do you read your horoscope? If so, how seriously do you take it?",
+    "Do you believe in ESP? Can some people know what other people are thinking or feeling?",
+    "Have you (or anyone you've heard of) ever had an out of body experience? Do you believe there are people who can see things hidden from view?",
+    "What do you know about Nostradamus? Do you think that some people can predict the future?",
+    "Do you think that UFOs carry visitors from another planet?",
+    "How do people predict fortunes in your country? What do you think of these ways?",
+    "Has anything ever happened to you that you cannot explain? What other things exist in the world that cannot be explained?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

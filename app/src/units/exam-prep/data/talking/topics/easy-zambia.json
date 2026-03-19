@@ -1,0 +1,31 @@
+{
+  "id": "easy-zambia",
+  "title": "Zambia",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country 'Zambia'?",
+    "What are the good things and bad things about Zambia?",
+    "What is Zambia most famous for?",
+    "What do you know about Zambia's history?",
+    "What are the differences between Zambia and your country?",
+    "What do you think about Zambian people?",
+    "What has Zambia given to the world?",
+    "Would you like to visit Zambia, or live there?",
+    "What do you know about the geography of Zambia?",
+    "Who are the most famous Zambian people you know?",
+    "How different is Zambia from other African countries?",
+    "What was the last news story you heard about Zambia?",
+    "What do you think Zambia's neighbours think of it?",
+    "What do you think Zambia will be like 50 years from now?",
+    "Does your country have good relations with Zambia?",
+    "What could you do on a holiday in Zambia?",
+    "What is your idea of a typical Zambian person?",
+    "What things about Zambia do you think Zambians are proud of?",
+    "What do you know about Zambian culture?",
+    "What would you like to ask a Zambian person about Zambia?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

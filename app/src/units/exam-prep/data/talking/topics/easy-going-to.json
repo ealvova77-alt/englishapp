@@ -1,0 +1,31 @@
+{
+  "id": "easy-going-to",
+  "title": "Going to",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What are you going to do with your life?",
+    "What are you going to do after this class?",
+    "Where are you going to go for your next holiday?",
+    "Are you going to meet anyone at the weekend?",
+    "Are you going to watch television tonight?",
+    "What book are you going to read next?",
+    "When are you going to give up your bad habits?",
+    "What's the next big decision you're going to make?",
+    "Where in the world are you going to travel?",
+    "Are you going to play any video games later today?",
+    "What hairstyle are you going to have next?",
+    "What are you going to have for lunch / dinner?",
+    "What are you going to do on your next birthday?",
+    "How are you going to get better at speaking English?",
+    "Who are you going to text or send an e-mail to today?",
+    "What mobile phone are you going to buy next?",
+    "What are you going to do after you finish studying?",
+    "Are you going to be rich and famous?",
+    "When are you going to stop studying English?",
+    "Are you going to live happily ever after?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

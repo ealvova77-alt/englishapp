@@ -1,0 +1,31 @@
+{
+  "id": "debate-abortion",
+  "title": "Abortion",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What is abortion?",
+    "Do you think abortion should be legal or illegal?",
+    "Do you think there are any special cases in which abortion is acceptable?",
+    "How does the law regard abortion in your country?",
+    "How does your religion or others treat abortion?",
+    "Do you think the morning after pill is the same as abortion?",
+    "Some people think doctors who carry out abortions are murderers. What do you think?",
+    "If your 13-year-old daughter became pregnant, what advice would you give her?",
+    "Why allow an unwanted baby to be born?",
+    "Does the mother have the right to control her own body?",
+    "Is abortion a social problem in your country?",
+    "Is abortion dangerous?",
+    "Do you sympathize with the pro-life argument?",
+    "Do you sympathize with the \"right to choose\" argument?",
+    "If a woman wants an abortion, what rights does the father have?",
+    "Is having an abortion a selfish choice?",
+    "Do you think abortions should be encouraged for girls of 12, 13 or 14 years old?",
+    "When is the fertilized egg a human being?",
+    "What do you think of back-street abortionists?",
+    "What would you want to tell the unborn child?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-eating",
+  "title": "Eating",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "How much do you enjoy eating?",
+    "What time of the day do you most enjoy eating?",
+    "Do you have a midnight snack?",
+    "Where in your house is your favourite place to eat?",
+    "Who do you like eating with most?",
+    "Do you like watching TV while you eat?",
+    "Are there any rules in your house when you eat?",
+    "Are you a slow or fast eater?",
+    "Are you a fussy / picky eater?",
+    "When was the last time you were so hungry that you felt you could eat a horse?",
+    "Do you ever get bored of eating?",
+    "How many times do you chew your food?",
+    "What do you think of people who eat food on trains or buses?",
+    "Are there any rules in your country about eating in public?",
+    "Do you think eating should always be a social occasion?",
+    "What eating manners do you have in your country that you like and dislike?",
+    "Is the issue of healthy eating important to you?",
+    "Have you ever suffered from eating disorders?",
+    "Have you ever had an eating competition with your family or friends?",
+    "Do you ever eat too much?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

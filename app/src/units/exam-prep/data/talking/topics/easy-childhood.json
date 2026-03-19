@@ -1,0 +1,18 @@
+{
+  "id": "easy-childhood",
+  "title": "Childhood",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 7,
+  "questions": [
+    "What is your earliest memory? How old were you at the time?",
+    "Can you describe your happiest memories of childhood?",
+    "Were you naughty as a child? What's the naughtiest thing you did?",
+    "How was your childhood different from that of your parents and grandparents?",
+    "Do you think that childhood is shorter these days than it was in the past? Do children grow up too fast nowadays? Do you think they become mature at a younger age than in the past? If so, what do you think are the implications of this - what are the advantages and disadvantages?",
+    "In the book by J.M. Barrie, the character Peter Pan never grew up. Do you think there is a part in all of us which never grows up or doesn't want to grow up? What are the advantages and disadvantages being 'young at heart'?",
+    "Do you think that children grow up too quickly nowadays?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

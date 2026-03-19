@@ -1,0 +1,31 @@
+{
+  "id": "easy-arguing",
+  "title": "Arguing",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'argue'?",
+    "How good are you at arguing?",
+    "Are there any good things about arguing?",
+    "Who is the worst person to argue with? Why?",
+    "Who is the most argumentative person you know?",
+    "What do people usually argue about?",
+    "Is it wrong to argue with your elders?",
+    "How often do you feel frustrated in an argument?",
+    "What was the last argument you had?",
+    "Have you ever lost a friend because of an argument?",
+    "What do you like and dislike about arguing?",
+    "What's the best way to win an argument?",
+    "Is it best to avoid arguments?",
+    "What kind of arguments do you dislike?",
+    "What do you think of heated arguments?",
+    "What do you think of the person you are arguing with?",
+    "How often do you wish you had never argued?",
+    "What topics would you never argue about?",
+    "What is the best way to make up after an argument?",
+    "Who do you not like to see arguing? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

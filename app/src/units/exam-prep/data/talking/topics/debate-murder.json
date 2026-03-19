@@ -1,0 +1,31 @@
+{
+  "id": "debate-murder",
+  "title": "Murder",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "Why do humans murder?",
+    "Is the death penalty murder?",
+    "Is it ever OK to kill someone?",
+    "Is killing someone in self-defence murder?",
+    "In your wildest rage, anger, jealousy, etc, are you capable of murder?",
+    "Is abortion murder?",
+    "What is the difference between assassination, murder and manslaughter?",
+    "If you saw someone very close to you murder someone, would you turn them in to the police?",
+    "What's the difference between 'kill' someone and 'murder' someone?",
+    "If a person kills their clone, is it murder or suicide?",
+    "What springs to mind when you hear the word 'murder'?",
+    "Is killing animals for meat and fur murder?",
+    "It was murder on the roads getting home tonight. Is the rush hour in your town also murder?",
+    "In English, people say \"I'll murder him/her\" when they are angry with someone. What do you think of this?",
+    "What high profile murder has happened in your town?",
+    "Do you think there's too much murder on TV?",
+    "If you saw a murder at close hand, how would you deal with the murderer?",
+    "What would you do if you discovered your new partner, neighbour or flatmate had just been released from prison for mass murder?",
+    "Is it murder to take someone's life in a war?",
+    "How would the world be different today if leaders such as Ghandi, Martin Luther King, JFK and Malcom X had not been murdered?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

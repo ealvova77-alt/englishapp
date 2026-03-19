@@ -1,0 +1,30 @@
+{
+  "id": "easy-sound",
+  "title": "Sound",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'sound'?",
+    "What are your favourite sounds?",
+    "Which sounds in English do you have problems with?",
+    "What's the most annoying sound to wake up to?",
+    "What are the differences between a sound and a noise?",
+    "Can you walk around your house without making a sound?",
+    "Would you like to travel at the speed of sound?",
+    "Do you sound like your parents?",
+    "What's the sound quality of your music player like?",
+    "Do you always like the sound effects when you watch a movie?",
+    "Do you like the sound of your own voice?",
+    "What sounds do you hear in bed at night?",
+    "Do you like the sound of the dentist's drill?",
+    "Whose voice do you hate the sound of?",
+    "What do you think people originally thought of talkies - the first movies with sound?",
+    "Which do you think sounds better, digital sound or analogue sound?",
+    "What sounds from nature do you like most?",
+    "What three sounds would you choose as the main characters of a story?",
+    "Which sounds in your language do you think are difficult for foreigners?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

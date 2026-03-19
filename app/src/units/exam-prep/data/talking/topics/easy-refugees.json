@@ -1,0 +1,31 @@
+{
+  "id": "easy-refugees",
+  "title": "Refugees",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'refugee'?",
+    "What makes a refugee a refugee?",
+    "Are there many refugees in your country?",
+    "What rights do and don't refugees have?",
+    "Do you think the image of refugees has changed over the years?",
+    "What's the difference between political refugees and economic refugees?",
+    "What do you think it's like to suddenly lose your home and way of life and end up on a refugee camp?",
+    "What problems do refugees bring to the countries they go to?",
+    "What benefits are there to countries who accept refugees?",
+    "When do you think the concept of refugees first started?",
+    "How do you think countries decide who is a refugee and who isn't?",
+    "Can you be a refugee in your own country?",
+    "What rights and benefits should a country give to those who give refugee status to immigrants?",
+    "If a refugee camp turns into a bustling town with businesses, roads and communities, is it still a refugee camp?",
+    "What should people do on World Refugee Day (June 20)?",
+    "What do you know about the UN's refugee agency, the UNHCR (United Nations High Commission for Refugees)?",
+    "What's the difference between a refugee, a migrant and an internally displaced person?",
+    "Where do you think today's refugees from Darfur, Iraq, Burma and Palestine will be twenty years from now?",
+    "Would you give money to refugee charities?",
+    "What questions would you ask a refugee?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

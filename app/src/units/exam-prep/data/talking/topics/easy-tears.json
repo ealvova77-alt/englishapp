@@ -1,0 +1,31 @@
+{
+  "id": "easy-tears",
+  "title": "Tears",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'tears'?",
+    "Are tears different for men and women?",
+    "What are the functions of tears?",
+    "Have you ever burst into tears in public?",
+    "When do tears well up in your eyes?",
+    "Have you ever had tears of laughter and tears of joy?",
+    "What childhood activities always ended in tears?",
+    "When was the last time you bit your lip and fought back the tears?",
+    "Antoine de Saint-Exupery said: \"It is such a secret place, the land of tears.\" Do you agree?",
+    "Someone once said: \"Tears are words the heart can't express.\" Do you agree?",
+    "When was the last time you cried?",
+    "Do you like children's tears?",
+    "Are there different kinds of tears?",
+    "Have you ever run out of tears?",
+    "Can you easily hold back your tears?",
+    "What images, situations or people can always reduce you to tears?",
+    "Have you ever been bored to tears? Is this the beginning of being bored silly, then bored senseless, then being bored to death?",
+    "Has a book or movie ever moved you to tears?",
+    "Someone once said: \"A woman wears her tears like jewelry.\" What does this mean? Do you agree with?",
+    "Someone once said: \"Our eyes need to be washed by our tears once in a while, so that we can see life with a clearer view again.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

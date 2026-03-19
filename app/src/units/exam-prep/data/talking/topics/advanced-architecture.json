@@ -1,0 +1,31 @@
+{
+  "id": "advanced-architecture",
+  "title": "Architecture",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'architecture'?",
+    "How important is architecture?",
+    "What would you say about the architecture in your country?",
+    "What would you learn if you studied architecture?",
+    "What do you think of modern architecture?",
+    "What is your favourite building in the world (and why)?",
+    "What do architects need to be good at?",
+    "What architecture do you like from other countries?",
+    "Which country has the best architecture?",
+    "What is more important - building appearance or comfort for humans?",
+    "How interesting is architecture?",
+    "What do you think about the architecture of your home?",
+    "What would you like to change about the buildings in your town?",
+    "How important are architects?",
+    "Do you know any famous architects or architect companies?",
+    "Which period in history has the best architecture?",
+    "What is the relationship between architecture and nature?",
+    "What can architects learn from nature?",
+    "What is the greatest architectural achievement in history?",
+    "What will architecture be like in 100 years from now?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

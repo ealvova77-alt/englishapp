@@ -1,0 +1,31 @@
+{
+  "id": "medium-journalism",
+  "title": "Journalism",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What is journalism?",
+    "What do you know or can guess about the history of journalism?",
+    "Would you be interested in studying journalism?",
+    "Is journalism a respected profession in your country?",
+    "What do you think of the journalism on news stations like the BBC and CNN?",
+    "What is the quality of journalism like in your country?",
+    "Are there government controls on journalism in your country?",
+    "What good does journalism do in the world?",
+    "Is journalism always about reporting the truth?",
+    "What do you think a career in journalism would be like?",
+    "Do you think journalism is different in different countries around the world?",
+    "What kind of journalism are you most interested in?",
+    "What do you think of journalists who report in war zones?",
+    "What kind of people are good at journalism?",
+    "Do you think people can make a lot of money from journalism?",
+    "Do you think investigative journalism would be interesting?",
+    "How important is journalism in today's world?",
+    "What do you think of the paparazzi and gutter press?",
+    "Do you think the Internet can make us all journalists?",
+    "What do you think world leaders and governments think of journalism?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

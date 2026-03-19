@@ -1,0 +1,31 @@
+{
+  "id": "medium-ireland",
+  "title": "Ireland",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Ireland?",
+    "What are the good things and bad things about Ireland?",
+    "What is Ireland famous for?",
+    "What do you know about Irish history?",
+    "What images of Ireland do you have that are beautiful and mysterious?",
+    "What do you think about Ireland?",
+    "What has Ireland given to the world?",
+    "Would you like to visit Ireland, or live there?",
+    "What do you know about the economy of Ireland?",
+    "Who are the most famous Irish people you know?",
+    "How different is Ireland from other European countries?",
+    "What do you know about Ireland's culture?",
+    "Do you think Ireland is a good tourist destination?",
+    "What do you think Ireland will be like 50 years from now?",
+    "Does your country have good relations with Ireland?",
+    "What does your country have in common with Ireland?",
+    "What is your idea of a typical Irish person?",
+    "What things about Ireland do you think Irish people are proud of?",
+    "What do you know about Ireland's geography?",
+    "What would you like to ask an Irish person about Ireland?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

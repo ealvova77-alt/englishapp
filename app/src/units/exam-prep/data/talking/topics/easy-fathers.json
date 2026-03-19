@@ -1,0 +1,31 @@
+{
+  "id": "easy-fathers",
+  "title": "Fathers",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'father'?",
+    "Can you describe your father in one word? Why that word?",
+    "Did your father spend a lot of time with you when you were a child?",
+    "Do you always buy your father a present on Father's Day?",
+    "What are the differences between a father and a father-in-law?",
+    "In what ways do you take after your father?",
+    "What is your father's biggest fault?",
+    "Is your father more like a father or a best friend?",
+    "What do/did your father and you argue about?",
+    "What do you think of Father's Day? Is it necessary?",
+    "What are the biggest differences between fathers and grandfathers?",
+    "Why and how did your mother fall in love with your father?",
+    "Are you happy with the way your father raised you?",
+    "Should father stay at home and look after the kids?",
+    "What's the best piece of advice your father has given you?",
+    "Do you think father are the same all around the world?",
+    "Do you think being a father is more difficult than being a mother?",
+    "What do you think is the hardest thing about being a father?",
+    "What's the biggest lie you've ever told your father?",
+    "What are the biggest roles of fathers?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

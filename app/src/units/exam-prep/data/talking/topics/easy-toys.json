@@ -1,0 +1,31 @@
+{
+  "id": "easy-toys",
+  "title": "Toys",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'toy'?",
+    "What are your favourite toys?",
+    "Do you still play with toys?",
+    "How are today's toys compared with those you played with as a child?",
+    "Are toys too expensive?",
+    "Did children today have too many toys?",
+    "What's the greatest toy ever invented?",
+    "What's the greatest toy yet to be invented?",
+    "Sam Levenson said \"The simplest toy, one which even the youngest child can operate, is called a grandparent.\" Do you agree?",
+    "Tom Robbins said \"the brain is an educational toy\". What does this mean? Do you agree?",
+    "Are toys good or bad?",
+    "What percentage of toys a child has should be educational toys?",
+    "Would you buy a child a toy or a book?",
+    "What's the best toy shop you know of?",
+    "Would you like a job making, designing and testing toys?",
+    "Why do kids like toys?",
+    "If you could be a toy, what would you be?",
+    "What toys are there for adults?",
+    "Bill Gates said about the Internet: \"Nice toy, but what a waste of time.\" What do you think he meant? Do you agree?",
+    "Desmond Morris said \"Life is like a very short visit to a toyshop between birth and death.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

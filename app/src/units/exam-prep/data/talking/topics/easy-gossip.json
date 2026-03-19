@@ -1,0 +1,31 @@
+{
+  "id": "easy-gossip",
+  "title": "Gossip",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is gossip?",
+    "Have you ever been the victim of gossip?",
+    "Are you a gossip?",
+    "How often do you hear gossip?",
+    "Are you interested in celebrity gossip?",
+    "Do you like to know all the gossip about your friends and neighbours?",
+    "Who is the biggest gossip you know?",
+    "How quickly does gossip spread in your school / workplace?",
+    "What are the most common subjects of gossip?",
+    "Is there any gossip about your teacher?",
+    "Why do people gossip or like gossip?",
+    "Have you ever started any gossip?",
+    "Do you read gossip columns in magazines? Why are these so popular",
+    "Do you think it's right that gossip columnists can make a lot of money writing bad things about people that may not be true?",
+    "What is the most malicious piece of gossip you've ever heard?",
+    "How do you feel if people gossip about you?",
+    "What's the difference between gossip and a rumour?",
+    "Eleanor Roosevelt said: \"Great minds discuss ideas; average minds discuss events; small minds discuss people.\" Is this true?",
+    "Why do you think gossip is sometimes 'hot' and sometimes 'juicy'?",
+    "Do you think people who gossip lead sad lives?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

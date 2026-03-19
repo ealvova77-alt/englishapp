@@ -1,0 +1,30 @@
+{
+  "id": "advanced-freedom",
+  "title": "Freedom",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'freedom'?",
+    "Do you have as much freedom as you want in your life?",
+    "Do you have as much freedom as you want in your country?",
+    "In what ways does your country take away your freedom?",
+    "Was there a time in your life when you had a lack of freedom?",
+    "Is everyone in your country equally free?",
+    "What would it be like to live where there is little freedom of choice?",
+    "Do men or women have more freedom in your country?",
+    "Can freedom damage a country?",
+    "Where in the world do you think is the greatest freedom?",
+    "How important is freedom for you?",
+    "Would you fight for your freedom?",
+    "Is working 40 hours a week closer to freedom or slavery?",
+    "What does freedom feel like?",
+    "Do you agree we must be free to bear arms (have a gun)?",
+    "How often do you think about freedom?",
+    "What kind of stories do you hear in the news related to freedom?",
+    "Do you think many people misunderstand the concept of freedom?",
+    "The philosopher Rousseau said \"Man is born free, and everywhere he is in chains\". What do you think of this?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

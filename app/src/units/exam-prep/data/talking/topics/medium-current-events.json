@@ -1,0 +1,28 @@
+{
+  "id": "medium-current-events",
+  "title": "Current Events",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 17,
+  "questions": [
+    "Are you interested in current events and news?",
+    "Is there a difference between news and current events?",
+    "What stories have you been following recently?",
+    "How many hours a day do you spend reading about, watching or listening to news?",
+    "Are you interested in news from other countries?",
+    "When did you first become interested in current events?",
+    "Do you ever read or listen to the news in English?",
+    "Would you prefer to study English using news materials or textbooks?",
+    "Which area of current events would you like to be more knowledgeable about?",
+    "Do you want to study current events in your English class?",
+    "What kind of current events stories do you like?",
+    "What sections of a newspaper or website do you check for current events (health, technology, business, etc)?",
+    "How current is current?",
+    "How much time do you spend discussing current events with friends?",
+    "How do you feel when you haven't heard the news for a few days?",
+    "How often does the news greatly affect your feelings?",
+    "What is your favorite news source?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

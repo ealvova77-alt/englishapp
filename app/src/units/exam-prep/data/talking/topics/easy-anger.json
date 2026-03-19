@@ -1,0 +1,31 @@
+{
+  "id": "easy-anger",
+  "title": "Anger",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'anger'?",
+    "Are you an angry person?",
+    "What are you like when you are angry?",
+    "What's the angriest you've ever been?",
+    "When you get angry, do you stay angry for a long time?",
+    "Do you like looking at other people getting angry?",
+    "What colour is anger?",
+    "What makes you angry about modern life?",
+    "Someone once said: \"For every minute you are angry, you lose sixty seconds of happiness.\" Do you agree?",
+    "Someone once said: \"Anger is one letter short of danger.\" Do you agree?",
+    "Why do we have the emotion of anger?",
+    "Is there anything positive about getting angry?",
+    "Who is the angriest person you know?",
+    "Should anger be a sin?",
+    "Why do we get angriest with the ones we love?",
+    "Who on Earth angers you most?",
+    "What happens when you bottle up your anger?",
+    "Is it easy for you to control and hide your anger?",
+    "Elizabeth Kenny said: \"He who angers you conquers you.\" What do you think she means by this? Do you agree?",
+    "A Chinese Proverb said: \"Never write a letter while you are angry.\" Do you think this is good advice? Have you regretted writing an angry letter?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-rent",
+  "title": "Rent",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'rent'?",
+    "Do you think landlords charge too much for rent?",
+    "Is it better to rent or buy property?",
+    "Should kids with jobs pay rent to their parents?",
+    "What do you need to think about before renting a place to live?",
+    "How important are rent agreements?",
+    "How do you find rented accommodation in your town?",
+    "Would you rent out a room in your house to a lodger?",
+    "What are the advantages and disadvantages of renting rather than buying?",
+    "How often should a landlord put the rent up?",
+    "What experiences do you have of paying rent?",
+    "Would you rather rent an apartment or a house?",
+    "Would you rather rent somewhere just for yourself or with friends?",
+    "What would you worry about if you rented your house or apartment to someone?",
+    "Would you feel like it's your real home if you rented?",
+    "If you rented your property, would you keep visiting it to keep an eye on it?",
+    "What's the most you would pay in rent?",
+    "How should rent be divided between four people in a 3-bedroom house, when 2 people share one bedroom?",
+    "What is a good landlord and a bad landlord?",
+    "Would you spend money on wallpaper, paint, the garden, etc. if you lived in rented accommodation?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

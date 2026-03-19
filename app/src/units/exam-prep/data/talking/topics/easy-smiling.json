@@ -1,0 +1,31 @@
+{
+  "id": "easy-smiling",
+  "title": "Smiling",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'smile'?",
+    "Why is a smile so nice?",
+    "What difference does it make when sales staff smile at you in stores, train stations, etc?",
+    "What can you do in your life to smile more?",
+    "When was the last time you couldn't stop smiling?",
+    "What do you think of the Mona Lisa's smile?",
+    "What made you smile today?",
+    "What memories from your past always put a smile on your face?",
+    "Someone once said: \"Always remember to be happy because you never know who's falling in love with your smile.\" Is this true?",
+    "Is it possible to smile too much?",
+    "What is a smile?",
+    "Are you a smiler? Do you smile a lot? Do you like it?",
+    "If someone smiles at you in the street, what do you think? Do you smile back?",
+    "Who do you know who has the nicest smile? What's so nice about it?",
+    "Do you like your smile?",
+    "Is it easy for you to smile for the camera?",
+    "What things always make you smile?",
+    "A smile is an inexpensive way to change your looks. (Charles Gordy). What do you think about this quote?",
+    "Someone once said: \"Everyone smiles in the same language.\" What do you think?",
+    "It takes seventeen muscles to smile and forty-three to frown. Why don't people smile non-stop if it requires less muscle power?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

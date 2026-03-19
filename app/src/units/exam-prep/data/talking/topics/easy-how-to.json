@@ -1,0 +1,30 @@
+{
+  "id": "easy-how-to",
+  "title": "How to",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Do you know how to be a good listener?",
+    "Do you know how to see in the dark?",
+    "Do you know how to train for a marathon?",
+    "Do you know how to use Windows and Apple computers?",
+    "Do you know how to make people very happy?",
+    "Do you know how to lose weight fast?",
+    "Do you know how to get the guy / girl of your dreams?",
+    "Do you know how to get an upgrade to Business or First Class?",
+    "Do you know how to get rich quick?",
+    "Do you know how to use English punctuation correctly?",
+    "Do you know how to take really good photos?",
+    "Do you know how to make friends?",
+    "Do you know how to look your best?",
+    "Do you know how to handle jealousy?",
+    "Do you know how to get good grades in your English exams?",
+    "Do you know how to look after a baby?",
+    "Do you know how to overcome fear?",
+    "Do you know how to look ten years younger?",
+    "Do you know how to lie?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

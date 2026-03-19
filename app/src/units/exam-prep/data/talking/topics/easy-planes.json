@@ -1,0 +1,24 @@
+{
+  "id": "easy-planes",
+  "title": "Planes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "Do you travel much by plane? How old were you the first time you flew? Did you enjoy it?",
+    "Have you ever flown by helicopter, glider, hot-air balloon, etc?",
+    "How safe do you feel on a plane?",
+    "Which aspects of flying do you a) most enjoy and b) least enjoy?",
+    "What is the worst thing that has ever happened to you during a flight?",
+    "Have you ever suffered delays at an airport or had a flight cancelled? What did you do?",
+    "Would you like to have a pilot's license? Would you be interested in flying large planes, small planes, helicopters or something else? Why?",
+    "What were you doing when you found out that the World Trade Centre twin towers had been hit by hijacked planes on September 9th, 2001?",
+    "How likely do you think it is that a similar terrorist incident involving a plane will happen again?",
+    "What changes do you think need to be made to air travel security measures in order to reduce the terrorist threat?",
+    "Would you feel safer with or without an armed guard on your flight when flying to a high-risk country?",
+    "What concerns you more when you fly: safety (for example, plane maintenance, technological faults or human errors) or security (for example, hijackings or bombings)?",
+    "How would life be different if people stopped travelling by plane? What are the disadvantages and the advantages of alternative means of travel?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

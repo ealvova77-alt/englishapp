@@ -1,0 +1,31 @@
+{
+  "id": "easy-years",
+  "title": "Years",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'year'?",
+    "What has been the best year in your life?",
+    "What important events happened in the year of your birth?",
+    "Has this year been a good year for you?",
+    "Do you make New Year resolutions?",
+    "In what year in history would you like to go back to?",
+    "What was the best thing to happen to you last year?",
+    "What is the best year at school?",
+    "Do you think a year is a long time?",
+    "Which time of the year do you like best?",
+    "What can you get done in a year?",
+    "What things do you do every year?",
+    "Can you remember what you did each year on your birthday?",
+    "How do you feel when a new year arrives?",
+    "What do you think life will be like in the year 2100 and the year 3000?",
+    "If you could take a year out from studying or work, what would you do?",
+    "How long is 'donkey's years'?",
+    "What does it mean to put years on someone or take years off someone?",
+    "Does getting on in years mean getting older or doing well in life?",
+    "Would a book titled \"A year in the life of [ your name ]\" be a good book?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-correction-activities",
+  "title": "Correction Activities",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'correction'?",
+    "What do you think when your teacher says you're going to do some correction?",
+    "What kind of correction do you like most?",
+    "Do you like the correction activities your teacher gives you?",
+    "Do you have an example of how a mistake your teacher corrected stuck with you and you never forgot it?",
+    "What do you think when you see your paper and it's full of red ink and corrections?",
+    "How important do you think correction activities are in class?",
+    "Do you always understand the reasons why the teacher asks you to do a particular correction activity?",
+    "Do you keep a special corrections notebook?",
+    "How important are correction activities compared with learning new things?",
+    "Do you like doing correction activities in class?",
+    "Do you ever think correction activities are a waste of time?",
+    "Do you prefer self correction, peer correction of teacher correction?",
+    "How do you feel when a teacher corrects your mistakes in front of the class?",
+    "What things are important for a correction activity to be successful?",
+    "What advice would you give to a student who says he/she hates being corrected?",
+    "Would you like the teacher to correct all of your mistakes as soon as you make them?",
+    "Are there mistakes you make again and again, even though the teacher corrects you again and again?",
+    "Do you think you need a correction activity in every class?",
+    "What questions would you like to ask your teacher about correction?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-search-engines",
+  "title": "Search Engines",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'search engine'?",
+    "What's your favourite search engine?",
+    "What would life be like without search engines?",
+    "How do search engines work?",
+    "Why do you use your favourite search engine but not others?",
+    "How useful is a search engine to you?",
+    "How can you use the search engine as a learning tool to improve vocabulary?",
+    "What suggestion would you give to a search engine boss to improve the search engine?",
+    "If life had a search engine, what key word/s should we type in to find the most information about you?",
+    "How do you think search engines will be different in the future?",
+    "What is a search engine?",
+    "Do you think 'search engine' is a good name?",
+    "When was the last time you used a search engine?",
+    "Why do you think Google's search engine is so popular?",
+    "How would a search engine that recognizes speech be useful?",
+    "Are there things you don't like about search engines?",
+    "How often do you find exactly what you're looking for on a search engine?",
+    "Do you think search engines can find the answer to any question?",
+    "Have you ever got angry using a search engine?",
+    "If you started your own search engine, what would you call it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

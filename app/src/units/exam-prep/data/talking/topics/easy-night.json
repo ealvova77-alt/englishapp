@@ -1,0 +1,31 @@
+{
+  "id": "easy-night",
+  "title": "Night",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'night'?",
+    "What do you know about night?",
+    "Are you a night person or a day person?",
+    "What do you do at night that is different from during the day?",
+    "Do you feel different at night than you do during the day?",
+    "Do you have a favourite night of the week?",
+    "What did you do last night?",
+    "Do you ever have nightmares?",
+    "Do 'things go bump in the night' in your house?",
+    "What's the best night out you've ever had?",
+    "Do you like the night?",
+    "Would you prefer to work a night shift or day shift?",
+    "Is it safe to walk the streets at night in your town?",
+    "How does nature change when days turns to night?",
+    "Do you like going to nightclubs?",
+    "Have you ever stayed awake all night?",
+    "Are you afraid of anything when night time comes?",
+    "What would life and the world be like if humans were nocturnal - we slept during the day and were active at night?",
+    "What are your plans for tonight?",
+    "What do you think in English it's 'yesterday' but not 'yesternight'?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

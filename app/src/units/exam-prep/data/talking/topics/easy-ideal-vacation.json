@@ -1,0 +1,16 @@
+{
+  "id": "easy-ideal-vacation",
+  "title": "Ideal Vacation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What is the purpose of a vacation? Why do we need vacations? When is the best time to take a vacation? Are some seasons better than others for vacationing?",
+    "What do you enjoy most about a vacation? Do you like to play, rest or travel? When you vacation what do you like to do?",
+    "Is a package tour or self-guided vacation best? Do you like to travel alone or with people? What are some benefits of travelling with a group? What are some benefits of travelling alone?",
+    "If you could travel anywhere, where would you go? What country or place do you want to visit? Have you been there before? Why would you go there now? How long would you stay? What would you do when you arrived?",
+    "Who would you take with you? Why would you choose that person or people? Would you try to make new friends while on vacation?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

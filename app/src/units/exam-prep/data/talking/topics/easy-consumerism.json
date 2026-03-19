@@ -1,0 +1,31 @@
+{
+  "id": "easy-consumerism",
+  "title": "Consumerism",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Which (social) facts influence consumerism?",
+    "Are there any benefits in consumerism?",
+    "What is the role of product labels (like food or clothing brands) in consumerism?",
+    "Do you believe special occasions like Christmas or Easter have become too consumeristic?",
+    "Is there a way to escape the culture of consumerism?",
+    "Do you think there are more consumerist women than men? Why?",
+    "Are teenagers and children becoming consumerists earlier?",
+    "Does mass media and society affect teenage consumerism?",
+    "In your opinion, are consumerist people less creative?",
+    "What is ethical consumerism?",
+    "Is consumerism a pathology?",
+    "What is \"green consumerism\"? Is it a contradition?",
+    "How does consumerism affect the environment and nature?",
+    "Do you agree with extreme anti-consumerism philosophies and attitudes?",
+    "Do you believe that changing your spending habits can make a big difference in your life?",
+    "Is consumerism spoiling our culture?",
+    "Our world economy is based on consumerism. Will consumerism always be predominant?",
+    "Has consumerism changed over the years?",
+    "What is medical consumerism?",
+    "Which jobs are strictly related to consumerism?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

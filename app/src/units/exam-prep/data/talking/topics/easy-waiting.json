@@ -1,0 +1,31 @@
+{
+  "id": "easy-waiting",
+  "title": "Waiting",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'waiting'?",
+    "Do you like waiting for things?",
+    "Is waiting good for us?",
+    "What does waiting teach us?",
+    "What's the most important thing you've waited for?",
+    "What do you think of people who cannot wait?",
+    "What do you do or think about while waiting at the dentist?",
+    "What do we call people who cannot wait?",
+    "Do you ever give up waiting for people who are late? How long can you wait?",
+    "Paulo Coelho said: \"Life was always a matter of waiting for the right moment to act.\" How true is this?",
+    "What do you think of people who cannot wait in line?",
+    "What are you waiting for now?",
+    "Where is a really bad place to wait?",
+    "Are people who are waiting for things to happen wishing their life away?",
+    "Are you waiting for answers?",
+    "Do you like waiting in the rain?",
+    "What do you do and think about when you wait for an airplane / aeroplane?",
+    "Does your country often have to wait for rain?",
+    "Is it easier to wait for things as we get older?",
+    "Someone once said: \"All god things are worth waiting for.\" How true is this?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

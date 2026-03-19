@@ -1,0 +1,31 @@
+{
+  "id": "easy-zoos",
+  "title": "Zoos",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'zoo'?",
+    "What are the good things and bad things about zoos?",
+    "What is the most famous zoo in the world?",
+    "Do you think animals know they are in zoos?",
+    "What are your earliest memories of a zoo?",
+    "What purpose do zoos serve?",
+    "Would you like to work in a zoo?",
+    "Do you think their should be human exhibits in zoos, living in caged houses?",
+    "What happens in a zoo at night and the early hours of the morning?",
+    "Would you like to study zoology?",
+    "Do you like zoos?",
+    "What was the last news story you heard about a zoo?",
+    "What would happen if all the zoo animals escaped into the town?",
+    "Do you feel sorry for the animals in zoos?",
+    "Have you ever felt like you were in a zoo?",
+    "Which is better - a zoo or an aquarium?",
+    "What happens to the animals that die in zoos?",
+    "Why do you think kids love zoos so much?",
+    "What's the best thing to buy from the zoo gift shop?",
+    "Are zoos morally wrong?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

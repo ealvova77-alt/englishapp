@@ -1,0 +1,31 @@
+{
+  "id": "easy-danger",
+  "title": "Danger",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'danger'?",
+    "Do you like danger?",
+    "Have you ever been in danger?",
+    "What dangers are there in your house?",
+    "Do you do things in your life to avoid danger?",
+    "What is the most dangerous thing you've done?",
+    "Do you know any dangerous people?",
+    "What are the dangers of your job?",
+    "Which part of our lives are most dangerous?",
+    "Would you like to join a dangerous sports club?",
+    "What is danger?",
+    "Why do some people like danger?",
+    "What dangers do you see around you every day?",
+    "What do you do when you are in danger?",
+    "Is the Earth in danger?",
+    "What dangerous things were you told to avoid when you were a child?",
+    "What countries in the world are too dangerous to visit?",
+    "What new dangers are there in society?",
+    "What are the dangers of the Internet?",
+    "Are there hidden dangers in the food we eat?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

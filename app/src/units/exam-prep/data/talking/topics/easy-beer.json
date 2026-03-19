@@ -1,0 +1,31 @@
+{
+  "id": "easy-beer",
+  "title": "Beer",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Is beer a very popular drink in your country?",
+    "Is there anything healthy about drinking beer?",
+    "Is beer an important part of your country's culture?",
+    "From what age can people drink beer in your country?",
+    "Why do you think beer is so popular around the world?",
+    "Would you like to go to the Munich Beer Festival?",
+    "Which country produces the best beer?",
+    "Is beer a man's drink or a woman's drink?",
+    "Do you mix anything with beer?",
+    "What's the best thing to eat with beer?",
+    "Do you know how beer is made?",
+    "What beers are produced in your country?",
+    "Do you like beer?",
+    "How would you describe the taste of beer?",
+    "What do you think of people who drink too much beer?",
+    "Would you like to try making your own beer?",
+    "What is a good name for a beer?",
+    "Do you think there is a difference between beers from different countries?",
+    "What do you think of beer bellies and 'lager louts'?",
+    "How many beers would you normally drink a week?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

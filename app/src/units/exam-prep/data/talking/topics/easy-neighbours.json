@@ -1,0 +1,31 @@
+{
+  "id": "easy-neighbours",
+  "title": "Neighbours",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'neighbour'?",
+    "Are you neighbourly?",
+    "What kind of neighbors don't you like?",
+    "Do you trust your neighbours?",
+    "Do you have nosy neighbors?",
+    "Do you have any terrible neighbours stories?",
+    "Love thy neighbor as thyself. Do you believe this?",
+    "Do high fences make good neighbors?",
+    "What are the biggest problems among neighbours?",
+    "Would you like to live next door to your boss?",
+    "Do you have good neighbours?",
+    "Who would you love to move next door to you?",
+    "Have you ever argued with your neighbors?",
+    "What would you do if you had really noisy neighbours?",
+    "Would you like to have your parents or parents-in-law as neighbors?",
+    "Would you like your current neighbours to move?",
+    "Have you ever had a \"dog problem\" with neighbors?",
+    "What's your neighborhood like?",
+    "Do you know any secrets or gossip about your neighbours?",
+    "What would you really like to know about your neighbors?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

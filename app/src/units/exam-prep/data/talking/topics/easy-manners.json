@@ -1,0 +1,15 @@
+{
+  "id": "easy-manners",
+  "title": "Manners",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 4,
+  "questions": [
+    "What do you think is the most impolite thing you could do?",
+    "What do you think is the most important thing to do concerning manners?",
+    "What do you think is the most common impolite thing that people do?",
+    "Who taught you manners? How did they do it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

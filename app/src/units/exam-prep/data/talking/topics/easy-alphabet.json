@@ -1,0 +1,31 @@
+{
+  "id": "easy-alphabet",
+  "title": "Alphabet",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Are there twenty six letters in the alphabet of your language?",
+    "Does your language have an alphabet?",
+    "What are the differences between the English alphabet and your language's writing system?",
+    "What is the most frequently used letter of the alphabet?",
+    "Which letters of the alphabet do you not like or have problems with?",
+    "Do you think English spelling is confusing?",
+    "Are the letters of the alphabet pronounced the same in British, American, Australian, Nigerian... English?",
+    "Did you have any problems learning the letters of the alphabet?",
+    "What is the difference between consonants and vowels?",
+    "What is the International Phonetic Alphabet?",
+    "Do you like the English alphabet?",
+    "How did you learn the alphabet?",
+    "What do you think of other alphabets (Russian, Greek, Arabic, Hebrew, Sanskrit, etc)?",
+    "Who invented the English alphabet?",
+    "Why do you think each letter has so many different pronunciations and uses?",
+    "How do you think the alphabet could me made easier to use and understand?",
+    "Would you like to learn a character-based system like Chinese?",
+    "When is the best age to introduce children to the alphabet?",
+    "What is alphabet soup?",
+    "What does \"the ABCs of\" mean?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

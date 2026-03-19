@@ -1,0 +1,14 @@
+{
+  "id": "medium-job",
+  "title": "Job",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 3,
+  "questions": [
+    "What is your job? How long have you been doing it? Do you like it? What do you like/dislike about it? Do you plan to keep on doing it?",
+    "What do you think of your colleagues at work?",
+    "How do you like your boss?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

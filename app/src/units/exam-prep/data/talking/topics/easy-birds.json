@@ -1,0 +1,31 @@
+{
+  "id": "easy-birds",
+  "title": "Birds",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'bird'?",
+    "Are you interested in birds?",
+    "What's your favourite bird?",
+    "Have you ever had a bird as a pet? (Is a bird a good pet?)",
+    "Has a bird ever pooped on you? (It is a sign of good luck in some countries.)",
+    "Are there any bird superstitions in your country?",
+    "What countries have birds as national emblems? Do they reflect that country?",
+    "Should trade in feathers be banned like trade in fur?",
+    "Are pigeons useful birds or vermin?",
+    "What's the rarest bird you've ever seen?",
+    "Has your cat ever brought a dead bird into the house?",
+    "Has a bird ever crashed into or flown through a window in your home?",
+    "Have you ever found a bird's egg in Spring?",
+    "What is your least favourite bird?",
+    "What is the most beautiful bird?",
+    "Are birds really \"free\" as the expression \"as free as a bird\" suggests?",
+    "How many species of birds do you think there are in the world?",
+    "How many bird species do you think are endangered?",
+    "What's the most common bird in your town / country? Do you like it?",
+    "Why do you think humans are so fascinated by birds?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

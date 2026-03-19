@@ -1,0 +1,22 @@
+{
+  "id": "easy-decisions",
+  "title": "Decisions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "Would you like a job in which you had to make important decisions regularly?",
+    "Do you have to make decisions in the workplace?",
+    "How are good business decisions made?",
+    "Who do you ask for advice before making important decisions?",
+    "Have you ever made a decision and regretted it later?",
+    "Have you ever made a big decision and then changed your mind/had second thoughts?",
+    "Can you think of a situation in which you had to make a tough decision?",
+    "What is the hardest decision you've ever had to make? How did you make the decision?",
+    "Which situations/jobs do you think require quick decision makers?",
+    "Which situations benefit from considering all options slowly?",
+    "Have you ever made a decision that had negative consequences?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

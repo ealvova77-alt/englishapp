@@ -1,0 +1,31 @@
+{
+  "id": "easy-bicycles",
+  "title": "Bicycles",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Why is a bicycle called a bicycle?",
+    "How useful are bicycles?",
+    "Do you think bicycles will be used more or less in the future?",
+    "What contribution has the bicycle made to the world?",
+    "Is your country a bicycle-friendly country?",
+    "What are your memories of learning to ride a bicycle?",
+    "Have you injured yourself falling off of a bicycle?",
+    "Have you had any bicycle adventures?",
+    "What's the best bike you've ever had?",
+    "Have you ever had your bicycle stolen?",
+    "Do you need a bicycle?",
+    "What are the advantages of a bicycle over a car?",
+    "What extra features or functions would be helpful for a bicycle?",
+    "Do you think people will ever stop using bicycles?",
+    "Have you ever ridden racing bikes, mountain bikes, bmx bikes or other recreational bikes?",
+    "Do you think other cyclists are dangerous?",
+    "Have you ever used a monocycle?",
+    "Do you think governments should require people to pass a cycling proficiency test before being allowed to ride a bicycle on roads?",
+    "Should cyclists always wear protective gear?",
+    "What are the disadvantages of bicycles?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

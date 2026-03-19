@@ -1,0 +1,31 @@
+{
+  "id": "medium-finance",
+  "title": "Finance",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word finance'?",
+    "Do you think finance has different meanings to different people?",
+    "Are you happy with the state of your finances?",
+    "Do you think it's important for children to learn about finance in school?",
+    "Are you interested in reading news about the financial world?",
+    "Are you good at saving and sticking to budgets?",
+    "Do you have any interest in talking to a personal financial advisor?",
+    "Have you ever risked money in financial markets?",
+    "Does the finance minister/secretary in your country do a good job?",
+    "Is it better to keep your money under your bed?",
+    "What does the area of finance cover?",
+    "What personal finance decisions have you had to make recently?",
+    "What are the biggest personal finance decisions you'll have to make?",
+    "What kinds of decisions do executives have to make regarding finance?",
+    "Would you like to work in finance?",
+    "What did your parents tell you about finance?",
+    "Do you have a head for finance?",
+    "Do you spend too much time and energy sorting out your finances?",
+    "Do people who always talk about money and finance bore you?",
+    "Are you worried about your financial security in your old age?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-nose",
+  "title": "Nose",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'nose'?",
+    "How important is the nose?",
+    "Do you think noses could have been a different shape?",
+    "What are the functions of our nose?",
+    "What do you think of nose piercing?",
+    "Who has the best looking nose?",
+    "What kind of noses do you find attractive?",
+    "Do you think everyone picks their nose?",
+    "Do you ever look down your nose at other people?",
+    "If you were Pinocchio, how long would your nose be by now?",
+    "Do you like your nose?",
+    "Is there a correct way to blow your nose in your country?",
+    "Have you ever 'cut off your nose to spite your face'?",
+    "What's the best way to stop a nose bleed?",
+    "If a cosmetic surgeon offered you a free nose job, would you take it?",
+    "How often does your nose run / do you get a runny nose?",
+    "Can you name all the different parts of the nose?",
+    "Have you ever broken or hurt your nose?",
+    "When you're really busy, do you put your nose to the grindstone?",
+    "What do you do if you have a congested (blocked) nose?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

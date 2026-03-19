@@ -1,0 +1,31 @@
+{
+  "id": "easy-baseball",
+  "title": "Baseball",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Why is baseball popular?",
+    "Why hasn't baseball taken off around the world in the way soccer has?",
+    "Why has baseball been axed at the 2012 Olympics?",
+    "Why is the World Series so named when countries from only two nations participate?",
+    "Is baseball interesting without statistics?",
+    "Who is the best baseball player ever?",
+    "Which is better, baseball or American football?",
+    "Do you know the origins of baseball?",
+    "What would it take for baseball to be accepted as a popular sport all around the world?",
+    "Is there any difference between American, Japanese or Cuban baseball?",
+    "How important is baseball in your country?",
+    "How can players be allowed to fight and punch the umpires in baseball without being sent off?",
+    "Why do baseball players need a giant glove to catch a ball?",
+    "Are there any rules in baseball you would like to see changed?",
+    "Don't you think baseball is a boring game of throwing a ball that someone either hits with a bat or misses?",
+    "What is the most skillful thing about pitching or striking a ball?",
+    "Do baseball players get paid too much money?",
+    "How long would it take a baseball beginner to learn the rules and vocabulary?",
+    "Would you like to be a famous baseball player?",
+    "What is the best baseball team ever?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

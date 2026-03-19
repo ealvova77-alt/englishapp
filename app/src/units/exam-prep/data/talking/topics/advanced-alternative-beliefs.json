@@ -1,0 +1,19 @@
+{
+  "id": "advanced-alternative-beliefs",
+  "title": "Alternative Beliefs",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 8,
+  "questions": [
+    "Do you think there is intelligent life on other planets?",
+    "Some people claim to have seen UFOs (Unidentified Flying Objects) such as flying saucers. Do you believe them?",
+    "What is your opinion of people who say that they can communicate with spirits? Have you ever taken part in a seance?",
+    "Do you know anybody with psychic powers or extra sensory perception?",
+    "Do you believe in telepathy? Is there another person in the world with whom you have a special understanding?",
+    "Would you ever visit an astrologer for a forecast of how your life will run in the future?",
+    "What does your star sign tell you about your personality and your compatibility with other people?",
+    "Do you believe in other forms of fortune-telling such as palmistry? tarot cards? reading teacups?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-mexico",
+  "title": "Mexico",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word Mexico?",
+    "What are the good things and bad things about Mexico?",
+    "What is Mexico famous for?",
+    "What do you know about Mexican history?",
+    "What images of Mexico do you have that are beautiful and adventurous?",
+    "What do you think about Mexico's different peoples?",
+    "What has Mexico given to the world?",
+    "Would you like to visit Mexico, or live there?",
+    "What do you know about the geography of Mexico?",
+    "Who are the most famous Mexican people you know?",
+    "How different is Mexico from other Latin American countries?",
+    "What do you know about Mexican food?",
+    "How much importance or power does Mexico have in the world?",
+    "What do you think Mexico will be like 50 years from now?",
+    "Does your country have good relations with Mexico?",
+    "What do you think about Mexico sights?",
+    "What is your idea of a typical Mexican person?",
+    "What things about Mexico do you think Mexican people are proud of?",
+    "What do you know about Mexican politics?",
+    "What would you like to ask a Mexican person about Mexico?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

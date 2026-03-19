@@ -1,0 +1,31 @@
+{
+  "id": "easy-mysteries",
+  "title": "Mysteries",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'mystery'?",
+    "What are the mysteries of the world?",
+    "Is English ever a mystery to you?",
+    "Do you like reading mysteries or watching mystery movies?",
+    "What mystery would you really like to be solved?",
+    "Are the people you know sometimes a mystery to you?",
+    "Is mystery in our lives good?",
+    "Would you be a good detective in solving mysteries?",
+    "Is the opposite sex a mystery to you?",
+    "Do you like TV shows that are about unsolved mysteries?",
+    "What is the best mystery movie ever?",
+    "How often do you solve a mystery?",
+    "Are you mysterious?",
+    "Why is life such a mystery?",
+    "Do you think people in relationships should keep some mystery between them?",
+    "What is the biggest mystery in the universe?",
+    "What do you think of the mystery surrounding the Loch Ness Monster and the Yeti?",
+    "Do you think love is an unsolved mystery?",
+    "If you wrote a mystery book, what would you call it?",
+    "Is it sometimes a mystery where you left your keys or where you saved that document to?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

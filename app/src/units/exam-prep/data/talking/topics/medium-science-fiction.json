@@ -1,0 +1,31 @@
+{
+  "id": "medium-science-fiction",
+  "title": "Science Fiction",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the words 'science fiction'?",
+    "What is science fiction?",
+    "What science fiction from the past is science truth today?",
+    "Why do people find science fiction so fascinating?",
+    "What is the best science fiction movie ever?",
+    "What things from science fiction do you think will never come true?",
+    "Would you like to be transported into a future science fiction world?",
+    "Do you think Leonardo Da Vinci's drawings of helicopters and flying machines was science fiction of the 15th Century?",
+    "Are science fiction writers quality writers?",
+    "Star Trek creator Gene Roddenberry said: \"Science fiction is a way of thinking, a way of logic that bypasses a lot of nonsense. It allows people to look directly at important subjects.\" Do you agree?",
+    "Do you like science fiction books or movies?",
+    "With our computers, mobile phones and satellite navigation, etc, do you feel we're living in an age of science fiction?",
+    "Is science fiction just for teenage boys?",
+    "Who is the greatest ever science fiction character?",
+    "Who is the scariest ever science fiction character?",
+    "If you wrote a sci-fi book, what would you write it on?",
+    "Do you think living on Mars is pure science fiction?",
+    "Do science fiction writers need to know a lot about science?",
+    "Which science fiction character would you like to be?",
+    "Sci-fi writer Arthur C. Clarke said: \"Politicians should read science fiction, not westerns and detective stories.\" What do you think he meant by this? Do you agree?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

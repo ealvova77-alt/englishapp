@@ -1,0 +1,31 @@
+{
+  "id": "easy-spiders",
+  "title": "Spiders",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'spider'?",
+    "Why are so many people afraid of spiders?",
+    "What are the uses and functions of spiders?",
+    "Do you think spiders make good pets?",
+    "Would you like to study spiders?",
+    "What would you do if you saw a giant spider right now?",
+    "What's creepier, a spider or a snake?",
+    "Have you ever walked into a big spider's web?",
+    "Do you have any good spider stories?",
+    "Which of the spiders' abilities would you like?",
+    "What do you think of spiders?",
+    "How would nature change if there were no spiders?",
+    "How is it that spiders have survived and adapted so well for so long?",
+    "What kind of spiders are there in your country?",
+    "How would you help someone overcome arachnophobia - the fear of spiders?",
+    "What can spiders teach humans?",
+    "Are spiders lucky or unlucky in your culture?",
+    "What would you do if a spider bit you?",
+    "Do you think you can make some tasty dishes using spiders?",
+    "What do you think a spider does all day?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

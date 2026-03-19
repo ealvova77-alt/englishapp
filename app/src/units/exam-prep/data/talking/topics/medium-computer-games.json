@@ -1,0 +1,29 @@
+{
+  "id": "medium-computer-games",
+  "title": "Computer Games",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 18,
+  "questions": [
+    "Do you own a computer?",
+    "What type of computer is it?",
+    "Are you good at using computers?",
+    "What sites do you visit most often?",
+    "Do you find the internet useful?",
+    "How often do you play computer/video games?",
+    "Which games do you usually play? Why do you like them?",
+    "Do you play computer games with your friends?",
+    "Which is better, xbox or playstation?",
+    "Are you parents happy if you play on the computer?",
+    "What computer would you love to buy?",
+    "Have you ever completed a game?",
+    "Which game do you find boring?",
+    "What do you think of RPGs?",
+    "Which games would you never play?",
+    "Should you be allowed to play video games in school?",
+    "Do you play games on your phone? What do you play?",
+    "Have you ever played Angry Birds? What do you think of it?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

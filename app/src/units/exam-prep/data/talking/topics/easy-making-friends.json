@@ -1,0 +1,30 @@
+{
+  "id": "easy-making-friends",
+  "title": "Making Friends",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "How important are friends?",
+    "Why are you so close to him/her?",
+    "Do you think your friends are loyal?",
+    "Do you go to your friends for advice?",
+    "Is their advice helpful?",
+    "Do you argue with your friends?",
+    "What do you usually argue about?",
+    "How do you help your friends?",
+    "How do they help you?",
+    "How do you relax with your friends?",
+    "How often do you see them?",
+    "Do you have any friends that are very different to you?",
+    "Do you play sports with your friends?",
+    "How long does it take for you to become friends with someone?",
+    "How do you feel around strangers?",
+    "Do you make friends easily with strangers?",
+    "Do you have different groups of friends?",
+    "When you meet someone for the first time, are you curious about them or scared?",
+    "When you are older, do you think you'll have the same friends? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-video-games",
+  "title": "Video Games",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the term 'video games'?",
+    "Do you learn anything from playing video games?",
+    "Do you prefer playing video games alone, against friends or online against the world?",
+    "Do you think video games make people violent?",
+    "Which company makes the best games?",
+    "Would you like to be a game designer? What kinds of games would you design?",
+    "Do you prefer watching movies or playing video games?",
+    "Does your personality change when you're gaming?",
+    "Are video games good for relieving stress?",
+    "Would you but a good book or a good video game for your little sister's or brother's birthday?",
+    "Do you like video games?",
+    "What's your favourite video game?",
+    "PlayStation, X-Box or Nintendo Wii - which is best and why?",
+    "Can you remember the first video game you played?",
+    "What will video games be like in the future?",
+    "Are video games bad for your health?",
+    "Which game are you best at?",
+    "Are video games good for hand-eye coordination?",
+    "Do you like it when Hollywood makes a movie from the video game?",
+    "How can you help someone who is addicted to video games?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

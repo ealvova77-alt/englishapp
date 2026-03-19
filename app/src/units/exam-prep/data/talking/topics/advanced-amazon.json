@@ -1,0 +1,31 @@
+{
+  "id": "advanced-amazon",
+  "title": "Amazon",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images come to mind when you hear the word 'Amazon'?",
+    "What do you know about the Amazon?",
+    "How important is the Amazon?",
+    "Which is more important, the Amazon River or Amazon rainforests?",
+    "What kind of animals are unique to the Amazon?",
+    "What environmental problems does the Amazon have?",
+    "What's the difference between a rainforest and a jungle?",
+    "What can we do to help protect the Amazon?",
+    "Who lives in the Amazon?",
+    "Would you like to visit the Amazon?",
+    "Would you like to spend a year living in the Amazon jungle?",
+    "What can Amazonian Indians teach us about life?",
+    "Who has a better life, Amazonian Indians or us?",
+    "What do you think Amazonian Indians think of developers cutting down and polluting the rainforests?",
+    "Oil giants Chevron and Texaco say they are looking after the rainforest and indigenous peoples. What do you think?",
+    "Could you survive a year alone in the Amazon?",
+    "Why is it so important to protect the Amazon?",
+    "Which is the only river in the world longer than the Amazon?",
+    "What is the Amazon Basin?",
+    "Why do you think the bookseller Amazon.com chose the word 'Amazon' for its name?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "easy-do",
+  "title": "Do",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "Do you like watching to TV? Why?",
+    "Do your parents make you study hard?",
+    "Do you find Harry Potter interesting? Why?",
+    "Do you go to university?",
+    "Do your friends make you laugh?",
+    "How do they make you laugh?",
+    "Do your teachers give you lots of homework?",
+    "Do you listen to music often?",
+    "Do you go to the cinema with your friends?",
+    "Do you want to be a doctor?",
+    "Do you think you are tall?",
+    "Do you know any famous people?",
+    "Do you play computer games? What games?",
+    "Do you spend much time with your family?",
+    "Do your friends make fun of you?",
+    "Does your best friend like the same things as you?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-ozone-layer",
+  "title": "Ozone Layer",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the words 'ozone layer'",
+    "What is ozone and what does it do?",
+    "When did you first become aware of the ozone layer?",
+    "What has been happening to the ozone layer?",
+    "What destroys the ozone layer most?",
+    "Do you think the ozone layer will ever repair itself?",
+    "Where in the world is suffering most from the holes in the ozone layer?",
+    "What is the relationship between the ozone layer and sunlight?",
+    "What's the relationship between the ozone layer and greenhouse gases?",
+    "What would you like to know about the ozone layer?",
+    "What will happen to the world if the ozone layer disappears?",
+    "What should we do to help protect the ozone layer?",
+    "What do you think the ozone layer looks like?",
+    "How do you think scientists first knew there was an ozone layer?",
+    "How long do you think it would take for the ozone layer to repair itself?",
+    "Are there any good things about the ozone layer depletion?",
+    "Why do you think scientists pump more ozone into the atmosphere?",
+    "Has the thinning ozone layer had an effect on your country?",
+    "Does the ozone layer affect our health?",
+    "What is your government's policy on the ozone layer?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

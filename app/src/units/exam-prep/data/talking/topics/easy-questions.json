@@ -1,0 +1,31 @@
+{
+  "id": "easy-questions",
+  "title": "Questions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What questions would you like answered?",
+    "What questions do you ask during the course of one day?",
+    "What is life's biggest question?",
+    "Where do you go to get your questions answered?",
+    "What's the most stupid questions anyone has ever asked you?",
+    "Do you have a favourite question that you like people asking you?",
+    "What's the most common question you ask?",
+    "What do you think of the questions young children ask?",
+    "What do you think about exam questions?",
+    "What questions do you not like to answer?",
+    "Are you good at answering questions?",
+    "To be or not to be? That is the question. Is this a good question?",
+    "Have you ever questioned someone for a long time because you didn't believe what they said?",
+    "What do you think of questions on application forms?",
+    "Do you like interview questions?",
+    "What questions are there about your society?",
+    "Do you like answering quiz questions?",
+    "What questions do you find difficult to answer?",
+    "Are you ever afraid or reluctant to ask someone a question?",
+    "What's the most annoying question people ask you?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

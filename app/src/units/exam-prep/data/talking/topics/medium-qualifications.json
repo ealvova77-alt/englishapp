@@ -1,0 +1,31 @@
+{
+  "id": "medium-qualifications",
+  "title": "Qualifications",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'qualification'?",
+    "What do you think of qualifications?",
+    "What qualifications do you have?",
+    "What qualifications would you like to have?",
+    "Which qualifications do you think are best to have?",
+    "Do you think everybody needs qualifications?",
+    "Do all qualifications need to be recognized by employers?",
+    "Do you think some qualifications are a waste of time and money?",
+    "What are the minimum qualifications needed to do the job you have / want?",
+    "What qualifications would you expect your English teacher to have?",
+    "Are qualifications important to you?",
+    "Would you rather have a well-qualified teacher with little experience or a very experienced teacher with no qualifications?",
+    "Do you think everyone should do a qualification in first aid?",
+    "Do you think there should be minimum qualifications for politicians and presidents?",
+    "What qualifications does your country's leader have for his/her job?",
+    "Do you think qualifications should be the same in each country so they can be used all over the world?",
+    "What do you think of the idea of a parenting qualification that all future parents must study for?",
+    "Have you ever lied (would you ever lie) about the qualifications on your resume in order to get a really good job?",
+    "Is it possible to be overqualified for a job (i.e. to have too many qualifications)?",
+    "Do all qualifications need to be of the paper variety?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

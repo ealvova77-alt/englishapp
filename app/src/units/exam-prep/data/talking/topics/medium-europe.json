@@ -1,0 +1,31 @@
+{
+  "id": "medium-europe",
+  "title": "Europe",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What makes Europe so European?",
+    "How are Europeans different from each other?",
+    "What do you know about the European Union?",
+    "What are your favourite European companies and why do you like them?",
+    "Do you think Europe has the world's most interesting history?",
+    "Do you think English should be the official language of Europe?",
+    "What are the differences between Europe and the USA?",
+    "Do you think Europe is a superpower, or has the potential to become one?",
+    "What is the most important European country?",
+    "Movie producer Quentin Tarantino said the \"funniest thing about Europe...is the little differences\". What do you think he means?",
+    "Is Europe the greatest continent?",
+    "How are Europeans different from people from other continents?",
+    "What does it mean to be European?",
+    "Is Europe really a continent - it isn't surrounded by water?",
+    "What do you understand by the term 'Euroscepticism'?",
+    "Do you think there is a European culture?",
+    "What countries do you think have the fiercest rivalries in Europe?",
+    "Former French leader Charles de Gaulle said \"it is the whole of Europe that will decide the fate of the world\". What do you think?",
+    "What does Europe do better than other continents?",
+    "How do you think Europe will do in the next 100 years?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

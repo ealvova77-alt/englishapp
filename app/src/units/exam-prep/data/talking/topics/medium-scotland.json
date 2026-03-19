@@ -1,0 +1,31 @@
+{
+  "id": "medium-scotland",
+  "title": "Scotland",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Scotland?",
+    "What are the good things and bad things about Scotland?",
+    "What is Scotland most famous for?",
+    "What do you know about Scottish history?",
+    "What are the differences between Scotland and England?",
+    "What do you think about Scots (Scottish people)?",
+    "What has Scotland given to the world?",
+    "Would you like to visit Scotland, or live there?",
+    "What do you know about the geography of Scotland?",
+    "Who are the most famous Scots you know?",
+    "How different is Scotland from other British or European countries?",
+    "What was the last news story you heard about Scotland?",
+    "What do you think Scotland's neighbours think of it?",
+    "What do you think Scotland will be like 50 years from now?",
+    "Does your country have good relations with Scotland?",
+    "Does the Loch Ness Monster exist?",
+    "What is your idea of a typical Scot?",
+    "What things about Scotland do you think Scots are proud of?",
+    "What do you know about Scottish English?",
+    "What would you like to ask a Scot about Scotland?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

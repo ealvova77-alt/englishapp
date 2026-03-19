@@ -1,0 +1,17 @@
+{
+  "id": "easy-silly",
+  "title": "Silly",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 6,
+  "questions": [
+    "Would you ever wear your mother's dress to your all boys' high school?",
+    "If you were given the chance to be an animal, which animal would you be?",
+    "Can you write a conversation between two items in your refrigerator? (For example, what might the mayonnaise and the pickles be talking about before you open the door?)",
+    "What is a typical day in the life of your dictionary? What words do you look up?",
+    "Why do we have mirrors and what would life be like without them?",
+    "Can you answer this question without opening your mouth?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

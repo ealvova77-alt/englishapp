@@ -1,0 +1,20 @@
+{
+  "id": "easy-traditions",
+  "title": "Traditions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 9,
+  "questions": [
+    "Do children in your country learn traditional songs which their grandparents also know? What are these songs about? What instruments are used to play these songs?",
+    "In Britain, there is a long tradition of playing cricket and tennis in the summer and football and rugby at other times of the year. What are the traditional sports in your country? Is your country still good at these sports?",
+    "Traditional food in Britain includes roast beef and Yorkshire pudding, fish and chips and haggis while traditional drinks include beer (best bitter) and whisky. What traditional food and drinks do you have in your country?",
+    "In Britain, when you are invited to a dinner party, it is traditional to bring a bottle of wine and flowers or chocolates for the hostess. It is normal to arrive on time, but not too early. What happens in your country?",
+    "London businessmen used to wear grey suits and bowler hats. They also carried umbrellas and read The Times newspaper. What is the traditional image of business people in your capital city?",
+    "In very traditional British schools, the pupils stand up when the teacher enters the room. Teachers used to wear square black hats and long black gowns. It is also traditional to have school assemblies before morning lessons and to sing a special school song at the end of term. Do schools in your country have similar traditions?",
+    "In the British calendar, the traditional ceremonies include Hogmanay (the Scottish New Year), pancake day in February, dancing on 1st May and bonfire night in November when we burn an effigy of the man who tried to blow up Parliament. When are the traditional ceremonies in your country and what happens?",
+    "What does a traditional wedding ceremony in your country look like?",
+    "What are the traditions relating to your country's Royal Family, Centre of Government or System of Justice?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

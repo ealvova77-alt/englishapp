@@ -1,0 +1,31 @@
+{
+  "id": "easy-noise",
+  "title": "Noise",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "When do you make a lot of noise?",
+    "What noises do you like and dislike?",
+    "What do you think of noise pollution?",
+    "Do you worry about strange noises when you're in bed?",
+    "Can you enter your house and sneak to your room without making a noise?",
+    "What's the most terrifying noise you know of?",
+    "What noises does your computer make?",
+    "Do animals in your language make the same noises as they do in English?",
+    "Does anyone you know have a bad habit of making noises?",
+    "Where do you hear background noise and what do you think of it?",
+    "What springs to mind when you hear the word 'noise'?",
+    "What's the most annoying noise for you?",
+    "Do you worry about strange noises when you're in an airplane?",
+    "Are you easily awoken by noises?",
+    "What bodily noises are there and what do you think of them?",
+    "Are noise levels like in your town?",
+    "Can you sleep if there's a lot of noise going on?",
+    "Do you ever think that some music is just noise?",
+    "What is white noise and why is it white?",
+    "Have you ever complained to anyone about noise?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

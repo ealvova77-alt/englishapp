@@ -1,0 +1,30 @@
+{
+  "id": "easy-birthdays",
+  "title": "Birthdays",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Do you like birthdays?",
+    "What's the best and worst birthday you've ever had?",
+    "Do you know how people celebrate birthdays in other countries?",
+    "What's the best birthday present you've ever been given?",
+    "What present would you like for your next birthday?",
+    "Do you think everyone should have a holiday from school or work on their birthday?",
+    "In English people wish those whose birthday it is \"many happy returns\". What do you think this means?",
+    "What do you do on people's birthdays in your country that you think doesn't happen in other countries?",
+    "Do you know of any big events that happened on your birthday?",
+    "Do you think birthdays have become too commercial?",
+    "What did you do on your last birthday?",
+    "Do your family and friends always remember your birthday?",
+    "What are the milestone birthdays in your country?",
+    "Do you think old people like birthdays?",
+    "Do you think you were born at a good time of the year?",
+    "Do you sing the song \"Happy Birthday\" in your country?",
+    "Would you like to live to celebrate your hundredth birthday?",
+    "What happy memories do you have of your birthday parties?",
+    "What is a \"birthday suit\" and why is it called so?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

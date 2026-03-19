@@ -1,0 +1,31 @@
+{
+  "id": "easy-marketing",
+  "title": "Marketing",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'marketing'?",
+    "Would you like to work in marketing?",
+    "What marketing tactics do you think are very successful?",
+    "What do you think of things like Christmas being marketed?",
+    "What do marketing executives do in their jobs?",
+    "How has the Internet changed marketing?",
+    "Is there too much hype in marketing?",
+    "What do you think of McDonalds' marketing techniques aimed at attracting children?",
+    "How would you start marketing a product or idea you had?",
+    "What is your opinion of marketing in the era of globalization?",
+    "What is marketing?",
+    "What's the best marketing campaign you know of?",
+    "What's the difference between marketing and advertising?",
+    "Do you think that McDonald's is a marketing machine for the entertainment industry that is disguised as a restaurant?",
+    "Are marketing executives good at selling us exactly what we don't really need?",
+    "What do you think of the marketing strategies used in sports?",
+    "Do expensive brands use different types of marketing to cheaper products?",
+    "How do marketing techniques differ from country to country?",
+    "How much of marketing is lying?",
+    "Why are cigarette companies still so successful in their marketing?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

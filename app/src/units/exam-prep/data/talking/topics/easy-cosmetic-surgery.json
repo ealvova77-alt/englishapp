@@ -1,0 +1,31 @@
+{
+  "id": "easy-cosmetic-surgery",
+  "title": "Cosmetic Surgery",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think of cosmetic surgery?",
+    "Do you think there's a difference between cosmetic and plastic surgery?",
+    "Would you consider having cosmetic surgery?",
+    "Do you think cosmetic surgery is more popular with women or men?",
+    "What do you think are the dangers of cosmetic surgery?",
+    "What parts of your face / body would you like to change?",
+    "Would you like to be a cosmetic surgeon?",
+    "Why is cosmetic surgery so popular in some countries but not at all in others?",
+    "What do you think of people who have cosmetic surgery?",
+    "Do you think there should be an age limit for people to have cosmetic surgery?",
+    "Would you have cosmetic surgery if it was free?",
+    "What would you think if one of your parents came home with a new face / body?",
+    "Do you think cosmetic surgery should be banned for children?",
+    "Who would you like to look like?",
+    "Do you think people who have cosmetic surgery are always happy with the results?",
+    "What advice would you give to a friend who wants cosmetic surgery?",
+    "Does cosmetic surgery always make people look better?",
+    "Is cosmetic surgery playing with the way God made us?",
+    "Do you know anyone who has had cosmetic surgery?",
+    "Do you think a cosmetic surgeon is happy in his / her job?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

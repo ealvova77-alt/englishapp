@@ -1,0 +1,25 @@
+{
+  "id": "easy-rebellion",
+  "title": "Rebellion",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 14,
+  "questions": [
+    "Do people in your country often hold marches and demonstrations? Why/not?",
+    "Have you ever been on a march or attended a demonstration? What was it about?",
+    "Do you think people should have the right to organise marches and hold demonstrations? Why/not?",
+    "Have there been any riots in your country recently? What were they about? Was the problem resolved?",
+    "How do you think governments should deal with riots?",
+    "What do you think are the most famous revolutions in history? What did they achieve?",
+    "Do riots, rebellions, etc. ever achieve any real change?",
+    "Can revolutions ever be peaceful?",
+    "Which famous figures have been assassinated in your lifetime?",
+    "Do you think anything has changed in the world as a result of these assassinations?",
+    "What famous historical assassinations do you know about? Did any of them change the course of history, in your opinion?",
+    "Do you think assassination can ever be justified?",
+    "If you were sent back in time to assassinate somebody, who would it be?",
+    "What precautions can high-profile politicians and monarchs etc. take to avoid being assassinated?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

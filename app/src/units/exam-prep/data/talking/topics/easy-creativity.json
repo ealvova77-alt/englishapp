@@ -1,0 +1,21 @@
+{
+  "id": "easy-creativity",
+  "title": "Creativity",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "What is something you do that is creative?",
+    "Do yo do anything that is artistic?",
+    "How can a person become more creative/artistic?",
+    "What makes something art?",
+    "How are artist different from other people?",
+    "Who is the most creative person you know? Why do you say that?",
+    "How can writing be creative?",
+    "Can a person be creative with they way they talk? How so?",
+    "Can you name something that you have done that is creative?",
+    "What is your favorite kind of art and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

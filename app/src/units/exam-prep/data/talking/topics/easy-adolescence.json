@@ -1,0 +1,31 @@
+{
+  "id": "easy-adolescence",
+  "title": "Adolescence",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'adolescence'?",
+    "What is adolescence?",
+    "What happens during adolescence?",
+    "Is adolescence generally regarded as a good or happy time?",
+    "What problems did you have in your adolescence?",
+    "Did you worry about whether or not other people liked you?",
+    "Did you rebel against your parents or teachers?",
+    "When did you begin to feel like you were an adult?",
+    "Are there any ceremonies or celebrations in your country to mark the entrance into adulthood?",
+    "What worries and fears did you have as a adolescent?",
+    "Is there a term for adolescence in your language?",
+    "Is adolescence viewed as a difficult time for children / young adults in your country",
+    "Were you an early or late developer?",
+    "What physiological and psychological changes take place during adolescence?",
+    "Did you suffer from spots and acne?",
+    "Were you a problem for your parents during your adolescence?",
+    "When did you think you were no longer a child?",
+    "Would you like to relive your adolescence?",
+    "What advice would you give to today's adolescents?",
+    "Do you think today's adolescents are more mature than when you were growing up?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

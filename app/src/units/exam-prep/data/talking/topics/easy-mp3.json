@@ -1,0 +1,31 @@
+{
+  "id": "easy-mp3",
+  "title": "Mp3",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word/abbreviation 'MP3'?",
+    "What do you know about MP3s?",
+    "Is downloading or copying music in MP3 format better than using CDs, MDs, records and cassettes?",
+    "What MP3 players do you know of and which one is best?",
+    "Do you visit free MP3 download sites?",
+    "What are the good and bad things about MP3 songs?",
+    "Is iTunes the best way to store your music library?",
+    "Is the iTunes store the best place to buy music on MP3?",
+    "What happens when you press 'delete' by mistake and wipe out your entire music collection?",
+    "What new functions would you like to see on an MP3 player?",
+    "What size MP3 player do you need? How many songs do you want to carry around?",
+    "What do your grandparents think of MP3 technology?",
+    "Have you ever downloaded MP3s illegally?",
+    "Have you ever had any problems with MP3 technology?",
+    "What do you think will replace MP3 and make it look like old technology?",
+    "What do you think of file sharing sites like Napster and Limewire?",
+    "Do you have trouble keeping up with new MP3 vocabulary like 'rip' and 'burn'?",
+    "Has MP3 technology changed your music habits in any way?",
+    "Do you think MP3 will make CDs obsolete?",
+    "What questions about MP3s / MP3 technology would you like answered?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

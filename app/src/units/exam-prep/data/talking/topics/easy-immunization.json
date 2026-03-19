@@ -1,0 +1,31 @@
+{
+  "id": "easy-immunization",
+  "title": "Immunization",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'immunization'?",
+    "Why are immunizations important?",
+    "Does your country have a good immunization programme?",
+    "Do you have a good immune system?",
+    "Do you think it's possible to immunize all of the world's children?",
+    "What's the difference between immunization, vaccination and inoculation?",
+    "What are the required immunizations when you start school?",
+    "Do immunizations and vaccines work?",
+    "Do you think there's a risk of catching the illness from the vaccine?",
+    "Would you prefer oral or injection immunization?",
+    "Do you think we can get immunized against all diseases one day?",
+    "What is the benefit to the world of immunization?",
+    "What do you think of the argument than immunization contributes to overpopulation and should be banned?",
+    "Do you think there's still a need for immunization in rich countries?",
+    "Do you think immunizations are 100% safe?",
+    "Do immunizations stop at childhood?",
+    "Do you think new diseases will appear that need immunization?",
+    "Would you like to be immunized against old age?",
+    "Would you want your government to immunize thousands of children against a killer disease or produce one missile?",
+    "How would your country be affected if there was no immunization?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

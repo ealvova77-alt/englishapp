@@ -1,0 +1,28 @@
+{
+  "id": "easy-karate",
+  "title": "Karate",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "What comes to mind when you hear the word 'karate'?",
+    "What do you know about karate?",
+    "Do you think being a karate expert would be helpful in your life?",
+    "How many people could a karate black belt fight off at one time?",
+    "Do you think the karate you see in movies is the same as the karate you learn?",
+    "What are the differences between karate, kung fu and tae kwon doe?",
+    "What does the word 'karate' mean? Is it a good description?",
+    "Do you think karate is the best form of self defense?",
+    "Do you think karate should be an Olympic sport?",
+    "Would you like to take karate lessons?",
+    "Do you think karate should be taught at elementary schools?",
+    "How would your life be different if you had a black belt in karate?",
+    "What do you think karate teaches people about themselves?",
+    "Bruce Lee once said: \"Karate is like an iron bar; Kung Fu is like an iron bar with a chain attached.\" What does this mean?",
+    "What do you think karate training is like?",
+    "How long do you think it takes to get a black belt in karate?",
+    "What questions would you like to ask a karate expert? What do you think his/her answers might be?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "easy-left-hand",
+  "title": "Left Hand",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 7,
+  "questions": [
+    "How many left-handed people do you know? Are you right-handed or left-handed?",
+    "Have you ever tried to use your other hand for an extended period of time (e.g. after injuring your preferred hand?) What was it like? Did you become ambidextrous?",
+    "What objects can you think of that are designed with solely right-handed users in mind? (e.g. scissors, pens with writing on the side, the computer mouse, etc).",
+    "To what extent are left-handed people placed at a disadvantage in today's world?",
+    "In what ways might a left-handed person 'have the upper hand'? (e.g. in certain sports).",
+    "In some countries left-handed children used to be forced to use their right hand instead. What effect do you think this might have had on people? Do you know anyone who experienced this? Is this custom still in practice in your country today?",
+    "In Italy it is considered unlucky to pour wine with your left hand. What superstitions and customs are there in your country relating to the use of the left hand?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

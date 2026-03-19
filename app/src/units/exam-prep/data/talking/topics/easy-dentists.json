@@ -1,0 +1,31 @@
+{
+  "id": "easy-dentists",
+  "title": "Dentists",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'dentist'?",
+    "How often do you go to see a dentist?",
+    "Do you like visiting the dentist?",
+    "What do you think of the smell and sounds at the dentist?",
+    "Do you think trips to the dentists are reasonably priced?",
+    "Do you have good or bad childhood memories of dentists?",
+    "Would you like to look inside peoples' mouths all day as a job?",
+    "Talk about a good and bad dentist you've had.",
+    "Are your teeth in good condition?",
+    "Do you think there is a good choice of dentists in your town?",
+    "Do you think about as you sit in the dentist's waiting room?",
+    "Do you think dentist's waiting rooms have to have lots of photos of teeth and toothpaste ads, or would you like to see a different decor?",
+    "What do you think a day in the life of a dentist is like?",
+    "What do you do to look after your teeth?",
+    "What do you think dentists can do to make a visit more pleasurable?",
+    "Do you worry about fillings / cavities?",
+    "Do you think a dentist always tells the patient if he/she makes a big mistake?",
+    "Do you think toothpaste technology will mean there'll be no need for dentists one day?",
+    "Why do you think some people become dentists and some doctors?",
+    "Do you think you'd be a good dentist?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

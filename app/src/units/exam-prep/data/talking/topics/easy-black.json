@@ -1,0 +1,30 @@
+{
+  "id": "easy-black",
+  "title": "Black",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Do you like the colour black?",
+    "What good things are black?",
+    "Do you think black is a positive or negative colour?",
+    "In which aspects of your culture does the colour black play an important role?",
+    "What is a black box and why is it important?",
+    "Are you always in the black or in the red with your bank?",
+    "Is black always fashionable?",
+    "How would the world change if all black things were white?",
+    "Do you think black is a useful colour?",
+    "What do you associate with the colour black?",
+    "Do you like wearing black?",
+    "How would you assess someone's personality whose favourite colour was black?",
+    "Do you prefer black or white?",
+    "What does it mean to be black and blue?",
+    "Have you ever had a black eye?",
+    "Have you ever bought anything on the black market?",
+    "How did you try and remove blackheads on your face?",
+    "Why is black commonly the colour of mourning?",
+    "Why do you think lawyers, conductors, priests and university graduates wear black?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

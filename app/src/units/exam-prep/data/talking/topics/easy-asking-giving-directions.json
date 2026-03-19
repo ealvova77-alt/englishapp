@@ -1,0 +1,16 @@
+{
+  "id": "easy-asking-giving-directions",
+  "title": "Asking / Giving Directions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 5,
+  "questions": [
+    "How do I get to the elevator?",
+    "How do I get to the bathroom?",
+    "How do I get to the stairs?",
+    "How far is Tianamen from here?",
+    "How do I get to Tianamen from here?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

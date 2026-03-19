@@ -1,0 +1,31 @@
+{
+  "id": "medium-articles",
+  "title": "Articles",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What do you think about the English articles 'a', 'an' and 'the'?",
+    "Do you have articles in your own language?",
+    "What do you think when your teacher says you'll do a lesson on articles?",
+    "What are articles for?",
+    "What are your biggest problems with articles?",
+    "Would the English language be so different without articles?",
+    "What does 'a' and 'an' mean?",
+    "Why do we say 'the biggest', 'the most important' but not 'a biggest' or 'a most important'?",
+    "Would the Philippines, the Maldives, the USA etc be any different without 'the'?",
+    "When do you think articles are absolutely, totally necessary?",
+    "What do you know about English articles?",
+    "What advice would you give to someone trying to learn articles?",
+    "What's the difference between 'a' and 'an'?",
+    "Does your teacher do a good job at explaining articles?",
+    "What's the difference between \"I'm a student\" and \"I'm the student\"?",
+    "How would you describe what articles are to an alien?",
+    "Do you think the terms 'definite article' and 'indefinite article' help you understand articles better?",
+    "Do you care about whether or not you understand articles and use them correctly?",
+    "Why is it \"Once upon a time\" but \" The end\"? How would \"An end\" or \"Once upon the time\" change things?",
+    "Did you like this discussion on articles?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

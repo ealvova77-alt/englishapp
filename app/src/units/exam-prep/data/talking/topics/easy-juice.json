@@ -1,0 +1,31 @@
+{
+  "id": "easy-juice",
+  "title": "Juice",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'juice'?",
+    "What is your favourite juice?",
+    "How often do you drink freshly squeezed juice?",
+    "Do you use a juicer?",
+    "Is a lot of juice good for you?",
+    "Do you prefer fruit juices or vegetable juices?",
+    "Is there anything unhealthy about juice?",
+    "What company makes the best juice?",
+    "What is better with breakfast, orange juice or coffee?",
+    "Why is prune juice sometimes used as a medicine?",
+    "Do you prefer 'smooth' juice or juice with 'bits'?",
+    "Why do you think orange juice is the most common juice? Does this mean it's the most delicious?",
+    "Do you think drinking juice is better for you than eating fruit?",
+    "What is better, carrot juice or banana juice?",
+    "What do you use lemon juice for?",
+    "Do you think a glass of garlic and onion juice every day would be good for you?",
+    "What juices are good with alcohol?",
+    "Why is juice good for you?",
+    "Why doesn't juice from bottles taste like freshly squeezed juice?",
+    "Wheat grass juice is supposed to be very good for us. What do you know about it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

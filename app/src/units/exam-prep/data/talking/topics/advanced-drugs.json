@@ -1,0 +1,26 @@
+{
+  "id": "advanced-drugs",
+  "title": "Drugs",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 15,
+  "questions": [
+    "What comes to mind when you hear the word 'drugs'?",
+    "Have you ever used illegal drugs?",
+    "Many people say marijuana is more dangerous than alcohol. What do you think?",
+    "Many people around the world use 'designer' drugs, such as ecstasy, or recreational drugs, such as cannabis. Do you think this is OK?",
+    "What punishment do you think drug barons should get?",
+    "Would you like to work as an anti-narcotics police officer?",
+    "Should marijuana be legalized?",
+    "When you're sick, do you use medicine?",
+    "What do you think of alternative medicine?",
+    "Do you support the use of clinical marijuana?",
+    "Is drug use a big problem in your country?",
+    "Was drug use a problem in your high school?",
+    "Is alcohol worse than many illegal drugs?",
+    "Should the legal drinking age be changed?",
+    "Should patents held by pharmaceutical companies be bypassed in order to help those in need (e.g. people suffering from HIV in Africa)?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

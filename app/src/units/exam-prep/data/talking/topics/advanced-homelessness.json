@@ -1,0 +1,31 @@
+{
+  "id": "advanced-homelessness",
+  "title": "Homelessness",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What goes through your mind when you hear the word 'homeless'?",
+    "Do you ever give money to homeless people?",
+    "Is homelessness a problem in your country?",
+    "What does your government do for the homeless?",
+    "What does homelessness say about a society?",
+    "Why do you think people become homeless?",
+    "What do you think when you walk past homeless people?",
+    "How difficult do you think it is for homeless people to get back into employment, get a house, etc?",
+    "If you were homeless, where and how would you live?",
+    "What do you think it would be like to suddenly become homeless?",
+    "Are there homeless children in your country?",
+    "Why does the government allow homelessness?",
+    "Why do many people look down on the homeless?",
+    "What can you do to help the homeless?",
+    "If you were homeless, what would you do all day?",
+    "Would you give a homeless person a shower and a bed for the night in your home?",
+    "Do homeless people lose their civil or human rights in your country?",
+    "What do / would you care about more in an election, taxes of the plight of the homeless?",
+    "Do you think homelessness will ever disappear, even in rich countries?",
+    "What questions would you ask a homeless person?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-skin",
+  "title": "Skin",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'skin'?",
+    "How often do you think about your skin?",
+    "What is the function of skin?",
+    "What do you do to look after your skin?",
+    "Do you like the colour of your skin? (Why?)",
+    "Have you ever had any skin problems?",
+    "Why do people have different coloured skin?",
+    "Is beauty skin deep?",
+    "Have you ever escaped something by the skin of your teeth?",
+    "Martin Luther King Jr. said: \"I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.\" Has this dream come true?",
+    "What skincare products do you buy?",
+    "What's the best thing to keep your skin smooth?",
+    "What problems has skin colour caused in your country?",
+    "Do you believe ads that promise younger and healthier looking skin?",
+    "Some people want to tan their skin and some want to lighten their skin. Why is this?",
+    "Why do you think skin care for men has only recently become popular?",
+    "Do you worry about skin cancer?",
+    "Do you get dry or had skin anywhere on your body?",
+    "Have you ever been soaked to the skin?",
+    "Nietzsche: \"The Earth has a skin and that skin has diseases, one of its diseases is called man.\" What do you think of this quote?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

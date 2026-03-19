@@ -1,0 +1,31 @@
+{
+  "id": "easy-parks",
+  "title": "Parks",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'park'?",
+    "What's your favourite park and why?",
+    "What makes a good park good, in your eyes?",
+    "Have parks changes since you were a kid?",
+    "Do you think parks are different in other countries?",
+    "Do you like the sound of children playing in parks?",
+    "Are parks in your country now full of kids causing trouble?",
+    "Are there enough parks in your neighbourhood?",
+    "Do you think dogs should be banned from parks?",
+    "Do you like theme parks?",
+    "What was your favourite park when you were a child?",
+    "If you could design your own park, what would you put in it?",
+    "What is the best park in the world?",
+    "Are there any parks for adults? Should there be adult-only parks?",
+    "Is there anything you dislike about parks?",
+    "What are the national parks like in your country?",
+    "Do you think children should design the parks in cities?",
+    "What will the parks of the future look like?",
+    "What's your favourite thing to do in parks?",
+    "What annoys you most about other people's behaviour in parks?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

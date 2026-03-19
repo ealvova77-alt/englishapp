@@ -1,0 +1,24 @@
+{
+  "id": "easy-ok",
+  "title": "OK",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "What comes to mind when you hear the abbreviation 'OK'?",
+    "How many meanings of 'OK' do you know?",
+    "How does different pronunciation change the meaning of 'OK'?",
+    "Do you prefer the spelling 'OK' or 'okay'?",
+    "'OK' (or 'okay') is a verb, a noun, an adverb and an adjective. Can you think of examples of each in a sentence?",
+    "Is the word 'OK' used in your language?",
+    "Do you think there's a more recognized or more useful word than 'OK' on our planet?",
+    "Would you be OK with having English as your country's official language?",
+    "Name something you're just OK at doing. Why are you just OK at this?",
+    "Are you okay?",
+    "In English, a longer form of 'OK' is 'okie dokie' (meaning yes, sure). What do you think of this?",
+    "What things are not OK to do in your house?",
+    "If someone described you as being OK, would you be happy or unhappy with the description?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

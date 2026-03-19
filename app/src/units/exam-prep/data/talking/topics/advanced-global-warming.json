@@ -1,0 +1,31 @@
+{
+  "id": "advanced-global-warming",
+  "title": "Global Warming",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you think of global warming?",
+    "Do you think human activity is responsible for global warming?",
+    "When did you first become aware of global warming?",
+    "Do you think all countries are taking global warming seriously?",
+    "What most concerns you about global warming?",
+    "Do you think you have already experienced the effects of global warming?",
+    "How will global warming change our lives?",
+    "Do you think global warming could destroy us all?",
+    "Is your government doing enough to combat global warming?",
+    "What single action should the world take to reduce the dangers of global warming?",
+    "What's the difference between global warming and climate change?",
+    "What do you do in your daily life that might increase global warming?",
+    "Have you made changes to your life to reduce global warming?",
+    "What do you know about the science behind global warming?",
+    "How do you think global warming will change the world over the next century?",
+    "Do you know more about global warming than younger/older people?",
+    "Does your government provide enough education on the effects of global warming?",
+    "Which country makes you angriest when you think about global warming?",
+    "Do you think China and India should slow their growth down?",
+    "How did global warming happen without us noticing sooner?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

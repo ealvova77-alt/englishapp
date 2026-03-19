@@ -1,0 +1,30 @@
+{
+  "id": "medium-culture",
+  "title": "Culture",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 19,
+  "questions": [
+    "Does your country have a strong cultural identity?",
+    "What are some important parts of your culture?",
+    "What is your national dish? Do you like it?",
+    "What is your national drink?",
+    "What 3 things do you like about your culture and why?",
+    "What do you dislike about your culture and why?",
+    "Has your country's culture changed much in recent years?",
+    "Are people in your country proud of the culture?",
+    "What do you think of America's culture?",
+    "What do you think of the British culture?",
+    "Is there any culture that really fascinates you? Why?",
+    "How do you feel about extremely liberal cultures? Why?",
+    "How do you feel about extremely conservative cultures? Why?",
+    "If you moved to a different country, do you think you would experience culture shock?",
+    "What do you think foreigners think about your culture?",
+    "What are some cultural places and traditions in your country that are interesting?",
+    "Can people from different cultures be real friends? Can they have a successful marriage?",
+    "Are there any things from your culture or another culture that you don't like? What?",
+    "Would you enjoy living in another country and trying to fit into that culture and community? Which cultures might you want to be a part of? Which ones would you definitely NOT want to be a part of?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

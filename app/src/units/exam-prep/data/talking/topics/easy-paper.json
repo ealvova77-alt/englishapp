@@ -1,0 +1,31 @@
+{
+  "id": "easy-paper",
+  "title": "Paper",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you know about paper?",
+    "Why is paper so useful?",
+    "Do you think computers will one day mean we have no use for paper?",
+    "Do you use or waste too much paper?",
+    "How often do you get a paper cut? Is it painful?",
+    "Are you a good paper recycler?",
+    "What paper products do you have on you right now that could be replaced by more environmentally friendly things?",
+    "Do you prefer blank or lined paper?",
+    "Why does it say 'paper jam' when there is no paper jam?",
+    "What is best for wrapping presents - wrapping paper or newspaper?",
+    "What springs to mind when you hear the word 'paper'?",
+    "What do you know about the history of paper?",
+    "How can we cut down on the amount of paper we waste?",
+    "What happened to the paperless offices and schools that were promised when computers arrived?",
+    "Do you think shops should stop using paper bags?",
+    "What different things can you use scrap paper for?",
+    "Is the production of paper very bad for the environment? Why?",
+    "Have you ever spent a long time choosing the correct kind of paper to buy?",
+    "What would be a good paper substitute?",
+    "Is your desk full of paper?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

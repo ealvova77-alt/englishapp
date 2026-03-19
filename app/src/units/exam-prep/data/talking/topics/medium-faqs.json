@@ -1,0 +1,31 @@
+{
+  "id": "medium-faqs",
+  "title": "Faqs",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What does 'FAQ' stand for?",
+    "How often do you click the 'FAQ' link on a website?",
+    "Do you always find answers in the FAQs?",
+    "Do you think the FAQs are really asked by lots of people?",
+    "What is the question you ask most frequently?",
+    "What do you do if you cannot find an answer in the FAQs?",
+    "Do you ever think your question is more common than the ones on the FAQ list?",
+    "Do you ever skip the FAQs and go straight to the 'Contact Us' link?",
+    "Do you think some companies put their own list of FAQs online simply to promote their product?",
+    "Would you like a job answering FAQs for companies?",
+    "How do you pronounce FAQ?",
+    "Most sites have no more than ten FAQs. Do you think this is helpful?",
+    "Do you think a FAQ page is an excuse to cut back on customer service costs?",
+    "What do you think are the most frequently asked questions to Google, YAHOO! Or Microsoft?",
+    "What do you think are the most frequently asked questions to your country's leader?",
+    "What do you think is the world's most frequently asked question?",
+    "Have you seen the FAQ acronym offline?",
+    "What do you think are the most common FAQs on English language sites?",
+    "Would you like to know how many people asked a FAQ?",
+    "Do you think there is a better system than a FAQ page?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

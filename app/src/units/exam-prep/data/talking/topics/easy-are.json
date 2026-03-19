@@ -1,0 +1,32 @@
+{
+  "id": "easy-are",
+  "title": "Are",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 21,
+  "questions": [
+    "Are you a girl?",
+    "Are you a doctor?",
+    "Are you tall?",
+    "Are you intelligent?",
+    "Are you from England?",
+    "Are you going to school?",
+    "Are you eating right now?",
+    "Are your parents generous?",
+    "Are your friends kind?",
+    "Are your friends funny?",
+    "Are you teachers interesting?",
+    "Is your best friend tall?",
+    "Is your favourite singer a girl?",
+    "Is your house big?",
+    "Is your TV new?",
+    "Is your computer slow?",
+    "Is your phone good?",
+    "Are your classmates funny?",
+    "Is Tom Cruise handsome?",
+    "Is studying fun?",
+    "Are your grades usually good?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

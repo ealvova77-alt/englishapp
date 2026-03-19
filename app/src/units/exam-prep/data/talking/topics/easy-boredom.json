@@ -1,0 +1,31 @@
+{
+  "id": "easy-boredom",
+  "title": "Boredom",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think of when you hear the word 'bored'?",
+    "Are you bored learning English?",
+    "Is school boring? Why or why not?",
+    "What's the most boring thing you have to do?",
+    "Do you have boring friends?",
+    "Describe a boring movie you watched?",
+    "What do you do when you get bored?",
+    "Are men or women more boring? (Why)?",
+    "Why do we get bored?",
+    "What is the most boring book you had to read? Talk about it.",
+    "Are you a boring person?",
+    "What do you complain when you are bored?",
+    "Is your English teacher boring?",
+    "How would you help someone who says they are bored?",
+    "Do you think sport is boring? If so which sport?",
+    "What's the best way to stop being bored?",
+    "Is window shopping boring? Why or why not?",
+    "Are your politicians boring?",
+    "What questions the most boring questions you know?",
+    "Do you think animals get bored?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

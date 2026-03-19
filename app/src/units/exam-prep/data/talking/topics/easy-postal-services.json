@@ -1,0 +1,13 @@
+{
+  "id": "easy-postal-services",
+  "title": "Postal Services",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 2,
+  "questions": [
+    "How has the post office survived e-mail?",
+    "Why is it a zip code in the USA and a post code in other countries?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

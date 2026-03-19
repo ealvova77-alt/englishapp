@@ -1,0 +1,31 @@
+{
+  "id": "easy-pregnancy",
+  "title": "Pregnancy",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'pregnancy'?",
+    "Do you think advances in science will mean men can become pregnant in the future?",
+    "What are the dangers of pregnancy?",
+    "What's the first sign of pregnancy?",
+    "What's a phantom pregnancy and why does this phenomena happen?",
+    "Would you trust a home pregnancy test?",
+    "Should a woman change her lifestyle during her pregnancy?",
+    "Is there any kind of pregnancy celebration in your culture?",
+    "What should children be taught about conception and pregnancy?",
+    "Is unwanted pregnancy a problem in your country?",
+    "What do you know about pregnancy?",
+    "Are teenage pregnancies a problem in your country?",
+    "What do you think of mothers who drink alcohol during their pregnancy?",
+    "Why is pregnancy so dangerous in many countries in the world?",
+    "What duties and roles does the father have during a mother's pregnancy?",
+    "How scary is pregnancy compared with other events in life?",
+    "What complications can occur during pregnancy?",
+    "How does a woman's diet change during pregnancy? Does she eat strange food at midnight in your country",
+    "What are the different stages of the baby during pregnancy?",
+    "What would you like to know about pregnancy that you don't know?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

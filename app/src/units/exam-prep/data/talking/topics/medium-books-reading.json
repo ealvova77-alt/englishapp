@@ -1,0 +1,22 @@
+{
+  "id": "medium-books-reading",
+  "title": "Books / Reading",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 11,
+  "questions": [
+    "Do you read mainly for information or for entertainment?",
+    "Who is your favourite author?",
+    "Which newspapers/magazines do you read and why?",
+    "What is your favourite genre?",
+    "Do you read books based on recommendations? Where do you go to get book recommendations or reviews?",
+    "Have your reading habits changed since you were a child/teenager? How?",
+    "Have you ever read a book more than once? If so, why?",
+    "What books would you recommend to other people?",
+    "What factors are important to you when choosing a book to read? Author? Cover design? Genre?",
+    "'You can't judge a book by its cover.' Industry experts say this is exactly what people do, however! How important is the cover of a book, in your opinion?",
+    "Have you ever watched a film based on a book you had read? Which was better and why?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-recycling",
+  "title": "Recycling",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'recycling'?",
+    "How does recycling benefit the planet?",
+    "Are you good at recycling things?",
+    "Does your town do enough recycling?",
+    "What would the world be like without recycling?",
+    "Do you think recycling is here to stay or will we go back to a disposable goods lifestyle?",
+    "What would you think if your neighbours never recycled anything?",
+    "How much good do you think you're doing when you recycle things?",
+    "What things do you throw away that you think should be recycled?",
+    "What do you think of the idea of water recycled from sewage?",
+    "Should recycling be mandatory?",
+    "What fines should people have to pay if they do not recycle?",
+    "Do you think only 'educated' people recycle?",
+    "Have you been to other countries where recycling is much better or worse than in your country?",
+    "What should schools teach children about recycling?",
+    "What kinds of things do you think cannot be recycled?",
+    "What are your feelings towards the recycling of nuclear waste?",
+    "Should there be a reward system for people who recycle things?",
+    "What do you think of the idea of having a special minister for recycling in the government?",
+    "Which is better, recycling or buying only the things we really need?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

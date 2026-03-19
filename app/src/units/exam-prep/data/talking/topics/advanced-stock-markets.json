@@ -1,0 +1,30 @@
+{
+  "id": "advanced-stock-markets",
+  "title": "Stock Markets",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'stock market'?",
+    "What job do stock markets do?",
+    "Would you like to work in a stock market?",
+    "What's the difference between the Dow Jones and the NASDAQ?",
+    "Do you think it's risky to invest in the stock market?",
+    "Is the stock market in your country healthy?",
+    "What causes stock market crashes?",
+    "What do you think when you see pictures of people working inside a stock market?",
+    "What are the differences between stocks and shares?",
+    "What companies would you like to have shares in?",
+    "What kind of person do you need to be to work on a stock market?",
+    "Do you pay any attention to the ups and downs of the stock market?",
+    "How important are stock markets to the world economy?",
+    "What are the differences between a bull market and a bear market?",
+    "What's happening to the stock markets today?",
+    "Would you prefer to work at the New York or London Stock Exchange?",
+    "Some people say stock market, others say bourse. Which do you prefer?",
+    "What questions would you like to ask a trader on a stock market?",
+    "What happens in a stock market crash?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

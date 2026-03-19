@@ -1,0 +1,31 @@
+{
+  "id": "easy-red",
+  "title": "Red",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'red'?",
+    "What would the world be like without the colour red?",
+    "Is the colour red important in your country's culture?",
+    "What things look good in red and what things do not?",
+    "How would you feel if you lived in a red house with everything red inside?",
+    "What human characteristics does the colour red represent?",
+    "When was the last time you \"saw red\"?",
+    "Have you ever been \"in the red\" with the bank?",
+    "If a person's favourite colour is red, what kind of person are they?",
+    "Why aren't red wine, red meat and red hair really red?",
+    "Have you ever been caught red-handed doing something you shouldn't?",
+    "What red objects do you like most?",
+    "Why do the Red Cross and Red Crescent organizations use the colour red?",
+    "Do you like the word 'red'?",
+    "Do you ever get fed up of the red tape in local and national governments?",
+    "What idioms or expressions are there in your language using the word 'red'?",
+    "What feelings does the colour red express?",
+    "When was the last time you painted the town red?",
+    "Do you think brands like Ferrari and Coca Cola are better red?",
+    "Do you get a lot of red writing on your paper when your teacher returns your homework?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

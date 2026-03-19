@@ -1,0 +1,31 @@
+{
+  "id": "easy-oceans",
+  "title": "Oceans",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'ocean'?",
+    "Are you an ocean or a mountain person?",
+    "What adjectives would you use to describe oceans?",
+    "What experiences have you had in your life with oceans?",
+    "How important are oceans?",
+    "Would you like a job as an oceanographer?",
+    "What's the scariest thing about oceans?",
+    "In what ways are you like an ocean?",
+    "What are the most beautiful creatures living in the oceans?",
+    "How do the oceans affect the weather?",
+    "What is an ocean?",
+    "What's the difference between an ocean and a sea?",
+    "What fun things can you do in the ocean?",
+    "Do you have different images of the different oceans in the world?",
+    "What would you like to know about oceans?",
+    "What would you do if you owned a whole ocean?",
+    "What do you know about the El Nino effect?",
+    "Do you think there should be more ocean than land or more land than ocean?",
+    "Are the world's oceans in danger? How can we protect them?",
+    "What scary monsters live at the very, very bottom of the ocean?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

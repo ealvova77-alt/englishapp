@@ -1,0 +1,30 @@
+{
+  "id": "easy-maths",
+  "title": "Maths",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'mathematics'?",
+    "Do you like 'maths' - the British English pronunciation and spelling, or 'math' the American versions?",
+    "Were you good at maths at school?",
+    "Did you like maths at school?",
+    "Are you good at mental arithmetic now?",
+    "What is maths useful for nowadays if we have computers and calculators?",
+    "Would you like to study maths again?",
+    "Why is maths so important at schools?",
+    "Are people who are really good at maths very interesting?",
+    "Did you have a favourite or a hated maths teacher?",
+    "Are all intelligent people good at maths?",
+    "How often do you use maths of some kind in a normal day?",
+    "Do you know your times tables up to 12 times 12?",
+    "Are girls or boys better at maths?",
+    "How many different branches of mathematics do you know of?",
+    "What do you know about the history of maths?",
+    "What is the philosophy of mathematics?",
+    "What's most confusing to you: algebra, statistics, probability or chaos theory?",
+    "Are there times when two plus two equals five?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-uzbekistan",
+  "title": "Uzbekistan",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Uzbekistan?",
+    "What are the good things and bad things about Uzbekistan?",
+    "What is Uzbekistan most famous for?",
+    "What do you know about Uzbekistan's history?",
+    "What are the differences between Uzbekistan and your country?",
+    "What do you think about Uzbek people?",
+    "What has Uzbekistan given to the world?",
+    "Would you like to visit Uzbekistan, or live there?",
+    "What do you know about the geography of Uzbekistan?",
+    "Who are the most famous Uzbek people you know?",
+    "How different is Uzbekistan from other European/Asian countries?",
+    "What was the last news story you heard about Uzbekistan?",
+    "What do you think Uzbekistan's neighbours think of it?",
+    "What do you think Uzbekistan will be like 50 years from now?",
+    "Does your country have good relations with Uzbekistan?",
+    "What could you do on a holiday in Uzbekistan?",
+    "What is your idea of a typical Uzbek person?",
+    "What things about Uzbekistan do you think Uzbeks are proud of?",
+    "What do you know about Uzbek culture?",
+    "What would you like to ask an Uzbek person about Uzbekistan?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

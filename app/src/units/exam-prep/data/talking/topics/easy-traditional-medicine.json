@@ -1,0 +1,27 @@
+{
+  "id": "easy-traditional-medicine",
+  "title": "Traditional Medicine",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "What springs to mind when you hear the term 'traditional medicine'?",
+    "What is 'traditional' about traditional medicine?",
+    "What traditional medicine do you know about?",
+    "Have you tried any traditional medicine?",
+    "Do you think traditional medicine is just a trend that goes in and out of fashion?",
+    "Do you think traditional medicine works?",
+    "What kind of people use traditional medicine?",
+    "Do you think traditional medicines work better than modern drugs?",
+    "Do you trust traditional medicine?",
+    "Do you think doctors should study about and be experts in traditional medicine?",
+    "Do you think traditional medicines are tried, tested and safe?",
+    "Why do you think so little is known about the health benefits of traditional medicine?",
+    "Would you like to try acupuncture? Cupping? Massage?",
+    "Do you think the medicine in Western hospitals is traditional medicine in other countries?",
+    "What would you like to know about traditional medicine?",
+    "Do you know anyone who uses traditional medicine?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

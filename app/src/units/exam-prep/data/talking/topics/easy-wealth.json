@@ -1,0 +1,31 @@
+{
+  "id": "easy-wealth",
+  "title": "Wealth",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'wealth'?",
+    "How do you get wealth?",
+    "Does wealth make people happy?",
+    "Do you think it's fair that so much of the world's wealth is in the hands of so few people?",
+    "What would you do if you had incredible wealth?",
+    "Do you think it's fair that individuals can amass great wealth by selling or exploiting their country's natural resources?",
+    "Do you think people should be forced to distribute their wealth to create a fairer society?",
+    "Do you think the world's wealthiest nations do enough to help the poorer nations?",
+    "Henry David Thoreau said: \"Wealth is the ability to fully experience life.\" What do you think of this quote?",
+    "Margaret Bonnano said: \"Being rich is having money; being wealthy is having time.\" What do you think of this quote?",
+    "Are you wealthy?",
+    "What would a wealthy person do if (s)he suddenly lost all his/her wealth?",
+    "What are the best and worst things about being wealthy?",
+    "Why would you like to be wealthy?",
+    "Do you think your personality would change if you had great wealth?",
+    "Is it better to pursue wealth or happiness?",
+    "What questions would you like to ask a wealthy person?",
+    "Are you jealous of people with great wealth?",
+    "A. J. Reb Materi said: \"So many people spend their health gaining wealth, and then have to spend their wealth to regain their health.\" What do you think of this quote?",
+    "Benjamin Franklin said: \"Early to bed, early to rise, makes a man healthy, wealthy and wise\" What do you think of this quote?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

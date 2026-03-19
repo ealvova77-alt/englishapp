@@ -1,0 +1,19 @@
+{
+  "id": "easy-senses",
+  "title": "Senses",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 8,
+  "questions": [
+    "What comes to mind when you hear the word 'senses'?",
+    "How often do you think about how important your senses are?",
+    "Would you like to have a sixth sense?",
+    "What senses do you think you experience when you dream?",
+    "What sense would you choose to lose if you had to lose one?",
+    "Is common sense a real sense?",
+    "Robert Tizon said: \"I would rather have eyes that cannot see; ears that cannot hear; lips that cannot speak, than a heart that cannot love.\" Would you too?",
+    "Oscar Wilde said: \"Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

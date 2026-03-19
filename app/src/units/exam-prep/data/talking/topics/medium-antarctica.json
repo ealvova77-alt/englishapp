@@ -1,0 +1,31 @@
+{
+  "id": "medium-antarctica",
+  "title": "Antarctica",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What do you know about Antarctica?",
+    "What would you like to know about Antarctica?",
+    "Is Antarctica a country?",
+    "What happens on Antarctica?",
+    "What do you think is interesting about Antarctica?",
+    "What do scientists research on Antarctica?",
+    "What do you think people do on a two-week holiday on Antarctica?",
+    "Do you think a company could make money offering honeymoons in Antarctica?",
+    "What are the future threats to Antarctica?",
+    "Who should control Antarctica?",
+    "Do you know anything of the history of Antarctica?",
+    "Do you think Antarctica has any natural resources?",
+    "What is the significance of ice shelves in Antarctica melting because of global warming?",
+    "Would you like to spend six months working on Antarctica?",
+    "What is the yearly climate of Antarctica like?",
+    "Are there any indigenous inhabitants on Antarctica?",
+    "What would you take photographs of on Antarctica?",
+    "Do you like penguins?",
+    "Do you think tourism should be allowed on Antarctica?",
+    "How could Antarctica hold the key to the question of life on Mars?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

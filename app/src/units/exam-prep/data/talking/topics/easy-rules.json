@@ -1,0 +1,27 @@
+{
+  "id": "easy-rules",
+  "title": "Rules",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "Can you tell me 5 rules your school has?",
+    "Which rules do you agree with and why?",
+    "Which rules don't you agree with and why?",
+    "Who is your strictest teacher?",
+    "What do they do?",
+    "Who is your least strict teacher?",
+    "Are you allowed to sleep in any of your classes?",
+    "Do you think teenagers need rules?",
+    "What happens if someone is caught smoking in your school?",
+    "Are you allowed to stay out late?",
+    "What time do you have to go home at night?",
+    "What would happen if you broke one of your parents' serious rules?",
+    "Can you play computer games for a long time?",
+    "Do your parents have any rules about studying?",
+    "Are your friends' parents strict?",
+    "Do your parents let you have a boyfriend/girlfriend?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-house-home",
+  "title": "House, Home",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Are you a 'house and home' person?",
+    "What's your favourite thing about your home?",
+    "What is your dream home?",
+    "What home improvements would you like to make to your home?",
+    "Are you happy with the colour scheme and furniture in your home?",
+    "Would you rather live in a house or an apartment?",
+    "Do you agree that 'home is where the heart is'?",
+    "Do you like being at home alone?",
+    "What are the differences between a house and a home?",
+    "Do you like the houses in other countries?",
+    "What comes to mind when you hear the word 'home'?",
+    "Are you a stay-at-home person or a going-out person?",
+    "Do you do homework and housework?",
+    "Do you or would you like to own your own home?",
+    "Are you house proud?",
+    "Is there anything you hate about your home?",
+    "Do you get jealous of other people's homes?",
+    "Would you like to work at home?",
+    "Do you like the location of your home?",
+    "Would you like to design your own home?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

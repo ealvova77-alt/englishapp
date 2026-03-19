@@ -1,0 +1,13 @@
+{
+  "id": "easy-you",
+  "title": "You",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 2,
+  "questions": [
+    "Would you prefer to be male or female?",
+    "Where would you like to be born? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

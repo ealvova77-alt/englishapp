@@ -1,0 +1,29 @@
+{
+  "id": "easy-peace",
+  "title": "Peace",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What comes to mind when you hear the word 'peace'?",
+    "Are you at peace with yourself and the world?",
+    "Do you love peace and quiet?",
+    "Do you think there'll ever be peace in the world?",
+    "What do you think of all the world's peace processes and peace plans?",
+    "Which area of the world do you hope achieves a lasting, permanent peace?",
+    "When was the last time you heard of two countries or groups signing a peace deal?",
+    "Which is more important, freedom or peace?",
+    "What colour is peace?",
+    "What does peace mean to you?",
+    "How important is peace to you?",
+    "What is peace of mind and inner peace?",
+    "Do you think all Nobel Peace prize winners deserved their award?",
+    "Would you be a good peacemaker? Why do you think this?",
+    "Would you consider joining a peace movement?",
+    "Do you think everyone who dies rests in peace?",
+    "Do you ever have to get the peace pipe out to settle arguments with friends and family?",
+    "Do you do anything to reach a state of peace, like yoga or meditation?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

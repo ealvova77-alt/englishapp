@@ -1,0 +1,29 @@
+{
+  "id": "easy-jam",
+  "title": "Jam",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "Do you like jam?",
+    "Do you know how jam is made?",
+    "What's the difference between jam and marmalade?",
+    "What is jam used for in cooking?",
+    "How often do you eat jam?",
+    "Is jam best on toast, bread or in cakes?",
+    "Is jam healthy?",
+    "What is the best jam manufacturer?",
+    "English people eat jam sandwiches for lunch. What do you think of this?",
+    "Do you prefer whole strawberries in strawberry jam or strawberry bits?",
+    "What is your favourite kind of jam?",
+    "Do you know any books or movies that have famous jam scenes?",
+    "Which country makes the best jam?",
+    "Americans say 'jelly', Brits say 'jam'. Which is it?",
+    "Americans eat peanut butter and jam/jelly sandwiches. Is this acceptable behaviour?",
+    "Do you know any good jam recipes?",
+    "Do you think there is a link between the jam you eat and the jam in a traffic jam or in a music jam?",
+    "What do you think of the idea of spicy jam?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

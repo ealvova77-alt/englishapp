@@ -1,0 +1,31 @@
+{
+  "id": "advanced-jail",
+  "title": "Jail",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'jail'?",
+    "Do you think jails work?",
+    "Would you like to work in a jail?",
+    "How would you feel if you had to spend a couple of months in jail?",
+    "Do you think people leave jail better people or better criminals?",
+    "What are the jails like in your country?",
+    "What do you think prisoners do in jail every day?",
+    "Do you think jails are dangerous places?",
+    "In prison escape movies, do you always want the prisoners to escape? Why?",
+    "Would you live in a house / apartment that was right next door to a jail?",
+    "How did jails start?",
+    "Do you think there are better ways of reforming criminals than sending them to jail?",
+    "How do you think jails around the world are different?",
+    "What's the best way to escape from jail?",
+    "Would you visit me in jail?",
+    "If you were in jail, what would you miss most about the outside?",
+    "If you were in jail, what would you worry about most?",
+    "An American politician once said: \"I don't want to send them to jail. I want to send them to school.\" What do you think of this?",
+    "Do you think life in jail should mean life in jail?",
+    "What would you like to ask someone who is in jail for life?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

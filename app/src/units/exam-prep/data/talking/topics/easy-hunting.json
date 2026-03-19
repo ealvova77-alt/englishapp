@@ -1,0 +1,31 @@
+{
+  "id": "easy-hunting",
+  "title": "Hunting",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'hunting'?",
+    "Are you for or against hunting?",
+    "Would you like to go hunting?",
+    "What kind of hunting is there in your country?",
+    "What do you think of trophy hunting?",
+    "Do you think it's OK for people to hunt elephants and whales?",
+    "What do you think of people hunting animals for fur?",
+    "Do you think hunting is a sport?",
+    "Do you think hunting around the world should only be allowed for food?",
+    "What are your experiences of job hunting?",
+    "What are the differences between hunting and fishing?",
+    "Why do you think people get a thrill from hunting and killing animals?",
+    "What damage is big game hunting doing in Africa?",
+    "Do you think it's OK to hunt pests?",
+    "What hunting methods do you know of that are very cruel?",
+    "What do you think of the term 'blood sports' to describe hunting?",
+    "How has hunting changed over the ages?",
+    "Do you think all hunting will be illegal in the future?",
+    "Would you like to go on a hunting expedition?",
+    "Would you go hunting if you lived in the jungle?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

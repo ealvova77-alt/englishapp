@@ -1,0 +1,30 @@
+{
+  "id": "easy-libraries",
+  "title": "Libraries",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'library'?",
+    "Can you remember your earliest visits to libraries?",
+    "Do you think libraries have changed over the years?",
+    "Would you like to work in a library?",
+    "Do you like the atmosphere of libraries?",
+    "Are there enough libraries where you live?",
+    "What's the best library you've ever been to?",
+    "What would happen if libraries suddenly disappeared?",
+    "Would society be better if there were ten times more libraries?",
+    "What do you think libraries will be like 50 years from now?",
+    "Have you ever borrowed a book from a library and not returned it?",
+    "How can your government encourage people to use libraries more often?",
+    "How will the Internet change the function of libraries?",
+    "What things about libraries don't you like?",
+    "Do you think people are using libraries more or less than they did 20 years ago?",
+    "What do you think libraries need that they don't have now?",
+    "What is correct library etiquette? Do you always stick to it?",
+    "What is your country's national library like?",
+    "Have you ever used a library full of English books?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

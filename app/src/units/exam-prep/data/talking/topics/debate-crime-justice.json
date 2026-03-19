@@ -1,0 +1,13 @@
+{
+  "id": "debate-crime-justice",
+  "title": "Crime, Justice",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 2,
+  "questions": [
+    "Do you think it's possible to prevent certain kinds of crimes? If so, which ones and how? Why do you think that there have been so many school shootings at high schools in the United States?",
+    "What do you think are reasonable penalties for people who commit environmental crimes?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-junk-food",
+  "title": "Junk Food",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the term 'junk food'?",
+    "What is it about junk food that is so bad for us?",
+    "Do you think there should be a junk food tax to help pay for people who go to hospital with heart and weight problems?",
+    "Why is junk food so delicious?",
+    "Are parents who feed junk food to their children irresponsible?",
+    "Do you think there'll be more or less junk food in the future?",
+    "What junk food do you really, really like?",
+    "Is the junk food from your country tastier than the junk food from other countries?",
+    "How can you change your lifestyle to eat less junk food?",
+    "Do lots of people eat junk food in your country?",
+    "Does your government educate people about the dangers of junk food?",
+    "Do you think junk food makers are immoral and should think more about people's health?",
+    "What do you think of people who eat mostly junk food?",
+    "Does junk food or good quality healthy food make you happier?",
+    "If you had to choose between a strict vegetarian diet forever or a junk food diet forever, which would you choose?",
+    "Why does junk food cost so much?",
+    "What is the definition of junk food?",
+    "Is chocolate the most addictive junk food?",
+    "Do you think people ate junk food hundreds of years ago?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "easy-supermarkets",
+  "title": "Supermarkets",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "What springs to mind when you hear the word 'supermarket'?",
+    "Which are better - big supermarkets, small grocery stores or outdoor markets?",
+    "Do you like visiting supermarkets in other countries?",
+    "What single improvement do you think would make your local supermarket better?",
+    "What do you think it would be like to work in a supermarket?",
+    "Do you like the music in supermarkets?",
+    "What do you think about when you are in a supermarket?",
+    "Why do you think men hate supermarkets?",
+    "Have you ever had a bad or embarrassing experience in a supermarket?",
+    "Do you like the advertisements for supermarkets on television?",
+    "What's your supermarket nightmare?",
+    "If you had 60 seconds to fill your supermarket trolley for free, what would you fill it with?",
+    "How often do you go to the supermarket?",
+    "What are the supermarkets like in your home town?",
+    "Do you go to other places than supermarkets to buy food?",
+    "How much do you typically spend at the supermarket each time?",
+    "Would you like to own a supermarket? Why or why not?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

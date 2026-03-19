@@ -1,0 +1,31 @@
+{
+  "id": "easy-domestic-violence",
+  "title": "Domestic Violence",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the phrase 'domestic violence'?",
+    "What are the different forms of domestic violence?",
+    "In some countries, domestic violence isn't a crime. What do you think about this?",
+    "Which is worse, wife-beating or husband-beating?",
+    "Do you think domestic violence exists in all social classes?",
+    "Does domestic violence often hit the headlines in your country?",
+    "What would you do if you knew there was domestic violence in the house / apartment next to yours?",
+    "Is there much education about or awareness of domestic violence in your country?",
+    "Do you know of any instances of domestic violence?",
+    "Do you think the aggressors of domestic violence grew up in an environment of domestic violence and child abuse?",
+    "Is domestic violence a big problem in your country?",
+    "What are the main causes of domestic violence?",
+    "Are there shelters in your country where victims of domestic violence can stay and seek refuge?",
+    "What kind of people carry out domestic violence?",
+    "Why do you think victims of domestic violence stay in the relationship for so long?",
+    "Why do many countries see domestic violence as a private, 'family affair'?",
+    "Is domestic violence a subject that is largely swept under the carpet or is a taboo subject in your country?",
+    "Have you seen movies or TV shows about domestic violence?",
+    "What questions would you ask a violent family member?",
+    "Do you think alcohol plays a large part in domestic violence?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "easy-introductions",
+  "title": "Introductions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 11,
+  "questions": [
+    "What is your job?",
+    "Where do you usually go on vacation?",
+    "Do you have any children?",
+    "What is your favorite football team?",
+    "Do like movies?",
+    "What type of movies do you like?",
+    "What did you major in (US English)?",
+    "What did you study at university (UK English)?",
+    "Do you have a girlfriend/boyfriend?",
+    "Can you drive?",
+    "Do you have a car?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

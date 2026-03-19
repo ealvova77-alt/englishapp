@@ -1,0 +1,31 @@
+{
+  "id": "easy-obesity",
+  "title": "Obesity",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'obesity'?",
+    "What do you know about obesity?",
+    "How much of a problem is obesity in your country?",
+    "Which people in your country are obese?",
+    "Why is obesity bad for your health?",
+    "Why is obesity increasing?",
+    "What should governments do to combat obesity?",
+    "Do you think obese people should pay higher medical charges?",
+    "Why don't parents do enough to stop their children from becoming obese?",
+    "Is obesity immoral when so many people in the world are starving?",
+    "Which is worse, obesity or anorexia?",
+    "Should schools ban junk food to fight obesity?",
+    "Do you think obesity will be more of a problem in the future?",
+    "Do you think there are any drugs that can reduce obesity?",
+    "Do you think children should be taken into care if their parents let them become obese?",
+    "Do you see nay relationship between obesity and video games?",
+    "Should there be a \"fat tax\" on food that is very high in calories?",
+    "What do you think of the \"big is beautiful\" phenomena in the USA?",
+    "Is obesity a disease or a choice?",
+    "Do you think obese people should have special seats in airplanes and pay more money?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

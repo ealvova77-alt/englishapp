@@ -1,0 +1,31 @@
+{
+  "id": "debate-capital-punishment",
+  "title": "Capital Punishment",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What is the difference between capital punishment and corporal punishment?",
+    "Do you agree with capital punishment?",
+    "What is the history of capital punishment in your country?",
+    "What does the government do about people wrongly executed?",
+    "Is the death penalty a deterrent to violent crime?",
+    "What different methods are there of applying the death penalty?",
+    "What do you think of the argument \"an eye for an eye, a tooth for a tooth\"?",
+    "Do you think victims' families get a sense of closure knowing a killer has been executed?",
+    "Should the death penalty be applied to mentally disabled people?",
+    "What do you think the executioner feels?",
+    "Do you think capital punishment is murder?",
+    "Which is worse, life imprisonment or the death penalty?",
+    "Why do many Christian countries have the death penalty when the Bible says, \"Thou shalt not kill\"?",
+    "What do you think is the most humane way to put someone to death?",
+    "Do you think the victim's family should be able to choose the method of execution?",
+    "If execution is unacceptable, what is the alternative?",
+    "Why does the \"capital\" mean in capital punishment?",
+    "Should the general public be allowed to look at executions?",
+    "In Britain you can receive the death penalty for killing the Queen but not your neighbor. What do you think?",
+    "Do you think the death penalty can be applied to thieves?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "easy-resumes-cvs",
+  "title": "Resumes, Cvs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "Are you very career orientated? Do you constantly try to improve your CV? How?",
+    "What are CVs like in your country?",
+    "Are they different to CVs from English speaking countries?",
+    "Do you put a photo of yourself on your CV? What are the pros and cons of doing so?",
+    "Do you think it is a good idea to put your age and gender on a CV? Why/why not?",
+    "'No one is ever as perfect as they are on their CV.' Are you completely honest on your CV?",
+    "What is it important to have on your CV for a job specifically in your field?",
+    "What do you think is important for making a good layout for a CV?",
+    "What do you think is more important to emphasise on a CV, qualifications or experience?",
+    "Do you tailor your CV to individual jobs? Is this important? Do you find this time-consuming?",
+    "Have you ever had to evaluate CVs and decide who would be invited to an interview? How did you find this experience? What made you invite the people you did?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

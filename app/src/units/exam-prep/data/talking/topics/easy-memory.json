@@ -1,0 +1,26 @@
+{
+  "id": "easy-memory",
+  "title": "Memory",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 15,
+  "questions": [
+    "What's your earliest memory? How old were you?",
+    "What are two of the best memories that stand out most from your childhood? Why do you remember these things so clearly?",
+    "How do you memorise new English vocabulary? What techniques do you use to fix words in your memory?",
+    "Do you have a good memory? Do you have a better long-term or short-term memory?",
+    "Which do you remember more easily, people's names or their faces? Why do you think this is?",
+    "Have you ever forgotten something important? Can you explain why you forgot it?",
+    "How do you remind yourself about important things?",
+    "Do you have a good visual memory? What would be the advantages (and disadvantages) of having a photographic memory?",
+    "Do you ever day-dream and forget about your immediate surroundings? To what extent do you consider this to be a form of temporary memory loss?",
+    "Do you believe in the power of hypnosis? Do you think it can be useful in helping people to access 'lost' memories?",
+    "Why do people sometimes lose their memories? How do you think they feel? What can be done to help them?",
+    "We are sometimes encouraged not to worry about the future or dwell on the past but to live in the present. How far do you agree with this suggestion?",
+    "Memory-enhancing study techniques are a complete waste of time. Some students are simply better at memorising things than others. Do you agree?",
+    "To what extent do you agree with the assertion that 'people with good memories are more intelligent'?",
+    "Can memory loss ever be a good thing?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

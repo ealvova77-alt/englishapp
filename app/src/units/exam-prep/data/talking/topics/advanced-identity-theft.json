@@ -1,0 +1,31 @@
+{
+  "id": "advanced-identity-theft",
+  "title": "Identity Theft",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the term 'identity theft'?",
+    "How can someone steal your identity?",
+    "Are you sure all of your personal information is secure?",
+    "Whose identity would you like to steal for a day and what would you do in those 24 hours?",
+    "How can you prevent identity theft?",
+    "Is identity theft a minor or major crime?",
+    "What danger would your country be in if someone stole your president's/prime minister's identity?",
+    "Would you consider taking out identity theft insurance?",
+    "What would you want to happen to someone who stole your identity?",
+    "Have you ever been a victim of identity theft?",
+    "What can happen to you if someone steals your identity?",
+    "What is actually stolen with identity theft?",
+    "How can identity theft be stopped to reduce the chances of illegal immigration?",
+    "Do you think someone can steal another person's identity and live their life?",
+    "Do you think someone could steal your identity over the Internet?",
+    "Are you always careful about what documents you throw away?",
+    "How dangerous do you think it is to put personal information on social networking sites like FaceBook, MySpace and Bebo?",
+    "Is identity theft a serious problem in your country?",
+    "Have you seen any movies or read any novels about identity theft?",
+    "What would happen if everyone's identity was stolen?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

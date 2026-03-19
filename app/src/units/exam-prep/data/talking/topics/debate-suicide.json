@@ -1,0 +1,31 @@
+{
+  "id": "debate-suicide",
+  "title": "Suicide",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'suicide'?",
+    "Is the suicide rate in your country high?",
+    "Why do people commit suicide?",
+    "What do you think of the Internet sites that encourage people to commit suicide together?",
+    "Does society do enough for people who feel suicidal to stop them from taking their own lives?",
+    "Is it wrong to commit suicide?",
+    "Should people who commit suicide always leave a suicide note?",
+    "Is suicide the same as murder?",
+    "Nietzsche said: \"The thought of suicide is a powerful solace: by means of it one gets through many a bad night.\" Do you agree?",
+    "Phil Donahue said: \"Suicide is a permanent solution to a temporary problem.\" What do you think of this quote?",
+    "Have you ever contemplated suicide?",
+    "If you try but fail to commit suicide, should you got to prison?",
+    "What are your thoughts on assisted suicide for the terminally ill?",
+    "Is suicide a taboo subject in your culture?",
+    "Is committing suicide one of the most selfish acts a person can do?",
+    "What would you do if your friend started talking about suicide?",
+    "If you commit suicide, do you go to heaven or hell?",
+    "What kind of people are more likely to commit suicide?",
+    "Mahatma Gandhi said: \"If I had no sense of humour, I would long ago have committed suicide.\" What do you think of this quote?",
+    "Thomas S. Szasz said: \"Suicide is a fundamental human right. This does not mean that it is morally desirable. It only means that society does not have the moral right to interfere.\" Do you agree?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

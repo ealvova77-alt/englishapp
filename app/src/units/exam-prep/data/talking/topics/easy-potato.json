@@ -1,0 +1,31 @@
+{
+  "id": "easy-potato",
+  "title": "Potato",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like potatoes?",
+    "How important are potatoes?",
+    "What do you know about the nutritional value of potatoes?",
+    "How do potatoes compare to other staple foods like rice, pasta and bread?",
+    "What different ways are there to cook potatoes?",
+    "How would fast food chains and British cultural cuisine survive without potatoes?",
+    "Do you prefer baked, roast, boiled, mashed or jacket potatoes?",
+    "How do you make a potato salad?",
+    "What do you know about how potatoes grow?",
+    "Are you a meat and potatoes person?",
+    "What springs to mind when you hear the word 'potato'?",
+    "What is your favourite potato dish?",
+    "How would life be different if potatoes disappeared from the world?",
+    "Have you ever eaten instant potatoes?",
+    "What else can you use potatoes for besides eating them?",
+    "Do potatoes ever get boring?",
+    "What's the strangest potato dish you know of?",
+    "Do you think potatoes are good value for money?",
+    "What kind of potato chips do you like best?",
+    "What part do potatoes play in your culture?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

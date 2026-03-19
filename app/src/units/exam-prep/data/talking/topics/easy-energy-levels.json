@@ -1,0 +1,31 @@
+{
+  "id": "easy-energy-levels",
+  "title": "Energy Levels",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is energy?",
+    "How important is energy?",
+    "Do you always have a lot of energy?",
+    "What times of the day do you have most / least energy?",
+    "What affects your energy levels?",
+    "How can you quickly change your energy level?",
+    "Do you know people who have bundles of energy?",
+    "Do you ever have too much energy in your body?",
+    "Why do you think some people have lots of energy while others have little energy?",
+    "Do you always have enough energy to study English?",
+    "What things do you do that require a lot of energy?",
+    "What do you do when you are running low on energy?",
+    "Do you ever have no energy to do something?",
+    "Have your energy levels changed as you've become older?",
+    "What do you do for an energy boost?",
+    "Does the place you are in affect your energy levels?",
+    "Does thinking require a lot of energy?",
+    "How are your energy levels right now?",
+    "Do you like being with people who are always full of energy?",
+    "What things don't you have the energy to do right now?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

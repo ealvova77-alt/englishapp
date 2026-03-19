@@ -1,0 +1,31 @@
+{
+  "id": "easy-pronunciation",
+  "title": "Pronunciation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'pronunciation'?",
+    "Are you happy with your pronunciation?",
+    "What do you do to improve your pronunciation?",
+    "Do you like studying pronunciation in class?",
+    "Do you prefer British or American pronunciation?",
+    "What problems do you have with pronunciation?",
+    "Is pronunciation very important to you?",
+    "What's the biggest communication problem you've had because of pronunciation?",
+    "What areas of pronunciation are you working on at the moment?",
+    "Do you think pronunciation is easy?",
+    "What is pronunciation?",
+    "What pronunciation problems do learners of your language have?",
+    "What are the differences between stress and intonation? Is one more important to you?",
+    "Can you easily pronounce all of the sounds in English?",
+    "Do you have problems with linking different sounds?",
+    "Do you have more problems with hearing English pronunciation or using it in your own speech?",
+    "What's the best pronunciation you've ever had?",
+    "Do people ever tell you your pronunciation is good?",
+    "Do you know any good websites to practice pronunciation?",
+    "What advice would you give to other students who want to improve their pronunciation?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

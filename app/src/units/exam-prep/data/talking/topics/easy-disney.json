@@ -1,0 +1,30 @@
+{
+  "id": "easy-disney",
+  "title": "Disney",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'Disney'?",
+    "What do you know about Walt Disney?",
+    "What do you think about the whole world of Disney?",
+    "Have you ever been (or would you like to go) to a Disney theme park?",
+    "Who is your favourite and least favourite Disney character?",
+    "Do you think Disney teaches children about anything?",
+    "Would you ever wear a Mickey Mouse T-shirt?",
+    "Why do you think so many people hate Disney?",
+    "What Disney movies have you seen and what did you think of them?",
+    "Do you think Disney goods are overpriced?",
+    "What Disney character are you most similar to?",
+    "Why do you think Disney continues to be so successful?",
+    "Do you think adults who are into Disney are strange?",
+    "Which company / character do you think is a close rival to Disney?",
+    "How American is Disney and the Disney message?",
+    "Do you or would you encourage your children to watch Disney shows and movies?",
+    "How much money would you need to be paid to dress in a Mickey Mouse costume?",
+    "What would Mickey Mouse do if he became President of the USA?",
+    "If you could ask Mickey Mouse a question, what would it be? What do you think his answer would be?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

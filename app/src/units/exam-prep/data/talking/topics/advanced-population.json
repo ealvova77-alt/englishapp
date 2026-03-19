@@ -1,0 +1,31 @@
+{
+  "id": "advanced-population",
+  "title": "Population",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'population'?",
+    "How would you describe the population of your country?",
+    "How has your country's population changed over the years?",
+    "The physicist Stephen Hawking said that if world population continues growing at its current rate, then \"by 2600 we would all be standing literally shoulder to shoulder\". Will this happen?",
+    "Is population growth a concern in your country?",
+    "What would happen in the world if there was a population explosion?",
+    "Is the population of your cities growing? How is this affecting the countryside?",
+    "Do you like looking at population surveys and statistics?",
+    "What do you think rural populations think about the pollution and mess cities are creating?",
+    "Is your society moving towards an ageing population? Is this a problem?",
+    "Is there any population control in your country?",
+    "What kind of ethnic and immigrant populations live in your town?",
+    "Ex World Bank President Robert McNamara said: \"Population growth is the gravest issue the world faces. If we do not act, the problem will be solved by famine, riots, insurrection and war.\" Do you agree?",
+    "Do you think a diverse population is good for your country?",
+    "What is a population crisis?",
+    "What factors influence changing population patterns?",
+    "Is contraception a good way to reduce population?",
+    "What do you think of 'one child per family' policies to curb population growth?",
+    "What will your country's population look like in 50 years from now?",
+    "What do you think of the idea of an international population tax?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

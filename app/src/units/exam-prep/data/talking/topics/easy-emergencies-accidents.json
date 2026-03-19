@@ -1,0 +1,20 @@
+{
+  "id": "easy-emergencies-accidents",
+  "title": "Emergencies, Accidents",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 9,
+  "questions": [
+    "Have you ever had an accident at home / at work / on holiday / doing sports? What happened?",
+    "How did the doctors treat you?",
+    "How long did it take you to recover?",
+    "Are you a very accident-prone person?",
+    "Does your employer take any steps to prevent accidents? Is health and safety a priority?",
+    "Are you good at giving first-aid?",
+    "Do you think you would be a good person to be with in an emergency?",
+    "Have you ever been involved in a road traffic accident? What happened? What injuries did you have? Was there much damage to the car(s)? Where there any witnesses? Whose fault was the accident? Did you have to go to court? What did the judge decide in the end?",
+    "Have you ever broken a bone? What happened?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

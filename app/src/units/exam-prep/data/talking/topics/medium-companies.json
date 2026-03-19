@@ -1,0 +1,31 @@
+{
+  "id": "medium-companies",
+  "title": "Companies",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'company'?",
+    "What are your favourite companies?",
+    "Which company would you love to work for and why?",
+    "Which companies do you dislike most?",
+    "Have you ever written a letter of complaint to a company?",
+    "Which companies do you think provide the best customer service and best products?",
+    "Do you prefer bricks-and-mortar companies or Internet companies?",
+    "Amazon.com founder and boss Jeff Bezos said: \"A brand for a company is like a reputation for a person.\" What do you think of this?",
+    "Mary Kay Ash said: \"People are definitely a company's greatest asset.\" Do you think this is true all over the world?",
+    "Andrew Grove said: \"In the future, all companies will be Internet companies.\" Do you agree? Would this be good?",
+    "Do you think companies really care about the environment?",
+    "Do you think multinational companies have become too big and have too much power?",
+    "Why do you think big companies pay their CEOs lots of money, even if they lose the company money or get involved in scandals?",
+    "Do you think oil companies are good for the world?",
+    "How could companies in your country be more successful?",
+    "Which company makes the best adverts and commercials?",
+    "Do you think most companies look after their staff?",
+    "How will companies be different in the future?",
+    "Google co-founder Larry Page said: \"You don't need to have a 100-person company to develop that idea.\" Is he right?",
+    "Ross Perot said: \"You'd be amazed how many companies don't listen to their customers.\" Do you think you'd be amazed?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

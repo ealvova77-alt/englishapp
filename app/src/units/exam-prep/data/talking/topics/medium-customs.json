@@ -1,0 +1,33 @@
+{
+  "id": "medium-customs",
+  "title": "Customs",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 22,
+  "questions": [
+    "Do you fart or burp?",
+    "Are you a tidy person?",
+    "What are some good studying habits?",
+    "What are some good eating habits?",
+    "What are good hygienic habits?",
+    "What do you think is rude?",
+    "Teach me a customary greeting from your country?",
+    "What are some customs for eating in your country?",
+    "What are the big holidays in your country?",
+    "What is customary when you visit someone's house?",
+    "Who pays for dates in your country?",
+    "Describe a typical wedding ceremony in your country?",
+    "Who is the traditional head of the household in your country?",
+    "Do you think it's important to keep traditions?",
+    "Do you think young people keep traditions in your country?",
+    "What is a traditional common food in your country?",
+    "What is a traditional gourmet meal in your country?",
+    "What are traditional clothes in your country?",
+    "What are traditional musical instruments in your country?",
+    "What are the traditional symbols of your country?",
+    "Can you tell a traditional children's story from your country?",
+    "Can you sing a traditional children's song?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-maps",
+  "title": "Maps",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'maps'?",
+    "Do you like maps?",
+    "Are men or women better at reading maps?",
+    "Are you good at drawing maps?",
+    "Have you ever used Google earth to make a map?",
+    "What do you think when you look at a map of your country?",
+    "Do you need a physical map to find a new place or can you picture the map in your head?",
+    "Do you understand all of the symbols on a map?",
+    "What do you think of A-Z maps?",
+    "Do you prefer foldaway maps or atlas maps?",
+    "Do you ever use mind maps to study English vocabulary?",
+    "What do you think when you look at a map of the world?",
+    "Have you ever got lost using a map?",
+    "Have you ever followed a map that was in a language different to your own?",
+    "Do you think maps look good hanging on living room walls?",
+    "Do you think treasure maps exist? Would you like one?",
+    "Do you think maps of museums and art galleries are always easy to understand?",
+    "Would you like to work a cartographer (a map maker)?",
+    "How long can you spend looking at a map and enjoying it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

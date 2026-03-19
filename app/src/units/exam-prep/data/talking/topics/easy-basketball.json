@@ -1,0 +1,31 @@
+{
+  "id": "easy-basketball",
+  "title": "Basketball",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Why is basketball so popular?",
+    "What are the rules of basketball?",
+    "How tall do you have to be to be a basketball player?",
+    "What basketball competitions do you know of?",
+    "Is basketball interesting without statistics?",
+    "Who is the best basketball player ever?",
+    "Which is better, basketball, baseball or American football?",
+    "How interested are you in basketball?",
+    "What qualities does a good basketball player need?",
+    "What do you know about the history of basketball?",
+    "How important is basketball in your country?",
+    "Do you have a favourite basketball team?",
+    "How has basketball changed global fashion?",
+    "Are there any rules in basketball you would like to see changed?",
+    "Is basketball the coolest game in the world?",
+    "What is the most skillful thing about basketball?",
+    "Do basketball players get paid too much money?",
+    "How long would it take a basketball beginner to learn the rules and vocabulary?",
+    "Would you like to be a famous basketball player?",
+    "How dangerous is basketball?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

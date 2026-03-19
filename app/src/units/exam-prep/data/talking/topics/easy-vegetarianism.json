@@ -1,0 +1,31 @@
+{
+  "id": "easy-vegetarianism",
+  "title": "Vegetarianism",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'vegetarianism'?",
+    "Would the world be a better place if everyone was a vegetarian?",
+    "Why do people become vegetarians?",
+    "Do you think vegetarians lead better lives than non-vegetarians?",
+    "Is there anything unhealthy about a vegetarian diet?",
+    "What three adjectives would you use to describe vegetarianism?",
+    "What would happen to the cow population if we stopped eating them?",
+    "Albert Einstein said: \"Nothing will benefit human health and increase chances for survival of life on Earth as much as the evolution to a vegetarian diet.\" Do you agree?",
+    "Someone once asked: \"If vegetarians eat vegetables, what do humanitarians eat?\" What do you think?",
+    "Margi Clark said: \"I think if you want to eat more meat you should kill it yourself and eat it raw.\" What do you think?",
+    "What do you know about vegetarianism?",
+    "What are the arguments against vegetarianism?",
+    "What do you think vegetarians think of meat eaters?",
+    "Would we help save the planet if we were all vegetarian?",
+    "Is a vegetarian diet healthier than a meat diet?",
+    "What's a strict vegetarian?",
+    "Will we all be vegetarians in the future?",
+    "Gandhi said: \"To my mind, the life of a lamb is no less precious than that of a human being. I should be unwilling to take the life of a lamb for the sake of the human body.\" What do you think?",
+    "K.D. Lang asked: \"We all love animals. Why do we call some \"pets\" and others \"dinner?\" What do you think?",
+    "Paul McCartney said: \"If slaughterhouses had glass walls, everyone would be a vegetarian.\" What do you think?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

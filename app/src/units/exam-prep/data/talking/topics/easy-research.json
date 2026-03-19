@@ -1,0 +1,31 @@
+{
+  "id": "easy-research",
+  "title": "Research",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'research'?",
+    "What would you like to research?",
+    "How important is research?",
+    "What are a few things you have researched recently?",
+    "Would you like to work as a researcher?",
+    "What would you like your government to spend more money on researching?",
+    "What things do you think humans first started researching?",
+    "How many answers are there still to find and how many things still to research?",
+    "What are the biggest breakthroughs researchers have made recently?",
+    "Does research always lead to positive things?",
+    "What is market research? Do you like being surveyed by market researchers?",
+    "What are your views on stem cell research?",
+    "What do you think a medical researcher does on an average day?",
+    "What do you think about using animals for research?",
+    "Do you think that some research your government pays for is totally useless?",
+    "Have you ever had to write a research paper?",
+    "Do you like online research?",
+    "A research project found out that teenagers were moody. What do you think of people getting paid to find this out?",
+    "What piece of research would you like to do on your class/family/friends today?",
+    "Would you volunteer to be a guinea pig in laboratory research of new medicines or medical treatments?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

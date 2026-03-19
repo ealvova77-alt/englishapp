@@ -1,0 +1,31 @@
+{
+  "id": "easy-e-mail",
+  "title": "E-mail",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'e-mail'?",
+    "How important is e-mail to you?",
+    "Do you prefer writing e-mail or real letters with a pen and paper?",
+    "Are you always polite in e-mails and start with \"Dear\" and end with a closing salutation like \"Best wishes\", or \"Yours sincerely\"?",
+    "How much time do you spend reading and writing e-mails?",
+    "Do you think e-mails are fun?",
+    "Do you ever receive spam mail? What do you do with it?",
+    "Have you ever pressed 'send' and then wish you hadn't?",
+    "Are you good at replying quickly to e-mails?",
+    "How many mails are there in your InBox?",
+    "How many different e-mail accounts do you have / need?",
+    "Which e-mail provider do you use (Hotmail, Gmail, Yahoo..)? Are you happy with the service?",
+    "Do you prefer e-mail via your mobile phone or a computer?",
+    "Do you think e-mail can be dangerous?",
+    "When was the last time an e-mail made you very happy or excited about something?",
+    "What new functions would you like to see with e-mail?",
+    "Are you worried that governments or criminals can read your mail?",
+    "Have you ever waited, and waited, and waited and waited for an e-mail to arrive? How many times did you check?",
+    "If you could secretly have access to someone else's e-mail account, who would it be and why?",
+    "What will replace e-mail in the future?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

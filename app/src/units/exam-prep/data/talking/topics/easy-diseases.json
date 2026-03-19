@@ -1,0 +1,14 @@
+{
+  "id": "easy-diseases",
+  "title": "Diseases",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 3,
+  "questions": [
+    "What dangerous diseases are people scared of nowadays?",
+    "Should we be better-informed about the dangers of these diseases?",
+    "Which disease is it urgent to find a cure for?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

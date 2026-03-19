@@ -1,0 +1,31 @@
+{
+  "id": "easy-pilots",
+  "title": "Pilots",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'pilot'?",
+    "Would you like to be a pilot?",
+    "What do you think the life of a pilot is like?",
+    "Do you think pilots like travelling?",
+    "Do you think pilots ever worry about making mistakes?",
+    "Why do you think people become fighter pilots?",
+    "Do you think pilots ever get bored of flying?",
+    "Do you have what it takes to be a pilot?",
+    "Do you always listen to what the pilot says in the airplane?",
+    "Would you feel safer if the pilot of your airplane was male or female?",
+    "What do you think of the job of a pilot?",
+    "Would you rather be an airplane pilot or a helicopter pilot?",
+    "Would you accept a job as a test pilot if the money was really good?",
+    "How do you think pilots feel when they walk through airports in their uniforms?",
+    "Do you think a pilot is always excited about flying and going to work?",
+    "What do pilots do if they switch careers?",
+    "If you were a pilot, which airline would you like to fly for and why?",
+    "Are you ever on automatic pilot?",
+    "What are the pros and cons of being a pilot?",
+    "Will we need pilots in the future?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

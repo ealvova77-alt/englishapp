@@ -1,0 +1,24 @@
+{
+  "id": "medium-charity-and-charities",
+  "title": "Charity and Charities",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 13,
+  "questions": [
+    "How often do you give money to charities?",
+    "Have you ever received charity from others?",
+    "Do you think that one day there will be no need for charities?",
+    "How much suffering would disappear if more people donated money to charity?",
+    "Do you think charities should only help people and not animals, buildings, etc?",
+    "What is the largest amount of money you have donated?",
+    "Do you think we should all donate some of our salary to charity?",
+    "What was the last cause you donated money to?",
+    "Do you ever buy used goods from charity shops?",
+    "What do you think of Bill Gates' charity?",
+    "Do you think the people you know are very charitable?",
+    "Do you think it is immoral for people to spend lots of money on themselves when people are starving and dying?",
+    "Do you take part in fund raising events for charity?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

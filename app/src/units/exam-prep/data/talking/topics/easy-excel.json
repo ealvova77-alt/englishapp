@@ -1,0 +1,31 @@
+{
+  "id": "easy-excel",
+  "title": "Excel",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think of Microsoft's Excel?",
+    "Can you remember the first time you used it?",
+    "What is your level of expertise at using Excel and why?",
+    "How useful is Excel to you?",
+    "What do you use Excel for in your personal and work life?",
+    "What would your life be like without Excel?",
+    "What problems have you had with Excel?",
+    "What new features would you like added to Excel?",
+    "What is the thing that makes you angriest when using Excel?",
+    "Do you use the Visual Basic part of Excel?",
+    "How did you learn to use Excel?",
+    "Have you read any \"for dummies\" books or been to any training sessions on Excel?",
+    "Do you think all schoolchildren should be taught how to use Excel?",
+    "Which do you prefer, MS Word, Powerpoint or Excel?",
+    "What would you like to do with Excel that you don't know how to?",
+    "Have you ever made a big mistake when using Excel?",
+    "Have you ever lost a lot of work on Excel?",
+    "What would life be like if you suddenly lost all your.xls files?",
+    "How many times have you wanted to punch the computer while using Excel?",
+    "What questions would you like to ask the designers of Excel?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

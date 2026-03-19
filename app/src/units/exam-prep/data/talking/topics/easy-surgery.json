@@ -1,0 +1,30 @@
+{
+  "id": "easy-surgery",
+  "title": "Surgery",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'surgery'?",
+    "Do you use the British word 'operation' or the American word 'surgery'? Does it matter which one you use?",
+    "Have you ever had surgery / an operation?",
+    "How would you feel if you needed surgery?",
+    "Would you ever consider having cosmetic surgery?",
+    "What's the difference between cosmetic surgery, plastic surgery and reconstructive surgery?",
+    "How do you think keyhole surgery will change medical procedures in the future?",
+    "Do you think today's technology means heart surgery is no problem or would you still worry if you needed a heart op?",
+    "If you underwent surgery, what preparations would you make in the few days before?",
+    "Would you like to be a surgeon?",
+    "What do you think of surgeons?",
+    "What do you know about laser surgery?",
+    "How have surgical techniques changed over the past century?",
+    "Would you consider having surgery in another country?",
+    "If you had surgery, would you prefer to be awake or asleep?",
+    "Which body part would you hate to have surgery on?",
+    "Would you sue the hospital if your surgery went wrong?",
+    "Would you like to watch a video of an operation on your body?",
+    "What do you think surgery will be like in the future?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

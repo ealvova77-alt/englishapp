@@ -1,0 +1,31 @@
+{
+  "id": "easy-voting",
+  "title": "Voting",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'voting'?",
+    "Do you think voting is over-rated?",
+    "Why is being able to vote so important?",
+    "Are you happy you'll get good service from the people you vote for?",
+    "Do you like looking at election results on TV?",
+    "What do you vote for when you vote?",
+    "Is voting in elections for people who are generally not qualified to run a country the best way to run a country?",
+    "Are there any problems when it comes to voting in your country?",
+    "Do you feel like you are doing something really important when you vote?",
+    "Do you think voting and elections make a difference?",
+    "How important is it for you to vote?",
+    "Do you vote every time you can?",
+    "What are the good and bad things about voting?",
+    "Does being able to vote mean your country is democratic?",
+    "Does having a choice of just two candidates for president mean your country is democratic?",
+    "What do you think of the way people vote in other countries?",
+    "Have you voted in elections that are not just about politics?",
+    "From what age do you think people should be able to vote?",
+    "Have you ever voted with your feet?",
+    "Joseph Stalin said: \"The people who cast the votes don't decide an election, the people who count the votes do.\" What do you think of this quote?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

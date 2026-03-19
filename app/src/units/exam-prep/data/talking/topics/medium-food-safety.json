@@ -1,0 +1,29 @@
+{
+  "id": "medium-food-safety",
+  "title": "Food Safety",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 18,
+  "questions": [
+    "What springs to mind when you hear the word 'food safety'?",
+    "What food safety issues do hear or read about in the news?",
+    "Do you think food is becoming more or less safe to eat?",
+    "Are you concerned about where the food you eat comes from?",
+    "Do you understand the jargon of chemicals and E numbers that are a common in the ingredients part of food labels?",
+    "How sure are you your government is in control of the quality of food for sale in your supermarkets?",
+    "Do you worry about chickens with flu, mad cows or polluted fish?",
+    "Do you think it is safer to eat out or at home?",
+    "How safe do you think fast food is?",
+    "Is there any food that scientists have not warned us against?",
+    "Do you ever think that the food you eat is not safe?",
+    "Do you think restaurant staff always wash their hands and chopping boards?",
+    "Do you ever eat food that has gone past the eat-by / expiry date?",
+    "Food safety in China is often in the news. Is this a concern for you?",
+    "Do people in your country try to put dangerous things in food on supermarket shelves, hoping others will get ill or die?",
+    "How safe is safe? Do you think we worry too much?",
+    "Do you think genetically modified food is 100% safe to eat?",
+    "Are you happy with the quality of the water that comes out of your taps?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "medium-canada",
+  "title": "Canada",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 19,
+  "questions": [
+    "What do you think of Canada?",
+    "What kind of country is Canada?",
+    "How important is Canada on the world stage?",
+    "How different are Canadians from Americans?",
+    "What do you know about Canadian history?",
+    "What images spring to mind when you hear the country Canada?",
+    "What do you think are the advantages of being Canadian?",
+    "What do you know about Canada's Aboriginal peoples?",
+    "What would you like to do if you spent six months in Canada?",
+    "What are some differences between Canada and the USA?",
+    "What is Canada famous for?",
+    "Is Canada the kind of country you'd like to live in?",
+    "What has Canada given the world?",
+    "What is there to see and do in Canada?",
+    "Do you have any negative images of Canada?",
+    "What does a typical Canadian look like?",
+    "What things are made in Canada?",
+    "What do you know about the geography of Canada?",
+    "What would you like to know about Canada?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

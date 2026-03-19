@@ -1,0 +1,31 @@
+{
+  "id": "debate-immigration",
+  "title": "Immigration",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'immigration'?",
+    "Is immigration good or bad?",
+    "Is immigration an issue in your country?",
+    "Do you think immigration has been successful in the USA?",
+    "What do you think of the European Union's idea of its Blue Card (similar to the USA's Green Card)?",
+    "Would you like a blue card or a green card?",
+    "When do you think immigration became a social issue?",
+    "Would you like to live and work in another country?",
+    "Do you think immigrants get a raw deal in the countries they live in?",
+    "Is illegal immigration a problem where you live?",
+    "Do you have a positive or negative image of immigration?",
+    "What rules on immigration would you like your country to have?",
+    "What would happen to the world's population if all immigration laws ended?",
+    "Would you report an illegal immigrant to the police?",
+    "What are the benefits of immigration?",
+    "Do you think immigration helps us all understand each other better?",
+    "What world country do you think is most opposed to immigration?",
+    "Do you think immigrants should pass a test based on the language and culture of the country they want to live in?",
+    "Has immigration around the world been successful?",
+    "Does immigration mean creating cosmopolitan societies?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

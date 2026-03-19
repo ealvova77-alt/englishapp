@@ -1,0 +1,16 @@
+{
+  "id": "easy-healthcare-system-health",
+  "title": "Healthcare System, Health",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "How does your healthcare system work? Who pays the doctors? What percentage does the patient pay for care? What percentage does the government or insurance pay?",
+    "Is your healthcare system fair? Do smokers or heavy drinkers pay more for care? Do old and young people pay equally for healthcare? Should everyone pay an equal amount for healthcare?",
+    "What do you think about your system? Why is it good? Why is it bad? How qualified are your healthcare workers?",
+    "What changes need to be made? Should healthcare workers be paid more money? Do you need more doctors in your country? Are there enough hospitals to assist the sick people?",
+    "How can we extend people's lives? What is the infant mortality rate in your country? What is the average life span?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

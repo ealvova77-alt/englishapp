@@ -1,0 +1,31 @@
+{
+  "id": "advanced-nuclear-energy",
+  "title": "Nuclear Energy",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the term 'nuclear energy'?",
+    "What are the good things and bad things about nuclear energy?",
+    "Would you live near a nuclear power plant if it meant your power bills were halved?",
+    "What you encourage your government to adopt a nuclear energy programme if it reduced carbon emissions?",
+    "Do you think people will ever see nuclear energy as safe?",
+    "If there is another disaster on the scale of Chernobyl, do you think governments should stop their nuclear energy programmes?",
+    "Should only democratic countries be \"allowed\" to have nuclear energy programmes?",
+    "What are the best alternatives to nuclear energy?",
+    "If the money was good, would you work at a nuclear power plant?",
+    "What happens to nuclear energy when all the plutonium runs out?",
+    "How does nuclear energy work?",
+    "Are you at all worried about nuclear energy?",
+    "What nuclear energy programmes exist in your country?",
+    "Do you think nuclear energy now has a good image?",
+    "Do you think the oil industry is happy about nuclear energy?",
+    "Would you like to see nuclear powered cars?",
+    "Would you buy your own \"household\" nuclear reactor if one was available?",
+    "Why do politicians go on and on about nuclear energy for \"peaceful purposes\"?",
+    "What do environmentalists think about nuclear energy?",
+    "If nuclear energy is so clean, why isn't it in every country?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

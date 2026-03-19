@@ -1,0 +1,31 @@
+{
+  "id": "easy-comparatives",
+  "title": "Comparatives",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Which is more difficult to learn, English or your language?",
+    "What things are you better at than your best friend?",
+    "Are people today luckier than they were 50 years ago?",
+    "Is it better to study English in class or online?",
+    "Are you happier now or were you happier when you were younger?",
+    "Are video games better for you than watching TV?",
+    "What is worse than failing exams?",
+    "Is it better to go on a date with someone who is older or younger than you?",
+    "Do you think buying a more expensive brand means it is much better than a cheaper brand?",
+    "How much would you pay to have an Internet connection that is 100 times faster than the one you have now?",
+    "Does life get more complicated the older you become?",
+    "Is the world safer now than it was before 9-11?",
+    "Is studying comparatives easier or more difficult than studying superlatives?",
+    "Will tomorrow be more interesting than yesterday?",
+    "Is there anything more delicious than your mother's cooking?",
+    "What is healthier: eating good food or getting lots of exercise?",
+    "Would you like to be more beautiful / more handsome than you are now or more intelligent than now?",
+    "Which is worse: a virus attacking your computer or a virus attacking your body?",
+    "Are you smarter than your parents? In what way(s)?",
+    "What would you like to be better at than anyone else in the world? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

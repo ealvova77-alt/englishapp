@@ -1,0 +1,27 @@
+{
+  "id": "easy-animals-and-pets",
+  "title": "Animals and Pets",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "Are cats better pets than dogs or are dogs better pets than cats? Why?",
+    "If you could be any animal in the world, what would you be and why?",
+    "Do you think it's morally acceptable for scientists to do genetic experiments on animals? Why or why not? What about other types of medical research?",
+    "What's the most interesting animal you've ever eaten?",
+    "What wild animals do you find most interesting? Why?",
+    "If you could observe an extinct animal for an afternoon, which one would you choose and why?",
+    "Would you like to go on an African safari? Why or why not?",
+    "Which animals do you think dream? Why?",
+    "In your country, do dogs usually sleep inside or outside?",
+    "What pets are most popular in your country?",
+    "How are humans like other animals? How are they different?",
+    "How many different pets have you had over your lifetime? Which was your favorite?",
+    "What do you like most about going to the zoo? What about least?",
+    "Can pets become part of a human family?",
+    "How can pets help people emotionally?",
+    "What was your first pet and how did you get it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

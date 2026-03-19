@@ -1,0 +1,22 @@
+{
+  "id": "easy-sports-leisure",
+  "title": "Sports, Leisure",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "Which sports in the Olympics should be added or removed? Who is the most popular athlete from your country? What hobbies would you not let your children do?",
+    "What do you know of the history of the Olympics? What are your favorite memories of the Olympics?",
+    "Do you envy Olympic athletes? Which do you prefer: the winter or summer Olympics? Why?",
+    "Do the Olympics unite the world or divide it?",
+    "Do you think your country should invest more into its athletic programs?",
+    "Would you country to be a suitable place to host the Olympics?",
+    "If you had to eliminate a sport or several sports from the Olympics, which would you choose?",
+    "What is your definition of \"sport\"? Are synchronized swimming, ballroom dancing, and darts sports?",
+    "Do you support investing more money into national athletic programs so your country achieves more Olympic medals?",
+    "What do you think of the salaries of professional athletes?",
+    "Do you think it's good for colleges and universities to provide scholarships to athletes?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

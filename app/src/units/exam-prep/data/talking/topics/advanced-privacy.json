@@ -1,0 +1,28 @@
+{
+  "id": "advanced-privacy",
+  "title": "Privacy",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 17,
+  "questions": [
+    "What comes to mind when you hear the word 'privacy'?",
+    "How often do people invade your privacy?",
+    "What do you know about privacy laws in your country?",
+    "What do you do for some privacy in a crowded place?",
+    "Do you feel totally safe and happy in the privacy of your own home?",
+    "Do you ever feel that questions asked on websites represent an invasion of privacy?",
+    "What's the longest amount of time you felt you had total privacy somewhere?",
+    "What is privacy?",
+    "What do you do to get privacy?",
+    "Do you always respect the privacy of others?",
+    "Do you think famous people worry about their privacy?",
+    "Is it OK for the government or police to ignore your privacy?",
+    "Is privacy important when choosing somewhere to go on holiday?",
+    "Do newspapers and the paparazzi need to look again at what privacy means?",
+    "Do parents invade their kids' privacy by spying and eavesdropping on them?",
+    "Do you think there are issues with privacy and social networking sites like MySpace and Facebook?",
+    "What would life be like with no privacy?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "easy-appearance",
+  "title": "Appearance",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "Do you think beauty helps you to be successful?",
+    "In which jobs is beauty linked to success?",
+    "Do you think people from other cultures see beauty differently?",
+    "Do you think people spend too much time and money on beauty?",
+    "How will you think about beauty at the age of 80?",
+    "Do you think the media portray an unrealistic image of beauty?",
+    "Would you prefer to be intelligent or beautiful?",
+    "Would you prefer to be wealthy or beautiful?",
+    "What is your opinion of beauty contests?",
+    "'The media decides what is beautiful or ugly.' Do you agree or disagree?",
+    "'Our so-called 'ideal' body image puts people (especially young people) under huge pressure and doesn't acknowledge that people come in all shapes and sizes.' What is your opinion?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

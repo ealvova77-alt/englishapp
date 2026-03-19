@@ -1,0 +1,31 @@
+{
+  "id": "easy-astrology",
+  "title": "Astrology",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you believe in astrology?",
+    "What's your star sign?",
+    "Do you know the characteristics someone with your star sign should have?",
+    "Which other star signs are you compatible with?",
+    "Do you believe there is any link between the position of the stars when you were born and your fate?",
+    "Do you ever read your horoscope?",
+    "What would you like the stars to hold for you?",
+    "Do you think astrology can be useful?",
+    "Do you think anyone can prove that astrology works?",
+    "Would you like to learn astrology?",
+    "Do you know all the signs of the zodiac in English?",
+    "Do you think astrology is an art, a science or something else?",
+    "Why do you think many religions frown on astrology?",
+    "What's the difference between astrology and astronomy?",
+    "Would you ever going or paying to see an astrologist?",
+    "If you had a consultation with an astrologist, what would you want to know?",
+    "Would you like to know your future?",
+    "Why isn't astrology a commonly taught university subject?",
+    "What would it take to convince you that astrology works?",
+    "Do believe in other fortune telling, such as palm reading or determining character by blood type, etc?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

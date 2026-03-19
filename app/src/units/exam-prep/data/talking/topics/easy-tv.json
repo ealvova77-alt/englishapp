@@ -1,0 +1,32 @@
+{
+  "id": "easy-tv",
+  "title": "Tv",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 21,
+  "questions": [
+    "Do you watch TV often?",
+    "How long do you watch TV for each day?",
+    "Do your parents ever stop you watching TV?",
+    "Do you watch any programs together with your family?",
+    "Can you name 5 different types of TV programmes?",
+    "What type of shows do you like? Why?",
+    "Would you like to be on TV? Why?",
+    "Do you have a big TV at home?",
+    "What are the most famous TV programs in your country?",
+    "Do you watch programs from other countries?",
+    "Which TV programs do you find boring?",
+    "Do you have a big or small TV?",
+    "Do you have a flat screen TV?",
+    "Would you like to have a 3D TV?",
+    "Which do you prefer, watching TV or reading?",
+    "Are there any programs you're not allowed to watch?",
+    "How many channels can you get at home?",
+    "What are the soap operas like in your country?",
+    "Do foreign shows have subtitles or are they dubbed?",
+    "What shows did you like when you were younger?",
+    "Do you find it easy to fall asleep in front of the TV?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

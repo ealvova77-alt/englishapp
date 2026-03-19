@@ -1,0 +1,31 @@
+{
+  "id": "medium-business",
+  "title": "Business",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Are you interested in the world of business?",
+    "Do you think you have a good head for business?",
+    "What kind of business would you like to start?",
+    "Do you think anyone can start their own business?",
+    "What are the dangers of having your own business?",
+    "Would you include your own name in your business name?",
+    "Do you read any business magazines?",
+    "Do men or women make more successful business people?",
+    "Do you think you'd be a tough person to work for?",
+    "What advice would you give to people starting in business?",
+    "How would you define business?",
+    "Would you like to have your own business?",
+    "What kind of people are good at business",
+    "Is it easy to start a business in your country?",
+    "What business skills do you have?",
+    "Would you prefer to start a \"bricks 'n' mortar\" business or an Internet business?",
+    "What would be your motto in business?",
+    "What kind of office would you like?",
+    "Who would be your business hero?",
+    "What would be your main business goal?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

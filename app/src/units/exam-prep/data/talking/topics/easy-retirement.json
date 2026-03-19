@@ -1,0 +1,30 @@
+{
+  "id": "easy-retirement",
+  "title": "Retirement",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'retirement'?",
+    "Are you looking forward to your retirement?",
+    "What do you think you'll do in your retirement?",
+    "Do you think people who retire miss working?",
+    "What's the best age for retirement?",
+    "What do you think of famous people who come out of retirement?",
+    "Would you like to aim for an early retirement?",
+    "What do you think of the idea of living on a retirement home?",
+    "A retired husband is often a wife's full-time job. (Ella Harris) What do you think?",
+    "Do you think the challenge of retirement is how to spend time without spending money?",
+    "In what ways do you think retirement might be stressful?",
+    "What do you think you'll do more of in your retirement?",
+    "Does retirement scare you?",
+    "Do you think retirement might be the best years of your life?",
+    "What problems does a country have if too many of its citizens are in retirement?",
+    "Are you putting money away for your retirement?",
+    "Is retirement the end of useful life or a new beginning?",
+    "Do you think retirement is when you stop living at work and begin working at living?",
+    "Retirement is wonderful. It's doing nothing without worrying about getting caught at it. (Gene Perret) Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

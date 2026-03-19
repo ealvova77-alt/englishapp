@@ -1,0 +1,31 @@
+{
+  "id": "easy-walking",
+  "title": "Walking",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'walking'?",
+    "Do you like walking around your town?",
+    "Is walking very good for your health?",
+    "How much walking do you do every day?",
+    "What useful things could you do while you are walking?",
+    "What do you think of your walking style?",
+    "Do you prefer walking on the beach, in the mountains, in the desert or in the countryside?",
+    "Would you like to go on a walking holiday?",
+    "Raymond Inmon said: \"If you are seeking creative ideas, go out walking. Angels whisper to a man when he goes for a walk.\" What does this quote mean? Do you agree?",
+    "Carrie Latet wrote: \"Walking: the most ancient exercise and still the best modern exercise.\" Do you agree?",
+    "What do you think of walking?",
+    "Are you glad we walk on two legs instead of four?",
+    "What's the longest distance you've ever walked in a day?",
+    "What do you think of tightrope walking?",
+    "Do you like walking around barefoot?",
+    "What should happen on International Walking Day?",
+    "Who do you like to go for a walk with?",
+    "How would your town change if the centre was walking only - no cars?",
+    "Steven Wright said: \"Everywhere is walking distance if you have the time.\" What does this quote mean? Do you agree?",
+    "St. Jerome said: \"To solve a problem, walk around.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

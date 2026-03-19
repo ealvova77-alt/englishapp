@@ -1,0 +1,31 @@
+{
+  "id": "easy-rudeness",
+  "title": "Rudeness",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Are you sometimes rude?",
+    "What do you think about rudeness?",
+    "What acts of rudeness bother you most?",
+    "Is rudeness a problem in your country?",
+    "What did your parents tell you about being rude?",
+    "Blowing your nose in public is OK in England but rude in Japan. Slurping noodles is OK in Japan but rude in England. Who decides what's rude and what's not?",
+    "Who is the rudest person you know?",
+    "What rude behaviour do you see in public every day?",
+    "What do you do when sales staff in shops or waiting staff in restaurants are very rude?",
+    "If someone is rude to you, are you generally rude back?",
+    "What springs to mind when you hear the word 'rudeness'?",
+    "Is your society becoming ruder or more polite?",
+    "Which nationalities do you think are overly rude?",
+    "Do cars make people rude?",
+    "Are there many rude words in your language?",
+    "How do you deal with someone who is very rude to you?",
+    "Do you think it's rude to correct someone's grammar mistakes in a conversation?",
+    "Should being rude be made a crime?",
+    "Do you like watching one person being very rude to another person?",
+    "Why is it rude to ask someone's age?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

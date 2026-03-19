@@ -1,0 +1,31 @@
+{
+  "id": "easy-fish",
+  "title": "Fish",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like fish?",
+    "If you were a fish, what kind would you be?",
+    "How important are fish?",
+    "What part do fish play in the non-food culture of your country?",
+    "How important are fish in the food culture of your country?",
+    "Do you think fish make good pets?",
+    "What is the grammatical difference between 'fish' and 'fishes'?",
+    "What do you think a school of fish is? Do you think this is a good term",
+    "Do you have a favourite fish dish or seafood restaurant?",
+    "Do you like going to fish markets?",
+    "Do you prefer to look at or eat fish?",
+    "What biological features make a fish a fish?",
+    "Do you have a favourite book or movie about a fish or fish in general?",
+    "Do you like eating raw fish?",
+    "Why do you think eating fish is good for you?",
+    "Have you tried the great British delicacy fish and chips?",
+    "What do you think fish dream about?",
+    "Do you think all fish are edible? Would you like to try every species",
+    "Why are tropical fish so colourful?",
+    "What questions would you like to ask a fish?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

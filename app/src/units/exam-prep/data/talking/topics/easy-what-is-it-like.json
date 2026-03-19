@@ -1,0 +1,31 @@
+{
+  "id": "easy-what-is-it-like",
+  "title": "What Is It Like",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What's it like being you?",
+    "What's it like in your idea of paradise?",
+    "What's it like being your age?",
+    "What's it like living in the 21 st Century?",
+    "What's it like studying English?",
+    "What's it like sitting here and doing this activity with me?",
+    "What's it like outside?",
+    "What's it like to be your best friend?",
+    "What's it like to be a citizen of your country?",
+    "What's it like to be at your level of English?",
+    "What's it like in your secret world inside your head?",
+    "What's it like to be intelligent and talented?",
+    "What's it like having the friends and family you have?",
+    "What's it like in your house for a special occasion?",
+    "What's it like to be lucky?",
+    "What's it like to dream?",
+    "What's it like to be a man/woman today?",
+    "What's it like living on the money you have?",
+    "What's it like in the world you'd like to live in?",
+    "What's it like living in your town?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

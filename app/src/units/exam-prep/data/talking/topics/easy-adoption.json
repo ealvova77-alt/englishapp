@@ -1,0 +1,30 @@
+{
+  "id": "easy-adoption",
+  "title": "Adoption",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Is adoption common in your country?",
+    "What do you think of adoption?",
+    "Would you adopt?",
+    "What do you think happens to children who are not adopted?",
+    "What problems are do you think there might be with adoption?",
+    "Do you parents who adopt have the same kind of love for their adopted child as natural parents have with their child?",
+    "Is it better to adopt a baby or an older child?",
+    "Should people adopt children from the same race?",
+    "What happens if the biological parents turn up ten years later and ask for their child back?",
+    "Should an adopted child have the same legal right as a non-adopted child?",
+    "When should you tell a child he / she is adopted?",
+    "What checks should adoption agencies conduct on prospective parents?",
+    "Should same-sex couples or single people be allowed to adopt?",
+    "Would you prefer to adopt a child from your own country or a very poor country?",
+    "Do you think international adoption would be a useful solution for under-populated countries?",
+    "What questions do you think a child has when he / she finds out he / she is adopted?",
+    "Do you think people who adopt have extra-special hearts?",
+    "Should brothers and sisters be split apart for adoption?",
+    "What happens if the adopted parents decide they don't like the child after a year or so?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

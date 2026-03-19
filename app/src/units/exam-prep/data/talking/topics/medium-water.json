@@ -1,0 +1,31 @@
+{
+  "id": "medium-water",
+  "title": "Water",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'water'?",
+    "What does water taste like?",
+    "When do you like drinking water?",
+    "Do you think water should be free?",
+    "Do you buy mineral water or drink tap water?",
+    "Do you drink enough water every day?",
+    "Do you ever think about how precious water is?",
+    "What three adjectives would you use to describe water?",
+    "Isak Dinesen said: \"The cure for anything is salt water - sweat, tears, or the sea.\" What do you think of this quote?",
+    "In 1732, Thomas Fuller said: \"We never know the worth of water till the well is dry.\" What do you think of this quote?",
+    "Do you like water?",
+    "Do you worry about the future availability of water?",
+    "What do you think it would be like to have no fresh drinking water?",
+    "What do you think of the fact that most of the world's population is without clean water, yet rich countries spend billions on oil, brand goods, tourism, etc?",
+    "What are the best and worst things about tap water and bottled water?",
+    "How does water form?",
+    "What different things can you do with water?",
+    "What do you know about water?",
+    "Henry David Thoreau said: \"I believe that water is the only drink for a wise man.\" What do you think of this quote?",
+    "Jacques Cousteau said: \"Water and air, the two essential fluids on which all life depends, have become global garbage cans.\" What do you think of this quote?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-having-children",
+  "title": "Having Children",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Do you have or want children? Why?",
+    "Have you had much experience with children?",
+    "Do you like children of all ages (babies, toddlers, adolescents/teenagers)?",
+    "Do you think everyone should have children?",
+    "How many children should people have?",
+    "What's your opinion of people who choose not to have children?",
+    "What's your understanding of the terms \"childless\" and \"childfree\"?",
+    "What do you think of clubs for childless and childfree people?",
+    "Why would people without kids join such clubs?",
+    "Is it better to have children or not have them?",
+    "What are some good and bad reasons for having children?",
+    "What are some good and bad reasons for not having children?",
+    "Should people who have hereditary diseases have children?",
+    "Should people who can't afford children have them anyway? What about people who don't enjoy the company of children?",
+    "How old should a person be before they have children?",
+    "Should a single person have children?",
+    "What do you think of same-sex couples having children?",
+    "How old is too old to have a baby?",
+    "If you couldn't have children, would you adopt?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

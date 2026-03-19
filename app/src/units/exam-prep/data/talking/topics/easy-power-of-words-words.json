@@ -1,0 +1,15 @@
+{
+  "id": "easy-power-of-words-words",
+  "title": "Power of Words, Words",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 4,
+  "questions": [
+    "Which speakers do you admire the most?",
+    "What is the most memorable thing that you have ever heard? Why?",
+    "Why do you think words are so powerful?",
+    "Can you personally remember any inspiring talk? What was it about/for?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

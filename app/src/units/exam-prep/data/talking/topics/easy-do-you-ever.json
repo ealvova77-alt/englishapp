@@ -1,0 +1,31 @@
+{
+  "id": "easy-do-you-ever",
+  "title": "Do You Ever",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you ever wonder what life is all about?",
+    "Do you ever type LOL (laugh out loud) when really you aren't laughing?",
+    "Do you ever think you have too many things to finish on time?",
+    "Do you ever want to throw all your clothes away and start your wardrobe again?",
+    "Do you ever feel jealous of your friends?",
+    "Do you ever lie to your parents?",
+    "Do you ever get really angry with yourself?",
+    "Do you ever regret eating something after eating it?",
+    "Do you ever wish you could be someone else?",
+    "Do you ever think you have bad luck?",
+    "Do you ever think studying English is a waste of time?",
+    "Do you ever dream about being really, really rich?",
+    "Do you ever buy things and then think it was a mistake?",
+    "Do you ever give money to charity?",
+    "Do you ever forget the names of people you've just met?",
+    "Do you ever wish you could be somewhere else?",
+    "Do you ever worry about the future of the planet?",
+    "Do you ever get confused with all this new technology?",
+    "Do you ever think you friends don't like you?",
+    "Do you ever think you're the happiest person in the world?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

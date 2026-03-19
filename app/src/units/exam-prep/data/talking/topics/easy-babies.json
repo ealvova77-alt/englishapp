@@ -1,0 +1,31 @@
+{
+  "id": "easy-babies",
+  "title": "Babies",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think of babies?",
+    "Are you good with babies?",
+    "What do you think babies like doing most?",
+    "What can we as adults learn from babies?",
+    "Do you think a baby likes to be with other babies?",
+    "What kind of music do you think babies like?",
+    "What do babies worry about?",
+    "Were you a beautiful baby?",
+    "Which do you prefer, baby boys or baby girls?",
+    "Do you think men will one day be able to give birth to a baby?",
+    "Do you like the word 'baby'?",
+    "What do you think of newborn babies?",
+    "Do you think babies have a good time?",
+    "Do you like babysitting?",
+    "What is the most annoying thing about babies?",
+    "What's the best way to stop a baby from crying?",
+    "In what ways are babies stressful?",
+    "What are the most amazing things about babies?",
+    "What question would you like to ask a baby?",
+    "What do you think the baby would say?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

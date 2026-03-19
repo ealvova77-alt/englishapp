@@ -1,0 +1,33 @@
+{
+  "id": "easy-socializing-friendship",
+  "title": "Socializing, Friendship",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 22,
+  "questions": [
+    "Who was the last friend that you met? How did you meet them?",
+    "Can you recall a perfect night spent with friends?",
+    "Who was your best friend from when you were a child?",
+    "How are your family members also your friends?",
+    "When did you last go out with friends? What did you do?",
+    "How often do you go to a bar? Who do you usually go with?",
+    "When you're with a group are you outgoing or quiet? Why do you think this is?",
+    "What do groups of friends usually do when they go out together on weekend nights in your country?",
+    "How do you think your social habits would be different if you had grown up in the U.S.?",
+    "How much do you socialize with people from work? What do you usually do?",
+    "How many friends have you kept from childhood?",
+    "In your language, is there more than one word for friend? If so, how are these words different?",
+    "Are there things that people do for fun in other countries that you would like to see more of in your country?",
+    "How do you think that the way people socialize changes when they drink alcohol?",
+    "What was the last party you went to?",
+    "In your opinion, how do humans socialize differently from other animals? How about the same?",
+    "Who's your best friend? How did you meet him or her?",
+    "How are the social habits of people who live in the countryside different from people who live in cities?",
+    "On average, how long are you usually friends with someone?",
+    "Would you rather watch TV alone or with other people? How about going to the movies?",
+    "Can you describe your best friend from when you were a child?",
+    "What was the last party you went to like?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

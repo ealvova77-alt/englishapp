@@ -1,0 +1,31 @@
+{
+  "id": "easy-hands",
+  "title": "Hands",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like your hands?",
+    "How would you describe your hands?",
+    "Are you left or right-handed?",
+    "Do you do anything to take care of your hands?",
+    "Have you ever hurt your hands?",
+    "Do you know the names of all the different parts of your hands?",
+    "How do you communicate with your hands?",
+    "Can you walk on your hands or do handstands?",
+    "Who do you like holding hands with?",
+    "How often do you wash your hands?",
+    "How important are your hands?",
+    "Do you like things that are hand painted/made/crafted...?",
+    "What hand signals do you use in your language - Are they different from those in English?",
+    "Do you have a good handshake?",
+    "Do you agree that many hands make light work?",
+    "How do you express your feelings by putting your hands on different parts of your body?",
+    "What does it mean if someone calls you a safe pair of hands?",
+    "Are there times you'd like an extra pair of hands?",
+    "What experiences do you have oh hands on learning?",
+    "Do people ever ask you to give them a hand?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

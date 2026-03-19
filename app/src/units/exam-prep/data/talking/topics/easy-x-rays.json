@@ -1,0 +1,31 @@
+{
+  "id": "easy-x-rays",
+  "title": "X-Rays",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'X-ray'?",
+    "What do you know about the history of X-rays?",
+    "Do you like having an X-ray?",
+    "Do you think X-rays are dangerous?",
+    "What are X-rays used for?",
+    "When was the last time you had an X-ray?",
+    "Do you like looking at the X-ray photographs taken of your body?",
+    "What would medicine be like without X-rays?",
+    "Would you like your own X-ray machine?",
+    "Do you think this service should only be available in business and first class?",
+    "What exactly is an X-ray?",
+    "Would you like to have X-ray vision?",
+    "Would you rather have X-ray vision or lots of money?",
+    "Where do you think the term X-ray comes from? What does the 'x' mean?",
+    "Do X-rays worry you?",
+    "What other uses are there for X-rays apart from for medical purposes?",
+    "How can X-rays damage the human body?",
+    "Do you think new technology will replace X-ray technology?",
+    "Why are X-rays so popular in action hero cartoons and movies?",
+    "What part of your body would you like to be X-rayed and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-electricity",
+  "title": "Electricity",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is electricity?",
+    "What kind of world would we live in without electricity?",
+    "Do you worry about your electricity bill?",
+    "Can you think of any alternatives to electricity?",
+    "Do you ever have power cuts in your town?",
+    "Have you ever had an electric shock?",
+    "How often do you get a shock from static electricity?",
+    "Do you think living near electricity power cables is dangerous?",
+    "Do you have enough electrical sockets in your house for all of your electrical appliances?",
+    "What do you know about the history of electricity?",
+    "Do you think electricity is the greatest invention ever?",
+    "What do you tell children about electricity?",
+    "What dangers does electricity pose in your house?",
+    "Are you satisfied with the safety standards for electricity in your country?",
+    "What do you do to save on your electricity bills?",
+    "Do you have any problems with electricity when you travel to another country?",
+    "What would you like to ask an electricity expert?",
+    "Do you think electricity will be wireless one day - just as computer software is wireless today?",
+    "Do you think electricity is good value for money?",
+    "What do you do to recharge your batteries?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

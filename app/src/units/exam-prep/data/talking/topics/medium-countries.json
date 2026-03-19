@@ -1,0 +1,30 @@
+{
+  "id": "medium-countries",
+  "title": "Countries",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 19,
+  "questions": [
+    "What are countries?",
+    "Do we need so many countries in the world?",
+    "What is the most beautiful country in the world?",
+    "Which will be the next country to be created?",
+    "What things are necessary for a country to be a country?",
+    "What country would you love to live in?",
+    "What is the most dangerous country in the world?",
+    "Would the world be better with more or fewer countries?",
+    "What is the most successful country in the world?",
+    "Which country produces the most delicious food?",
+    "Do you like your country?",
+    "Are there any countries you don't like?",
+    "Why do neighbouring countries go to war with each other?",
+    "What changes would you like to make to your country?",
+    "How has your country made you the person you are today?",
+    "Do you think everyone should live in their own country?",
+    "What positive things can the world learn from your country?",
+    "Which country in the world do you most admire and why?",
+    "If you were a country, what would you be and why?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

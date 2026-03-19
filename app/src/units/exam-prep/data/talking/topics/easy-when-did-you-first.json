@@ -1,0 +1,31 @@
+{
+  "id": "easy-when-did-you-first",
+  "title": "When Did You First",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "When did you first use the Internet? How was it?",
+    "When did you first go to the cinema? What did you see?",
+    "When did you first use a mobile phone? Who did you call?",
+    "When did you first think life was great? What happened?",
+    "When did you first travel alone? Where did you go?",
+    "When did you first have some real money? How did you feel?",
+    "When did you first think the world was a dangerous place?",
+    "When did you first smoke / drink alcohol?",
+    "When did you first fly? What was it like?",
+    "When did you first buy someone a present?",
+    "When did you first fall in love with someone or something?",
+    "When did you first study English? Did you like it?",
+    "When did you first buy something expensive? Do you still have it?",
+    "When did you first meet your best friend? Was it instant friendship?",
+    "When did you first hear your favourite song?",
+    "When did you first earn some money? Was it worth it?",
+    "When did you first decide on your own hairstyle? Did it look fantastic?",
+    "When did you first fail or did poorly in an exam?",
+    "When did you first regret doing something? Do you still regret it?",
+    "When did you first remember feeling real pain? What happened?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

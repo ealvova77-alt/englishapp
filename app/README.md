@@ -1,16 +1,39 @@
-# React + Vite
+# English Trainer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend application for English practice built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Current Modules
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- `Irregular verbs`: dictionary, quiz modes, mistakes training, progress tracking, import/export, speech synthesis
+- `Exam prep`: topic-based quiz flow with saved local progress
+- `Idioms`: placeholder screen for a future module
 
-## React Compiler
+## Scripts
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- `npm run dev`: start the local development server
+- `npm run build`: create a production build in `dist/`
+- `npm run lint`: run ESLint
+- `npm run test`: run the small Node-based utility test suite
+- `npm run preview`: preview the production build locally
 
-## Expanding the ESLint configuration
+## Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `src/App.jsx`: module selector and top-level navigation
+- `src/shared/`: shared UI, hooks, context, and utilities
+- `src/units/irregular-verbs/`: main learning module
+- `src/units/exam-prep/`: exam preparation flows and data
+- `src/units/idioms/`: placeholder for the next module
+
+## Persistence
+
+The app stores user progress in `localStorage`.
+
+- `irregular-verbs-progress`
+- `app-meta`
+- `app-settings`
+- `exam-prep-progress`
+
+## Notes
+
+- The current toolchain is aligned on `vite 7` because `@tailwindcss/vite@4.2.1` does not yet support `vite 8`.
+- There is no backend in this repository. All progress is local to the browser unless exported manually.

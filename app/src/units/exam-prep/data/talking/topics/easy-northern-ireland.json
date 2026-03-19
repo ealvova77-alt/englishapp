@@ -1,0 +1,30 @@
+{
+  "id": "easy-northern-ireland",
+  "title": "Northern Ireland",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear 'Northern Ireland'?",
+    "What are the good things and bad things about Northern Ireland?",
+    "What is Northern Ireland most famous for?",
+    "What do you know about Northern Ireland's history?",
+    "What are the differences between Northern Ireland and your country?",
+    "What do you think about Northern Ireland people?",
+    "What has Northern Ireland given to the world?",
+    "What do you know about the geography of Northern Ireland?",
+    "Who are the most famous Northern Ireland people you know?",
+    "How different is Northern Ireland from other European countries?",
+    "What was the last news story you read or heard about Northern Ireland?",
+    "What do you think it would be like (is like) to live in Northern Ireland?",
+    "What do you think Northern Ireland will be like 50 years from now?",
+    "Does your country have good relations with Northern Ireland?",
+    "What can you do on a holiday in Northern Ireland?",
+    "What is your idea of a typical Northern Ireland person?",
+    "What things about Northern Ireland do you think the Northern Ireland are proud of?",
+    "What do you know about Northern Ireland culture?",
+    "What would you like to ask a Northern Ireland person about Northern Ireland?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

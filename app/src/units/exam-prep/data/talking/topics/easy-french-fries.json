@@ -1,0 +1,31 @@
+{
+  "id": "easy-french-fries",
+  "title": "French Fries",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like French fries?",
+    "What's the best thing to eat French fries with?",
+    "Do you think a capital \"F\" is necessary - Is it 'French fries' or 'french fries'?",
+    "Where can you buy the best fries?",
+    "What's the best thing/condiment to put on fries - ketchup, mayonnaise, salt, vinegar, or something else?",
+    "What is the perfect size of fry - length and width?",
+    "Do you think it's sad that French fries are one of the most universally eaten foods in the world?",
+    "After France voted against the US invasion of Iraq, French fries in some parts of the USA became known as 'freedom fries'. What do you think about this?",
+    "What would your life be like without French fries?",
+    "Should French fries be banned from school meals?",
+    "What is it about French fries that make them so popular?",
+    "How do you cook French fries?",
+    "What do you know about the history of French fries - are they really from France?",
+    "Are French fries healthy and nutritious?",
+    "What is the ideal alternative to French fries?",
+    "Do you think French fries are good value for money?",
+    "Are French fries the best junk/fast food?",
+    "When would you start allowing your children to eat French fries?",
+    "What do you think of the smell of freshly cooked French fries?",
+    "British people eat 'chip butties' - French fries sandwiches. What do you think of this culinary delight?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

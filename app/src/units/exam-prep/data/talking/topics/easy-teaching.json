@@ -1,0 +1,30 @@
+{
+  "id": "easy-teaching",
+  "title": "Teaching",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear the word 'teaching'?",
+    "Do you think teaching is easy?",
+    "What are you good at teaching people?",
+    "What skills do teachers need?",
+    "Are all your teachers good at teaching their subject?",
+    "Do you think teachers know everything about their subject?",
+    "What do you think are the good and bad things about teaching?",
+    "Is teaching dangerous in schools in your country?",
+    "What is the best way of teaching English?",
+    "John Sculley said: \"We expect teachers to handle teenage pregnancy, substance abuse, and the failings of the family. Then we expect them to educate our children.\" Is this true for your country?",
+    "Who is/was your favourite teacher and why?",
+    "Is teaching or learning the most important activity in the classroom?",
+    "Do you think a career in teaching will make you rich?",
+    "Do you think teaching at elementary school, high school, or university would be best?",
+    "Do you think technology is a good teaching tool?",
+    "What teaching materials do you want your teachers to use?",
+    "How will teaching change in the future?",
+    "Do you think schools do a good job of teaching children?",
+    "Gail Godwin said: \"Good teaching is one-quarter preparation and three-quarters theatre.\" Do you agree with her?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

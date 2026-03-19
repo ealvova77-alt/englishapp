@@ -1,0 +1,31 @@
+{
+  "id": "easy-teddy-bears",
+  "title": "Teddy Bears",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'teddy bear'?",
+    "How important are teddy bears?",
+    "Why do children love teddy bears?",
+    "Do teddy bears make good Valentine gifts?",
+    "What do you know about the history of teddy bears?",
+    "Did your teddy bear have a name?",
+    "How old is too old to sleep with a teddy bear?",
+    "Would children be different without teddy bears?",
+    "Can you name any famous teddy bears?",
+    "Woody Allen said: \"I don't think my parents liked me. They put a live teddy bear in my crib.\" What do you think of this quote?",
+    "Do you like teddy bears?",
+    "What was your favourite teddy bear when you were a child?",
+    "What do you think of Disney teddy bears?",
+    "Do you think it's strange that shops are so full of teddy bears?",
+    "What would the world be like without teddy bears?",
+    "What would teddy bears tell us if they could speak?",
+    "Do you think a teddy bear in the rubbish is a sad sight?",
+    "Can you be cruel to a teddy bear?",
+    "Do you think teddy bears will be with us forever?",
+    "Someone once said: \"Everything in life I share, except of course my teddy bear!\" Can you relate to this quote?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

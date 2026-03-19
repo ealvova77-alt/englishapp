@@ -1,0 +1,21 @@
+{
+  "id": "easy-leather",
+  "title": "Leather",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "What's the difference between leather and suede?",
+    "Would you be happy to buy artificial leather products instead of real leather goods?",
+    "Would you buy products that use other animal skins, like crocodile, snake, rabbit, etc?",
+    "How important has leather been in technology in our history?",
+    "What do you think of fashion companies like Louis Vuitton and Gucci using ostrich leather?",
+    "Leather has a place in modern culture, e.g. cowboys, heavy metal music, etc. Does it play a role in your country's culture?",
+    "Some religions and cultures avoid leather. Do you know what they are and why they do so?",
+    "Do you do anything to care for your leather goods?",
+    "Would you like to take up leather-working as a hobby?",
+    "What new uses do you think there are for leather?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

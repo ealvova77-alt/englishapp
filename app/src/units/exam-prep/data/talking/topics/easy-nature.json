@@ -1,0 +1,31 @@
+{
+  "id": "easy-nature",
+  "title": "Nature",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What things do you think about when you hear the word 'nature'?",
+    "How important is nature to you? Why?",
+    "How much nature is there where you live?",
+    "What is the most beautiful thing in nature? Why?",
+    "How does being in nature make you feel? Why?",
+    "Why do people live in cities, where there is almost no nature?",
+    "What does \"the power of nature\" mean? How powerful is nature?",
+    "What bad things are people doing to nature?",
+    "What would the trees say to humans (if they could talk)?",
+    "Where is the best place in your country to see or experience nature?",
+    "What is nature?",
+    "What would life be like without nature?",
+    "In 100 years from now, how different do you think the natural world will be?",
+    "How important is nature in your culture?",
+    "Are there any bad things about nature?",
+    "How can we add more nature to cities?",
+    "Where is nature at its most beautiful - the mountains, oceans, deserts, beaches, space, or forests? Why do you think so?",
+    "What three things can you do today to help nature?",
+    "How good would you be at living in nature? Why do you think so?",
+    "How would the world be a better place if we all went back to nature?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

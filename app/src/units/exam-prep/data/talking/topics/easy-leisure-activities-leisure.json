@@ -1,0 +1,21 @@
+{
+  "id": "easy-leisure-activities-leisure",
+  "title": "Leisure Activities, Leisure",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "Why do you think leisure activities are important?",
+    "Which leisure activities do you think are the most productive?",
+    "Which leisure activities do you think are the worst for you?",
+    "Which leisure activities do you think are harmful?",
+    "Which leisure activities do you think are the most expensive?",
+    "Which leisure activities do you think are the least expensive?",
+    "What kind of leisure activities are the most exciting?",
+    "Which leisure activities are the most dangerous?",
+    "Which activity that you haven't done would you like to do most and why?",
+    "Which activity that you have or haven't done would you least like to do and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

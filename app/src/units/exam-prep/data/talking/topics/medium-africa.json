@@ -1,0 +1,31 @@
+{
+  "id": "medium-africa",
+  "title": "Africa",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'Africa'?",
+    "Do you have a favorite African country?",
+    "What is Africa famous for?",
+    "What do you think Africa's saddest story is?",
+    "What images of Africa do you have that are romantic?",
+    "What images of Africa do you have that are beautiful?",
+    "What has Africa given to the world?",
+    "What has the world given to Africa?",
+    "What has the world taken from Africa?",
+    "Who are Africa's most famous people?",
+    "How different are North Africa, Southern Africa, West and East Africa?",
+    "Do you think rich countries will ever give African countries a chance?",
+    "What did colonial rule do for Africa?",
+    "What does Africa need to do to pull itself out of poverty?",
+    "Which African countries would you most like to visit?",
+    "What are the biggest challenges facing Africa?",
+    "In what areas will Africa achieve prominence in the future?",
+    "How interesting is news of Africa compared to news of other continents?",
+    "Which of Africa's problems would you address first?",
+    "What do you think of Africa's present leaders?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

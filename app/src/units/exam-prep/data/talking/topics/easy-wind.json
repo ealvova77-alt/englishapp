@@ -1,0 +1,23 @@
+{
+  "id": "easy-wind",
+  "title": "Wind",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "Does your country suffer from hurricanes and/or tornadoes?",
+    "What do you think causes a hurricane or a tornado?",
+    "To what extent do you think hurricanes and tornadoes are caused by changes in the global climate?",
+    "What can be done to limit the damage caused by strong winds?",
+    "Can you remember any incidents in your country where strong winds caused damage? What happened?",
+    "Do you know anyone who is either a windbag or a bit long-winded?",
+    "Have you ever had a windfall?",
+    "In what circumstances do you get your second wind?",
+    "Have you ever thrown caution to the winds? What happened? (If not, can you think of any circumstances in which you might be tempted to throw caution to the wind?)",
+    "When you speak to your teacher, parents or boss, do you ever sail close to the wind?",
+    "What does the title of this worksheet (What's in the wind?) mean?",
+    "How useful do you think wind power is as an alternative source of energy?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

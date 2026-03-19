@@ -1,0 +1,31 @@
+{
+  "id": "easy-old-age",
+  "title": "Old Age",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'old age'?",
+    "Do you worry about your old age?",
+    "What do you think old age is like?",
+    "How will your life be different when you reach your old age?",
+    "When does old age start?",
+    "Is it important to prepare financially for old age?",
+    "How and why do people die of old age?",
+    "How many people do you know who are enjoying their old age?",
+    "What new hobbies will you take up in your old age?",
+    "How is old age different from being middle aged?",
+    "Are you looking forward to your old age?",
+    "Do you think life in your old age will be better or worse than now?",
+    "What things are there to look forward to about old age?",
+    "What can people in old age teach younger people?",
+    "What social problems are associated with old age?",
+    "Would you consider living in an old age home when you're older?",
+    "How would the world be different if life-prolonging drugs meant old age stared at the age of 105?",
+    "Does your government care for people in old age?",
+    "Would you like to live to an old age? How old?",
+    "Do you think people in old age look at the world differently?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

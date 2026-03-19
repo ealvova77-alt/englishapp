@@ -1,0 +1,31 @@
+{
+  "id": "easy-barbecues",
+  "title": "Barbecues",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'barbecue'?",
+    "How important are barbecues in your country?",
+    "What do you think of the word 'barbecue'?",
+    "In what ways is eating indoors better than having a barbecue?",
+    "Where is the best place to have a barbecue?",
+    "What's the best barbecue you've been to?",
+    "What's the best food to eat at a barbecue?",
+    "How good or bad are barbecues for the environment?",
+    "Which are better, charcoal, wood or gas barbecues?",
+    "Why do men think they are good cooks at barbecues?",
+    "What do you think of barbecues?",
+    "In what ways are barbecues better than eating indoors?",
+    "What's the worst barbecue you've been to?",
+    "Which three guests would you most like to invite to your barbecue?",
+    "How healthy (or unhealthy) is barbecued food?",
+    "What's the best way to start a barbecue?",
+    "What three adjectives best describe barbecues, and why?",
+    "What are the dangers of barbecues?",
+    "What are the best barbecue games?",
+    "What should you do to keep your barbecue safe?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

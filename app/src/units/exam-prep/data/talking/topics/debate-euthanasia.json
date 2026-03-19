@@ -1,0 +1,31 @@
+{
+  "id": "debate-euthanasia",
+  "title": "Euthanasia",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'euthanasia'?",
+    "What is the legal status of euthanasia in your country?",
+    "Do you agree with euthanasia?",
+    "Do you understand why people choose euthanasia to end their life?",
+    "The Ancient Greek for euthanasia is 'good death'. What do you think of this meaning?",
+    "'Passive euthanasia' is where somebody refuses medication knowing they will die without it. Do you think this is OK?",
+    "'Non-aggressive euthanasia' is where life support systems keeping someone alive are switched off. What do you think of this?",
+    "'Aggressive euthanasia' is where lethal substances are used to kill someone who wants to die. What do you think of this?",
+    "What do you understand by the terms 'mercy killing' and 'assisted suicide'?",
+    "Do you know any famous cases of euthanasia?",
+    "What is the difference between euthanasia and suicide?",
+    "Is there a difference between euthanasia and murder?",
+    "Does a family member or a doctor have the right to turn off a life support machine?",
+    "How long should doctors keep someone alive who is brain dead?",
+    "What does your religion say about euthanasia?",
+    "Don't you think doctors have a duty to keep people alive?",
+    "Is euthanasia a compassionate way for the dying to die?",
+    "Do governments have the right to keep suffering people alive?",
+    "Why not allow euthanasia to save on health care costs?",
+    "Do people have a right to die?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

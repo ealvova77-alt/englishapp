@@ -1,0 +1,31 @@
+{
+  "id": "easy-whales",
+  "title": "Whales",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'whale'?",
+    "What are the arguments for and against whaling?",
+    "What do you think of countries that kill whales?",
+    "What do you think of people who eat whale meat?",
+    "How endangered are whales and what can we do to help?",
+    "What would it be like to swim with whales?",
+    "How important whales to the food chain?",
+    "What three adjectives would you use to describe whales?",
+    "What does having a \"whale of a time\" mean?",
+    "Have you read the story \" Moby Dick\"?",
+    "What part do whales have to play in your culture?",
+    "Do you worry about the future of whales?",
+    "How dangerous are whales to humans?",
+    "What do you know about killer whales?",
+    "What movies about whales have you seen? Which one is best",
+    "What would you do if you saw a whale when you were swimming?",
+    "How would you protect whales?",
+    "How is pollution killing whales?",
+    "Do you or would you support Greenpeace?",
+    "What do you think of the \"Save the whales\" campaign?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

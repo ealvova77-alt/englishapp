@@ -1,0 +1,31 @@
+{
+  "id": "debate-gay-rights",
+  "title": "Gay Rights",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What do you understand by the term 'gay rights'?",
+    "Are there gay rights movements in your country?",
+    "Do you think 'gay rights' refers more to men or women?",
+    "Do you think the term 'LGBT rights' (lesbian, gay, bisexual and transgender people) is a better description?",
+    "Do people freely talk about gay rights in your country without feeling afraid?",
+    "Are there laws in your country that discriminate against LGBT people?",
+    "Do you think gay people should be able to hold high positions in religions?",
+    "What issues that gays have to deal with are different from those lesbians have to deal with?",
+    "What do you think of same-sex relations and the raising of children?",
+    "Is marriage a relationship between only a man and a woman?",
+    "Do you think the issue of gay rights will disappear in the next few decades?",
+    "Which nationalities do you think are most homophobic?",
+    "In English, to 'come out of the closet' means to let people know you are gay. What do you say in your language for this?",
+    "Is or was homosexuality a taboo subject in your country?",
+    "What does the leader of your country say about gay rights?",
+    "What do you think is the number one issue for gay rights groups?",
+    "Why do you think some people are afraid of gay people?",
+    "What jobs do you think discriminate most against gays?",
+    "Do you always read articles about gay rights in newspapers?",
+    "What law about gay rights would you like your government to pass?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

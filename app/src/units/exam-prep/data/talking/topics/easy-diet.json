@@ -1,0 +1,31 @@
+{
+  "id": "easy-diet",
+  "title": "Diet",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Can you explain the difference between a diet, diet and to diet?",
+    "Can you tell me about your regular diet?",
+    "Have you ever been on a diet?",
+    "Do you think people who go on diets get the proper nutrition their body needs?",
+    "Do you know anyone with anorexia nervosa or bulimia nervosa?",
+    "Do you think the fashion industry and advertising is responsible for encouraging women to be super skinny?",
+    "Are you happy with your weight and body shape?",
+    "How important is exercising as part of a diet?",
+    "Do people in your country eat a well-balanced diet?",
+    "How often do you weigh yourself?",
+    "Do you worry about your weight?",
+    "How much weight would you like to lose or put on?",
+    "Are dietary habits in your country changing?",
+    "Do you know anyone who is obsessed with their weight and their figure?",
+    "What's your advice for anyone who wants to diet?",
+    "Are there any dangers of dieting?",
+    "Why are people so worried about the way their body looks?",
+    "What do you think of all the fad diets that come on the market?",
+    "Do you think it's possible to lose weight and enjoy eating?",
+    "Do you have a balanced diet?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

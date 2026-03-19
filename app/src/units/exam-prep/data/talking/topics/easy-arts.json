@@ -1,0 +1,16 @@
+{
+  "id": "easy-arts",
+  "title": "Arts",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "Do you think that the tax payer should have to support the Arts? For example, why should a football fan have to pay for opera?",
+    "In what ways were you encouraged to appreciate the Arts at home and at school? What jobs in the Arts world would be suitable for you?",
+    "Give the names of your favourite novel, author, play, dramatist, film, film director, musical composition, composer, painting and painter. Why do you like them?",
+    "Which country would you visit to appreciate the Arts? What would you plan to see?",
+    "Do you think there should be greater or less censorship of the Arts in your country?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

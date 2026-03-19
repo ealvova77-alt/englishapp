@@ -1,0 +1,31 @@
+{
+  "id": "easy-ufo",
+  "title": "UFO",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the abbreviation \"UFO'?",
+    "What do the letters UFO stand for?",
+    "After a UFO has been identified, is it then an IFO?",
+    "Do you think UFOs exist, out there, somewhere?",
+    "What would you do if a UFO landed in a park near your house?",
+    "What do you think UFOs look like? Are they the flying saucers you see in movies?",
+    "What would the world do if it knew a UFO would arrive on Earth in the middle of next month?",
+    "What's your favourite movie or book about UFOs?",
+    "What do you think is inside a UFO?",
+    "Do you hope there are UFOs and they will visit Earth one day?",
+    "Have you ever seen a UFO?",
+    "What are your early memories of UFOs? Were you scared?",
+    "Do you think UFOs would come to Earth to attack us, make friends with us, to get some natural resources, or another reason?",
+    "Why are people so fascinated by UFOs?",
+    "Do you think governments should spend lots more money looking for signs of UFOs in the universe?",
+    "What do you think when people report UFO sightings?",
+    "Do you have any good UFO stories?",
+    "Do you think it's possible there are UFOs and the world's governments are keeping it a secret?",
+    "Would you accept an offer from aliens of a ride in their UFO?",
+    "How would our world change if we received regular visits from UFOs?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

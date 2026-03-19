@@ -1,0 +1,30 @@
+{
+  "id": "easy-meat",
+  "title": "Meat",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear the word 'meat'?",
+    "Do humans need to eat meat?",
+    "Is meat healthy or unhealthy?",
+    "What's the strangest meat you've eaten?",
+    "Do you like raw meat?",
+    "Do you think meat eaters are healthier than those who don't eat meat?",
+    "What are the differences between red and white meat?",
+    "Raising animals on farms for meat damages the environment. Should people reduce the amount of meat they eat?",
+    "What do vegetarians have against eating meat?",
+    "Grilled, barbecued, roasted... what's the best way of cooking meat?",
+    "Is meat murder?",
+    "How would the world be different if everyone was vegetarian?",
+    "What are the differences between meat and fish?",
+    "How do different religions view meat?",
+    "Some people say eating meat makes people more violent. What do you think of this?",
+    "Do babies need meat?",
+    "What do you think about eating meat from cloned animals?",
+    "Do you think humans are designed to eat meat?",
+    "Would you eat meat even if you had to kill the animal yourself?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

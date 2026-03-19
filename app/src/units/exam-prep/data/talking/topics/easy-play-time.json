@@ -1,0 +1,31 @@
+{
+  "id": "easy-play-time",
+  "title": "Play Time",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the term 'play time'?",
+    "What do you learn from playing?",
+    "Do you prefer playing alone, or with / against friends?",
+    "What is it about playing that makes people happy?",
+    "Do people play enough in your country?",
+    "How can play help you relax?",
+    "Do you like to watch people playing?",
+    "What's the difference between play and fun?",
+    "Should schools have more playtime in the schedule?",
+    "What would you say if your parents told you to go out and play?",
+    "Have you ever played in the rain?",
+    "When is playing a waste of time?",
+    "Does play time use to much energy?",
+    "Can you remember the first games you played?",
+    "What will playtime be like in the future?",
+    "Is playing good for your health?",
+    "You can discover more about a person in an hour of play than in a year of conversation. - Plato. What do you think of this?",
+    "Is climbing a tree playing?",
+    "How can you learn English through playing?",
+    "Have young people forgotten or don't know how to play?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

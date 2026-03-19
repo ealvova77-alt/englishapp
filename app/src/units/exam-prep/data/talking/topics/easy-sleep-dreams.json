@@ -1,0 +1,25 @@
+{
+  "id": "easy-sleep-dreams",
+  "title": "Sleep, Dreams",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 14,
+  "questions": [
+    "Do you usually remember your dreams? What was a recent dream you remember about?",
+    "Do you recall a nightmare that you remember from childhood?",
+    "Do you usually remember your dreams?",
+    "What do you know about dream interpretation? What might the following dreams represent: a dream in which you're flying, one where you're paralyzed, one where you're naked? Have you ever had any of these dreams?",
+    "Do you think that animals dream? Why or why not?",
+    "How many hours a night do you usually sleep? Would you like to get more sleep or less?",
+    "Do you believe that dreams can help us solve our problems? Do you try to understand the meanings of your dreams?",
+    "Do you ever take naps? If so, when?",
+    "Have you ever had the same dream more than once?",
+    "Are you a light sleeper or can you sleep on airplanes, trains, and buses?",
+    "Have you ever had a dream that later came true? Why do you think this might happen?",
+    "Have you had dreams in other languages? How often do you dream in English? Would you like to?",
+    "Have you ever experienced insomnia? What can you do to treat insomnia? What do you think causes it?",
+    "If you could have an operation that would allow you to get only two hours of sleep each night, would you have it? Why or why not?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

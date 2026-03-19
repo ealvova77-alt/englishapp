@@ -1,0 +1,31 @@
+{
+  "id": "easy-trains",
+  "title": "Trains",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'trains'?",
+    "Is the train system in your country good?",
+    "How important are trains in your country?",
+    "Do you like over ground or underground trains?",
+    "Which country has the best train network?",
+    "Which city has the best subway system?",
+    "Do you like long-distance train journeys?",
+    "What do you usually do on a train?",
+    "Do you have any 'train stories'?",
+    "Which is better - the train or the car?",
+    "What do you like and dislike about trains?",
+    "Why do you think people like looking at trains as a hobby - train spotting?",
+    "Do you ever worry about train safety?",
+    "What do you think would be the most romantic and beautiful train journey in the world?",
+    "What will trains be like in the future?",
+    "Do you think you'll ever be on the gravy train?",
+    "Do you like train stations?",
+    "Would you like to go on a long journey on a steam train?",
+    "What strange people have you come across on a train?",
+    "How could trains be made better?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "easy-astronauts",
+  "title": "Astronauts",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "Would you like to be an astronaut?",
+    "Did you ever want to be an astronaut?",
+    "What kinds of people become astronauts?",
+    "Would you like to experience zero gravity and weightlessness?",
+    "What do you think are the biggest challenges of being an astronaut?",
+    "What do you think would be the highlights of space travel?",
+    "Could you date or marry an astronaut?",
+    "What do you think astronauts worry about?",
+    "How important is the job of an astronaut?",
+    "If you were offered a job to be an astronaut, would you take it?",
+    "What kinds of feelings and emotions do you think you would have on the morning of a journey into space?",
+    "What small personal item would you take with you on a journey into space?",
+    "Do you have the personality to be an astronaut?",
+    "What do you think when you see men walking on the moon or astronauts doing space walks?",
+    "Would you rather have a male or female commander on your first trip into space?",
+    "If you spent six months in space, what would you do first when you came back to Earth?",
+    "What would you say to an alien if you met one in space?",
+    "Which country do you think will be first to send astronauts to Mars?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

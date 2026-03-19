@@ -1,0 +1,28 @@
+{
+  "id": "easy-dreams",
+  "title": "Dreams",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "Do you dream in colour or in English?",
+    "Do you like having dreams?",
+    "Do you believe dreams have a special meaning?",
+    "Do you have the same dreams again and again?",
+    "Has something you've dreamt about ever come true?",
+    "Have you ever been woken up by a nightmare?",
+    "What kind of people do you meet in your dreams?",
+    "Would you like to stop having dreams or have more dreams?",
+    "Do you have the same dreams you had when you were a child?",
+    "Do you ever want to live in the world of your dreams?",
+    "Can you remember your dreams? What was the last dream you had?",
+    "Have you ever had a prophetic dream? What was it about? Do you believe that dreams can help us to predict the future?",
+    "Have you ever had a dream about a famous person? What happened in it?",
+    "Have you ever dreamed that you were in a strange house? Can you describe the house and what you were doing in it?",
+    "Have you ever had the same dream as someone else, at the same time? If so, what do you think this means?",
+    "Have you ever had a dream in which you were falling? What happened?",
+    "Did you daydream a lot when you were at school? Do you still daydream?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-credit-cards",
+  "title": "Credit Cards",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "How many credit cards do you have?",
+    "What do you like most about credit cards?",
+    "What do you like least about credit cards?",
+    "In what ways are credit cards better than cash?",
+    "Do credit cards make you buy more things?",
+    "Do you think credit cards will replace cash one day?",
+    "What do you think of the interest charges on credit cards?",
+    "Why do you think credit card companies charge such high interest?",
+    "Do you pay all of your credit card off every month?",
+    "What are your feelings when you receive the envelope containing your credit card bill?",
+    "Who would you trust with your credit card details?",
+    "Have you ever lost your credit card?",
+    "Do you worry about using your credit card to buy things online?",
+    "Are you interested in the air miles and free gifts you can get by using your credit card?",
+    "What do you usually use your credit card for?",
+    "What is the biggest purchase you've made with your card?",
+    "Do you think we'll still be using credit cards twenty years from now?",
+    "What do you think of American Express?",
+    "Would people be in a better financial situation without credit cards?",
+    "When did you last use your credit card?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

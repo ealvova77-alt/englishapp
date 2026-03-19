@@ -1,0 +1,31 @@
+{
+  "id": "medium-india",
+  "title": "India",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country India?",
+    "What are the good things and bad things about India?",
+    "What is India famous for?",
+    "What do you know about Indian history?",
+    "What images of India do you have that are beautiful and romantic?",
+    "What do you think of Indian products and companies?",
+    "What has India given to the world?",
+    "Would you like to visit India, or live there?",
+    "Are Indian languages important languages?",
+    "Who are the most famous Indian people you know?",
+    "How different is India from other world countries?",
+    "Do you think India is one of the world's most important nations?",
+    "Why is India one of the top tourist destinations in the world?",
+    "What do you think India will be like 50 years from now?",
+    "Does your country have good relations with India?",
+    "What do you think about Indian food?",
+    "What is your idea of a typical Indian person?",
+    "What things about India do you think Indian people are proud of?",
+    "What do you know about Indian politics?",
+    "What would you like to ask an Indian person about India?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

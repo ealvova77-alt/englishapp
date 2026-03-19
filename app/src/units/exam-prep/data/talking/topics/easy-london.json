@@ -1,0 +1,31 @@
+{
+  "id": "easy-london",
+  "title": "London",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'London'?",
+    "Do you think London is the greatest city in the world?",
+    "What are your favourite images of London?",
+    "What do you know about life in London?",
+    "What is your image of Londoners?",
+    "Would you like to live in London?",
+    "What things can tourists do in London?",
+    "What do you think of the different London accents?",
+    "Do you think the 2012 London Olympics will be good?",
+    "Is London the best place to live in the UK?",
+    "What do you know about the London Underground?",
+    "Do you think London is a good place for shopping?",
+    "How tolerant and cosmopolitan do you think London is?",
+    "What do you think of London weather?",
+    "Do you think London is a cheap or expensive city?",
+    "Is London a dangerous place to visit?",
+    "What do you know about the history of London?",
+    "What do you think London will be like fifty years from now?",
+    "Do you think London is a good place to eat?",
+    "Did London Bridge really fall down?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

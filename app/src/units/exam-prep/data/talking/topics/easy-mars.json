@@ -1,0 +1,30 @@
+{
+  "id": "easy-mars",
+  "title": "Mars",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What do you know about Mars?",
+    "Do you think there was/is life on Mars?",
+    "Martians are from Mars; do you know what life forms on other planets might be called?",
+    "Are you interested in the secrets Mars holds?",
+    "Would you like to go to Mars one day?",
+    "Do you think it's possible that one day, many people will live on Mars?",
+    "What do you think of the idea often described by scientists that life started on Mars and moved to Earth, which means we are Martians?",
+    "What would you like to know about Mars?",
+    "Why is Mars red?",
+    "What springs to mind when you hear the word 'Mars'?",
+    "Are men really from Mars and women from Venus?",
+    "What time of the year do you think would be the best time to visit for a holiday (and why)?",
+    "Would you rather live on the Moon or Mars?",
+    "What references to Mars do you know of in your country's popular culture (movies, novels, songs, cartoons...)?",
+    "What are the similarities and differences between the Mars chocolate bar and the planet Mars?",
+    "What do you think the good and bad things about living on Mars might be?",
+    "What name would you give to the first city on Mars?",
+    "What do you think you would write on a postcard from Mars?",
+    "How would you feel if you read this headline: \"Ancient human fossils found on Mars\"?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

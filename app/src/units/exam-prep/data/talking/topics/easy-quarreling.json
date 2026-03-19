@@ -1,0 +1,31 @@
+{
+  "id": "easy-quarreling",
+  "title": "Quarreling",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'quarreling'?",
+    "Who do you quarrel with most?",
+    "Who is the most quarrelsome person you know?",
+    "What things do you quarrel over most?",
+    "Do you ever intentionally pick a quarrel with someone?",
+    "Does the world quarrel with you or do you quarrel with the world?",
+    "Have you ever been caught in the middle of crossfire (i.e. parents quarreling)?",
+    "How can you avoid quarreling about money?",
+    "Do voices in your head ever quarrel with each other?",
+    "What are most of your family quarrels about?",
+    "Do men or women quarrel more?",
+    "When was the last time you saw a couple quarreling in public?",
+    "What do married couples quarrel about most?",
+    "Do you think children should have lessons at school on how to avoid quarrels and make up after them?",
+    "Is it possible for some couples, best friends, etc to never quarrel?",
+    "Is quarreling healthy?",
+    "Are there subjects you should never, ever quarrel about?",
+    "Do politicians in your country quarrel (and fight) with each other live on television?",
+    "Would you like to study on a \"How to win every quarrel\" course?",
+    "What happens when two people quarrel using two different languages?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

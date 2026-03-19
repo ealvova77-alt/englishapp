@@ -1,0 +1,31 @@
+{
+  "id": "easy-coffee",
+  "title": "Coffee",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Are you a 'coffeeholic'?",
+    "Do you care if you have instant or blend coffee?",
+    "Do you need coffee to wake you up in the morning?",
+    "Is coffee bad for you?",
+    "Does coffee affect your appetite?",
+    "What do you think of Starbucks?",
+    "Do you think caffeine is a dangerous drug?",
+    "What do you think of the new trend of flavored coffee?",
+    "Do you like the smell of coffee?",
+    "What would you like to know about coffee?",
+    "Are there any health benefits to drinking coffee?",
+    "What do you know about coffee production and who gets the big profits?",
+    "Would you drink less coffee if you knew it stained your teeth?",
+    "What is the difference between blend, cappuccino and espresso?",
+    "Does coffee grown in different parts of the world taste differently?",
+    "What role does coffee (or tea) play in your life?",
+    "What's the difference between Irish coffee and Turkish coffee?",
+    "Do you know what fair trade coffee is?",
+    "Do you like coffee sold in cans?",
+    "What do you think happens when you overdose on coffee?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

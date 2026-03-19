@@ -1,0 +1,24 @@
+{
+  "id": "easy-how-long-does-it-take-time",
+  "title": "How Long Does It Take, Time",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "How long does it take you to brush your teeth?",
+    "How long does it take you to eat lunch?",
+    "How long does it take you to do your homework?",
+    "How long does it take to make a pizza?",
+    "How long does it take to become friends with someone?",
+    "How long does it take the Sun to go around the Earth?",
+    "How long does it take you to run 100m?",
+    "How long does it take to go downtown from here?",
+    "How long does it take to get to the nearest hospital?",
+    "How long does it take you to feel awake in the morning?",
+    "How long does it take you to do your hair?",
+    "How long does it take you to put on makeup?",
+    "How long does it take to find a taxi?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "easy-which",
+  "title": "Which",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "Which teacher helps you the most?",
+    "Which teacher do you dislike? Why?",
+    "Which subject is your favorite? Why?",
+    "Which subject do you hate? Why?",
+    "Which country is the richest?",
+    "Which country would you like to visit? Why?",
+    "Which sport do you like the most? Why?",
+    "Which friend annoys you most? Why?",
+    "Which drink is your favorite? Why?",
+    "Which season do you like the most? Why?",
+    "Which type of weather is the worst? Why?",
+    "Which university would you like to go to? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "easy-loyalty",
+  "title": "Loyalty",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "Are you a loyal friend? Can you give some examples to support your answer?",
+    "What would you do if you found out your friend was talking bad about you behind your back?",
+    "What would you do if your lover cheated on you?",
+    "Would you ever consider cheating on your lover? Under what circumstances might you?",
+    "What are some common reasons that friends betray friends and lovers betray lovers?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-quotations",
+  "title": "Quotations",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Where facts are few, experts are many. (Donald R. Gannon) What do you think?",
+    "It was wonderful to find America, but it would have been more wonderful to miss it. (Mark Twain) What do you think?",
+    "If all the rich people in the world divided up their money among themselves there wouldn't be enough to go around. (Christina Stead) What do you think?",
+    "Behind every great fortune there is a crime. (Honore de Balzac) What do you think?",
+    "Invention is the mother of necessity. (Thorstein Veblen) What do you think?",
+    "In times like these, it helps to recall that there have always been times like these. (Paul Harvey) What do you think?",
+    "Politics is supposed to be the second oldest profession. I have come to realize that it bears a very close resemblance to the first. (Ronald Reagan) What do you think?",
+    "Where is human nature so weak as in the bookstore? (Henry Ward Beecher) What do you think?",
+    "It is not enough to succeed. Others must fail. (Gore Vidal) What do you think?",
+    "I believe that banking institutions are more dangerous to our liberties than standing armies. (Thomas Jefferson) What do you think?",
+    "We are here on Earth to do good to others. What the others are here for, I don't know. (W. H. Auden) What do you think?",
+    "A fashion is nothing but an induced epidemic. (George Bernard Shaw) What do you think?",
+    "Some of the worst mistakes of my life have been haircuts. (Jim Morrison) What do you think?",
+    "I have opinions of my own -- strong opinions -- but I don't always agree with them. (George W. Bush) What do you think?",
+    "The great thing about a computer notebook is that no matter how much you stuff into it, it doesn't get bigger or heavier. (Bill Gates) What do you think?",
+    "Every human is an artist. The dream of your life is to make beautiful art. (Miguel Ruiz) What do you think?",
+    "It is not fair to ask of others what you are unwilling to do yourself. (Eleanor Roosevelt) What do you think?",
+    "Woe be to him that reads but one book. (George Herbert) What do you think?",
+    "It is our choices...that show what we truly are, far more than our abilities. (J. K. Rowling) What do you think?",
+    "To love and be loved is to feel the sun from both sides. (David Viscott) What do you think?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

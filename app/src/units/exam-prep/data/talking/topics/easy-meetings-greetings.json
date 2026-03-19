@@ -1,0 +1,15 @@
+{
+  "id": "easy-meetings-greetings",
+  "title": "Meetings, Greetings",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 4,
+  "questions": [
+    "What's your favorite greeting and why?",
+    "What is your least favorite greeting and why?",
+    "What do you think is important to remember when greeting someone for the first time?",
+    "What do you think is important to remember when greeting your boss?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "easy-weight",
+  "title": "Weight",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What images spring to mind when you hear the word 'weight'?",
+    "Does your weight go up and down easily or is it usually stable?",
+    "What's your ideal weight?",
+    "Have you ever tried to lose or gain weight?",
+    "What do you think overweight people think of people who are anorexic (and vice versa)?",
+    "Should we learn about how to control our weight at school?",
+    "Do you know what your birth weight was?",
+    "An English proverb says: \"Don't dig your grave with your own knife and fork.\" What does this mean? Do you agree?",
+    "Are you happy with your current weight?",
+    "What's the best way to lose or put on weight?",
+    "Do you think people worry too much about their weight?",
+    "Is your partner's weight important to you?",
+    "Why is almost everyone's new years resolution to lose weight?",
+    "Are you worth your weight in gold?",
+    "Do men or women worry more about their weight?",
+    "What problems do overweight and underweight people have?",
+    "Why do you think people are secretive about their weight?",
+    "Someone once said: \"The best way to lose weight is to eat all you want of everything you don't like.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

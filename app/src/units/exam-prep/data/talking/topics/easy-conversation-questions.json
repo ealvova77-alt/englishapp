@@ -1,0 +1,31 @@
+{
+  "id": "easy-conversation-questions",
+  "title": "Conversation Questions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'conversation'?",
+    "People say conversation is an art. Do you think so?",
+    "What topics of conversation do you enjoy most?",
+    "Do you like listening to other people's conversations?",
+    "Have you ever overheard a conversation you wish you hadn't?",
+    "Who in life do you find it difficult to strike up a conversation with?",
+    "What common conversation starters do you use?",
+    "Will you ever run out of dreams?",
+    "Oscar Wilde said: \"Conversation about the weather is the last refuge of the unimaginative.\" What does this mean? Do you agree with him?",
+    "A Chinese proverb says: \"A single conversation across the table with a wise person is worth a month's study of books.\" Do you agree?",
+    "Are you good at small talk and making conversation?",
+    "When was the last time you had a really, really interesting conversation?",
+    "Do you like intelligent conversation?",
+    "What do you think of your English conversation classes and study books?",
+    "How do you feel when people interrupt you in the middle of an important conversation?",
+    "If you were a fly on the wall, which conversation in history would you like to listen to?",
+    "What do you do when you hear your name pop up in other people's conversations?",
+    "Are you OK at everyday conversation in English?",
+    "Someone once said: \"Conversation is an exercise of the mind; gossip is merely an exercise of the tongue.\" What does this mean? Do you agree?",
+    "Robert C. Gallagher said: \"Anyone who thinks the art of conversation is dead ought to tell a child to go to bed.\" What does this mean? Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-genetic-engineering",
+  "title": "Genetic Engineering",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is genetic engineering?",
+    "Do you think genetic engineering is a good thing?",
+    "What are people worried about who oppose genetic engineering?",
+    "Do you worry about eating GM (genetically modified) food?",
+    "Do you think genetically modified food could harm the ecosystems of the areas in which they grow?",
+    "What do you know / think about the Oncomouse - the mouse specially modified to help in cancer research?",
+    "Do you think it's essential to modify genes to create new medicines?",
+    "Scientists can genetically engineer fruit to contain vaccines at a very low cost - Is this a good idea?",
+    "What do you think about cloning?",
+    "Would you like to see a cloned version of yourself?",
+    "What do you know about genes?",
+    "Do you think genetic engineering is playing God and that we should leave life as it was created?",
+    "What do you think of the idea of genetically engineering new bodily organs to replace yours when you are old?",
+    "What do you think would happen if a GM crop or animal started causing major harm to the environment / us?",
+    "Genetic engineering might allow parents to 'design' their children before their birth - What do you think of this?",
+    "Should genetic engineering go ahead to eliminate human flaws, such as violence, jealousy, hate, etc?",
+    "What if scientists create a monster human?",
+    "What do you understand by the term 'genetic aristocracy'?",
+    "If someone's genes are changed a lot, are they the same person?",
+    "Does the government have the right to limit how far we modify ourselves?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-software",
+  "title": "Software",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'software'?",
+    "How often do you buy new software?",
+    "How much do you know about computer software?",
+    "What is your favourite piece of software?",
+    "Do you ever have software problems?",
+    "Do you keep up to date with the latest software?",
+    "Are you surprised that a lot of software is free?",
+    "Have you ever bought pirated software? Would you?",
+    "Bill Gates said: \"A solid working knowledge of productivity software and other IT tools has become a basic foundation for success in virtually any career.\" Do you agree with him?",
+    "What do you think of speech recognition software?",
+    "Do you think software is a good name?",
+    "Have you ever downloaded software illegally from the Internet?",
+    "Do you think software is good value for money?",
+    "What more would you like your software to do?",
+    "What do you think of people who design software?",
+    "Would you like to design your own software?",
+    "What is the greatest piece of software ever created?",
+    "Do you think it'd be cool to work for a software company?",
+    "Why do you think Microsoft has stuck to software and never went into producing computers, like Apple?",
+    "What questions would you like to ask Bill Gates or Steve Jobs about software?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

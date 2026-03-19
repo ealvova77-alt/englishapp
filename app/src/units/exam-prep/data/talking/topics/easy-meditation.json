@@ -1,0 +1,31 @@
+{
+  "id": "easy-meditation",
+  "title": "Meditation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'meditation'?",
+    "Have you ever tried to meditate?",
+    "Would you like to go to meditation classes?",
+    "Do you feel jealous of people who can find peace through meditation?",
+    "Why or how do you think meditation works?",
+    "Do you know anyone who meditates?",
+    "What benefits do you think meditation brings?",
+    "Do you think everyone should try and meditate for twenty minutes each day?",
+    "Do you think Asian people are better at meditating than people from other continents?",
+    "What do you think of people who meditate?",
+    "What is meditation?",
+    "Do you think meditation is a part of all religions?",
+    "What do you think people think about during meditation?",
+    "Do you think meditation helps you live longer?",
+    "Do you think people need lessons to be able to meditate?",
+    "Is meditation more for men or women?",
+    "How is meditation different from other relaxation techniques?",
+    "What's the best time of the day and the best place to meditate?",
+    "Do you think there are any dangers to meditation?",
+    "How do you think meditation was first discovered?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

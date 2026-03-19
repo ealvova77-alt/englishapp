@@ -1,0 +1,31 @@
+{
+  "id": "easy-thinking",
+  "title": "Thinking",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'thinking'?",
+    "Why do we think?",
+    "Do you always think about what you must do next/later?",
+    "What is a thinker? Are you one?",
+    "Can too much thinking affect your health?",
+    "How can we stop people from thinking too much?",
+    "Is thinking a positive or negative thing? Why?",
+    "What would happen if we stopped thinking?",
+    "What do you do when thinking keeps you awake at night?",
+    "When was the last time thinking about something solved a problem?",
+    "How would the world change if we could read each other's thoughts?",
+    "What are you thinking right now?",
+    "What do you do when you find yourself thinking bad thoughts?",
+    "What do you think other people think of you?",
+    "How much do you care about what others think of you?",
+    "What things change the way you think?",
+    "Why do different people think in different ways?",
+    "What do you spend your day thinking about most? Why?",
+    "What are the differences between the way men and women think?",
+    "What do children think about most? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

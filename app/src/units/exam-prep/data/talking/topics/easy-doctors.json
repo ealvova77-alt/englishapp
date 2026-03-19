@@ -1,0 +1,30 @@
+{
+  "id": "easy-doctors",
+  "title": "Doctors",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'doctor'?",
+    "How often do you go to the doctor?",
+    "Do you always feel better after you've visited the doctor?",
+    "How do you find a good doctor?",
+    "What do you think about the costs of visits to the doctor in your country?",
+    "Do you always think you've received top treatment from your doctor?",
+    "Do you always believe what your doctor says or do you sometimes doubt him/her?",
+    "What do you think are the worst aspects of being a doctor?",
+    "If you were a doctor, which area would you like to specialize in?",
+    "What do you think about when you're sitting down waiting to see the doctor?",
+    "What childhood memories do you have of doctors?",
+    "Have you ever changed doctors? If 'yes', why?",
+    "Do you prefer male or female doctors?",
+    "What kind of day do you think a doctor has?",
+    "Do you think there are enough doctors in your town?",
+    "Are you satisfied you have enough time talking with the doctor?",
+    "Where do you think the world's best doctors are?",
+    "Do you think doctors talk and gossip about patients?",
+    "What kind of person makes an excellent doctor?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

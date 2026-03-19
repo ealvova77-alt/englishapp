@@ -1,0 +1,31 @@
+{
+  "id": "easy-nuts",
+  "title": "Nuts",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'nut'?",
+    "What do you know about nuts?",
+    "Do you have a favourite nut?",
+    "What dishes do you like that have nuts in them?",
+    "What's the best thing to eat or drink with nuts?",
+    "Do you eat nuts any time during the year or only on special occasions?",
+    "What do you know about the nutritional value of nuts?",
+    "Why do we say crazy people are 'nuts'?",
+    "What drives you nuts?",
+    "What do you think of coconuts?",
+    "Do you like salted, chillied, dry roasted or plain nuts?",
+    "Do you know anyone who is allergic to nuts?",
+    "How would your life be different without nuts?",
+    "How would nature be different without nuts?",
+    "Do you like fruit and nut? What other things go well with nuts?",
+    "Do you think there should be other nutty spreads besides peanut butter and Nutella?",
+    "What do you think of the idea of nut juice?",
+    "Which are better, nuts or potato chips?",
+    "What is a \"tough nut that is hard to crack\"? Do you know anyone like this",
+    "Which is better, a nut roast or beef roast?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

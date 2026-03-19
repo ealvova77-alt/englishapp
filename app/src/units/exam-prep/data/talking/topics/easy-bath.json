@@ -1,0 +1,31 @@
+{
+  "id": "easy-bath",
+  "title": "Bath",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'bath'?",
+    "Do you prefer baths or showers?",
+    "What do you like least and best about taking a bath/shower?",
+    "What's the worst bathroom you've ever taken a bath / shower in?",
+    "Do you have a set routine every time you take a bath?",
+    "Is it better to take a bath / shower in the morning or evening?",
+    "How do you feel if you cannot take a bath?",
+    "How do you feel after you take a bath / shower?",
+    "Do you keep others waiting while you take a bath / shower?",
+    "Pablo Picasso said: \"Everything is a miracle. It is a miracle that one does not dissolve in one's bath like a lump of sugar.\" Why do you think he said this? Do you agree?",
+    "Do you like taking a bath / shower?",
+    "Do you read or listen to music in the bath or do anything else to relax?",
+    "Is having a gorgeous bathroom important to you?",
+    "Have your bathing habits changed over the years?",
+    "If you designed your own bathroom, what would it be like?",
+    "Have you ever taken a mud bath or bathed in milk?",
+    "Do you sing in the bath / shower?",
+    "Do you spend a short or long time in the bath / shower?",
+    "Do you think it's important to bathe every day?",
+    "The comedian Woody Allen said: \"Basically my wife was immature. I'd be at home in the bath and she'd come in and sink my boats.\" Why is this funny?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-prefer",
+  "title": "Prefer",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you prefer studying English using books or Internet resources?",
+    "When do you prefer to study, in the morning, afternoon or evening?",
+    "Do your teachers ever ask you what you prefer doing?",
+    "Do you prefer to have a choice in class or do what your teacher thinks is best?",
+    "Do you prefer doing lessons on reading, writing, speaking or listening?",
+    "Would you prefer to have a different teacher?",
+    "How do you prefer to study?",
+    "Which do you prefer, studying in class with a teacher or studying alone?",
+    "What's the difference between 'prefer doing something' and 'prefer to do something'?",
+    "Would you prefer an English teacher from your own country or one from an English-speaking country?",
+    "Do you prefer paper dictionaries or online / electronic dictionaries?",
+    "What topics do you prefer to talk about in class and which do you prefer to not talk about?",
+    "Do you prefer talking with the person next to you in class or moving around and talking to different students?",
+    "Do you prefer male or female teachers?",
+    "Do you prefer your teacher explaining grammar on the board or working it out for yourself?",
+    "Have you ever told your teacher what you prefer doing in class?",
+    "What things do you think your teacher might prefer to do differently in class?",
+    "What are the differences between 'prefer' and 'would rather'?",
+    "Would you prefer to have more, less or no homework?",
+    "What would you prefer to do instead of having this discussion?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

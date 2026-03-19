@@ -1,0 +1,29 @@
+{
+  "id": "advanced-science",
+  "title": "Science",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 18,
+  "questions": [
+    "What images spring to mind when you hear the word 'science'?",
+    "How important is science?",
+    "Is science always good?",
+    "Were you good at science at school?",
+    "What science projects or experiments did you like at school?",
+    "Would you donate your body to science after you die?",
+    "Why is science becoming less and less popular in schools?",
+    "Do you like visiting science museums?",
+    "What kind of people love science?",
+    "Do you like science?",
+    "What were your science teachers like?",
+    "What has science done for humankind?",
+    "What will science uncover in the next few decades?",
+    "Do science and religion fit well together?",
+    "When someone says, \"It isn't exactly rocket science,\" what do they mean?",
+    "What will the next big discovery in science be?",
+    "Would you want your children to study science, management or law?",
+    "The Japanese anime character Ikari Gendo said: \"Science is the power of Man.\" What does this mean? Do you agree?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

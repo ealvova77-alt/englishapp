@@ -1,0 +1,26 @@
+{
+  "id": "easy-inspiration",
+  "title": "Inspiration",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 15,
+  "questions": [
+    "Who is an inspirational person to you? Why?",
+    "Would you like to inspire others?",
+    "What could you inspire others to do?",
+    "What is the difference between inspiration and motivation?",
+    "Can you tell me of a time when you felt inspired?",
+    "Who inspired you? How? What did you do after that?",
+    "Sometimes people kill themselves in order to inspire others, like monks who set themselves on fire or people who starve themselves. What do you think about this?",
+    "Who do you think is considered one of the most inspirational people in history?",
+    "What type of act is inspirational?",
+    "Many people say that we should learn to inspire ourselves instead of relying on others. What do you think?",
+    "Do you find nature inspiring? Why?",
+    "Do you find any religious figures inspiring? Why?",
+    "What do you think about inspirational poetry? Do you know any?",
+    "Has a book ever inspired you?",
+    "Have people ever been inspired to do bad things? If so, what bad things?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

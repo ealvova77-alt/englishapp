@@ -1,0 +1,31 @@
+{
+  "id": "easy-horoscopes",
+  "title": "Horoscopes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you believe in horoscopes?",
+    "Do you ever check your horoscope?",
+    "Who writes horoscopes and how qualified do you think they are?",
+    "Is it possible to predict future events just by someone's star sign?",
+    "Why is it that the things written in horoscopes are always so boring?",
+    "If horoscopes are true, we all follow one of twelve future paths. What do you think of this?",
+    "What kind of person is someone with your star sign?",
+    "What aren't there horoscopes in serious newspapers?",
+    "Do you think it's strange that in the twenty-first century people get paid to write horoscopes?",
+    "Do you know anyone who checks his/her horoscope religiously?",
+    "What do you think about what is written in horoscopes?",
+    "What kinds of people believe in and follow horoscopes?",
+    "Do you think there are horoscopes in every country?",
+    "Can you think of a typical horoscope prediction?",
+    "Why would anyone think the position of the stars and sun can tell us whether or not you'll meet the man/woman of your dreams on Tuesday night?",
+    "Do you think horoscope writers believe in what they write and predict",
+    "What would you like your horoscope to say?",
+    "What does your religion say about horoscopes?",
+    "Do you think horoscopes could be dangerous?",
+    "What questions would you like to ask a horoscope writer?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

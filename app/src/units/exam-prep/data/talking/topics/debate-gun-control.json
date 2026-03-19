@@ -1,0 +1,31 @@
+{
+  "id": "debate-gun-control",
+  "title": "Gun Control",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "Do you think people need guns?",
+    "How many guns are there in your society?",
+    "Is there a lot of gun crime in your country?",
+    "Switzerland has a higher rate of gun ownership that the USA but hardly any gun crime. Why do you think this is?",
+    "Do you think it's a person's right to own a gun?",
+    "Is it easy or difficult to get a gun in your country?",
+    "What checks should there be made before someone can buy a gun?",
+    "In Japan there are strict gun control laws and so there is very little gun crime. Should all countries follow Japan to lower gun crime?",
+    "Do you think people should be allowed to have guns to defend themselves in their home?",
+    "Martin Luther King said: \"By our readiness to allow arms to be purchased at will and fired at whim...we have created an atmosphere in which violence and hatred have become popular pastimes.\" Do you agree with him?",
+    "Do you think violent movies encourage the use of guns?",
+    "People don't need guns because the police will protect you. Do you agree with this statement?",
+    "Do you think chemical sprays can replace guns for self defence?",
+    "Guns don't kill people, people do. What do you think of this?",
+    "Do you think airline pilots should be allowed to carry guns?",
+    "Do you think everyone will have access to a gun one day?",
+    "Don't you think guns should be banned to stop school shootings?",
+    "Do you think making people have gun licenses would reduce crime?",
+    "How can people have a gun in the house when they have children?",
+    "Would you have a gun if you had the choice?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "medium-cultural-differences",
+  "title": "Cultural Differences",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 18,
+  "questions": [
+    "How does your culture compare to British [insert English-speaking country as needed] culture?",
+    "What are the similarities and differences?",
+    "Which cultural differences surprise you most when you are abroad?",
+    "Are there advantages to marrying someone from a different culture? Are there any disadvantages?",
+    "Which foreign culture do you find especially interesting? Why?",
+    "How do people from other countries see your culture? What is their first association?",
+    "For what is your culture famous?",
+    "Is it important to adapt to the culture of the country you are visiting/living in?",
+    "Do you think it is important to regulate the number of immigrants coming into a country? Why/why not?",
+    "What is considered rude in your country that is polite in other countries?",
+    "Have you ever been surprised by the actions of someone from another culture?",
+    "Cultural differences cause problems. It is better for people to stay in their own countries rather than to migrate to other ones. Do you agree?",
+    "Would you prefer to live in a monoculture or a multi-racial society? Why?",
+    "It is better to study major international languages like English rather than to spend time on minority languages for the sake of regional identity. Do you agree?",
+    "Governments should give regions in their countries more autonomy so that they can protect and enjoy their own cultures rather than serving the centralized policies of the capital city. Do you agree?",
+    "Is it better to marry someone of the same cultural background?",
+    "Religion as a school subject should include all the major world religions - not only the majority religion in the country concerned. Do you agree?",
+    "How do you think \"British Culture\" differs from \"N. American Culture\"? How do these cultures differ from the culture of your own country?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

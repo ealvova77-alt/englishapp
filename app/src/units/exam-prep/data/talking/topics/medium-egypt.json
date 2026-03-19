@@ -1,0 +1,31 @@
+{
+  "id": "medium-egypt",
+  "title": "Egypt",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'Egypt'?",
+    "Do you think Egypt is one of the greatest countries in the world?",
+    "What is your opinion of Egypt as a tourist destination?",
+    "What do you know about the history of Egypt?",
+    "What has Egypt given to the world?",
+    "Do you think Egypt is a dangerous or safe country?",
+    "Do you know anything about Egyptian politics?",
+    "What would you like to do if you had 24 hours in Egypt?",
+    "What would you like to do if you had a year in Egypt?",
+    "What kind of relations does your country have with Egypt?",
+    "What are the differences between Egypt today and Egypt in the past?",
+    "What things is Egypt famous for?",
+    "What do you know about Egypt's cities?",
+    "What do you know about Egyptian culture?",
+    "What is Egypt famous for producing?",
+    "Who are the most famous Egyptians you know?",
+    "What problems are there in Egypt?",
+    "What role does Egypt play in the Middle East? Should it do more",
+    "What do you think it would be like to go back in time and live in Ancient Egypt?",
+    "Talk for one minute about the future of Egypt."
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

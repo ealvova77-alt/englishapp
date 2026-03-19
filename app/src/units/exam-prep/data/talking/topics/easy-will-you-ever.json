@@ -1,0 +1,30 @@
+{
+  "id": "easy-will-you-ever",
+  "title": "Will You Ever",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Will you ever be happy with your level of English?",
+    "Will you ever earn the amount of money you'd like to?",
+    "Will you ever find true happiness?",
+    "Will you ever give up your bad habits?",
+    "Will men ever understand women?",
+    "Will we ever live on the Moon or travel to Mars?",
+    "Will we ever live as equals?",
+    "Will you ever be happy with the way you look?",
+    "Will teenagers ever listen?",
+    "Will we ever find the answer to the meaning of life?",
+    "Will you ever stop studying?",
+    "Will we ever find life in outer space?",
+    "Will you ever truly learn from your mistakes?",
+    "Do you think humans will ever be cloned?",
+    "Will you ever do all the things you want to do in life?",
+    "Will you ever get bored of the Internet?",
+    "Will the world ever be at peace?",
+    "Will you ever again have the same hair styles you had when you were younger?",
+    "Will we ever stop watching rubbish on television?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

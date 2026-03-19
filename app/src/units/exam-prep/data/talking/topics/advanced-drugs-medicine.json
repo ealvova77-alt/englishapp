@@ -1,0 +1,25 @@
+{
+  "id": "advanced-drugs-medicine",
+  "title": "Drugs, Medicine",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 14,
+  "questions": [
+    "Do most people in your country prefer traditional medicine, modern medicine, or a combination of the two?",
+    "Do you think there are any legal drugs that should be illegal? What about illegal ones that should be legal?",
+    "Do you think that teas and natural herbs can be just as effective or more effective for treating certain illness than modern medicine?",
+    "What type of treatment would you recommend to a person who has the flu?",
+    "Do you have to pay for medicine in your country? What about other types of heath care?",
+    "Do you feel uncomfortable using medicine from a foreign country?",
+    "Should doctors be allowed to prescribe a lethal dose of medicine to patients who want to end their lives?",
+    "Do you consider alcohol a drug? Do you drink?",
+    "Should doctors be allowed to prescribe marijuana? If so, to whom and for what reasons?",
+    "Do you think men are more likely to use illegal drugs than women? Why or why not? What about legal ones?",
+    "Have you heard any stories of faith healers?",
+    "What should happen to a person who is caught using illegal drugs? What about selling them?",
+    "Can a person become addicted to prescription drugs? Which ones? Are there any illegal drugs that a person can't become addicted to?",
+    "Why do you think it takes so long for certain prescription drugs to become available in the US?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

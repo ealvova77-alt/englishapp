@@ -1,0 +1,31 @@
+{
+  "id": "easy-hair",
+  "title": "Hair",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Are you happy with your hair?",
+    "What would the world be like if no one had hair?",
+    "How does hair change the way we look?",
+    "What kind of hair would you really like?",
+    "How has your hairstyle changed over the past few years?",
+    "Did you have a hairstyle a long time ago that you think is embarrassing now?",
+    "Do you like reading magazines about hair?",
+    "Do you worry about hair loss, thinning hair or grey hair?",
+    "What do you think of men who are going bald and comb their hair over their head?",
+    "Do you dye your hair (or would you dye your hair)?",
+    "How important is hair?",
+    "Do we need hair?",
+    "How much time do you spend in the morning doing your hair?",
+    "Do you think being a hair stylist is a good job?",
+    "Do you ever have a bad hair day?",
+    "What problems do you have with your hair?",
+    "How often do you look at and arrange your hair every day?",
+    "Do you like having your hair cut?",
+    "Would you prefer to have straight, wavy, curly or shaggy hair?",
+    "What hair products do you buy on a regular basis?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

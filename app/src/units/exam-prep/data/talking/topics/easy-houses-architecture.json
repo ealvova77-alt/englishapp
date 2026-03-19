@@ -1,0 +1,23 @@
+{
+  "id": "easy-houses-architecture",
+  "title": "Houses, Architecture",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "Do you think that old buildings are more beautiful than new ones? Why or why not?",
+    "What's your favorite room in the house? Why?",
+    "Can you describe a well-known building in your hometown?",
+    "Tell about the last time you visited a famous building or monument. What was it? How did it look?",
+    "How important are monuments (like Big Ben or the Statue of Liberty) in defining a nation?",
+    "When was the house/apartment you now live in built? How do you think it has changed since then?",
+    "How would you describe your dream house? Describe a building you dislike. Why don't you like it?",
+    "Can you describe your house or apartment? How many rooms does it have? How many bathrooms? Who lives there?",
+    "What was the last improvement you made to your house or apartment?",
+    "Would you prefer to own a single family house or an apartment? Why?",
+    "How do you think ancient civilizations (for example, the Egyptians, Mayans, and Greeks) constructed large buildings?",
+    "What do you know about American houses? How are they different from houses in your country?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

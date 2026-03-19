@@ -1,0 +1,22 @@
+{
+  "id": "medium-work-life-balance",
+  "title": "Work-Life Balance",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 11,
+  "questions": [
+    "Do you work to live or live to work? Do you find your job stressful?",
+    "How does your job compare with 10 years ago? Is it more stressful or less stressful today?",
+    "What do you do to make sure you have a good work-life balance?",
+    "Do you have a good way of dealing with stress?",
+    "Have you ever been burnt out, or know anyone has become burnt out?",
+    "Is admitting you are burnt out a taboo in your company (or country)?",
+    "Are some personality types more susceptible to burnout?",
+    "'Modern employees are constantly under pressure to do more work in less time.' Do you agree?",
+    "Does your company try to make sure employees have a good work-life balance?",
+    "How would you like your company to address this issue?",
+    "How important are: a) exercise, b) diet and c) family-life to a good work-life balance?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

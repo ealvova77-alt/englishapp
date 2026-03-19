@@ -1,0 +1,31 @@
+{
+  "id": "medium-home-schooling",
+  "title": "Home Schooling",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Do you think home schooling is a good idea?",
+    "What are the advantages of hone schooling?",
+    "What kind of children benefit from home schooling?",
+    "Would you have preferred home schooling or going to school?",
+    "Do you think home schooling hinders a child's development?",
+    "Do children who are home schooled get the social skills they need?",
+    "How do parents get all the materials they need for home schooling?",
+    "A report found that 58.9% of adults who were home schooled are \"very happy\" with life, compared with 27.6% for the general U.S. population. Is this a good reason to encourage home schooling?",
+    "Would you be different today if you'd been home schooled?",
+    "Is home schooling gaining popularity in your country?",
+    "Would you consider home schooling your children?",
+    "Parents home school their children because they think they can educate their children better than schools. Do you think they can?",
+    "An American report says home schooled children do much better academically than school children. What do you think about this?",
+    "Home schooling avoids many problems such as bullying. Should governments encourage more home schooling?",
+    "A U.S. report stated: \"Where possible, children should be withheld from formal schooling until at least ages eight - ten.\" Do you agree?",
+    "Would you know how to home school children?",
+    "Do you think governments should pay parents for home schooling?",
+    "Do you think home schooled children would easily adapt to school?",
+    "Do you think kids who go to school would like home schooling?",
+    "Do you think children would prefer home schooling or regular schooling?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

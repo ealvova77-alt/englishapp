@@ -1,0 +1,19 @@
+{
+  "id": "easy-safety",
+  "title": "Safety",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 8,
+  "questions": [
+    "What comes to mind when you hear the word 'safety'?",
+    "What travel safety tips do you have for a first-time traveller?",
+    "What is safety?",
+    "Who is the most safety conscious person you know?",
+    "Do you ever fear for your safety at night in a bad part of town or on an airplane?",
+    "What safety regulations are there in this school?",
+    "If you had to create a memorable safety slogan, what would it be?",
+    "Are safety pins and safety matches really so safe?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

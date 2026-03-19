@@ -1,0 +1,23 @@
+{
+  "id": "easy-transport",
+  "title": "Transport",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "Which is your favourite means of private transport?",
+    "What skills do you need to practise to pass the driving test in your country? Did you pass your test first time? What do you find most difficult about driving?",
+    "Which is your favourite kind of public transport - buses or trains? ships or planes?",
+    "Are you in favour of more road building to create more space for the private motorist in your country?",
+    "Do you think that more freight should be sent by rail? Why are companies reluctant to send their goods this way? What needs to be done to change their minds?",
+    "What annoys you most about other drivers?",
+    "Have you ever broken the speed limit, driven the wrong way along a one-way street, overtaken on the inside, driven while drunk, etc?",
+    "How would your life be different if cars were banned? Can you think of three ways in which you would benefit from the banning of cars?",
+    "What do you think should be done to increase road safety?",
+    "At what age, or in what circumstances, should people stop driving for good?",
+    "What can be done to encourage people to use their cars less and public transport more?",
+    "Winston Churchill said \"Cars are the curse of the 20th century\". To what extent do you think they will be the curse of the 21st century too?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

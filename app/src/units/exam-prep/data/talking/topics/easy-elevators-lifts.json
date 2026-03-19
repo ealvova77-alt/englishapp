@@ -1,0 +1,31 @@
+{
+  "id": "easy-elevators-lifts",
+  "title": "Elevators Lifts",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like elevators?",
+    "What do you know (or can guess) about the history of elevators?",
+    "How often do you use elevators?",
+    "Which do you prefer, elevators or escalators?",
+    "What do you do when you ride in an elevator?",
+    "Are you thoughts and feelings different when you are in an elevator alone and when there are other people in it?",
+    "What things do you look at while the elevator is going up or down?",
+    "Why do people keep pressing the button to call the elevator, even though that doesn't make the elevator come quicker?",
+    "Do you have a favorite or least liked elevator?",
+    "Do you always try to squeeze in even if the elevator looks full?",
+    "Do you ever take the stairs?",
+    "Do you ever worry about going into an elevator?",
+    "What do you think of the music in elevators?",
+    "Do you think all elevators should have a mirror?",
+    "Have you ever got out of an elevator on the wrong floor?",
+    "Have you ever been unable to control or stop your laughter in an elevator.",
+    "What improvements do you think could be made to elevators?",
+    "Would you like an elevator in your house?",
+    "Have you ever had a bad experience in an elevator?",
+    "Do you prefer the word 'lift' or 'elevator'? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

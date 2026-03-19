@@ -1,0 +1,28 @@
+{
+  "id": "easy-grandparents",
+  "title": "Grandparents",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "What were the names of your mother's parents?",
+    "When and where were they born?",
+    "Where did they live?",
+    "Do you have personal memories of them?",
+    "What were the names of your father's parents?",
+    "When and where were your parents born?",
+    "Where did your parents live?",
+    "What did your parents do for a living?",
+    "What do you remember hearing about your great-grandparents?",
+    "Did you ever meet them?",
+    "Who was the oldest family member you remember meeting?",
+    "What do you remember about them?",
+    "Why did they come to the U.S.?",
+    "Did you know them well?",
+    "Did they ever describe their lives?",
+    "What country did they or their ancestors come to the United States from?",
+    "What traditions are still practiced in your family?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

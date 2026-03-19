@@ -1,0 +1,12 @@
+{
+  "id": "easy-phone",
+  "title": "Phone",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 1,
+  "questions": [
+    "Do you experience phantom vibration?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

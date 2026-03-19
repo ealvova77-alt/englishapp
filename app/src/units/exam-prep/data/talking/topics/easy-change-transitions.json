@@ -1,0 +1,23 @@
+{
+  "id": "easy-change-transitions",
+  "title": "Change, Transitions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "How has your life changed in the last 10 years?",
+    "What have been the biggest changes?",
+    "Did you find the changes easy or difficult?",
+    "Have you ever changed jobs? How long did it take you to adapt to your new role?",
+    "How have your responsibilities at work changed since you started working?",
+    "Have you ever changed careers? How did you manage this transition?",
+    "Can you describe your transition from school/university to your first job?",
+    "Have you ever relocated/moved to a new city? What did you have to get used to?",
+    "Do you find it easy or difficult to adapt to new situations?",
+    "Do you ever worry that you will become less flexible as you get older?",
+    "Do you ever feel the world/technology is changing so fast that it's difficult to keep up?",
+    "'A change is as good as a rest.' What has been the most positive change you have ever made?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

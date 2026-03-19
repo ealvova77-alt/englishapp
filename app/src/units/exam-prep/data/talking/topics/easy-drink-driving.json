@@ -1,0 +1,31 @@
+{
+  "id": "easy-drink-driving",
+  "title": "Drink Driving",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think about drunk driving?",
+    "Are the penalties for drinking and driving strict enough in your country?",
+    "Do people in your country follow the drink-driving laws?",
+    "Have you ever been over the limit while driving?",
+    "Do passengers have a responsibility to stop someone drunk from driving?",
+    "Should the passengers of a drunk driver also be punished?",
+    "Have you ever been breathalyzed by the police?",
+    "Are there scary commercials in your country to stop drunk drivers?",
+    "What do you know about statistics for alcohol-related traffic accidents in your country?",
+    "Do members of your family or friends rink and drive?",
+    "What are the penalties for drink driving in your country?",
+    "Do you ever try to stop people from driving under the influence?",
+    "Do you think there should be zero tolerance for any alcohol in a driver's bloodstream?",
+    "Do you think the police stop and test enough drivers?",
+    "Do you think the police have enough powers to stop and test people?",
+    "What penalty would you want for a drunk driver who hit you?",
+    "Is alcohol the biggest cause of road accidents in your country?",
+    "Do you have a favourite anti-drink-driving slogan, such as \"Arrive Alive\" or Think, Before You Drink, Before You Drive\"?",
+    "Do you think drivers should also be tested the night after drinking?",
+    "Should drink laws also apply to cyclists? How about drunk walking?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

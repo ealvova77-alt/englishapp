@@ -1,0 +1,30 @@
+{
+  "id": "easy-imf",
+  "title": "IMF",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What does the abbreviation IMF stand for?",
+    "What do you know about the history of the IMF?",
+    "What is the difference between the IMF and the World Bank?",
+    "Why do many countries protest against the IMF?",
+    "What are the aims of the 185-member IMF?",
+    "Do you think the IMF should put more pressure on countries that do not have democracy?",
+    "Would you like to see the IMF one day become the world's treasury?",
+    "Do you think there is equality among the member states of the IMF?",
+    "Would you like to work for the IMF?",
+    "What should an international monetary fund do?",
+    "What does the IMF do?",
+    "Do you think the IMF should get involved with global warming?",
+    "Who runs the IMF and who should run it?",
+    "Where does the IMF get its money from?",
+    "What do you think should be the IMF's obligation to the poor?",
+    "Do you think the IMF should be headquartered in Washington DC?",
+    "What would you expect to find on the IMF website?",
+    "What do you think the IMF will be doing 50 years from now?",
+    "What questions would you like to ask the boss of the IMF?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "advanced-conservation",
+  "title": "Conservation",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What is conservation?",
+    "Would you like to work as a conservationist?",
+    "When and why do you think conservation became a high profile issue?",
+    "Do you think conservationists are winning or losing their battles?",
+    "Is enough attention given to conservation in your country's schools and media?",
+    "Which countries have the best and worst records on conservation?",
+    "Do you think your grandchildren will be happy with our attempts at conservation?",
+    "What do you think the world would be like today without the efforts of conservationists?",
+    "Which countries in the world are most in need of conservation projects?",
+    "Which conservation charity or organization would you support?",
+    "Why is conservation important?",
+    "What are the most important areas regarding conservation in your country?",
+    "Is globalization making conservation efforts more difficult?",
+    "Do you agree with the illegal actions some conservationists use?",
+    "How can we reverse the effects of deforestation and desertification?",
+    "What do you think of the fact that much of Earth's biodiversity has already been lost?",
+    "What do you know about sustainable development and renewable resources?",
+    "Is it our duty to keep the Earth as it was created?",
+    "What does the current condition of Earth say about the human race?",
+    "Do you think our children will look after the Earth better than we have?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

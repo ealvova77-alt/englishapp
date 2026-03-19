@@ -1,0 +1,31 @@
+{
+  "id": "easy-police",
+  "title": "Police",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'police'?",
+    "Do you respect the police?",
+    "Are the police in your country good or bad?",
+    "What experiences have you had with the police?",
+    "Would you ever consider a career with the police?",
+    "What would society be like without the police?",
+    "Is there a good alternative to a police force?",
+    "What changes would you like to make to your country's police force?",
+    "Have you ever called the police?",
+    "Do you ever worry about your country becoming a police state?",
+    "What should a good police force do?",
+    "Would you like your son or daughter to become a police officer?",
+    "Do you like the police uniform?",
+    "Do you think being in the police would be exciting and interesting?",
+    "Do you like TV dramas and documentaries about the police?",
+    "What is the most realistic police movie you've ever seen?",
+    "What do you think a police officer thinks about when he or she is on the beat, walking around town?",
+    "Are the police in your country effective at solving crimes and protecting the community?",
+    "Do you think your government needs to spend money on employing more police officers?",
+    "What questions would you like to ask a police officer?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

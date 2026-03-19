@@ -1,0 +1,19 @@
+{
+  "id": "advanced-disability",
+  "title": "Disability",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 8,
+  "questions": [
+    "What comes to mind when you hear the word 'disability'?",
+    "Some people prefer to use the term 'physically challenged' instead of 'disabled'. What do you think about this?",
+    "Do you always try to help people who are disabled?",
+    "Do you tend to think that disabled people always need your help?",
+    "What things do you think disability rights groups campaign for?",
+    "What do you think of the Paralympic Games (which means 'alongside the Olympic games')?",
+    "What should people do on the International Day of Persons with Disabilities?",
+    "What tax breaks or financial aid should people with disabilities get?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

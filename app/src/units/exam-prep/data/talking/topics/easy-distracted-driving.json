@@ -1,0 +1,31 @@
+{
+  "id": "easy-distracted-driving",
+  "title": "Distracted Driving",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "On a scale of 0 to 10, how important is your cell/mobile phone to you?",
+    "How important is your safety and well-being?",
+    "Do you ever text, check social media (Facebook, Twitter, WeChat, etc.), or e-mail while you are walking or driving?",
+    "Have you ever seen somebody do something dangerous while texting and walking or driving?",
+    "What percentage of traffic accidents do you think are the result of distracted driving?",
+    "Is texting while driving as dangerous as drunk driving?",
+    "How can society discourage people from letting their phone distract them while walking or driving?",
+    "Do you think education alone is enough to eliminate distracted driving?",
+    "Are fines a sufficient penalty for distracted driving?",
+    "How much should the fine be for distracted driving?",
+    "In addition to fines, what other measures can be used to punish distracted drivers?",
+    "Can most people multi-task well enough to text and drive safely?",
+    "What can a person do to resist being distracted by their phone while walking or driving?",
+    "What would you do if the person driving the car or bus you are in starts texting?",
+    "Is talking on the phone dangerous while driving?",
+    "How long can you wait before checking for messages?",
+    "How quickly do you try to respond to messages?",
+    "Where do you usually carry your phone? Why?",
+    "How do you feel when a friend doesn't reply to your message immediately?",
+    "Do you ever check messages during class? (Be honest!)"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

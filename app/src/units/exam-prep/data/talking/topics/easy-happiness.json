@@ -1,0 +1,27 @@
+{
+  "id": "easy-happiness",
+  "title": "Happiness",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 16,
+  "questions": [
+    "Do you think you are a happy person? What makes you think that?",
+    "Who is the happiest person you know? How do they act?",
+    "What 5 things make you happy and why?",
+    "When were you most happy?",
+    "Do you have any good ways of cheering yourself up?",
+    "What do you think of comedy movies and stand-up comedians? Why?",
+    "Buddhists believe that material things don't make us happy. What do you think of that?",
+    "Some monks spend days alone in a cave meditating to achieve true happiness. What do you think of that?",
+    "Who are happier, adults or children? Why?",
+    "Do you think people from rich countries are happier than people from poor ones?",
+    "What is the difference between happiness and joy?",
+    "When was the last time someone made you feel happy?",
+    "How do your friends make you happy?",
+    "What would make you truly happy in the future?",
+    "What would make you happy now?",
+    "There is an illness called SAD, where people feel sad during certain seasons. What do you think of this?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

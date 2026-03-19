@@ -1,0 +1,31 @@
+{
+  "id": "medium-students",
+  "title": "Students",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'student'?",
+    "Were / Are you a good student?",
+    "What was your happiest memory as a student?",
+    "Would you prefer to be the student or the teacher?",
+    "Do you think students need to work harder?",
+    "Should a student's university education be free or should the student have to get a loan?",
+    "Do you think being a student is the best time of your life?",
+    "Are teachers too afraid of students these days?",
+    "How can students help society while they are on their long holidays?",
+    "What would you do with a student who didn't want to study?",
+    "Did / Do you like being a student?",
+    "What is a good student?",
+    "What should schools do about students who bully others?",
+    "How do students change when they move on to university?",
+    "What are the best and worst things about being a student?",
+    "Do you think students studying for master's degrees should get paid?",
+    "Should all students wear a uniform?",
+    "Should school students stand up on public transport to give their seats to working people?",
+    "What do you think of the idea of having a student day - a national holiday to celebrate students?",
+    "Which is better, being a student or being a worker?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

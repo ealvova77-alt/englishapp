@@ -1,0 +1,30 @@
+{
+  "id": "easy-painting",
+  "title": "Painting",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'painting'?",
+    "Do you or did you ever like painting?",
+    "Are you good at painting?",
+    "Do you think modern artists are good at painting?",
+    "What style or period of painting / art do you like?",
+    "What do you think of people who are very good at painting?",
+    "Do you think painting is an important school subject?",
+    "Do you prefer artists from your country or those from others?",
+    "What do you think of artists from other continents?",
+    "Do you prefer oils, watercolours, sketches or another medium?",
+    "What do paintings mean to you?",
+    "What kinds of paintings do you have in your house?",
+    "Why is painting and art so important to us?",
+    "Do you like watching children paint?",
+    "Have you ever been emotionally moved because of a painting?",
+    "What do you think artists from centuries ago would think of today's artists?",
+    "What painting that you did was/is your favourite?",
+    "Would you consider investing money in a painting? Do you think art is a good investment?",
+    "What do people think about when they look at paintings in galleries?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-museums",
+  "title": "Museums",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'museum'?",
+    "What's the best museum you've ever been to?",
+    "What do you like most and least about museums?",
+    "Do you think museums should be free to enter?",
+    "What is the first museum you can remember going to?",
+    "Do you prefer going to museums alone or with others?",
+    "What do you think is the best museum in the world?",
+    "What kinds of museums are there in your town?",
+    "Would a museum dedicated to your life and times be interesting?",
+    "What exhibitions are on at the moment that you'd really like to see?",
+    "Are all museums important?",
+    "Do you think museums in other countries are more or less interesting than those in your own country?",
+    "If you could have one exhibit from any museum in the world, what would it be, and why?",
+    "Would you like to work in a museum?",
+    "Would you become really intelligent if you spent a year wandering through museums?",
+    "What's the strangest museum you've heard of?",
+    "Are all museums good for children?",
+    "If you had lots of money to start your own museum, what would you exhibit in it and what would you call it?",
+    "Which country has the best museums in the world?",
+    "Do you prefer museums with interactive exhibits or those you just look at?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

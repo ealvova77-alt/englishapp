@@ -1,0 +1,31 @@
+{
+  "id": "debate-nuclear-weapons",
+  "title": "Nuclear Weapons",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the term 'nuclear weapons'?",
+    "What do you think about nuclear weapons?",
+    "How often do you worry about nuclear weapons?",
+    "Which country in the world do you think will use nuclear weapons next?",
+    "How would the world be different if nuclear weapons were small enough and easy enough to make to be sold on the black market?",
+    "Do you think terrorists will ever get nuclear weapons?",
+    "Would the world be a safer place without nuclear weapons?",
+    "Will most countries have nuclear weapons one day?",
+    "Do you want your country to have nuclear weapons?",
+    "Are nuclear weapons really a big deterrent?",
+    "Would you allow your government to use nuclear weapons if it was the only way to stop your country from being invaded?",
+    "Do you think a nuclear war is inevitable or do you believe world leaders have sense?",
+    "If you knew a nuclear weapon would be fired at your country next week, what would you do in the next few days?",
+    "Which country that has nuclear weapons is the most dangerous?",
+    "Should the UN try and stop countries like Brazil, Indonesia and Australia from getting nuclear weapons if they want them?",
+    "Do countries with nuclear weapons have the right to stop other countries developing them?",
+    "What do you think it feels like to press the \"launch\" button?",
+    "Would you work for a company that made nuclear weapons?",
+    "What would the world be like after a nuclear war?",
+    "What are the chances of a World War IV?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-vocabulary",
+  "title": "Vocabulary",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'vocabulary'?",
+    "How important do you think vocabulary is?",
+    "Is your teacher good at teaching vocabulary?",
+    "What problems do you have with vocabulary?",
+    "What advice do you have for students learning vocabulary?",
+    "What word makes you proud of your vocabulary?",
+    "What's the best way to broaden your vocabulary?",
+    "What's the best way to study for a vocabulary test?",
+    "How important is slang in vocabulary learning?",
+    "What book can you recommend to help others learn vocabulary?",
+    "What's more important, grammar or vocabulary?",
+    "Do you like studying vocabulary?",
+    "Do you have an impressive knowledge of vocabulary in your own language?",
+    "What's the hardest thing about learning English vocabulary?",
+    "Are there words in English you still keep forgetting?",
+    "Do you separate your vocabulary lists into words, idioms, phrasal verbs, etc?",
+    "What do you know about the 'bad' words in the English vocabulary?",
+    "What do you think of English words becoming part of the vocabulary of your own language?",
+    "What's the best website for learning vocabulary?",
+    "Are vocabulary games a good way to remember vocabulary?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

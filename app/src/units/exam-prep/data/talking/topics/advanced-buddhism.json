@@ -1,0 +1,30 @@
+{
+  "id": "advanced-buddhism",
+  "title": "Buddhism",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 19,
+  "questions": [
+    "Is Buddhism a religion?",
+    "What do Buddhists believe in?",
+    "Are there any gods in Buddhism?",
+    "What do you think when you see the image of Buddha?",
+    "What is the difference between Zen Buddhism and others such as Tibetan or Theravada (Thai) Buddhism?",
+    "How important is the Dalai Lama?",
+    "Are there any Buddhist holy books?",
+    "How important is meditation in Buddhism?",
+    "What do you know about Buddha?",
+    "What is Karma?",
+    "What is Nirvana?",
+    "What are the important Buddhist days, ceremonies or festivals?",
+    "Do you thinks Buddhists are less violent than followers of other religions?",
+    "Who do Buddhists pray to and what do they pray for?",
+    "Why do Buddhists chant?",
+    "Why do Buddhists bow?",
+    "How has Buddhism affected the world?",
+    "Why are most Buddhists vegetarian?",
+    "Why is the Buddha fat?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

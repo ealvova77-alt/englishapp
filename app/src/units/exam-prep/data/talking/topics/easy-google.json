@@ -1,0 +1,31 @@
+{
+  "id": "easy-google",
+  "title": "Google",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you know about the history of Google?",
+    "How often do you use Google?",
+    "How do you think Google compares with other search engines?",
+    "Do you have any complaints about Google?",
+    "What other services do you think Google should provide?",
+    "What would life be like without Google (or other search engines)?",
+    "Would you like to work for Google?",
+    "How did Google come to be one of the biggest companies in the world in such a short space of time?",
+    "How do you think Google's owners feel about their success?",
+    "What does the verb 'Google' mean?",
+    "What do you think of the name Google as a company name?",
+    "What do you know about the different products and services Google has?",
+    "Are you always happy with the searches you make on Google?",
+    "What do you use Google (or other search engines) for?",
+    "What do you think of Google's mission statement to \"organize the world's information and make it universally accessible and useful\"?",
+    "Have you ever used Google Earth?",
+    "What do you think of Google's slogan: \"Don't Be Evil\"?",
+    "Google employees are encouraged to spend 20% of their work time on projects that interest them. Is this a good idea?",
+    "What do you know about these companies that Google bought - Blogger, YouTube and DoubleClick?",
+    "Do you use Google Alerts or Google's Desktop Toolbar?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "easy-learning-skills-learning-skills",
+  "title": "Learning Skills, Learning, Skills",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "Who has helped you learn the most and how did they do it?",
+    "What has helped you learn the most?",
+    "What do you think is the hardest to learn? Why?",
+    "What do you think is the easiest to learn? Why?",
+    "What is the best way to learn how to use computers?",
+    "How do teachers help you learn more?",
+    "How do your classmates help you learn more?",
+    "Do you thnk music can help people learn? Why or why not?",
+    "What helps you learn?",
+    "What is your favorite subject and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

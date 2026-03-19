@@ -1,0 +1,30 @@
+{
+  "id": "easy-vitamins",
+  "title": "Vitamins",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'vitamin'?",
+    "Do you get enough vitamins every day?",
+    "How would you know if you didn't get enough vitamins?",
+    "What do you think the most important vitamin is?",
+    "Would you like to study vitamins?",
+    "What are vitamins?",
+    "Do you think it's important to take vitamin supplements?",
+    "Is it dangerous to have too many vitamins?",
+    "Have you ever had vitamin deficiency?",
+    "Can vitamins change your feelings?",
+    "Do you worry about not getting enough vitamins?",
+    "What vitamins do you know of and what do they do?",
+    "Can vitamins improve your intelligence?",
+    "Which is better for you - a vitamin C pill or an orange?",
+    "Do pharmacies really need so many different bottles of vitamin pills?",
+    "What vitamin would you like to invent? What would it do?",
+    "What are the differences between vitamins and minerals?",
+    "How do people who do not take vitamin pills survive?",
+    "Do you think everyone in the world will have enough vitamins in the future?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

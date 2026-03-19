@@ -1,0 +1,16 @@
+{
+  "id": "medium-business-strategies",
+  "title": "Business Strategies",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 5,
+  "questions": [
+    "Why do companies need a business strategy?",
+    "Do individual people need business strategies? Why or why not?",
+    "Do you know of any company's business strategy?",
+    "What do you think is important in a business strategy?",
+    "Can you name any mistakes small businesses make concerning their business strategies?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

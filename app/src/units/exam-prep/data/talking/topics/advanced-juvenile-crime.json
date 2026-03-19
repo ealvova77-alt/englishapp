@@ -1,0 +1,31 @@
+{
+  "id": "advanced-juvenile-crime",
+  "title": "Juvenile Crime",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "Is juvenile crime a problem in your country?",
+    "What kind of crimes do young people commit?",
+    "Are you afraid of young people in your country?",
+    "At what age do young people turn to crime?",
+    "Why has juvenile crime increased in the past decade?",
+    "What is the profile of the average juvenile criminal?",
+    "Should young people go to prison if they commit serious crimes?",
+    "How much are parents to blame if their children become criminals?",
+    "Why do you think so many young people have lost respect for authority?",
+    "What part do you think movies, the Internet and video games play in leading young people to crime?",
+    "What are the main reasons children become criminals?",
+    "Should there be better policing to reduce juvenile crime?",
+    "Are schools in your country doing their job to prevent juvenile crime?",
+    "What is the relationship between juvenile crime and drugs in your country?",
+    "Is society too soft on young people?",
+    "What would you do if you discovered your children had committed criminal acts?",
+    "What is the impact of gangs on children in your country?",
+    "Will there be more or less juvenile crime in the future?",
+    "Did you commit any crimes when you were a child?",
+    "What questions would you like to ask a juvenile criminal?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-nasa",
+  "title": "NASA",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'NASA'?",
+    "What does the acronym NASA mean?",
+    "Would you like to work for NASA?",
+    "What do you think is NASA's greatest ever triumph?",
+    "What projects is NASA working on at the moment?",
+    "Why is the work NASA does important?",
+    "Why is NASA so interested in Mars?",
+    "Do you think NASA's $15 billion annual budget is enough or should the money be spent on other things?",
+    "What do you think NASA's astronaut training is like?",
+    "Why isn't NASA interested in more manned trips to the Moon?",
+    "What do you know about NASA?",
+    "What do you know about NASA's competitors?",
+    "What do you know about the early days of NASA?",
+    "If NASA found an alien, do you think they'd tell us about it?",
+    "Do you think NASA has secrets it doesn't tell the world about the things it has found?",
+    "What is the point of NASA? What's its mission?",
+    "If you could decide on a project for NASA, what would it be?",
+    "What do NASA workers talk about in their lunch break?",
+    "What would be the best job to have in NASA?",
+    "What questions would you like to ask a NASA astronaut?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "advanced-science-technology",
+  "title": "Science, Technology",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 9,
+  "vocabulary": [
+    {
+      "term": "technological breakthrough",
+      "meaning": "an important new discovery or invention in technology",
+      "example": "Artificial intelligence may become the next major technological breakthrough."
+    },
+    {
+      "term": "improve quality of life",
+      "meaning": "to make daily life easier, healthier, or more comfortable",
+      "example": "Medical technology can improve quality of life for many patients."
+    },
+    {
+      "term": "ethical concerns",
+      "meaning": "worries about whether something is morally right or wrong",
+      "example": "Gene editing raises serious ethical concerns."
+    },
+    {
+      "term": "unintended consequences",
+      "meaning": "results that were not planned or expected",
+      "example": "New inventions sometimes create unintended consequences for society."
+    },
+    {
+      "term": "regulate innovation",
+      "meaning": "to control how new technology is developed or used",
+      "example": "Governments need to regulate innovation without stopping progress."
+    },
+    {
+      "term": "serve the public good",
+      "meaning": "to benefit society as a whole",
+      "example": "Scientific research should serve the public good, not only private profit."
+    }
+  ],
+  "questions": [
+    "What are some good things that science has done?",
+    "What are some bad things that science has done?",
+    "Which technological things do you like the most and why?",
+    "Which technological things do you like the least and why?",
+    "Which technological item do you think has benefited mankind the most? Why?",
+    "Scientific measures should be standardized throughout the world. We should all use the metric system all of the time. Do you agree?",
+    "Science is more important than religion in today's world. Do you agree?",
+    "What do you think are the main dangers of scientific advances? What laws do you think we need to protect societies from these dangers?",
+    "Are most scientists in your country working on defence assignments or on non-military projects?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

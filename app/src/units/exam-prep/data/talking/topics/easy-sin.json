@@ -1,0 +1,31 @@
+{
+  "id": "easy-sin",
+  "title": "Sin",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'sin'?",
+    "How often do you sin?",
+    "Do you worry about sin?",
+    "Which of the seven deadly sins (lust, gluttony, greed, sloth, wrath, envy and pride) are you guilty of committing?",
+    "Why do you think the seven deadly sins are deadly and why are there just seven?",
+    "What's the biggest sin you've ever committed?",
+    "What's the biggest sin humanity as a whole has ever committed?",
+    "If gluttony is a sin, is it acceptable for Christians to have huge feasts and over eat during Christmas?",
+    "Why isn't there sin in all religions? Are people happier if they follow religions without sin?",
+    "Is it OK to commit a sin knowing the sin will disappear when you ask God for forgiveness?",
+    "What is sin?",
+    "Do you believe in the concept of sin?",
+    "Do you think it's true that sinners cannot go to heaven?",
+    "If you see someone committing a sin - e.g. eating too much - would you tell them that they're committing a sin?",
+    "Is it easy to spot a sinner in the street?",
+    "Where is sin city in your country?",
+    "Do people who believe in sin lead lives of anxiety and guilt?",
+    "What punishments are there (or should there be) for sin?",
+    "Are there any twenty-first century sins?",
+    "What do you think of the idea of sin bins in sport?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

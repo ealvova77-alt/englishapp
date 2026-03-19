@@ -1,0 +1,31 @@
+{
+  "id": "easy-amusement-parks",
+  "title": "Amusement Parks",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'amusement park'?",
+    "What is you experience of amusement parks?",
+    "Why do people like amusement parks?",
+    "What are the differences between amusement parks and theme parks?",
+    "What's the best amusement park in the world?",
+    "What do you think of Disneyland?",
+    "Is 'amusement park' the right word, or should it be 'excitement park'?",
+    "What kind of rides are best?",
+    "Are amusement parks good value for money?",
+    "Do amusement parks have to be based on cartoon characters?",
+    "Would you be a good amusement park designer? Why?",
+    "What do you think of jet coasters?",
+    "Are there any bad things about amusement parks?",
+    "Which new amusement park would you like to see built?",
+    "How dangerous are the rides at amusement parks?",
+    "Who enjoys theme parks more, children or adults?",
+    "What is the best job at a theme park?",
+    "What do you think of the price of food and merchandise at amusement parks?",
+    "What three adjectives best describe amusement parks and why?",
+    "What will amusement parks be like in the future?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

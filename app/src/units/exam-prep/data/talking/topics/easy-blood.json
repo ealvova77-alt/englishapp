@@ -1,0 +1,31 @@
+{
+  "id": "easy-blood",
+  "title": "Blood",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is blood?",
+    "What does blood do?",
+    "Do you like the sight of blood?",
+    "Why do you think some people are squeamish at the sight of blood?",
+    "Do you believe your blood group reveals anything about your character?",
+    "Have you ever donated blood?",
+    "What is blood made up of?",
+    "Does everybody have the same blood?",
+    "When you have a blood test, do you look at the needle go in?",
+    "Would you accept blood from someone from another country?",
+    "Have you ever seen lots of blood?",
+    "Do you think blood is dangerous?",
+    "Have you ever had a blood transfusion?",
+    "Some religions forbid blood transfusions. What do you think about this?",
+    "What's a blood bank?",
+    "What kinds of things are blood curdling?",
+    "Do you have low, normal or high blood pressure?",
+    "What is usually done 'in cold blood'?",
+    "Do you often cut yourself?",
+    "Have you ever lost a lot of blood?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

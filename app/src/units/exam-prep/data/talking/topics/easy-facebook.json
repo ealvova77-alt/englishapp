@@ -1,0 +1,30 @@
+{
+  "id": "easy-facebook",
+  "title": "Facebook",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'Facebook'?",
+    "Do you like the Facebook logo?",
+    "What are the best things about Facebook?",
+    "Do you think it's dangerous putting information on Facebook?",
+    "What are your favourite Facebook applications or games?",
+    "How would you sell someone to Facebook who didn't want to open an account?",
+    "What is the purpose of Facebook?",
+    "Would you ever pay to use Facebook?",
+    "Have you ever put anything on Facebook that you regretted?",
+    "Can you remember when you first heard of Facebook?",
+    "What do you think of the name 'Facebook'?",
+    "What do you think Facebook will be like a decade from now?",
+    "What would you like Facebook to do differently?",
+    "Is Facebook a good place to meet new people?",
+    "Would you let your 14-year-old child open a Facebook account?",
+    "Is Facebook here to stay or will something else come along and make it history?",
+    "What do you think of people who are addicted to Facebook?",
+    "What questions would you like to ask Facebook's owner?",
+    "Did you like this discussion?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-when-was-the-first-time",
+  "title": "When Was the First Time",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "When was the first time you used the Internet? How was it?",
+    "When was the first time you went to the cinema? What did you see?",
+    "When was the first time you used a mobile phone? Who did you call?",
+    "When was the first time you thought life was great? What happened?",
+    "When was the first time you traveled alone? Where did you go?",
+    "When was the first time you had some real money? How did you feel?",
+    "When was the first time you thought the world was a dangerous place?",
+    "When was the first time you smoked / drank?",
+    "When was the first time you flew? What was it like?",
+    "When was the first time you bought someone a present?",
+    "When was the first time you fell in love with someone or something?",
+    "When was the first time you studied English? Did you like it?",
+    "When was the first time you bought something expensive? Do you still have it?",
+    "When was the first time you met your best friend? Was it instant friendship?",
+    "When was the first time you heard your favourite song?",
+    "When was the first time you earned some money? Was it worth it?",
+    "When was the first time you decided on your own hairstyle? Did it look fantastic?",
+    "When was the first time you failed or did poorly in an exam?",
+    "When was the first time you regretted doing something? Do you still regret it?",
+    "When was the first time you remember feeling real pain? What happened?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

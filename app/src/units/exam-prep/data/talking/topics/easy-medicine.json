@@ -1,0 +1,31 @@
+{
+  "id": "easy-medicine",
+  "title": "Medicine",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'medicine'?",
+    "Do you hate taking medicine?",
+    "How often do you take medicine?",
+    "Should all medicine be free?",
+    "Is laughter the best medicine?",
+    "Does medicine always work for you?",
+    "Do you have any side effects after you take medicine?",
+    "What do you think of alternative medicines like homeopathic medicine and aromatherapy?",
+    "What medicines are in your medicine cabinet?",
+    "Do you think medicine weakens your body's immune system?",
+    "What do you think of herbal and Chinese medicine?",
+    "Do you think medicine is too expensive?",
+    "Would you ever buy medicine online?",
+    "Do you agree with testing on animals to find new medicines?",
+    "Do you think that one day, there'll be medicine to cure all illnesses?",
+    "How has medicine changed in the past hundred years?",
+    "Do you think medicines are tested enough before they are put on the market?",
+    "Have you ever given someone a taste of their own medicine?",
+    "How different would the world be without medicine?",
+    "What do you think the next revolution in medicine will be?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

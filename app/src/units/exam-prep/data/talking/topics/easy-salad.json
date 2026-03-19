@@ -1,0 +1,31 @@
+{
+  "id": "easy-salad",
+  "title": "Salad",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'salad'?",
+    "What are your favourite salads?",
+    "Are salads from your own country or those from other countries best?",
+    "Do you eat salad every day?",
+    "Where can you find the best salad bar?",
+    "Do you think being a salad chef would be an interesting job?",
+    "What's best, pasta, rice, potato or macaroni salad?",
+    "What ingredients do you hate in salads?",
+    "Do you ever think salad is boring?",
+    "Can you eat salad for breakfast every day?",
+    "Do you like salad?",
+    "Are all salads healthy?",
+    "Do you prefer mayonnaise or salad dressing on salads?",
+    "What does the perfect salad contain?",
+    "Which would you prefer right now, a vegetable salad or a fruit salad?",
+    "Which came first, the chicken salad or the egg salad?",
+    "Is there such a thing as an unhealthy salad?",
+    "My salad days, when I was green in judgment, cold in blood. (William Shakespeare) What does this mean?",
+    "If you had to \"design\" a special salad, what would you put in it?",
+    "Could you live on a diet of salad?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

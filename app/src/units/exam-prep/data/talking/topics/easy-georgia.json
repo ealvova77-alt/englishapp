@@ -1,0 +1,31 @@
+{
+  "id": "easy-georgia",
+  "title": "Georgia",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Georgia?",
+    "What are the good things and bad things about Georgia?",
+    "What is Georgia most famous for?",
+    "What do you know about Georgian history?",
+    "What are the differences between Georgia and your country?",
+    "What do you think about Georgian people?",
+    "What has Georgia given to the world?",
+    "Would you like to visit Georgia, or live there?",
+    "What do you know about the geography of Georgia?",
+    "Who are the most famous Georgian people you know?",
+    "How different is Georgia from the other former Soviet Union countries?",
+    "What was the last news story you heard about Georgia?",
+    "What do you think Georgia's neighbours think of it?",
+    "What do you think Georgia will be like 50 years from now?",
+    "Does your country have good relations with Georgia?",
+    "What could you do on a holiday in Georgia?",
+    "What is your idea of a typical Georgian person?",
+    "What things about Georgia do you think Georgian people are proud of?",
+    "What do you know about Georgia's culture?",
+    "What would you like to ask a Georgian person about Georgia?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

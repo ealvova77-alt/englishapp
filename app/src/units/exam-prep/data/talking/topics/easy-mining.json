@@ -1,0 +1,31 @@
+{
+  "id": "easy-mining",
+  "title": "Mining",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'mining'?",
+    "Why is mining important?",
+    "What do you know about the history of mining?",
+    "Is there much mining in your country?",
+    "Do you think mining damages the environment?",
+    "How long can mining continue before the Earth is destroyed?",
+    "Would you like to work in mining?",
+    "Do you think miners are paid well?",
+    "Why is mining considered to be one of the most stressful jobs?",
+    "Do you think we'll start mining the Moon and Mars one day?",
+    "What do you know about mining?",
+    "Why are there so many mining accidents in China and Russia?",
+    "Do you think mining can ever be environmentally friendly?",
+    "Do you think mining companies should be allowed to make billions of dollars from the Earth's natural resources?",
+    "What different types of mining do you know about?",
+    "What kinds of headlines and stories might be in a newspaper called \"Mining News\"?",
+    "Would you like to be a miner for a day and see what mining is like?",
+    "What dangers are there in mining?",
+    "If the decision was yours, would you ban mining around the world?",
+    "What questions would you like to ask a mining executive?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

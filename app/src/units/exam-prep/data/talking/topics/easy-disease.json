@@ -1,0 +1,31 @@
+{
+  "id": "easy-disease",
+  "title": "Disease",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'disease'?",
+    "Do you worry about diseases?",
+    "What dangerous or deadly diseases are there in your country?",
+    "What do you think the deadliest disease in the world is?",
+    "Do you think anyone will spread killer diseases as a means of warfare?",
+    "What are the most common causes of diseases?",
+    "What infectious diseases are there in your country?",
+    "Have you ever had any vaccinations against diseases?",
+    "What childhood diseases did you get?",
+    "Is there a history of disease in your family?",
+    "What is disease?",
+    "Have you ever had a disease?",
+    "Which disease would you most like scientists find a cure for?",
+    "What do you think when you read or see news reports on the spread of bird flu, HIV/AIDS and other headline-hitting diseases?",
+    "Do you think scientists will one day wipe out/eradicate all diseases?",
+    "What do you think the scariest disease is?",
+    "Are there ever any outbreaks of diseases in your country?",
+    "What is the best way to stop diseases from spreading?",
+    "Is there sufficient education and awareness in your country about sexually-transmitted diseases?",
+    "What diseases do you worry about getting in your old age?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

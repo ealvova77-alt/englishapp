@@ -1,0 +1,31 @@
+{
+  "id": "easy-how-often",
+  "title": "How Often...?",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "How often do you study English? How often should you study?",
+    "How often are you in trouble with someone? Who and why?",
+    "How often do you feel on top of the world? Is it a good feeling?",
+    "How often do you like going shopping?",
+    "How often do you think about the world's future? Are they good thoughts?",
+    "How often do you get angry with other people? Who are they?",
+    "How often did you get presents when you were a child?",
+    "How often do you wish you were somewhere else of someone else? Who and where?",
+    "How often should you exercise? How often do you exercise?",
+    "How often are you ill? Is this more or less often than your friends?",
+    "How often do you do you think 'how often do I have to do this'? What is it you think about?",
+    "How often do you worry about your hair and the way you look? Is it a problem for you?",
+    "How often do you check your e-mail?",
+    "How often is too often?",
+    "How often do you change your mobile phone? Why?",
+    "How often do you wish you had special powers? What are these powers?",
+    "How often do you spoil yourself?",
+    "How often do you think about money? Is this good or bad?",
+    "How often will you study English in the future?",
+    "How often did you cry when you were younger? What were the main reasons?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "debate-freedom-of-speech",
+  "title": "Freedom of Speech",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What is freedom of speech?",
+    "How does freedom of speech improve a society?",
+    "Should there be some limits on what we are free to say?",
+    "Should people be free to spread hatred, incite violence and ridicule others' religions and nations?",
+    "Is pure freedom of speech is undesirable in today's world?",
+    "Should you be free to tell an enemy your country's national secrets?",
+    "Some countries forbid school teachers from introducing subjects like homosexuality in their classes. Is this denying free speech?",
+    "Does the Internet open up the possibilities of totally free speech and freedom of expression?",
+    "Many countries censor websites to control what their citizens can and cannot see. Is this dangerous?",
+    "When do you have to be careful what you say?",
+    "Is freedom of speech important?",
+    "Does freedom of speech include spreading lies about people?",
+    "A Danish newspaper angered the world's Muslims by publishing cartoons of the Prophet Mohamed. Is this freedom of speech?",
+    "How important is freedom of the press?",
+    "I disapprove of what you say, but I will defend to the death your right to say it. (Evelyn Beatrice Hall) Do you agree with this?",
+    "Are there things you'd love to talk or write about that you daren't?",
+    "Has freedom of speech suffered with the war on terrorism?",
+    "Do children and teenagers also have rights to freedom of speech?",
+    "What do you think \"gripe sites\" are?",
+    "Have you ever been told to be quiet?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

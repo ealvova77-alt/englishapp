@@ -1,0 +1,31 @@
+{
+  "id": "easy-women",
+  "title": "Women",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'women'?",
+    "What are women best at?",
+    "What is the most annoying thing about women?",
+    "How would the world be different if all leaders were women?",
+    "Who are the greatest women in your country's history?",
+    "What do women like and dislike about being women?",
+    "Which country has the world's most beautiful women?",
+    "Do you think women should be allowed to fight in wars?",
+    "Joseph Conrad said: \"Being a woman is a terribly difficult task, since it consists principally in dealing with men.\" What does this mean? Do you agree?",
+    "Harriet Beecher Stowe said: \"Women are the real architects of society.\" Do you agree?",
+    "Are women equal to men?",
+    "Who's the greatest woman you know?",
+    "Why do women like fashion so much?",
+    "Are photos of women in advertising demeaning to women?",
+    "Are women from your culture luckier than women from other cultures?",
+    "What common characteristics do all women share?",
+    "Are women cleverer than men?",
+    "How will women be different 100 years from now?",
+    "Someone once said: \"Women get the last word in every argument. Anything a man says after that is the beginning of a new argument.\" Do you agree?",
+    "Someone once said: \"God created man before woman. But then you always make a rough draft before the final masterpiece.\" What does this mean? Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

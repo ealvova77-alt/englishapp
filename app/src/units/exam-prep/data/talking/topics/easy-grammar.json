@@ -1,0 +1,31 @@
+{
+  "id": "easy-grammar",
+  "title": "Grammar",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Do you like studying grammar?",
+    "Do you think grammar is the most important thing to learn in English?",
+    "What is the most difficult part of English grammar?",
+    "Which is more difficult, English grammar or your own language's grammar?",
+    "What is the best way to learn grammar?",
+    "Do you have a favorite grammar book?",
+    "How do you like to learn grammar in class?",
+    "What are your grammar successes?",
+    "Do you think playing grammar games is an effective way to learn?",
+    "Do you think students should keep a special grammar notebook?",
+    "What grammar websites would you recommend to other students?",
+    "How do you think many people can learn a language without learning grammar?",
+    "What grammar question would you really like answering now?",
+    "Do you think you are good at explaining English grammar rules to other learners?",
+    "Is the grammar of speech different from the grammar of writing?",
+    "Have you ever met a native English speaker with poor grammar?",
+    "Have all your English teachers been good at teaching grammar?",
+    "What area of English grammar do you think is easiest to learn?",
+    "How often have you said you hate grammar?",
+    "Do you think that one day you'll be able to download grammar from your computer into your brain and have no grammar homework?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

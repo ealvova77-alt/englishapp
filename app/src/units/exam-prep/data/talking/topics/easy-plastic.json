@@ -1,0 +1,31 @@
+{
+  "id": "easy-plastic",
+  "title": "Plastic",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'plastic'?",
+    "How important is plastic?",
+    "Do you know how plastic is made?",
+    "What would the world be like without plastic?",
+    "What would your home be like without plastic?",
+    "What are the downsides to plastic?",
+    "Do you thing the word 'plastic' is a good or bad word?",
+    "Do you think we'll find an environmentally friendly alternative to plastic?",
+    "What is plastic surgery? Would you like to try it?",
+    "How useful are plastic containers?",
+    "What is plastic?",
+    "What do you know about the history of plastic?",
+    "What do you think of plastic shopping bags?",
+    "What's your favourite thing made out of plastic?",
+    "Is plastic a good word to use to describe our world?",
+    "In English, we sometimes describe someone as being 'plastic'. What do you think this means?",
+    "What do you think of the idea of plastic food that tastes like the real think and is nutritious?",
+    "Do you prefer to use cash or plastic (credit cards)?",
+    "What will be made of plastic in the future that isn't made of plastic now?",
+    "What do you think of plastic knives and forks on airplanes?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

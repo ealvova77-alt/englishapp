@@ -1,0 +1,16 @@
+{
+  "id": "advanced-alcoholism",
+  "title": "Alcoholism",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 5,
+  "questions": [
+    "What does it mean to be an Alcoholic? How much is too much? Does someone need to drink every day to be an alcoholic?",
+    "What effect does Alcohol have on: The body? The mind? A person's emotions? A person's life?",
+    "What effect does Alcohol have on Families? How does alcohol impact children? How does alcohol affect marriages?",
+    "What effect does Alcohol have on society? Is drunk driving an issue in your country? How does alcohol affect the general health of citizens? Is there an economic loss from missed work? How does alcohol affect a country's image?",
+    "Are there any benefits of Alcohol? Does drinking relieve stress? Can alcohol make parties more fun? Does your country export alcohol?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

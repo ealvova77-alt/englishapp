@@ -1,0 +1,31 @@
+{
+  "id": "advanced-divorce",
+  "title": "Divorce",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'divorce'?",
+    "Do you think that divorce is a sin?",
+    "Do people get divorced too easily and quickly today?",
+    "What are the main causes for people getting divorced?",
+    "Why do you think divorce is higher in some countries than in others?",
+    "Who should get the children in a divorce?",
+    "Should people sign a divorce agreement before they get married - like Hollywood movie stars do?",
+    "Should couples have to take marriage guidance counseling before they file for divorce?",
+    "What effect does divorce have on children?",
+    "Is being divorced a social stigma in your country?",
+    "Is divorce a big problem in your country?",
+    "Would you still be friends with someone after you divorced them (or they divorced you)?",
+    "Why are divorce rates increasing around the world?",
+    "Should divorce settlements by fifty-fifty?",
+    "Why do celebrity marriages end in divorce so quickly?",
+    "What do you think of quickie divorces?",
+    "Do you think divorce would be less common if couples lived together before marriage?",
+    "Does divorce mean part of you is a failure?",
+    "Would you date someone who had been divorced several times?",
+    "Do you think being a divorce lawyer would be a good job?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

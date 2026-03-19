@@ -1,0 +1,31 @@
+{
+  "id": "easy-junk-mail",
+  "title": "Junk Mail",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What is junk mail?",
+    "What do you think of junk mail and junk mailers?",
+    "What is worse, junk mail in your inbox or junk mail delivered to your house?",
+    "How much does junk mail bother, irritate or anger you?",
+    "Do you do anything to reduce the amount of junk mail you get?",
+    "Why is junk mail also called spam mail?",
+    "What are common subjects for the junk mail you receive?",
+    "Have you ever replied or responded to junk mail?",
+    "Should those who send junk mail go to prison?",
+    "Why do people send junk mail?",
+    "What do you hate more, junk mail or pop-up ads?",
+    "What do you think of the e-mail scammers who say their relative has died leaving them millions of dollars and they need your help?",
+    "Should governments, police and software companies work harder to catch spam e-mailers?",
+    "Can you always detect spam mail from the subject?",
+    "Are you ever fooled by phishing mails - those that look like they've been sent from a bank and ask you to confirm your private info?",
+    "What would you do or say to someone who kept sending you spam mail?",
+    "Have you ever replied to a spam mail asking the sender to stop?",
+    "Do you think spam has any negative impact on the Internet?",
+    "Have you ever come across junk mail that was useful or interesting?",
+    "Do you think junk mail will ever disappear?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

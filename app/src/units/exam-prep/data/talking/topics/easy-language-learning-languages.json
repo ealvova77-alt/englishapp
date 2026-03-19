@@ -1,0 +1,18 @@
+{
+  "id": "easy-language-learning-languages",
+  "title": "Language Learning, Languages",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 7,
+  "questions": [
+    "In what ways are you a good or bad language learner?",
+    "How many languages can you speak and how well can you speak them?",
+    "Fluency in a language is more important than accuracy. Do you agree?",
+    "Are you satisfied with the way languages are taught in your country?",
+    "Do tourists often try to speak your language when they visit your country?",
+    "Every child should learn to speak a second language. Do you agree?",
+    "Which should be the official world language - English or Esperanto?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-hospitals",
+  "title": "Hospitals",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'hospital'?",
+    "What are your experiences of hospitals?",
+    "Would you like to work in a hospital?",
+    "Are the hospitals in your country good?",
+    "Is the standard of care in your country's hospitals getting better?",
+    "Do you like watching TV programmes about hospitals?",
+    "Is it better to be born in hospital or at home?",
+    "Why is hospital food so bad?",
+    "Do you think hospitals are unhealthy places?",
+    "What do you think of a government that's lets its hospitals close down?",
+    "Have you ever stayed in hospital?",
+    "What do you think hospitals of the future will be like?",
+    "Have you ever been to a hospital in another country?",
+    "What part of a hospital would you most like a tour of?",
+    "Do you think hospitals are happy or sad places?",
+    "How could hospitals be made better places to visit and stay in?",
+    "What do you think a boutique hospital is?",
+    "What do people do if they cannot afford to go to hospital?",
+    "Who are the most important people working in hospitals?",
+    "What would you do every day if you had to spend six months in hospital?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

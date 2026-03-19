@@ -1,0 +1,16 @@
+{
+  "id": "easy-globalisation",
+  "title": "Globalisation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "How has globalisation affected your country?",
+    "How has globalisation affected you personally?",
+    "Do you think that globalisation will affect you more or less in the future?",
+    "In what ways do you think globalisation will benefit the world in the future?",
+    "Who do you think benefits most/least from globalisation? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

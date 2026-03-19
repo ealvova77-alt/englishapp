@@ -1,0 +1,31 @@
+{
+  "id": "easy-over",
+  "title": "Over",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you know anyone who always overacts? Does this annoy you?",
+    "When was the last time something or someone overawed you?",
+    "Have you ever been overcharged for something? Did you get your money back?",
+    "Have you ever been overcome with emotion?",
+    "What places do you know that are overcrowded?",
+    "Have you ever overdone something and ruined it?",
+    "What do you think of bank overdrafts?",
+    "Do you ever take books back to the library that are overdue?",
+    "When was the last time you were overjoyed?",
+    "Do you often go on overnight trips?",
+    "What do you think about our overpopulated world?",
+    "What strong smells do you think are overpowering?",
+    "Do you think sex is overrated?",
+    "How often do you go overseas?",
+    "When was the last time you overslept? Did you get into trouble for it?",
+    "Have you ever overstayed your welcome?",
+    "Have you ever overstepped the mark and made people angry?",
+    "Do you think there should be a ban on cars overtaking each other?",
+    "What do you think of overtime? Do you do it?",
+    "What's your advice for people who are overweight?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-overpopulation",
+  "title": "Overpopulation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'overpopulation'?",
+    "What are the causes of overpopulation?",
+    "What problems does overpopulation create?",
+    "What can governments do to deal with overpopulation?",
+    "Is there a single action the world can take to reduce overpopulation?",
+    "When did overpopulation start to be a problem?",
+    "Is underpopulation a problem?",
+    "Who does overpopulation affect most?",
+    "Do you think the problem of overpopulation will become bigger or smaller?",
+    "Are there any positive things about overpopulation?",
+    "Is overpopulation a problem in your town or country?",
+    "Do natural disasters reduce overpopulation?",
+    "Are the problems of overpopulation different in the developed and developing worlds?",
+    "How big a threat to the planet is overpopulation?",
+    "Does religion have a part to play in reducing overpopulation?",
+    "Do you think the Earth might be so overpopulated one day that there'll be no more space for us?",
+    "Do you think there should be a limit on the number of children couples can have in countries with overpopulation?",
+    "Do you think scientists should stop inventing new medicines to stop overpopulation?",
+    "Should infertility research and treatments - including surrogacy - be continued?",
+    "Is overpopulation a problem for poor or rich people?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

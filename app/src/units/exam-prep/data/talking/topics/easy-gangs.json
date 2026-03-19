@@ -1,0 +1,31 @@
+{
+  "id": "easy-gangs",
+  "title": "Gangs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Have you ever belonged to a gang?",
+    "Why do people join gangs?",
+    "Don't you think people should leave gangs behind when they leave school?",
+    "Were there any bad gangs at your school?",
+    "Were there any good gangs at your school?",
+    "Is gang violence a problem in your society?",
+    "What kinds of gangs are there in your country?",
+    "What kind of organized crime are gangs involved in your country?",
+    "Are you more worried about hooligan gangs or gangster gangs?",
+    "Do gangs in your country form on the basis of colour, religion and race?",
+    "What is a gang?",
+    "Do different gangs in your country fight each other?",
+    "Do you think gangs exist in all countries?",
+    "Are the street gangs in your country armed?",
+    "What do you do when you se a gang of young people on the street?",
+    "How do Hollywood movies about gangs affect young children?",
+    "Are there any famous gang feuds in your town/country?",
+    "What do you think happens at the yearly National Gang Conference in the USA?",
+    "How long do you think gang mentality has existed?",
+    "How would you describe the profile of an average gang member?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

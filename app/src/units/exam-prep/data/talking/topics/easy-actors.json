@@ -1,0 +1,29 @@
+{
+  "id": "easy-actors",
+  "title": "Actors",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What do you think that both men and women are called actors nowadays?",
+    "Would you like to be an actor?",
+    "Do you think men or women are better at acting?",
+    "Do you think today's actors are better than those from 30, 40 or 50 years ago?",
+    "Do you think it's strange that most actors are beautiful or handsome?",
+    "Do you think anyone can become an actor?",
+    "Are there any actors you really don't like?",
+    "Do you like actors from other countries?",
+    "Have you ever acted, either at school or amateur dramatics?",
+    "What kind of movies would you like to act in?",
+    "Would you prefer to act on the stage, in movies or in TV dramas?",
+    "Do you think an actor's job is difficult?",
+    "Do you always agree with the choices for best actor and actress at the Oscars (Academy Awards)?",
+    "Do you think actors get paid too much money?",
+    "Who are the top actors in your country?",
+    "Which actor would you like to change places with and why?",
+    "Do you have a favorite acting performance?",
+    "What question would you like to ask your favorite actor?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

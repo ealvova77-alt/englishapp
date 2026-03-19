@@ -1,0 +1,30 @@
+{
+  "id": "easy-cars",
+  "title": "Cars",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Are you into cars?",
+    "Do you think cars are good value for money?",
+    "Do you think the world would be a better place without cars?",
+    "How different do you think cars of the future will be?",
+    "Should governments restrict engine sizes to protect the environment?",
+    "What do you think of drivers who decorate their cars with soft toys?",
+    "Which country produces the best cars?",
+    "Do you like sitting in a car, either as a driver or passenger?",
+    "Why do so many people care so much about their car?",
+    "What's your favourite car?",
+    "Do you need a car?",
+    "Do people need cars that go way above national speed limits?",
+    "Have you seen the Pixar/Disney movie Cars?",
+    "If you were a car, what car would you like to be?",
+    "What features and functions of a car do you need most?",
+    "Do you prefer driving gas guzzlers or fuel efficient cars?",
+    "Do you think it is fair to call a car a dangerous weapon?",
+    "Do you think the car a person drives is an extension of his/her personality?",
+    "Where do cars rank in the list of most important inventions?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "debate-islam",
+  "title": "Islam",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'Islam'?",
+    "What is the difference between Islam and other world religions?",
+    "Why do you think Islam is the fastest growing religion in the world?",
+    "What are the Five Pillars of Islam?",
+    "Why do the two main branches of Islam, Sunni and Shi'a, often fight each other?",
+    "What things must and mustn't you do when you enter a mosque?",
+    "Would you like to make the pilgrimage to Mecca?",
+    "What do you know about and think of the Islamic system of Sharia law?",
+    "What do you know about Islamic holidays such as Ramadan and the Eid celebrations?",
+    "What questions about Islam would you really like answered?",
+    "What is Islam?",
+    "What is Jihad and why do people misinterpret it?",
+    "How has Islam changed the world throughout history?",
+    "What do you know about Islamic art?",
+    "How are Muslim countries different to non-Muslim countries?",
+    "What is Islamic Fundamentalism?",
+    "Does Islam have different rules for men and women?",
+    "Do you think Muslims are treated equally by the major world powers?",
+    "What do you think of Islamic dress?",
+    "What was the last news story you read or heard about Islam?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

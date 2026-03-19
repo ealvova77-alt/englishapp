@@ -1,0 +1,31 @@
+{
+  "id": "easy-men",
+  "title": "Men",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'men'?",
+    "Do men behave badly?",
+    "Can men be beautiful?",
+    "Are men really twice as intelligent as women?",
+    "Why do men cheat?",
+    "Are men more difficult than women?",
+    "Are men better drivers than women?",
+    "What kind of place would the world be without men?",
+    "Is it OK for men to wear make-up?",
+    "What's the worst thing about men?",
+    "Do real men cry?",
+    "What are the differences between men and gentlemen?",
+    "What are man best at and worst at?",
+    "Why do men like gambling, drinking, smoking and chasing women?",
+    "What three changes would you like to make to (other) men?",
+    "Are men getting better or worse?",
+    "Is it a man's world?",
+    "Why do men take control of the barbecue but not the kitchen oven?",
+    "What is inside a man's heart and brain?",
+    "Will men be different 100 years from now?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

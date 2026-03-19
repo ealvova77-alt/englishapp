@@ -1,0 +1,31 @@
+{
+  "id": "easy-rap-music",
+  "title": "Rap Music",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'rap'?",
+    "Do you like rap music?",
+    "What's the difference between rap and hip-hop?",
+    "Do you think rap is as important a musical genre as jazz, soul and funk etc?",
+    "What do you like or dislike about rap?",
+    "Why do many rappers sing about violence?",
+    "Do you think rappers get a bad rap from the press?",
+    "How is rap different from other musical styles?",
+    "Which rappers have been the most important?",
+    "What do you think of non-American rappers?",
+    "Do you think rap music has replaced rock music?",
+    "Are good rappers poets?",
+    "Is it necessary to wear the clothes and follow rap fashions to truly appreciate rap music?",
+    "What topics do you like rappers to rap about?",
+    "Do you think rap is misunderstood?",
+    "Do old people like rap?",
+    "Do you think rap artists are good role models for kids?",
+    "What would you say to someone who said rap isn't music?",
+    "Would you like to learn English through rap songs?",
+    "What's the difference between rap and rock?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

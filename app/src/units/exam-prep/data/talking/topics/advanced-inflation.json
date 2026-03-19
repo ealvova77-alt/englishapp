@@ -1,0 +1,31 @@
+{
+  "id": "advanced-inflation",
+  "title": "Inflation",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'inflation'?",
+    "What is inflation and what causes it?",
+    "What is the rate of inflation in your country?",
+    "Has your country ever experiences high, hyper or spiraling inflation?",
+    "Why is inflation important to economists?",
+    "What does inflation mean to you on a daily basis?",
+    "What do governments do to control or curb inflation?",
+    "What creates runaway inflation like that in Zimbabwe?",
+    "How does high inflation affect the economy and the people in it?",
+    "What can you do to protect yourself against inflation?",
+    "Do you follow the news on different rates of inflation around the world?",
+    "How do economies survive even with rates of inflation in the thousands of percent?",
+    "Who does inflation hit the hardest?",
+    "What is deflation and does this harm the economy?",
+    "Does inflation in other countries affect your country's economy?",
+    "Is there an important link between inflation and unemployment?",
+    "What is the difference between inflation and real inflation?",
+    "What are inflationary pressures?",
+    "What are the differences between wage and cost inflation?",
+    "What is the \"market basket\" used in calculating the CPI (Consumer Price Index) to get the figure for inflation?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

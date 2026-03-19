@@ -1,0 +1,31 @@
+{
+  "id": "easy-management",
+  "title": "Management",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'management'?",
+    "Would you like to work in management?",
+    "What do you think of the management of this school?",
+    "What kind of people do well working in management?",
+    "What is brand management?",
+    "What are the good and bad things about working in management?",
+    "What are the differences between working in middle and top-level management?",
+    "What kind of management do you think it would be good to get into - hotel management, sports, entertainment, tourism, business...?",
+    "Do you think management makes people happy?",
+    "Do you think it would be interesting to study management?",
+    "What do you think of management?",
+    "How do you think management styles differ between countries?",
+    "Have you ever complained to the management of a company, store, restaurant...?",
+    "What good management techniques do you think you have?",
+    "Do you think average workers have a better quality of life than those in management?",
+    "Do you think working in environmental management would be interesting?",
+    "What kind of lifestyle do you think a management consultant has?",
+    "When was the last time you heard about a management buyout?",
+    "What experiences have you had in management teams or dealing with them?",
+    "How do you make the management of a company more effective and productive?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

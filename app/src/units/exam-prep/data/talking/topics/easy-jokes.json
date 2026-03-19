@@ -1,0 +1,29 @@
+{
+  "id": "easy-jokes",
+  "title": "Jokes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "Do you like jokes?",
+    "Are you good at telling jokes or do you know anyone who tells good jokes?",
+    "Do you always get (understand) the jokes you hear?",
+    "Are the jokes you hear always funny?",
+    "What makes a joke funny?",
+    "Do you understand jokes from other countries or jokes told in English?",
+    "What is the funniest joke you know?",
+    "Do you ever think your country's leaders or sports teams are a joke?",
+    "Are there times when jokes are bad and should not be told?",
+    "What kinds of jokes are there in your language?",
+    "In English there are sick jokes, private jokes, cruel jokes and dirty jokes. What do you think these are?",
+    "What are jokes in your country usually about?",
+    "Can you take a joke when someone plays a joke on you?",
+    "Have you ever done anything that is beyond a joke?",
+    "Do you laugh at children's jokes?",
+    "Do you laugh at your own jokes? Is it OK to do this?",
+    "In English, there are 'mother-in-law' jokes and 'blonde' jokes. Are there groups of people in your country that are commonly joked about?",
+    "Are there racist and sexist jokes in your country? What do you think of them?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "easy-bread",
+  "title": "Bread",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What is bread?",
+    "How important is bread in your life?",
+    "What do you think of the smell of freshly baked bread?",
+    "What is the best way to eat bread?",
+    "Do you usually buy sliced or unsliced loaves of bread?",
+    "Do you prefer white or brown bread?",
+    "What kinds of bread from other countries have you tried?",
+    "Which country makes the best bread?",
+    "Do you ever leave the crusts?",
+    "How important is yeast when baking bread?",
+    "Do you know how to make bread?",
+    "Do you prefer bread or bread rolls?",
+    "What is your favorite spread to put on bread?",
+    "Do you ever buy specialty breads?",
+    "How nutritious is bread?",
+    "In slang, \"bread\" means money and \"brown bread\" means dead. Can you think of explanations why?",
+    "Which is a better staple food, bread or rice?",
+    "Do you prefer bread or toast?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

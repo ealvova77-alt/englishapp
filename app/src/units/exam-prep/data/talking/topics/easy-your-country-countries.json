@@ -1,0 +1,16 @@
+{
+  "id": "easy-your-country-countries",
+  "title": "Your Country, Countries",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "Who do you think is the face of your country? Why do you select him/her? Do you think others in your country would agree with your choice?",
+    "Who is the face of America? Why do you think he or she is the face of America? How long have they represented America? Who was the previous \"face of America\"?",
+    "What role do these people play? Do they participate in politics? Are they famous for their money or industry? How long do you think they will represent their countries?",
+    "How do people in the rest of the world view your country's citizens? Why do they have that image? How can this image change? Is it a good or bad image? Why?",
+    "What role do celebrities have in: Bringing tourists to your country? Do they help for World events (Olympics, World Cup)? How? Who is the most famous celebrity in your country?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

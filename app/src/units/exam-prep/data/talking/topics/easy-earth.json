@@ -1,0 +1,31 @@
+{
+  "id": "easy-earth",
+  "title": "Earth",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'Earth'?",
+    "What are your feelings towards the Earth?",
+    "How often do you think about the Earth?",
+    "How much trouble do you think the Earth is in today?",
+    "Would you like to see the Earth from space?",
+    "Why is Earth the only place known in the universe that has life?",
+    "What do you know about the history of Earth?",
+    "Do you think 'Earth' is a good name for our planet?",
+    "What is Earth made of?",
+    "What do you know about the centre of the Earth?",
+    "What do you do in your life to care for the Earth?",
+    "What do you know about the surface of the Earth?",
+    "What do you know about the earth's rotation?",
+    "What natural hazards are there on Earth? Do they affect you?",
+    "Does your religion have an explanation for the creation of Earth?",
+    "What are the biggest challenges facing Earth?",
+    "Do you think it's possible to save the Earth?",
+    "What will happen to the Earth if all humans disappear from it?",
+    "Have you ever used the application Google Earth?",
+    "What do you think is the most beautiful thing about the Earth?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

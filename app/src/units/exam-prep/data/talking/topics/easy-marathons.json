@@ -1,0 +1,30 @@
+{
+  "id": "easy-marathons",
+  "title": "Marathons",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'marathon'?",
+    "What do you know about marathons?",
+    "What do you think of marathon runners?",
+    "What do you know about the history of marathons?",
+    "What do you need to do to train for and run a marathon?",
+    "How do you think a marathon runner's life is different to your life?",
+    "Why do you think marathon runners like doing marathons?",
+    "What do people think about while they're doing a marathon?",
+    "Do you think marathon running damages your body?",
+    "Why don't you run in a marathon?",
+    "Is running a marathon a big achievement?",
+    "Is the marathon gold the best medal to win in an Olympics games?",
+    "Do you like going to a city to watch a marathon?",
+    "Do you know of any famous marathon runners?",
+    "Which nationalities are best at marathons and why?",
+    "How would a person's life change if he/she won a gold medal at the Olympics?",
+    "Would you prefer to run in the Great Wall of China Marathon, the Great Tibetan Marathon or the Polar Circle Marathon?",
+    "What questions would you like to ask a marathon runner?",
+    "No one has ever run a marathon inside two hours. When do you think this might happen? What time is the absolute fastest for a human?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

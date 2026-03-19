@@ -1,0 +1,18 @@
+{
+  "id": "easy-place-to-live",
+  "title": "Place to Live",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 7,
+  "questions": [
+    "Can you describe your hometown?",
+    "Can you describe the neighborhood where you grew up?",
+    "Can you describe the houses you lived in as a child?",
+    "What do you like or dislike about your current city? What do you like or dislike about your hometown? What do you like or dislike about your current house?",
+    "What things are important for deciding where to stay? Would you like to live near a beach, mountain or other natural feature? What type house do you want? Would you like to live in a certain country?",
+    "Would you live in another country? Why do people move to different countries? Why would people choose NOT to go to another country? Which is the best country for finding a job? Which country is the safest?",
+    "Can you change your location to align with your dreams? Do you need to move to another neighborhood? Do you need to change cities? Do you need to move to another country? What steps do you need to take to move to another place?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

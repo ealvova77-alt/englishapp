@@ -1,0 +1,31 @@
+{
+  "id": "easy-breakfast",
+  "title": "Breakfast",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What did you have for breakfast this morning?",
+    "Has what you eat for breakfast changed over the years?",
+    "What do you do while having breakfast?",
+    "Do you prefer to eat breakfast alone of with other people?",
+    "Do you ever eat breakfast in a restaurant or canteen etc?",
+    "What do you think of breakfasts in other countries?",
+    "Is the breakfast you usually eat very healthy?",
+    "How often do you skip breakfast or have it on the go?",
+    "Can you eat \"lunch-style food\" or \"dinner-style food\" for breakfast?",
+    "What do you think of breakfasts at hotels?",
+    "Do you always have time to eat what you want for breakfast?",
+    "How important is having breakfast?",
+    "Do you watch breakfast television?",
+    "Do you make your own breakfast?",
+    "What is a traditional breakfast in your country?",
+    "Must breakfast be eaten in the morning?",
+    "Do you ever eat breakfast at fast food restaurants?",
+    "Do you like having breakfast in bed?",
+    "What is the origin of the word breakfast?",
+    "Do you prefer a cooked breakfast?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

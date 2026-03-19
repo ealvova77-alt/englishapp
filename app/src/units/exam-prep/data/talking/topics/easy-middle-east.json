@@ -1,0 +1,31 @@
+{
+  "id": "easy-middle-east",
+  "title": "Middle East",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'Middle East'?",
+    "What do you know about the Middle East?",
+    "Why is the Middle East in the news so often?",
+    "Are you interested in reading about the Middle East or watching news on it?",
+    "What do you know about conflicts in the Middle East?",
+    "When do you think peace and security will arrive in the Middle East?",
+    "Who understands the Middle East more - the USA or Europe?",
+    "What wonderful things are there about the Middle East?",
+    "What countries are part of the Middle East and how are they all different?",
+    "Who are the heroes in the Middle East?",
+    "How does the Middle East shape world events?",
+    "What is your solution to the problems in the Middle East?",
+    "What will the Middle East be like 20 years from now?",
+    "What does the Middle East have to offer the rest of the world?",
+    "What do you know about the Arab-Israeli conflict?",
+    "Would you like to live in the Middle East?",
+    "Which country in the Middle East would you most like to visit and why?",
+    "What do you think people from the Middle East are most proud of about their region?",
+    "What do you know about the geography of the Middle East?",
+    "What adjectives would you use to describe the Middle East?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

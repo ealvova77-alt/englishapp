@@ -1,0 +1,12 @@
+{
+  "id": "easy-history-future-generations",
+  "title": "History, Future Generations",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 1,
+  "questions": [
+    "You are asked to select a number of objects to represent life at the beginning of the 21st century. The idea is to help future generations better understand how we lived and what major events affected us. What objects would your choose and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

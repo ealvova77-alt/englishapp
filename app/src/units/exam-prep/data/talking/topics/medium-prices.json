@@ -1,0 +1,31 @@
+{
+  "id": "medium-prices",
+  "title": "Prices",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'prices'?",
+    "Do you care about prices?",
+    "What are prices like in your country?",
+    "How do prices compare now to ten years ago?",
+    "What prices do you care about most?",
+    "Do you understand why oil prices go up and down?",
+    "How are prices in your country compared with those in other countries?",
+    "Is there a big variety in prices in the different food stores in your town?",
+    "Are low prices always good?",
+    "What can governments do to stop prices rising?",
+    "Do you look at and remember the price of goods when you are shopping?",
+    "What do you think of real estate prices?",
+    "When did you first start thinking and worrying about prices?",
+    "Why do prices vary so much from store to store when you buy things like electronics?",
+    "What happens when prices go up at a faster rate than salaries?",
+    "Do you think Internet prices of goods should be cheaper than retail prices in stores?",
+    "What do you think prices for everyday things will be like twenty years from now?",
+    "What prices will decrease over the next few years?",
+    "Do you keep an eye on share prices?",
+    "What do you think when you see an advert that says \"Unbeatable Prices\"?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

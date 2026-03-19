@@ -1,0 +1,31 @@
+{
+  "id": "easy-put-take",
+  "title": "Put Take",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "When was the last time you took something apart? What was it and how old were you?",
+    "When did you last have to take back something you had said?",
+    "Have you ever taken something back to a shop? What was it and why?",
+    "What has been the most difficult thing to take in this term?",
+    "Can you tell us a time when you had to take on new responsibilities in your job or family?",
+    "What was the last hobby you took up?",
+    "When were you last taken out? By who?",
+    "Do you take after anyone else in your family?",
+    "When did you last have a take away? What did you have?",
+    "When you were a child, was anything ever taken away from you? What was it and why?",
+    "When was the last time you put away a really big meal? What did you have?",
+    "Do you often get told off for not putting things away?",
+    "Do you know anyone that has been put away? What did they do?",
+    "Have you ever put anyone down or has anyone put you down? Why?",
+    "Apart from doing your homework, is there anything else that you sometimes put off?",
+    "Who do you have the most difficulty putting up with?",
+    "When was the last time you put somebody up? Who was it and for how long?",
+    "Do you often put on special clothes to go out?",
+    "Have you ever put on a play / show / concert or know anyone who has?",
+    "When was the last time you put someone on? Did they find it funny?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

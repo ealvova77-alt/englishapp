@@ -1,0 +1,31 @@
+{
+  "id": "medium-banks",
+  "title": "Banks",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "Do you like banks?",
+    "What are the good things about banks?",
+    "What are the bad things about banks?",
+    "What do you think of bank charges?",
+    "Are bank workers always helpful?",
+    "Has a bank ever made a mistake with your account/money?",
+    "Would you like to work for a bank?",
+    "Have you ever taken out a bank loan or overdraft?",
+    "What do you think of the Islamic banking concept of forbidding interest rates?",
+    "Would you like to use the services of an offshore bank?",
+    "Are banks the best place to keep your money?",
+    "What makes you angry about banks?",
+    "Have you ever met your bank manager?",
+    "What banking services do you like most?",
+    "Do you ever have to wait a long time in the bank to get served?",
+    "What changes would you like to see in the way banks operate?",
+    "Are interest rates too high or too low in your country?",
+    "What are the differences between commercial, investment and merchant banks?",
+    "Do you use Internet banking services?",
+    "How often have you used a piggy bank?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

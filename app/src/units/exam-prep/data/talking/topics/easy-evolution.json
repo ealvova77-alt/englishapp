@@ -1,0 +1,31 @@
+{
+  "id": "easy-evolution",
+  "title": "Evolution",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'evolution'?",
+    "Do you believe the story of evolution as told in religious books?",
+    "How do you think the world got here?",
+    "How do you think we got here?",
+    "What do you think we will look like millions of years from now?",
+    "Why have we evolved into different looks and colours?",
+    "How was the very first life form created and what did it do/look like?",
+    "Why is Darwin's Theory of Evolution discarded by so many religions?",
+    "Many schools in the USA teach creationism - the idea that God put humans on Earth as we are today. What do you think of this?",
+    "Do you think God created everything as it is outlined in the book of Genesis?",
+    "What do you understand by the term 'natural selection'?",
+    "Do you think Darwin's theory of evolution is the best?",
+    "Do you think we descended from the apes?",
+    "Do you think humans are set apart from the animal kingdom?",
+    "Many followers of the 'Intelligent Design' theory say we were created by an intelligent designer. What do you think?",
+    "What do you think of the 'survival of the fittest' theory?",
+    "Do you think evolution is a random process?",
+    "How long ago did human become human and what made us human?",
+    "Can you watch evolution happening?",
+    "How can we know what happened millions of years ago?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

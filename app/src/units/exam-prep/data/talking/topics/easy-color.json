@@ -1,0 +1,16 @@
+{
+  "id": "easy-color",
+  "title": "Color",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What colours are in fashion at the moment?",
+    "What are the main colours in your house or flat? Who chose them?",
+    "What are your favourite colours?",
+    "What colours suit you? What colours do you never wear? Why not?",
+    "What colours have special significance in your country? (For example, is white associated with weddings and black with funerals, etc?)"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

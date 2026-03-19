@@ -1,0 +1,31 @@
+{
+  "id": "easy-marijuana",
+  "title": "Marijuana",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'marijuana'?",
+    "Which do you prefer, marijuana, alcohol or caffeine?",
+    "If marijuana takes away pain, shouldn't it be a medicine?",
+    "Why do so many countries allow the sale of a damaging drug like alcohol, but ban marijuana?",
+    "How would society change if marijuana was legalized?",
+    "What word do you like better, marijuana or cannabis?",
+    "Why are so many people in favor of legalizing marijuana?",
+    "Should politicians who claim to have smoked a little marijuana \"at university\" resign?",
+    "What role does marijuana play in your country's culture?",
+    "What would you think if your country's leader was photographed with a joint in his/her mouth?",
+    "Why do you think marijuana has such a bad image with governments?",
+    "If marijuana was legalized in a city 300 kilometres from where you live, would you move?",
+    "There are millions of alcohol related deaths and cases of violence but unbelievably few marijuana related cases. Why is alcohol legal?",
+    "People say marijuana isn't addictive. What do you think?",
+    "Is the argument that marijuana leads people to harder drugs a valid reason to ban it?",
+    "How would you feel if your daughter introduced you to her new boyfriend and he offered you a joint?",
+    "How many people do you know who use marijuana?",
+    "Would you vote to legalize marijuana or keep it banned?",
+    "Do you think marijuana will be legal one day?",
+    "If Starbucks sold ready-made joints, would you go there?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

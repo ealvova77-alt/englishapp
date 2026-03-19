@@ -1,0 +1,31 @@
+{
+  "id": "easy-rwanda",
+  "title": "Rwanda",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Rwanda?",
+    "What are the good things and bad things about Rwanda?",
+    "What is Rwanda most famous for?",
+    "What do you know about Rwandan history?",
+    "Do you think Rwandans will live together in peace from now?",
+    "What do you think about Rwandans?",
+    "What has Rwanda given to Africa and the world?",
+    "Would you like to visit Rwanda, or live there?",
+    "What do you know about the geography of Rwanda?",
+    "Who are the most famous Rwandan people you know?",
+    "How different is Rwanda from other African countries?",
+    "What do you know about the different Rwandan cultures?",
+    "What do you think Rwanda's neighbours think about Rwanda?",
+    "What do you think Rwanda will be like 50 years from now?",
+    "Does your country have good relations with Rwanda?",
+    "What do you think about Rwanda's leaders?",
+    "What is your idea of a typical Rwandan?",
+    "What things about Rwanda do you think Rwandans are proud of?",
+    "What do you know about Rwandan politics?",
+    "What would you like to ask a Rwandan about Rwanda?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

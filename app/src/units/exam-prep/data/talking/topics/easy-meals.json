@@ -1,0 +1,31 @@
+{
+  "id": "easy-meals",
+  "title": "Meals",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you always have three meals a day?",
+    "What's your favourite meal of the day?",
+    "Do you prefer meals alone, with one other person or lots of people?",
+    "What do you think of the meal times in different countries that are different from your meal times?",
+    "Do you ever skip meals?",
+    "Do you think it's OK to eat between meals?",
+    "Do you cook your own meals?",
+    "Do you think McDonald's meals are Happy or Unhappy?",
+    "Do you always wash your hands and pray before meals?",
+    "What do you think of airplane meals?",
+    "What's your favourite meal?",
+    "Do you always eat healthy, balanced meals?",
+    "Are home-cooked meals the best?",
+    "Would you like to have a three-course meal every day?",
+    "Is the evening meal the most important meal of the day?",
+    "What's the most delicious meal you can remember eating?",
+    "What do you think of frozen meals, microwave meals and other pre-packed meals?",
+    "What's the best thing to do after a lovely meal?",
+    "How does meal time now differ from when you were a kid?",
+    "What's the worst possible meal you could imagine?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-fire",
+  "title": "Fire",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'fire'?",
+    "What are your earliest memories of fire?",
+    "Do you like looking at fire?",
+    "How do you think the discovery of fire changed the life of humans?",
+    "How have fires changed history?",
+    "What problems do fires cause in today's world?",
+    "What do you know about the Ring of Fire?",
+    "Why are some people fascinated with fire?",
+    "What part does fire play in your customs, culture and traditions?",
+    "Have you ever seen a building on fire?",
+    "Are you good at making a fire?",
+    "Do you worry about fire in your house, school, office, etc?",
+    "What can we do to prevent fires?",
+    "Do you think the job of a fire fighter is an interesting one?",
+    "Can you see any fire hazards around you right now?",
+    "What punishment do you think arsonists (people who set fires on purpose) get?",
+    "Do you ever worry about electrical fires in your house?",
+    "Is fire used to describe different human emotions in your language?",
+    "A child is not a vase to be filled but a fire to be lit. What do you think of this quote?",
+    "What kinds of things light your fire?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

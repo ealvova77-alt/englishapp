@@ -1,0 +1,29 @@
+{
+  "id": "advanced-bible",
+  "title": "Bible",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 18,
+  "questions": [
+    "What is the Bible? Who is it for? Why is it important?",
+    "What can we learn from the Bible?",
+    "How is the Bible different from the holy books of other religions?",
+    "Do you think the Bible is interesting?",
+    "Have you read all of the Bible?",
+    "What is your favorite part of the Bible?",
+    "Do you think everything in the Bible is true?",
+    "What do you think of the shortened Bible that can be read in 100 minutes?",
+    "How often do you read the Bible?",
+    "What do you know of the history of the Bible - how all of the books were collected and put together?",
+    "What is the main message of the Bible?",
+    "Who is the most important person in the Bible?",
+    "Do you think the Bible is more interesting than a good novel?",
+    "Is there a hidden code in the Bible?",
+    "What is the difference between the old and new testaments and which one is more important?",
+    "If the Bible is full of Jews, why do Christians and not Jews follow it?",
+    "Was the world created the way it is described in the Bible?",
+    "If the Bible has all of the answers, why doesn't everyone read it?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

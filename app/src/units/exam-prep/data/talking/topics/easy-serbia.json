@@ -1,0 +1,31 @@
+{
+  "id": "easy-serbia",
+  "title": "Serbia",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Serbia?",
+    "What are the good things and bad things about Serbia?",
+    "What is Serbia most famous for?",
+    "What do you know about Serbian history?",
+    "What are the differences between Serbia and your country?",
+    "What do you think about Serbian people?",
+    "What has Serbia given to the world?",
+    "Would you like to visit Serbia, or live there?",
+    "What do you know about the geography of Serbia?",
+    "Who are the most famous Serbians you know?",
+    "How different is Serbia from other Balkan or European countries?",
+    "What was the last news story you heard about Serbia?",
+    "What do you think Serbia's neighbours think of it?",
+    "What do you think Serbia will be like 50 years from now?",
+    "Does your country have good relations with Serbia?",
+    "What could you do on a holiday in Serbia?",
+    "What is your idea of a typical Serbian person?",
+    "What things about Serbia do you think Serbians are proud of?",
+    "What do you know about Serbian culture?",
+    "What would you like to ask a Serbian person about Serbia?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

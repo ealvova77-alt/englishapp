@@ -1,0 +1,23 @@
+{
+  "id": "easy-robin-hood",
+  "title": "Robin Hood",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "How much do you know about the story of Robin Hood?",
+    "What do you think of Robin Hood? Was he a criminal or a hero?",
+    "Robin Hood's intentions were good. To what extent does this justify his actions? Does the end ever justify the means?",
+    "Have you ever stolen anything? If so, why? What happened next?",
+    "Do you give money to beggars? Why/not?",
+    "If you won the lottery jackpot would you give any of your winnings to charity? If so, how much? Which charity or charities would you prioritise and why?",
+    "How much money would you need to be happy?",
+    "What does your country do to help the poor? What more can people do?",
+    "Should the mega-rich be allowed to pass all their riches on to their children when they die? Why/not?",
+    "What are the disadvantages of being extremely rich?",
+    "What would you do if you found a large sum of money (e.g. enough to buy a new car) in the street?",
+    "What is more important to you - wealth or success? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

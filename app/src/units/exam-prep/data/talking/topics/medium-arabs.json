@@ -1,0 +1,31 @@
+{
+  "id": "medium-arabs",
+  "title": "Arabs",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "Who are the Arabs?",
+    "What makes an Arab an Arab?",
+    "What major contributions has Arab civilization made to the world?",
+    "What countries have predominantly Arab populations?",
+    "What do you know of the past history of the Arabs?",
+    "What do you know of the recent history of the Arabs?",
+    "Have you been to any Arab countries?",
+    "Does the media in your country portray a negative or positive image of Arabs?",
+    "What Arab cultural influences affect today's world?",
+    "What do you know about Arabs and Western colonialism?",
+    "What do all Arabs have in common?",
+    "Is there one Arab country that is more influential than the others?",
+    "What is the source of animosities between Arab countries and Israel?",
+    "What cultural differences are the among Arabs from different Arab nations?",
+    "What are the differences between the words 'Arab', 'Arabic' and 'Arabian'?",
+    "Who is the greatest Arab leader?",
+    "What stereotypes of Arabs exist in your country?",
+    "How much political or economic power do Arabs have in the world?",
+    "What is the Arab League and how strong and unified is it?",
+    "Do you think Arabs will play a greater role in world affairs in the future?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

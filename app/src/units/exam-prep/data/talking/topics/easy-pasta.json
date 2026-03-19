@@ -1,0 +1,30 @@
+{
+  "id": "easy-pasta",
+  "title": "Pasta",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'pasta'?",
+    "How much do you like pasta?",
+    "Do you know how pasta is made?",
+    "What are your favourite kinds of pasta?",
+    "Pasta or pizza?",
+    "How many different types of pasta do you know of?",
+    "How often do you eat pasta?",
+    "What do you know about the nutritional value of pasta?",
+    "What do you think of pasta that comes in tins?",
+    "What kind of pasta salad do you make/eat?",
+    "What's the difference between pasta and noodles?",
+    "What's your favourite pasta restaurant and why?",
+    "Are you good at cooking pasta dishes?",
+    "Why do you think there are so many shapes of pasta?",
+    "Do the Italians really cook the best pasta?",
+    "Do you think pasta is better than other staple foods like rice, potatoes, bread, etc?",
+    "Do you think pasta is good value for money?",
+    "What would you say to convince someone who didn't like pasta that is was really tasty?",
+    "How would your life be different if all the world's pasta ran out?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-bullying",
+  "title": "Bullying",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'bullying'?",
+    "What different types of bullying are there?",
+    "Was bullying a big problem at your school?",
+    "Is it worse for children or adults to get bullied?",
+    "Why do people bully each other?",
+    "Do you think bullying should be made a crime or is it part of growing up?",
+    "Is cyber-bullying (online bullying) worse than face-to-face bullying?",
+    "What experiences of bullying do you have?",
+    "How bad is bullying in your country?",
+    "What kind of person is a bully?",
+    "Do bullies need help? What kind?",
+    "What can people who are bullied do to stop the bullying?",
+    "If bullying involves violence, should someone call the police?",
+    "What damage does bullying do to people?",
+    "Should someone who is bullied make the name of the bully public - put it on the Internet?",
+    "Is it always best to stand up to a bully?",
+    "Do you think bullying will disappear one day, or is it getting worse?",
+    "What message do you have for bullies?",
+    "What advice would you give to someone who is bullied (a) online and (b) physically or emotionally?",
+    "Are there similarities between bullying and torture?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

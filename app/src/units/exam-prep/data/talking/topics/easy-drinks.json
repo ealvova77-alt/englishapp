@@ -1,0 +1,28 @@
+{
+  "id": "easy-drinks",
+  "title": "Drinks",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "Can you name 10 drinks in English?",
+    "What is your favorite drink? Why?",
+    "What does 'fizzy' mean?",
+    "Can you tell me 5 different fizzy drinks?",
+    "What does coffee taste like?",
+    "What do you usually drink in restaurants? Why?",
+    "How old do you have to be to drink alcohol in your country?",
+    "Can you name 5 different types of alcohol?",
+    "Do you think drinking alcohol is dangerous?",
+    "Does your country have any traditional drinks?",
+    "Do you like these drinks?",
+    "How often do you drink water?",
+    "Which drinks do you think are healthy?",
+    "Which drinks do you think are unhealthy?",
+    "Which drinks taste bitter?",
+    "Which drinks are really sweet?",
+    "Which drinks have caffeine?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

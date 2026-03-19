@@ -1,0 +1,30 @@
+{
+  "id": "easy-life",
+  "title": "Life",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'life'?",
+    "Do you enjoy life?",
+    "What life-changing moments have you had in your life?",
+    "Have you led an easy or difficult life?",
+    "Do you think there's life after death?",
+    "Do you think there's life on Mars (or on other planets)?",
+    "Do you ever feel you have wasted your life?",
+    "Would you like to live your same life all over again?",
+    "What's your love life like?",
+    "Is life more similar to a pizza or a box of chocolates?",
+    "What's your biggest goal in life?",
+    "Is life complicated?",
+    "What word would you use to sum up your life?",
+    "Do you have a good quality of life?",
+    "If life came with an instruction manual, what would it say?",
+    "Who has been your biggest influence in life?",
+    "What will life be like fifty years from now?",
+    "What does life taste, smell, feel, look and sound like?",
+    "If you could live someone else's life, whose would it be and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "debate-crime-and-punishment",
+  "title": "Crime and Punishment",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 2,
+  "questions": [
+    "What is the best way to deal with juvenile crime such as joy-riding? vandalism? graffiti?",
+    "Should the police have the right to stop and search you in the street without a warrant?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

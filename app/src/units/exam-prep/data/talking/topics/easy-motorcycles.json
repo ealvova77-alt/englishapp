@@ -1,0 +1,30 @@
+{
+  "id": "easy-motorcycles",
+  "title": "Motorcycles",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear the word 'motorcycle'?",
+    "What are the good things and bad things about motorcycles?",
+    "Do you like motorcycles?",
+    "In what ways are motorcycles better than cars?",
+    "Would cities and towns be better places if you could only ride motorcycles in them?",
+    "Do you think all motorcycle gangs are dangerous?",
+    "What do you think of Harley Davidson motorcycles?",
+    "Would you prefer a motorcycle or a horse?",
+    "Would you like to go touring on a motorcycle holiday?",
+    "What's more exciting, Formula 1 or motorcycle racing?",
+    "Would you worry if your children got a motorbike?",
+    "What's the big attraction of motorcycles for young people?",
+    "Do you need leathers to ride a motorcycle?",
+    "At what age do you think it's OK to start riding a motorcycle?",
+    "Do you think big, powerful motorbikes are glamorous?",
+    "What are the best motorcycles to buy?",
+    "What movies have you seen that have lots of motorcycles?",
+    "Would you prefer to ride a motorcycle or be a passenger?",
+    "What's the biggest cause of motorcycle accidents?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "easy-describing-people-melting-pot",
+  "title": "Describing People, Melting Pot",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 6,
+  "questions": [
+    "How would you describe your best friend?",
+    "What kind of people did you grow up with?",
+    "What kind of students are at this school?",
+    "What are the different kinds of people in Beijing?",
+    "Who do you think are the most interesting people? Why?",
+    "Which group do you think is the most different? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

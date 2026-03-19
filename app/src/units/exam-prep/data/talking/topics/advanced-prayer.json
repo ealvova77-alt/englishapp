@@ -1,0 +1,31 @@
+{
+  "id": "advanced-prayer",
+  "title": "Prayer",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'prayer'?",
+    "What do you pray for?",
+    "Are your prayers always answered?",
+    "Do you feel different after you pray?",
+    "Is it possible to pray for something bad?",
+    "Is it selfish to pray for something for yourself?",
+    "Do you think prayer time should be a part of school life?",
+    "Do you think something has gone wrong if a prayer is unanswered?",
+    "Do you believe in the healing power of prayer?",
+    "Is it important to say a prayer before and after meals?",
+    "How often do you pray?",
+    "What's your favourite prayer?",
+    "Where is the best place to pray?",
+    "Can you take lessons on how to pray better?",
+    "What do you think all people should pray for?",
+    "How can you prove to someone who doesn't believe in prayer that it works?",
+    "Do you think people who pray have better lives?",
+    "What do you think of prayer groups?",
+    "If you could have one prayer answered, what would it be?",
+    "Do you think the prayers you make up are better than the prayers found in holy books?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

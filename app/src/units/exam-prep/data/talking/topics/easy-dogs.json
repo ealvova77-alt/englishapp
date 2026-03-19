@@ -1,0 +1,31 @@
+{
+  "id": "easy-dogs",
+  "title": "Dogs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like dogs?",
+    "Are dogs really man's best friend?",
+    "What kind of dogs do you like and dislike?",
+    "Do you think dogs are the best kind of pet?",
+    "Do you think dogs have a good life?",
+    "Are you ever afraid of dogs?",
+    "What do you think of dogs that bark non-stop?",
+    "Do you think people spend too much money on dogs?",
+    "In what ways are dogs helpful to humans?",
+    "Are there many abandoned dogs in your town?",
+    "Do you prefer pedigree or mongrel dogs?",
+    "Do owners have to clean up after their dogs in your town?",
+    "Do you think some owners care too much for their dogs and not enough for other people?",
+    "Why are dogs disliked in some cultures?",
+    "What do you think of dog hotels, dog cafes and poodle parlors?",
+    "Dog is on the menu in many countries. What do you think of this?",
+    "What would you do if someone bought you a puppy as a present?",
+    "What do you think of people who organize dog fights?",
+    "In English, dogs go \"woof woof\". How about in your language or other languages you know?",
+    "What does a \"dog eat dog world\" mean?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

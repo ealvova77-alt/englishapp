@@ -1,0 +1,30 @@
+{
+  "id": "advanced-science-medicine",
+  "title": "Science, Medicine",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 19,
+  "questions": [
+    "Who is the most famous scientist from your country? What did he/she do?",
+    "In what ways has science most advanced society?",
+    "In what ways has science had a negative impact on society?",
+    "What do you think about evolution and other theories of natural selection?",
+    "Do you like studying science? Why or why not?",
+    "What natural disasters occur in your country? Why do they occur?",
+    "How do you feel about cloning? Do you think it's ethical for scientist to clone animals? What about human organs?",
+    "In your opinion, what's the greatest medical advancement of the past century? Why?",
+    "How has science influenced the way detectives investigate crimes?",
+    "Do you think there is life on other planets? If so, how close is it and what does it look like?",
+    "What's your favorite branch of science? For example, biology, physics, astronomy.",
+    "Do you know how your computer works? Can you explain?",
+    "How have you personally benefitted from developments in modern medicine?",
+    "What do you think will be the greatest medical breakthrough in the next ten years?",
+    "What scientist do you respect the most and why?",
+    "If you could contribute something to science or medicine, what would you do and why?",
+    "In your opinion what has been the most important scientific discovery ever? Why?",
+    "How would society be different if scientists hadn't discovered and developed electricity?",
+    "How has science helped people to have children? What do you think of this?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

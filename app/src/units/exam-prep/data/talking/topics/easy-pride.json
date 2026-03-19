@@ -1,0 +1,31 @@
+{
+  "id": "easy-pride",
+  "title": "Pride",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'pride'?",
+    "Are you a proud person?",
+    "What achievement are you most proud of?",
+    "Who are you most proud of?",
+    "What do you take great pride in doing?",
+    "When was the last time you were very proud of yourself?",
+    "Do you think you were always a source of great pride for your parents?",
+    "Do you think carefully about your actions to maintain your family pride?",
+    "What do you do to restore your pride after it has been wounded?",
+    "Fulton Sheen said: \"Pride is an admission of weakness; it secretly fears all competition and dreads all rivals.\" Do you agree?",
+    "What is pride?",
+    "Are you proud of your country?",
+    "Do you feel more pride in yourself or in others?",
+    "Are you proud of your heritage?",
+    "When can pride be dangerous?",
+    "Is pride in yourself a sin?",
+    "Which of your characteristics are you most proud of?",
+    "Does your pride ever stop you from asking others for help?",
+    "Have you ever had to swallow your pride?",
+    "John Ruskin said: \"Pride is at the bottom of all great mistakes.\" Do you agree with him?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

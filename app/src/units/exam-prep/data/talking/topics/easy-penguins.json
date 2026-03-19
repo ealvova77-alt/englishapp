@@ -1,0 +1,29 @@
+{
+  "id": "easy-penguins",
+  "title": "Penguins",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "How would you define a penguin?",
+    "What do you think about when you look at penguins?",
+    "How would the world be different if there were no penguins?",
+    "What do penguins represent in the world?",
+    "Do you think penguins have a good life?",
+    "Why can't penguins fly?",
+    "Do you think penguin would be good to eat?",
+    "Do you spend a little longer in zoos and aquariums looking at the penguins?",
+    "What do you think of the word 'penguin'?",
+    "What springs to mind when you hear the word 'penguin'?",
+    "What do you think a penguin would be a good symbol or logo of?",
+    "Do you think a penguin would be a good pet?",
+    "What do you think of penguin movies?",
+    "How are penguins different from other birds?",
+    "How do you think global warming affects penguins?",
+    "Do you think penguins are dangerous?",
+    "What do penguins do for fun?",
+    "What questions would you like to ask a penguin? What do you think its answers would be?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

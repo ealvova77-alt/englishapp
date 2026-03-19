@@ -1,0 +1,31 @@
+{
+  "id": "easy-theatre",
+  "title": "Theatre",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'theatre'?",
+    "Do you use the British spelling 'theatre' or the American spelling 'theater'? Does it matter which one you use?",
+    "How often do you go to the theatre?",
+    "Is the theatre only for rich people?",
+    "What do you like and dislike about the theatre?",
+    "What's the best thing you've ever seen at the theatre?",
+    "Would you like to work as a theatre critic?",
+    "Are theatre tickets easy to get in your country?",
+    "How do you feel when you sit in a theatre before the performance begins?",
+    "What's the nicest theatre you've ever been to?",
+    "Why is the theatre important?",
+    "What kind of theatre history does your country have?",
+    "Do you prefer watching a play at the theatre or a movie at the movie theatre (cinema)?",
+    "Do you think theatre tickets are reasonably priced?",
+    "Have you ever been to the theatre in another country?",
+    "Do you think people will always be interested in the theatre?",
+    "What questions would you like to ask a theatre actor?",
+    "Would you like to perform or act on stage at the theatre?",
+    "Would you like to see a theatre play in English?",
+    "What's are the differences between movies and plays?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

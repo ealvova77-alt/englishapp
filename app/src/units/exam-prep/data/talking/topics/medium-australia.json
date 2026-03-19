@@ -1,0 +1,30 @@
+{
+  "id": "medium-australia",
+  "title": "Australia",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 19,
+  "questions": [
+    "What do you know about Australia?",
+    "What is your image of Australian culture?",
+    "What do you think of Australian people?",
+    "What important roles does Australia play in the world?",
+    "What is Australia most famous for?",
+    "What have you heard about the famous Aussie lifestyle?",
+    "Would you like to live in Australia?",
+    "Does your country have good relations with Australia?",
+    "Do you like koalas and kangaroos?",
+    "Who are the most famous Australian people?",
+    "What images spring to mind when you think of?",
+    "Why do you think Australians are so crazy about sport?",
+    "What do you know about Australia's natural wonders?",
+    "Australia Do you know any Aussie vocabulary?",
+    "Why is Australia called the land 'down under'?",
+    "What have Australians contributed to the world?",
+    "Do you like Australia's prime minister?",
+    "What do you know about Australia's Aboriginal peoples?",
+    "What question would you like to ask an Australian? What do you think his / her answer would be?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-gambling",
+  "title": "Gambling",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the word 'gambling'?",
+    "Do you like gambling?",
+    "Do you think gambling is good or bad for gamblers?",
+    "What forms of gambling are legal and illegal in your country?",
+    "What do different religions say about gambling?",
+    "Why don't governments make all forms of gambling illegal?",
+    "What kind of criminal activities are associated with gambling?",
+    "Do you think the life of a professional gambler is a glamorous one?",
+    "Have you ever won or lost a lot of money through gambling?",
+    "Do you think buying lottery tickets is a form of gambling?",
+    "Why do you think so many people like gambling?",
+    "What damage does gambling do to society?",
+    "Have you ever been to a horse race or a casino?",
+    "Do you think online gambling is dangerous?",
+    "What makes people so addicted to gambling?",
+    "Do you know anyone who is heavily into gambling?",
+    "Which part of our character makes so many of us interested in gambling?",
+    "How different do you think the world would be if there was no gambling?",
+    "What question would you like to ask a gambling addict? What do you think his / her answer would be and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

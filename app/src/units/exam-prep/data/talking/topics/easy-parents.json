@@ -1,0 +1,20 @@
+{
+  "id": "easy-parents",
+  "title": "Parents",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 9,
+  "questions": [
+    "What are the names of your parents? Where and when were they born? What did they look like?",
+    "What were the circumstances behind their courtship and marriage?",
+    "What did they do for a living?",
+    "Did you ever visit them or help them at work? What were they like?",
+    "What did you get or inherit from them?",
+    "Are there any special family heirlooms?",
+    "Did any of your relatives fight in World War I or World War II?",
+    "Who were the black sheep of the family?",
+    "Were there any famous or infamous relatives?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-television",
+  "title": "Television",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'television'?",
+    "What are the good things and bad things about television?",
+    "What would life be like without television?",
+    "How much television do you watch every day?",
+    "Are you happy with the programmes on TV?",
+    "Does television kill conversation in your family?",
+    "Does violence on television make young people more violent?",
+    "How will television change over the next few decades?",
+    "Someone said: \"If it weren't for the fact that the TV set and the refrigerator are so far apart, some of us wouldn't get any exercise at all.\" Do you think this is true",
+    "Someone once said: \"I wish there were a knob on the TV to turn up the intelligence.\" Do you think so too?",
+    "What are your earliest memories of television?",
+    "Is television important?",
+    "How would society be different if TV had never been invented?",
+    "What could you do for three hours without watching television?",
+    "What is there too much of on television?",
+    "How long can you sit watching TV?",
+    "What do you think of television shows from other countries?",
+    "Would you like a television in every room of your house?",
+    "Frank Lloyd Wright said: \"Television is chewing gum for the eyes.\" What did he mean. Do you think so too?",
+    "Donna Gephart said: \"Today, watching television often means fighting, violence and foul language - and that's just deciding who gets to hold the remote control.\" Do you think so too?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

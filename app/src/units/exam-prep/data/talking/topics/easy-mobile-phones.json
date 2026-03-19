@@ -1,0 +1,31 @@
+{
+  "id": "easy-mobile-phones",
+  "title": "Mobile Phones",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the words 'mobile telephone'?",
+    "What was life like before mobile telephones came along?",
+    "What would your life be like without your mobile telephone?",
+    "Can you remember your first mobile telephone?",
+    "Are you happy with the mobile telephone you have now? Why (not)?",
+    "What are your favourite functions on mobile telephones?",
+    "What new functions would you like to see on mobile telephones?",
+    "Do you think mobile telephones are dangerous in any way?",
+    "What is the ring tone on your mobile telephone and why did you choose it?",
+    "Are other people's mobile telephones annoying?",
+    "How often do you use your mobile?",
+    "Do you ever worry about other people listening to your mobile telephone conversations when you are in public?",
+    "What interesting conversations have you heard on mobile telephones?",
+    "What's the best brand of mobile phone?",
+    "What do you think of the Apple iPhone?",
+    "What do you think of people who use their mobile telephone while driving?",
+    "What would you do if your date spent more time on his/her mobile telephone than he/she spent talking to you?",
+    "Do young people use mobile telephones too much?",
+    "Do you think schools should ban mobile phones?",
+    "From what age do you think children should have a mobile phone?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

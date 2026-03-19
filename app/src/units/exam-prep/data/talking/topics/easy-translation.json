@@ -1,0 +1,31 @@
+{
+  "id": "easy-translation",
+  "title": "Translation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'translation'?",
+    "Are there words in your language that you think are almost impossible to translate?",
+    "What problems have you had with translating English idioms?",
+    "Have you ever had great fun using an online translation service?",
+    "Would you like to work as a translator?",
+    "Do you think someone will invent an instant speech translation machine one day so we can always understand what people are saying in other languages?",
+    "Have you made any funny mistakes because of translation?",
+    "Do you think a country's slang is difficult to translate?",
+    "Jonathan Miller said: \"What makes literature interesting is that it does not survive its translation.\" Do you agree?",
+    "Umberto Eco said: \"Translation is the art of failure.\" Do you agree?",
+    "How important is translation in learning a language?",
+    "Are you always satisfied with how easily words can be translated?",
+    "Do you use translation tools to learn English?",
+    "If two speakers of different languages fell in love, could they ever make each other understand exactly how they feel - is love lost in translation?",
+    "Why is it that translated jokes are rarely funny?",
+    "Do you need an in-depth knowledge of the other culture to be able to do a good translation?",
+    "How well do you think a term like \"democracy\" is translated and understood in countries that have no democracy?",
+    "Are movies in English always translated well into your language?",
+    "The poet Robert Frost said: \"Poetry is what gets lost in translation.\" Do you agree?",
+    "George Borrow said: \"Translation is at best an echo.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

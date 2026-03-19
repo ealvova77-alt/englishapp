@@ -1,0 +1,29 @@
+{
+  "id": "easy-radio",
+  "title": "Radio",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What comes to mind when you hear the word 'radio'?",
+    "How important is the radio in your life?",
+    "When is radio better than television?",
+    "What kind of radio programmes do you prefer to listen to?",
+    "Do you think radio is making a comeback with the Internet?",
+    "Where do you usually listen to the radio?",
+    "Do you think listening to the radio is a good way to improve your English?",
+    "Who is your favourite movie star?",
+    "Do you like listening to top-40 music radio shows?",
+    "Do you have a favourite radio show host?",
+    "Did video kill the radio star?",
+    "What's the difference between FM and AM radio?",
+    "Have you ever listened to a radio show from another country? What did you think?",
+    "Would you like to work in radio?",
+    "Would you buy an adaptor to add radio to your iPod?",
+    "Do you think most radio stations play the same old boring music?",
+    "When is the best time to listen to the radio?",
+    "Do you think we'll always have radio stations?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

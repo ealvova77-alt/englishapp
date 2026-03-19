@@ -1,0 +1,31 @@
+{
+  "id": "easy-sun",
+  "title": "Sun",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'sun'?",
+    "How important is the sun in your life?",
+    "What do you think of sun worshippers?",
+    "Do you prefer the rising or setting sun?",
+    "Do you like a lot of sunshine in your house?",
+    "Do you like sun tans?",
+    "What symbols of the sun are there in your culture?",
+    "What did people think about the sun thousands of years ago?",
+    "How does a sunny day make you feel?",
+    "What will happen when the sun burns itself out?",
+    "Do you protect yourself from the sun?",
+    "Do you like the feeling of the sun on your skin?",
+    "What do you think of the idea of sitting on a sun drenched beach for a few weeks?",
+    "Do you think the sun will one day provide us with all of our energy needs?",
+    "Are there any famous songs or poems about the sun in your language?",
+    "Do you ever get tired of the sun?",
+    "Are people who live in sunny places happier than those who don't?",
+    "Do you think it's important to \"make hay while the sun shines'?",
+    "Do you have a favourite movie about the sun?",
+    "Do you think the sun has healing powers?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "easy-health-care",
+  "title": "Health Care",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "How is the health care in your country?",
+    "Is the health care in your country getting better or worse?",
+    "Which country do you think has the best health care?",
+    "Are health care workers well paid in your country?",
+    "Do you ever think about health care for when you are old?",
+    "What is health care like for old and poor people in your country?",
+    "What happens to people in poor countries who cannot afford health care?",
+    "Is your country's health care system in need of reform?",
+    "Is health care in your country fair to everyone?",
+    "What are the most important health care issues in your country?",
+    "What are the most important health care issues in the world?",
+    "What do you think the health care issues of the future will be?",
+    "What do you know about the history of health care in your country?",
+    "What are the health care problems in your country?",
+    "What do you know about the cost of health care in your country?",
+    "Do you think universal health care will ever come to the world?",
+    "How big an issue is health care in your national elections?",
+    "What questions would you like to ask health care workers?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "easy-careers",
+  "title": "Careers",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "It is impossible to have a successful career and a happy family life. You have to choose one or the other. Do you agree?",
+    "How important is it to have a good (well-paid/secure) job?",
+    "What advice would you give a young person today?",
+    "Would you encourage your children to accept a job in another country?",
+    "Would you be disappointed if your children: left school early? chose a manual job?",
+    "Can you describe your career path so far?",
+    "What are your future career plans?",
+    "Are you happy with how your career is progressing?",
+    "How did you decide on your current profession?",
+    "How did you get interested in that area? Were you interested in similar things as a child?",
+    "Did you choose a job compatible with your interests?",
+    "Did you end up in your profession by chance or by choice?",
+    "Are you ambitious in terms of your career?",
+    "Do you get the chance to use your talents in your job?",
+    "Have you ever changed careers? Why? What was your motivation?",
+    "What are the fastest growing professions in your country?",
+    "If you had to change jobs what field would you go into?",
+    "Which professions will still exist in 50 years? Which will not exist?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

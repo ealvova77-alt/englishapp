@@ -1,0 +1,31 @@
+{
+  "id": "medium-israel",
+  "title": "Israel",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country 'Israel'?",
+    "What are the good things and bad things about Israel?",
+    "What is Israel most famous for?",
+    "What do you know about Israel's history?",
+    "What are the differences between Israel and your country?",
+    "What do you think about Israeli people?",
+    "What has Israel given to the world?",
+    "Would you like to visit Israel, or live there?",
+    "What do you know about the geography of Israel?",
+    "Who are the most famous Israeli people you know?",
+    "How different is Israel different from other Middle Eastern countries?",
+    "What was the last news story you heard about Israel?",
+    "What do you think Israel's neighbours think of it?",
+    "What do you think Israel will be like 50 years from now?",
+    "Does your country have good relations with Israel?",
+    "What could you do on a holiday in Israel?",
+    "What is your idea of a typical Israeli person?",
+    "What things about Israel do you think Israelis are proud of?",
+    "What do you know about Israeli culture?",
+    "What would you like to ask an Israeli about Israel?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

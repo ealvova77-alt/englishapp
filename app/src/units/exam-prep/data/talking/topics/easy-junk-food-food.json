@@ -1,0 +1,12 @@
+{
+  "id": "easy-junk-food-food",
+  "title": "Junk Food, Food",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 1,
+  "questions": [
+    "How often do you eat junk food?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "easy-people",
+  "title": "People",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "Are people strange?",
+    "What's the worst thing about people?",
+    "What are people best at?",
+    "Why do people dislike each other so much?",
+    "Do people ever confuse you with other people?",
+    "Do guns kill people or do people kill people?",
+    "What kind of people do you like best?",
+    "What kind of people do you get fed up with?",
+    "What different kinds of groups of people can you think of?",
+    "When can we use 'persons' instead or 'people' in English?",
+    "What are ordinary people? Do ordinary people vary from country to country?",
+    "Do you believe what people tell you?",
+    "What can we do to protect indigenous people around the world?",
+    "Do you like reading about famous people?",
+    "Are you a people person?",
+    "What do you think of Internet sites that help you find people?",
+    "What do you think of the cry, \"People of the world unite\"?",
+    "Which people are best?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

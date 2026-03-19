@@ -1,0 +1,30 @@
+{
+  "id": "easy-dark",
+  "title": "Dark",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the term 'the dark'?",
+    "Were you afraid of the dark when you were a child?",
+    "Why do you think people are afraid of the dark?",
+    "Do you ever get worried alone at night in your house in the dark?",
+    "How does the dark make you feel?",
+    "What kinds of things do you like to do in the dark?",
+    "When was the last time you sat alone in the dark?",
+    "Do people ever keep you in the dark about their plans?",
+    "What would life be like if it was never dark?",
+    "Have you ever sat in the dark wondering what it's all about?",
+    "What makes children afraid of the dark?",
+    "Is watching TV in the dark bad for your eyes?",
+    "Have you ever wanted the dark to come and never go away?",
+    "What questions would you like to ask the dark?",
+    "What three adjectives would you use to describe the dark?",
+    "Is it safe to walk around your town in the dark?",
+    "Do you find there's a difference between the dark of summer and the dark of winter?",
+    "Do you think the dark in other countries is different to the dark in your own country?",
+    "How would you help someone overcome their fear of the dark?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

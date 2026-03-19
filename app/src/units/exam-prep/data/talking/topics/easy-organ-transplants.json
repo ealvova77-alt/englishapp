@@ -1,0 +1,31 @@
+{
+  "id": "easy-organ-transplants",
+  "title": "Organ Transplants",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the phrase 'organ transplants'?",
+    "What organs can be transplanted?",
+    "What do you think of organ transplants?",
+    "What do you think of people who refuse organ transplants?",
+    "Do you think organ transplants will become much more common in the future?",
+    "Do you think body parts from animals will be used in organ transplants in the future?",
+    "Do you think brain transplants will be possible in the future?",
+    "Would you like to be a doctor who performs organ transplants?",
+    "Would you give up one of your kidneys or half of your liver to save the life of a friend?",
+    "What do you think of face transplants?",
+    "What do you know about organ transplants?",
+    "Would you allow the organs of a loved one to be transplanted?",
+    "Would you accept to have an animal's heart if it could save your life?",
+    "What would you think if your government paid for a serial killer in prison to have an organ transplant?",
+    "Which of your organs would you want for organ transplants after you die?",
+    "Are you a different person if you have a heart transplant?",
+    "Would you like to see an organ transplant?",
+    "How worried would you be if your doctor said you needed an organ transplant?",
+    "What are the dangers of organ transplants?",
+    "If you could clone yourself to have a stock of body parts for future organ transplants, would you?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

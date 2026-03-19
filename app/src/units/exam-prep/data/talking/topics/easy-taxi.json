@@ -1,0 +1,31 @@
+{
+  "id": "easy-taxi",
+  "title": "Taxi",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'taxi'?",
+    "How often do you take a taxi?",
+    "Do you have any 'taxi stories'?",
+    "Are there enough taxi cabs in your town?",
+    "What do you think of taxis in other countries?",
+    "Do you think it's always safe to use a taxi?",
+    "Are taxis good value for money?",
+    "Which do you like better, New York's yellow cabs or London's black cabs?",
+    "How do you flag (U.S.) or hail (U.K.) a taxi in your country?",
+    "What would happen in your town if all the taxis disappeared?",
+    "Do you like taxis?",
+    "Do you think taxi drivers should know every road?",
+    "What's the worst taxi drive you've ever had?",
+    "Do you think a taxi driver's job is dangerous?",
+    "Why do taxi driver's always talk about the weather?",
+    "Do you always make sure the meter is on in the taxi?",
+    "Have you ever taken a taxi that took the long way round?",
+    "What kind of license do you think taxi drivers should have?",
+    "Do you think taxis should have 'in-taxi' entertainment?",
+    "Is it better to sit in the back of the taxi or in the passenger seat?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

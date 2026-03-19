@@ -1,0 +1,24 @@
+{
+  "id": "easy-holiday",
+  "title": "Holiday",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "How is New Year's celebrated in your culture?",
+    "What is your favorite holiday and why?",
+    "Does your country have any special holidays or festivals?",
+    "Is Christmas celebrated in your country? If so, how is it celebrated?",
+    "What are the best and worst gifts you have ever received? What is the meaning of Christmas?",
+    "Being Good: Were you good this year?",
+    "Do you become a better person every year?",
+    "What is the best Christmas movie?",
+    "What food is associated with Christmas?",
+    "Real or Fake: What makes the best Christmas tree?",
+    "Do you have any funny Christmas stories?",
+    "Is it okay to give money as a gift?",
+    "Do you make a New Year's resolution every year?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

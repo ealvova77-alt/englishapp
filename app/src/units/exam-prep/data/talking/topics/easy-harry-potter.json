@@ -1,0 +1,31 @@
+{
+  "id": "easy-harry-potter",
+  "title": "Harry Potter",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Are you into Harry Potter?",
+    "Do you think the Harry Potter series is a literary classic?",
+    "Have you read any of the Harry Potter books in English?",
+    "Are you surprised that the Harry Potter author J.K. Rowling is the highest-earning novelist in history?",
+    "What would you do if you were a witch or wizard?",
+    "Religious groups say the Harry Potter books are dangerous as they promote witchcraft among children. What do you think of this?",
+    "Do you think J.K. Rowling should write an eighth Potter book?",
+    "What impact has Potter made in your country?",
+    "The Harry Potter books took 17 years to write. Can you imagine spending so long on a creative project?",
+    "What questions would you like to ask J.K. Rowling, the Harry Potter creator?",
+    "Why do you think the Harry Potter books are so popular?",
+    "What do you know about the author of Harry Potter?",
+    "Which is better, the Harry potter books or the movies?",
+    "Have you ever been caught up in Pottermania?",
+    "Did you buy the Harry Potter books the day they went on sale?",
+    "Who is your favourite Harry Potter character?",
+    "What is the best book?",
+    "Would you like to study at Hogwart's School of Witchcraft and Wizardry?",
+    "Have you ever bought any Potter merchandise?",
+    "British Prime Minister Gordon Brown said, \"I think JK Rowling has done more for literacy around the world than any single human being.\" What do you think of this?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

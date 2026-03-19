@@ -1,0 +1,31 @@
+{
+  "id": "easy-temperature",
+  "title": "Temperature",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'temperature'?",
+    "What is the perfect weather temperature for you?",
+    "Do you like to experience extreme temperatures?",
+    "What do you think of the temperatures in your country?",
+    "How does a change in temperature affect your feelings?",
+    "What do you think of today's temperature?",
+    "Do you worry about a change in temperature because of global warming?",
+    "What is the hottest temperature you've ever experienced?",
+    "Do you always use the temperature control in your house / office / car...?",
+    "Do you know your average body temperature?",
+    "Do you take an interest in what the temperature will be like in the days ahead?",
+    "Do you ever check the temperature in your house?",
+    "Have you ever had a very high temperature?",
+    "What are the record temperatures reached in your country?",
+    "Are you a cold, cool, warm or hot temperature person?",
+    "What do you think will happen to the world's temperature over the next few decades?",
+    "Do you know people who turn on the air-con or heater when you think the temperature is great?",
+    "What do you do when you have a high temperature?",
+    "What makes your blood boil?",
+    "What food or drink do you insist must be at the perfect temperature before eating or drinking?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

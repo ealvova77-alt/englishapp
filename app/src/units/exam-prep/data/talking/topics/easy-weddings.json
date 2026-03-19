@@ -1,0 +1,31 @@
+{
+  "id": "easy-weddings",
+  "title": "Weddings",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'weddings'?",
+    "Are weddings important?",
+    "What kind of weddings do you think are best?",
+    "Do you wish you could go to more weddings?",
+    "Why do many people not like weddings?",
+    "Do you think it's easy or difficult to plan your own wedding?",
+    "What's the best and worst wedding you've ever been to?",
+    "What are the best and worst things about weddings?",
+    "Do you think weddings in other countries are better than those in your country?",
+    "Do you think your wedding is the happiest day of your life?",
+    "Do you like weddings?",
+    "What kind of wedding would you like (have liked)?",
+    "Which celebrity wedding would you really like to go to?",
+    "What do you think of royal weddings?",
+    "What do people getting married in your culture promise each other in a wedding?",
+    "In your country, do people have to invite people they don't like to their wedding?",
+    "What is the best part of a wedding: the ceremony, the vows, or the reception?",
+    "Do you think that one day, weddings will become a thing of the past?",
+    "What do you think of alternative weddings such as underwater weddings or weddings on the wing of a flying airplane?",
+    "What three adjectives would you use to describe weddings?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

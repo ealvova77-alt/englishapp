@@ -1,0 +1,31 @@
+{
+  "id": "easy-oman",
+  "title": "Oman",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Oman?",
+    "What are the good things and bad things about Oman?",
+    "What is Oman famous for?",
+    "What do you know about Omani history?",
+    "What images of Oman do you have that are exotic?",
+    "What do you think about Oman?",
+    "What has Oman given to the world?",
+    "Would you like to visit Oman, or live there?",
+    "What do you know about the economy of Oman?",
+    "Who are the most famous Omani people you know?",
+    "How different is Oman from other Middle Eastern countries?",
+    "What do you know about Oman's culture?",
+    "Do you think Oman is a good tourist destination?",
+    "What do you think Oman will be like 50 years from now?",
+    "Does your country have good relations with Oman?",
+    "What does your country have in common with Oman?",
+    "What is your idea of a typical Omani person?",
+    "What things about Oman do you think Omani people are proud of?",
+    "What do you know about Oman's geography?",
+    "What would you like to ask an Omani person about Oman?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

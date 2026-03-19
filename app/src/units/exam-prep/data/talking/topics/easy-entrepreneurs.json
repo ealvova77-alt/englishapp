@@ -1,0 +1,22 @@
+{
+  "id": "easy-entrepreneurs",
+  "title": "Entrepreneurs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "Are entrepreneurs encouraged in your country? Does the government support entrepreneurs in any way?",
+    "In which areas do the people from your county have entrepreneurial spirit? Do you?",
+    "What are the biggest growth-industries the moment? Which would you choose if you wanted to start a business?",
+    "What are the advantages/disadvantages of being an entrepreneur?",
+    "Which entrepreneur do you admire the most?",
+    "Do you think 'Entrepreneur-ship' should be a subject that is taught at school?",
+    "Would you like to start your own business? What kind of business would it be?",
+    "'Profit is the reward for risk.' Do you agree or disagree?",
+    "Are you good at handling risk and insecurity?",
+    "Is it difficult to find a profitable niche in this day and age?",
+    "More and more jobs are being done by computers and machines. Which industries do you think are future proof?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

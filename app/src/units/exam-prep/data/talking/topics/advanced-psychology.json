@@ -1,0 +1,31 @@
+{
+  "id": "advanced-psychology",
+  "title": "Psychology",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'psychology'?",
+    "What do you know about psychology?",
+    "Would you like to study psychology?",
+    "What would a psychologist say about you?",
+    "Would you like to visit a psychologist?",
+    "What do you know about child psychology?",
+    "Do you like doing psychology tests?",
+    "If you were a scientist, what psychology tests would you like to do?",
+    "Would you ever get nervous talking to a psychology expert?",
+    "What is reverse psychology?",
+    "What is psychology?",
+    "What's the psychology behind addiction?",
+    "Which great psychologists do you know of and what did they say?",
+    "Would you ever buy a self-help psychology book?",
+    "What do you know about forensic psychology?",
+    "Do you think you can get a good job with a psychology degree?",
+    "Do you think scientists will ever be able to examine the brain and rewrite what we know about psychology?",
+    "Who would you really like to understand the psychology of?",
+    "What good do you think colour psychology is in this world?",
+    "What would you like to know about psychology?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

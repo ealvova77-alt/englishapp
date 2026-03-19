@@ -1,0 +1,31 @@
+{
+  "id": "easy-malaria",
+  "title": "Malaria",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'malaria'?",
+    "What are the symptoms of malaria?",
+    "What do you know about malaria?",
+    "Do you think it's possible to rid the world of malaria?",
+    "Why are so many African children still dying from malaria?",
+    "Have you ever been in a country in which there is malaria?",
+    "Will attitudes towards area change if it spreads to Europe and North America with global warming?",
+    "How can malaria be prevented?",
+    "Would you give money to help fight malaria?",
+    "Have you ever had a malaria vaccine or taken malaria tablets?",
+    "How do people get malaria? How is it transmitted?",
+    "Who is most at risk of getting malaria?",
+    "Why do you think Malaria hasn't been eradicated?",
+    "What does malaria do to your body?",
+    "Why do you think malaria is so common in Africa?",
+    "What parts of the body does malaria usually affect?",
+    "What do you think should happen on a World Malaria Day?",
+    "Would you avoid going to a country in which there is Malaria?",
+    "Do you ever use mosquito repellents?",
+    "What questions would you like to ask a researcher into malaria?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-numbers",
+  "title": "Numbers",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'number'?",
+    "Why do we have numbers?",
+    "Are you a number?",
+    "What are the important numbers in your life?",
+    "Can you easily remember telephone and license plate (car registration) numbers?",
+    "Do you have a lucky and unlucky number?",
+    "What numbers do you look at every day?",
+    "Would you like a job in which you had to work with numbers?",
+    "What are the happy numbers in your life?",
+    "Have you ever been, or are you now, number one?",
+    "Are you good with numbers?",
+    "Why is the number of your cash card called a PIN number - it becomes a 'Personal Identification Number number'?",
+    "What do you think of the number 100?",
+    "What do you think of the number 1,000,000?",
+    "Would you live in house number 13 (or number 4 in China/Japan)?",
+    "Would you be interested in studying numerology?",
+    "What's the difference between a number and numeral?",
+    "What is the number of the beast? Are you worried about this number",
+    "What does the verb 'number' mean? Do you ever number things?",
+    "What does it mean if \"your days are numbered\"?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

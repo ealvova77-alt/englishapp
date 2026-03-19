@@ -1,0 +1,25 @@
+{
+  "id": "easy-differences",
+  "title": "Differences",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 14,
+  "questions": [
+    "What's the difference between apples and pears?",
+    "What's the difference between American English and British English?",
+    "What's the difference between a motorbike and bicycle?",
+    "What's the difference between a train and a plane?",
+    "What's the difference between a cartoon and an animation?",
+    "What's the difference between a whale and a dolphin?",
+    "What's the difference between a cup and a bowl?",
+    "What's the difference between a knife and fork?",
+    "What's the difference between shoes and trainers?",
+    "What's the difference between pizza and pasta?",
+    "What's the difference between school and university?",
+    "What's the difference between rock and roll and rap?",
+    "What's the difference between a salad and a hamburger?",
+    "What's the difference between beer and coke?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-farming",
+  "title": "Farming",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "How important is farming in your country?",
+    "Is farming in your country in a healthy condition?",
+    "What crops are farmed in your country?",
+    "What livestock is raised in your country?",
+    "Do you think farming offers a good quality of life?",
+    "How different is farming across the world?",
+    "What do you think of farming GM crops?",
+    "How can subsistence farming become more profitable?",
+    "What do you think of the intensive farming methods used in rich countries?",
+    "Do you think the farming of crops for biofuels is a good idea?",
+    "What are the challenges the farming industry faces today?",
+    "Does farming help or add to global warming?",
+    "Would you like to be a farmer?",
+    "Do you think we could save the world if we all went back to farming?",
+    "Are you interested in farming news?",
+    "Would you prefer to work in dairy farming or arable farming?",
+    "What do you know about factory farming?",
+    "Does farming help preserve the countryside?",
+    "Do you think governments should encourage more organic farming?",
+    "What do you understand by the term 'urban farming'?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

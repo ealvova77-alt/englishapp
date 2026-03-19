@@ -1,0 +1,31 @@
+{
+  "id": "easy-nursing",
+  "title": "Nursing",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think about nursing?",
+    "What adjectives would you use to describe nurses?",
+    "Do you think nursing is a good career?",
+    "What do you think would be the best and worst things about nursing?",
+    "What kind of personality do you need to be a good nurse?",
+    "Do you think nursing is dangerous?",
+    "Do you think nurses get paid enough?",
+    "Are male or female nurses better?",
+    "What do you think is a typical nurses day?",
+    "Do you think nurses or doctors work harder?",
+    "Would you rather have a male or female nurse if you were in hospital?",
+    "Do you think you would be a good nurse?",
+    "Do you think nurses get used to the sight of blood?",
+    "What do you think about violence against nurses?",
+    "If you were a nurse, in what medical would you like to work?",
+    "Do you think nurses need training to deal with death?",
+    "What do you think of governments that make nurses unemployed? Shouldn't nurses have a job for life?",
+    "How can governments encourage more people to take up nursing?",
+    "If you were rich, would you have your own private nurse?",
+    "What's the youngest you think someone can become a nurse?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

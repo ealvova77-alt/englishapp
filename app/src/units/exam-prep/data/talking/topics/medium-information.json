@@ -1,0 +1,31 @@
+{
+  "id": "medium-information",
+  "title": "Information",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'information'?",
+    "Are you happy with the amount of information in your head?",
+    "How much useless information do you think you've learned?",
+    "Do you have more information than your grandparents?",
+    "Is it important to know a lot of information in today's world?",
+    "What do you think 'information economics' is?",
+    "What topics would you like to know more information about?",
+    "What is the information superhighway and why is it important?",
+    "Are you happy to be living in the 'Information Age'?",
+    "How do you gather information?",
+    "What's the difference between information and knowledge?",
+    "What information technology do you think is most important?",
+    "What kind of information is dangerous in the wrong hands?",
+    "Is there freedom of information in your country?",
+    "Do you often go to tourist information offices?",
+    "What important information are you carrying on you now?",
+    "What has the Internet done for information?",
+    "What is information overload?",
+    "What personal information about you should be confidential information?",
+    "What's the latest information?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

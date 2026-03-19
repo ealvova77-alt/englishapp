@@ -1,0 +1,31 @@
+{
+  "id": "medium-united-states",
+  "title": "United States",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country USA?",
+    "What are the good things and bad things about the USA?",
+    "What is the USA most famous for?",
+    "What do you know about the USA's history?",
+    "What are the differences between the USA and your country?",
+    "What do you think about American people?",
+    "What has the USA given to the world?",
+    "Would you like to visit the USA, or live there?",
+    "What do you know about the geography of the USA?",
+    "Who are the most famous American people you know?",
+    "How different is the USA from other countries?",
+    "What was the last news story you heard about the USA?",
+    "What do you think the USA's neighbours think of it?",
+    "What do you think the USA will be like 50 years from now?",
+    "Does your country have good relations with the USA?",
+    "What could you do on a holiday in the USA?",
+    "What is your idea of a typical American person?",
+    "What things about the USA do you think Americans are proud of?",
+    "What do you know about American culture?",
+    "What would you like to ask an American about the USA?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

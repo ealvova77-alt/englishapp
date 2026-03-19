@@ -1,0 +1,33 @@
+{
+  "id": "easy-motivation",
+  "title": "Motivation",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 22,
+  "questions": [
+    "Do you find it easy to motivate yourself?",
+    "How do you motivate yourself?",
+    "Do people ever call you lazy?",
+    "What things motivate you most? Why?",
+    "What demotivates you most? Why?",
+    "How do you feel about studying? Are you motivated to do it? Why?",
+    "Are you motivated to exercise? Why?",
+    "What do activity do you have no motivation to do?",
+    "What do you think about people who are super motivated?",
+    "Do you think you have to enjoy an activity to be motivated to do it? Why?",
+    "What about things you don't enjoy but are important?",
+    "What do you think about self-help strategies? Could they help people?",
+    "Have you ever used any self-help strategies?",
+    "What is the difference between motivation and inspiration?",
+    "Who is the most motivated person you know? Why?",
+    "Who is the least motivated person you know? Why?",
+    "Does the weather affect your motivation?",
+    "Which type of weather and why?",
+    "How do you stay motivated when you're not in a good mood?",
+    "How does your English teacher motivate you to study English? What do you think an English teacher should do to motivate his/her students? For example: Should he/she test students regularly, teach lots of grammar or do lots of roleplays in class?",
+    "How do you motivate people to do things for you? Do you offer to help them if they help you? Do you encourage them, bribe them, threaten them?",
+    "Do you always find it easy to motivate yourself to do something?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

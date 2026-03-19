@@ -1,0 +1,31 @@
+{
+  "id": "easy-government",
+  "title": "Government",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'government'?",
+    "What does a government actually do and what should it do?",
+    "Are you happy with the government of your country?",
+    "What do you think of the governments in America and China?",
+    "Would you like to work for the government?",
+    "Do you think there is a world government that is not corrupt?",
+    "Would you prefer to work in local or national government?",
+    "Why is there so much corruption in many governments?",
+    "Should government leaders be paid more company CEOs?",
+    "Ronald Regan said: \"Government is not the solution to our problem. Government is the problem.\" Do you agree with him?",
+    "What successes has your government made?",
+    "Do you follow the ins and outs of your government's workings?",
+    "If you wrote a letter to your government, what would you write about?",
+    "Do you think there should be a world government?",
+    "Do you think a government is essential in a democracy?",
+    "What are the alternatives to governments?",
+    "What would your first step be if you were head of your government?",
+    "What would you like to change about your government?",
+    "Do you think a government can ever make everyone happy?",
+    "What do you think of this line from the 2006 movie 'V for Vendetta'? \"People should not be afraid of their government. Governments should be afraid of their people.\""
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

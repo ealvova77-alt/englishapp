@@ -1,0 +1,31 @@
+{
+  "id": "easy-dinosaurs",
+  "title": "Dinosaurs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'dinosaur'?",
+    "What do you think happened to the dinosaurs?",
+    "Why are children so interested in dinosaurs from a very young age?",
+    "Do you have a favourite dinosaur?",
+    "What do you think life was life for men and women when dinosaurs were around?",
+    "Do you like looking at dinosaur skeletons and bones at exhibitions?",
+    "Would you like to be a paleontologist and look for and study dinosaur bones?",
+    "What are your earliest memories of dinosaurs? Did you have dinosaur toys?",
+    "Do you like dinosaur movies?",
+    "Are there still dinosaurs on the Earth today?",
+    "Do you think dinosaurs are interesting?",
+    "If you were a dinosaur, which one would you be?",
+    "Would you like to see dinosaur DNA used to bring dinosaurs back to life?",
+    "Why is it important to understand how dinosaurs lived?",
+    "What would you say if you had to give a one minute speech on dinosaurs?",
+    "What features make a dinosaur a dinosaur?",
+    "How do dinosaurs feature strongly in our modern culture?",
+    "What would you like to know about dinosaurs that no one knows?",
+    "What kind of dinosaurs or dinosaur dishes do you think were tasty?",
+    "If someone called you a dinosaur, would you be happy or unhappy?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

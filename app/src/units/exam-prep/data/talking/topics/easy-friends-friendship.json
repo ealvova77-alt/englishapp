@@ -1,0 +1,13 @@
+{
+  "id": "easy-friends-friendship",
+  "title": "Friends, Friendship",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 2,
+  "questions": [
+    "How many friends should a person have? Why that many/few?",
+    "How do you make up with friends after you have an argument?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

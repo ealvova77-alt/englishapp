@@ -1,0 +1,30 @@
+{
+  "id": "easy-body",
+  "title": "Body",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'body'?",
+    "Do you like your body?",
+    "What are the most useful parts of our body?",
+    "Are you proud of your body or ashamed of it?",
+    "What kind of body language do you use?",
+    "How would you describe the human body to an alien?",
+    "Would you rather have the perfect body or be super intelligent?",
+    "Would you sell your body to science?",
+    "Shakespeare said: \"Our bodies are our gardens - our wills are our gardeners.\" What does this mean? Do you agree with him?",
+    "Hermann M. Biggs said: \"The human body is the only machine for which there are no spare parts.\" Is this true? Should there be lots of spare parts?",
+    "Do you think our body is perfectly formed?",
+    "What do you do to look after your body?",
+    "What part of your body would you like to change?",
+    "Do you think the naked body is beautiful?",
+    "How is your body changing? Do you like these changes?",
+    "What will our body look like after another million years of evolution?",
+    "What three adjectives would you use to describe the human body?",
+    "What's the best and worst thing ever to happen to your body?",
+    "Frank Gillette Burgess said: \"Our bodies are...our autobiographies.\" What does this mean? Do you agree with him?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

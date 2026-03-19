@@ -1,0 +1,31 @@
+{
+  "id": "easy-rice",
+  "title": "Rice",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'rice'?",
+    "What rice dishes do you like?",
+    "Which is better, rice or potatoes?",
+    "What can you do with rice?",
+    "Do you like creamy rice pudding?",
+    "Japanese people mix tea with rice. What do you think of this?",
+    "Which country grows the world's tastiest rice?",
+    "Do you prefer white rice or brown rice?",
+    "What's your favourite way to prepare rice?",
+    "Why do people throw rice at weddings?",
+    "What part does rice play in your culture?",
+    "Is using a rice cooker the best way to cook rice?",
+    "What images do you have of rice paddies?",
+    "What things can you do with rice paper?",
+    "Are Chinese rice dishes, Indian rice dishes, Thai rice dishes, Japanese rice dishes... best?",
+    "What seasonings and spices go best with rice?",
+    "What do you know about how rice grows?",
+    "What do you know about the nutritional value of rice?",
+    "What would you tell someone about rice who knew nothing about it?",
+    "What would the world do if rice suddenly disappeared?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

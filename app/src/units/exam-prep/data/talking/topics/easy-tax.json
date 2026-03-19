@@ -1,0 +1,31 @@
+{
+  "id": "easy-tax",
+  "title": "Tax",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'tax'?",
+    "Do you think paying tax is a good or bad thing?",
+    "What would happen in your country if everyone stopped paying tax?",
+    "Do you know what taxes are spent on in your country?",
+    "Would you like to move to a country where there are no taxes?",
+    "Is tax an important issue at election time?",
+    "What do you think of sales / consumption tax put on the things you buy?",
+    "Would you like to be able to choose how your taxes are spent?",
+    "Would you look for ways to avoid paying tax?",
+    "How do the tax rates in your country compare with those in neighbouring countries?",
+    "Is everything taxed in your country?",
+    "Do you agree with the 10-20% tax hotels and restaurants put on bills?",
+    "What do you think of having to pay inheritance tax on the money left to you by people who have died?",
+    "Would you pay higher taxes if you knew the tax revenue would go towards climate change projects or reducing world poverty, etc?",
+    "What changes would you like to see in your country's tax system?",
+    "Is tax evasion a big problem in your country?",
+    "Should poor people be exempt from paying tax (i.e. they don't have to pay)?",
+    "What goods or services do you think should be taxed more heavily, and which should not be taxed at all?",
+    "Do you think taxes will be different in the future?",
+    "What taxes do you think are the most unfair?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

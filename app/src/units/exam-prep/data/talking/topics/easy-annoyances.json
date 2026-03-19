@@ -1,0 +1,17 @@
+{
+  "id": "easy-annoyances",
+  "title": "Annoyances",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 6,
+  "questions": [
+    "What are some benefits of living in a city? Why are cities centers for culture? Why do new immigrants usually live in cities?",
+    "What are some drawbacks of living in a city? Would you prefer the country?",
+    "Name 3 things which annoy you. Why do those things annoy you? Who or what does the action? Can you avoid those annoying things? How?",
+    "What are some possible solutions to the annoying actions? Who should solve those problems? You? The local government?",
+    "What things about your country would bother tourists? Can you fix those things? Would more people visit if those things were fixed?",
+    "What annoys you when... You're travelling? You're at home? You're with friends? You're driving in a car?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

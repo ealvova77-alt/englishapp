@@ -1,0 +1,16 @@
+{
+  "id": "easy-university-education",
+  "title": "University Education",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What do you learn in university? What kind of skills? What type of knowledge? Is it specific or general?",
+    "What do you think about your professors? Are they qualified to be teaching at the university? Are they good teachers? Why or why not? Do they provide interesting lectures? Is this important?",
+    "What \"extras\" do you get in university? What do you learn about relationships and social interaction? Do you have more or less freedom? Have you picked up any new study habits? Have you learned to be independent of your family?",
+    "What should students learn in university? Should the knowledge be specific or general? Are these topics important: budgeting, negotiating, time management?",
+    "Is university worth the price? How much does a 4 year degree cost in your country? Name 3 high paying jobs which do NOT require a 4 year degree. Will you send your children to university? Why or why not?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

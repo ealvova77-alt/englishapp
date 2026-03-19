@@ -1,0 +1,29 @@
+{
+  "id": "easy-intelligence",
+  "title": "Intelligence",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 18,
+  "questions": [
+    "What would you say about your intelligence?",
+    "What can you do to increase your intelligence?",
+    "Why are some people more intelligent than others?",
+    "Does intelligence run in the family?",
+    "Does school make a person more intelligent?",
+    "Do you think scientists will create Artificial Intelligence that is greater than our intelligence?",
+    "Is there a link between intelligence, creativeness and humour?",
+    "Does intelligence make people more attractive?",
+    "Does speaking English well make you more intelligent than a friend who cannot speak English at all?",
+    "Do you worry about your levels of intelligent?",
+    "Who is the most intelligent person you know? Why do you think so?",
+    "Do you think all world leaders are intelligent?",
+    "Are we all born with the same level of intelligence?",
+    "Does being very intelligent make you happy?",
+    "What do you think of intelligence tests? Do you think they are accurate",
+    "Are intelligent people usually more arrogant?",
+    "Do very intelligent and unintelligent people make good partners?",
+    "Are dolphins really more intelligent than humans?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

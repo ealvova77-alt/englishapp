@@ -1,0 +1,25 @@
+{
+  "id": "easy-ethical-eating",
+  "title": "Ethical Eating",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 14,
+  "questions": [
+    "How do you choose the food you eat?",
+    "Do ethical and environmental concerns play a role?",
+    "Do you find it difficult to know if your food has been produced ethically?",
+    "Do you think it is wrong to raise and kill animals for humans to eat?",
+    "If the process is humane, does that make a difference?",
+    "Do you think animals should have rights?",
+    "Do you try to eat food that is grown locally? Should we try to eat less food that is transported from far away countries?",
+    "What is your opinion of battery farming?",
+    "2400 gallons of water are needed to produce 1 pound (454g) of beef. What is your reaction to this fact?",
+    "One-sixth of an acre of land can feed a vegetarian for a year. Over 3 acres are needed to feed the equivalent meat eater. What is your reaction to this fact?",
+    "It takes up to 13 pounds of grain to produce just 1 pound of meat. What is your reaction to this fact?",
+    "Fish on fish farms must be fed up to 5 pounds of wild fish to produce 1 pound of farmed fish. What is your reaction to this fact?",
+    "It takes more than 11 times as much fossil fuel to make one calorie from animal protein as it does to make one calorie from plant protein. What is your reaction to this fact?",
+    "A large percentage of land used to farm animals is cleared forestland. What is your reaction to this fact?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

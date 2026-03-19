@@ -1,0 +1,16 @@
+{
+  "id": "easy-deals",
+  "title": "Deals",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What is a deal? Where can you find good deals in your town?",
+    "What things do you like to buy? How often do you buy those things? Where do you shop for those items? Why do you buy them? For necessity or pleasure?",
+    "Can you describe a good deal you found? What store and which location? What was the item? Did you need the item, or did you purchase it for someone else?",
+    "What are you shopping for now? Where can you buy that item? When will you buy the item? Where can you find the best price for that item? Why do you want that item?",
+    "Have you ever considered opening your own store? What kind of store would you like to own? Why? How are the goals of buyers and sellers different? Do you think sellers deserve a fair price for their goods? Why or why not?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

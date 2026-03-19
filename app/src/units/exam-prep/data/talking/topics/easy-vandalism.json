@@ -1,0 +1,31 @@
+{
+  "id": "easy-vandalism",
+  "title": "Vandalism",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'vandalism'?",
+    "Is vandalism a big problem in your country?",
+    "Why do vandals like to vandalize things?",
+    "Who are the biggest vandals in your country?",
+    "Do you think vandalism has always been a problem or is it new?",
+    "Did you ever vandalize anything when you were at school?",
+    "Is drawing on a school desk vandalism?",
+    "What should happen to vandals if the police catch them?",
+    "What kinds of things are vandalized in your country?",
+    "Would you like to vandalize something?",
+    "What is vandalism?",
+    "Do you think vandalism leads to more serious crime?",
+    "What can people do to keep vandalism out of their neighbourhoods?",
+    "What would you do if you saw a group of teenagers vandalizing your car?",
+    "Can vandalism turn parts of towns into no-go areas?",
+    "Is graffiti art or vandalism?",
+    "Are the laws in your country tough enough on vandals?",
+    "Is someone who destroys public property while they are drunk a vandal?",
+    "What would you do if your 16-year-old child was arrested for vandalism?",
+    "Are e-mail spammers Internet vandals?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

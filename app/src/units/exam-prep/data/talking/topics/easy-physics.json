@@ -1,0 +1,31 @@
+{
+  "id": "easy-physics",
+  "title": "Physics",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'physics'?",
+    "Is physics important?",
+    "Are you interested in physics?",
+    "What did you like most and least about physics?",
+    "Do all physics professors need messy hair and a beard?",
+    "What do you know about the laws of physics?",
+    "What do you know about the different branches of physics; e.g. quantum physics, applied physics, nuclear physics, particle physics, etc?",
+    "What use is physics in our world?",
+    "Will you become rich if you have a physics degree?",
+    "Who was the greatest physicist ever?",
+    "What is physics?",
+    "How is your country at physics?",
+    "Would you like to do physics experiments?",
+    "What physics formulae do you know? Do you understand them?",
+    "What do you know about physics that you could teach a child?",
+    "Why do you think people like physics?",
+    "What do you know about Nobel Prize winners in physics?",
+    "What question would you like to ask a physicist?",
+    "The famous physicist Stephen Hawking said: My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.\" What do you think of this?",
+    "What is the greatest ever discovery in physics and what will the next one be?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

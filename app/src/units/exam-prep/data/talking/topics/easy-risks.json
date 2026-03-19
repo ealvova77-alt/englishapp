@@ -1,0 +1,21 @@
+{
+  "id": "easy-risks",
+  "title": "Risks",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "What is the biggest risk that you have ever taken?",
+    "Do your parents enourage you to take risks? Why or why not?",
+    "Who among your friends is the biggest risk taker? Why do you say that?",
+    "Generally who take more risk boys or girls? Why do you think that?",
+    "What kind of person do you think is a bigger risk taker?",
+    "What other characteristics do risk takers have I common?",
+    "What sports/activities do you think are dangerous? Why?",
+    "What kind of job do you thnk is the most dangerous? Why?",
+    "What is risky about going to a foreign country?",
+    "Do you think people nowadays or in the past take more risks?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

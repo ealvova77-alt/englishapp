@@ -1,0 +1,16 @@
+{
+  "id": "easy-ideal-day",
+  "title": "Ideal Day",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What do you like to do in your free time? Do you have any hobbies? Describe them. How has this changed with age? Do you like to try new things? Why or why not?",
+    "Can you describe your typical day? What parts do you like? What parts do you dislike? What is the most boring part of your day?",
+    "What would be a perfect day for you? What would you do? Who would you see? Where would you go?",
+    "Have you ever had an Ideal Day? Describe your perfect day. What did you do? Where did you go? Why was it an ideal day?",
+    "How can you change your life to have more ideal days? Should you change your life, or continue doing the same thing?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

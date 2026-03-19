@@ -1,0 +1,31 @@
+{
+  "id": "easy-quizzes",
+  "title": "Quizzes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'quiz'?",
+    "What is your favourite quiz subject?",
+    "Do you like watching quiz shows on TV?",
+    "Do you ever take online quizzes?",
+    "Have you ever been on a quiz team?",
+    "Why are quizzes so popular?",
+    "What do you think of personality quizzes and find the perfect partner' quizzes?",
+    "What can you do to study for a general knowledge quiz?",
+    "Do you think lots of quiz questions would be a good format for a school exam?",
+    "Do you think you'd be quick on the buzzer in a quiz contest?",
+    "What do you think of quizzes?",
+    "What quiz subject do you think you'd do very well in?",
+    "Are young people or old people better at pop quizzes?",
+    "What impossible quiz question would you like to add to a quiz?",
+    "Are you interested in the trivia that is often found in quizzes?",
+    "Do you like doing quizzes in English?",
+    "Do you think you'd do well in a quiz about the English language?",
+    "Do you think taking quizzes can help your English?",
+    "What's the difference between a test, an exam and a quiz?",
+    "Have you ever quizzed anyone whose story you didn't believe?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

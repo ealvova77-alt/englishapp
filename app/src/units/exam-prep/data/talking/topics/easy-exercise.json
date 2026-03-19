@@ -1,0 +1,31 @@
+{
+  "id": "easy-exercise",
+  "title": "Exercise",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'exercise'?",
+    "Why is exercise so important?",
+    "What kind of exercise do you think is best?",
+    "Do you wish you could exercise more?",
+    "Why do many people not exercise?",
+    "Do you think it's easy or difficult to find time to exercise during the day?",
+    "Do you think people who exercise are happier than those who don't?",
+    "Do you think there should be a law that requires everyone to exercise?",
+    "Is it more fun to exercise alone or with other people?",
+    "Do you need advice about how to exercise?",
+    "Do you like exercise?",
+    "Who do you know who exercises a lot?",
+    "What are the bad things about exercise?",
+    "Which exercise would you prefer: jogging, swimming or cycling?",
+    "Is not exercising a crime against your body?",
+    "Do you think the government should do more to ensure everyone exercises?",
+    "How can you adapt the everyday things you do to increase your level of exercise?",
+    "Do you think exercising makes your brain work better?",
+    "What do you think of the idea of having higher hospital charges for those who don't exercise?",
+    "If exercise makes you live a lot longer, why do so many people not bother to do it?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-gold",
+  "title": "Gold",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Where does gold come from?",
+    "Did you like the metal?",
+    "What makes the metal so special and sought after?",
+    "Do you have a lot of gold jewelry (USA) / jewellery (UK)?",
+    "Would you consider buying gold as an investment instead of things like shares or property?",
+    "Do you like wearing lots of gold jewelry (USA) / jewellery (UK)?",
+    "Does gold have a special place in your country's culture or customs?",
+    "What do you own that is made of gold?",
+    "Would you like to go panning for gold?",
+    "Do you know what gold leaf is and what it is used for?",
+    "What comes to mind when you hear the word 'gold'?",
+    "How do you think gold is made into things?",
+    "Does your country win lots of gold medals at the Olympics or other sporting competitions?",
+    "What does 'gold plated' mean and why are some things plated with gold?",
+    "Do you ever check gold prices?",
+    "Have you ever been to a gold market?",
+    "What would you do with a gold ingot if you won one in a competition?",
+    "What do you know about the gold carat system?",
+    "What do you think it's like working in a gold mine?",
+    "What do you know about black gold?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

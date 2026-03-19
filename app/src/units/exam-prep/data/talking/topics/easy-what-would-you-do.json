@@ -1,0 +1,24 @@
+{
+  "id": "easy-what-would-you-do",
+  "title": "What Would You Do",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 13,
+  "questions": [
+    "What would you do if you lived in Iraq?",
+    "What would you do if you could fly?",
+    "What would you do if you met your hero?",
+    "What would you do if you failed your English test?",
+    "Where would you go if you could visit any country?",
+    "Where would you live if you could live in any country?",
+    "What would you eat right now if you could eat anything?",
+    "What would you do if you broke your arm?",
+    "What would you do if I tried to shoot you?",
+    "What would you do if you could leave here early?",
+    "What would you do if your friend was upset?",
+    "What would you do if you found lots of money?",
+    "What would you do if there was an earthquake?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

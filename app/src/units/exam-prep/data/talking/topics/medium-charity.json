@@ -1,0 +1,25 @@
+{
+  "id": "medium-charity",
+  "title": "Charity",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 14,
+  "questions": [
+    "Are you a generous person?",
+    "How often do you give money to charity?",
+    "Do you give your old clothes to charity?",
+    "What are the most famous charities in the world?",
+    "Do you know any charities that help animals?",
+    "Do you know any charities for historical sites?",
+    "What charity events does your school hold?",
+    "Would you ever do volunteer work? Why?",
+    "How do you feel about homeless people?",
+    "Have you ever given a homeless person money?",
+    "What do you think about animal charities?",
+    "Do you care about animal cruelty? Why?",
+    "How do you feel about helping other people?",
+    "Do you think rich people should help poor people? Why?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

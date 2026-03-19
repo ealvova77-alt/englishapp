@@ -1,0 +1,31 @@
+{
+  "id": "medium-nationality",
+  "title": "Nationality",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'nationality'?",
+    "Are you happy with your nationality?",
+    "If you could change nationality, which other nationality would you choose?",
+    "Is nationality a problem in today's world?",
+    "What's the difference between nationality and race?",
+    "Is nationality important?",
+    "Would you like dual nationality? What are the benefits?",
+    "Is your nationality or religion more important to you?",
+    "What difficulties do you think there are in marrying someone from a different nationality to you?",
+    "What nationality are people with no countries (Kurds, Palestinians, etc)?",
+    "What should schools teach children about nationality?",
+    "Will nationality become more or less important in the future?",
+    "What are the good points about your nationality?",
+    "What are the bad points about your nationality?",
+    "What other nationalities does your country have a problem with?",
+    "When are you most proud of your nationality?",
+    "If you changed your nationality, would you love your new country more than your original country?",
+    "Do you look like your nationality?",
+    "What things are common among people with your nationality?",
+    "Do you think your nationality is pure?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

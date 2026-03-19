@@ -1,0 +1,28 @@
+{
+  "id": "easy-second-conditional",
+  "title": "Second Conditional",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "If you were an animal, what animal would you be?",
+    "If you went back in time, what year would you go to?",
+    "If you had a special power, what would you be able to do?",
+    "If you could make one change to the world, what would you do?",
+    "If you could change something about your past, what would you change?",
+    "What would you like to do if you were a member of the opposite sex for one day?",
+    "If you had billions and billions of dollars, how much would you give to charity, and which charities?",
+    "If you stopped studying English, would your life change?",
+    "If you told me all of your secrets, would I be shocked?",
+    "If you changed your name, what name would you choose?",
+    "If you could speak three other languages. What would they be?",
+    "If you could decide what happens in your life tomorrow, what would you want to happen?",
+    "Where would you live if you could live anywhere in the world?",
+    "If you became a rock star, what kind of songs would you sing and what image would you have?",
+    "If the world was going to end at 3.37 tomorrow afternoon, what would you do up until that time?",
+    "If you were the world's best at something, what would you like to be best at?",
+    "If you were a colour, what colour would you be and why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

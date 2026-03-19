@@ -1,0 +1,31 @@
+{
+  "id": "easy-teeth",
+  "title": "Teeth",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'teeth'?",
+    "What do you do to you look after your teeth?",
+    "Is it important to have straight white teeth?",
+    "How would you feel about having false teeth (dentures)?",
+    "Why are wisdom teeth called wisdom teeth?",
+    "Have you ever had a really bad toothache?",
+    "When was the last time you gritted your teeth?",
+    "Have you ever felt like someone kicked you in the teeth?",
+    "Do you go through a ritual every time you brush your teeth?",
+    "Someone once said: \"Too many of today's children have straight teeth and crooked morals.\" What does this mean? Do you think it's true?",
+    "Do you like your teeth?",
+    "When you were a child, what did you do with your milk teeth after they fell out?",
+    "Do you worry about tooth decay?",
+    "Do you have a sweet tooth?",
+    "What do you think when you lose a tooth or have to have one pulled out at the dentist?",
+    "What is a tooth fairy and how much money do they leave?",
+    "Do you have many fillings?",
+    "Do you think people in the future will have very healthy teeth?",
+    "What do you think of the idea of painted teeth?",
+    "What do you do when you get food stuck between your teeth?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

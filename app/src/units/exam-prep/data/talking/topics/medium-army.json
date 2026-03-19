@@ -1,0 +1,31 @@
+{
+  "id": "medium-army",
+  "title": "Army",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What's your country's army like?",
+    "Does your country have a proud military history?",
+    "How strong is your country's army?",
+    "Is your country's army often involved in conflict?",
+    "Are armies necessary?",
+    "Which would you choose to join, the army, navy or air force?",
+    "What do you think of a career in the army?",
+    "What do you think of the US Army?",
+    "Is there conscription in your country?",
+    "Would you ever fight in a war?",
+    "Do you think being a soldier would be interesting?",
+    "What would a world with no armies be like?",
+    "Is it necessary for governments to spend so much money on armies?",
+    "How have armies changed over the centuries?",
+    "What do you think the army lifestyle is like?",
+    "What do you think of women being in the army?",
+    "What do you think the feeling would be like to kill another soldier?",
+    "What do you think the feeling would be like to be taken as a prisoner of war?",
+    "What do you think is worst thing about being in the army?",
+    "What do you think of army uniforms?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

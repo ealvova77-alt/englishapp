@@ -1,0 +1,31 @@
+{
+  "id": "easy-beach",
+  "title": "Beach",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'beach'?",
+    "What do you like to do at the beach?",
+    "Are you a beach person or a mountain person?",
+    "Is a beach holiday the best kind of holiday?",
+    "What dangers might you find on the beach?",
+    "Who is it best to go to the beach with?",
+    "What world beach would you like to go to and why?",
+    "What would it be like to live in a house on the beach?",
+    "When was the last time you went to the beach?",
+    "What kind of things can people do on the beach?",
+    "How important are beaches to you?",
+    "What are the bad things about beaches?",
+    "What is your favourite beach and why?",
+    "What beach sports are the best?",
+    "What can we do about dirty or polluted beaches?",
+    "Should pets be allowed on the beach?",
+    "What do you think of the idea of private beaches?",
+    "Why do some people not like the beach?",
+    "Should there always be lifeguards on the beach?",
+    "Why do small children like the beach so much?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "medium-cell-phones",
+  "title": "Cell Phones",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What was life like before cell phones?",
+    "What cell phone functions are important for you?",
+    "Are there any features on your cell phone you don't need?",
+    "Can people use their cell phones while they are driving in your country?",
+    "What does the 'cellular' mean in cellular phone?",
+    "Do you think cell phones are liberating?",
+    "Would it be a big problem for you if your cell phone was lost or stolen?",
+    "How often do you turn your cell phone off?",
+    "Which cell phone maker is best?",
+    "Do you think cell phones really interfere with equipment in hospitals and on airplanes?",
+    "What are the best things about cell phones?",
+    "Do you get annoyed with other cell phone users?",
+    "What do you do when you annoy other people with your cell phone?",
+    "Do you think people should be fined for using their cell phone in a no cell phone area?",
+    "Are you worried about brain damage from using cell phones?",
+    "How do you feel if you leave the house without your cell phone?",
+    "Do you think the call and rental charges for cell phones are reasonable?",
+    "Have you ever slept with your cell phone?",
+    "Do you have any complaints about cell phone batteries?",
+    "Did you hear that using a cell phone near a gasoline stand can cause an explosion?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

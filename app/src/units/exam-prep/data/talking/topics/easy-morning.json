@@ -1,0 +1,30 @@
+{
+  "id": "easy-morning",
+  "title": "Morning",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What is your usual morning routine?",
+    "What were mornings like in your house when you were a kid?",
+    "How are weekend mornings different from weekday mornings?",
+    "Would you prefer the morning shift or evening shift?",
+    "Do animals prefer mornings?",
+    "Which is worse, the morning or evening rush hour?",
+    "Do you ever say, \"It's been a bad morning\"?",
+    "Is morning the best time to study and get things done?",
+    "What happens in your town early in the morning? How does it wake up?",
+    "What do you do early morning, mid morning and late morning?",
+    "What springs to mind when you hear the word 'morning'?",
+    "What do you like doing in the morning?",
+    "Are you grumpy in the morning?",
+    "Do you like watching morning TV shows or listening to morning radio shows?",
+    "If you have morning sickness do you think you should take a morning after pill?",
+    "How do people usually feel 'the morning after the night before'?",
+    "Do you always mean it when you say 'Good morning'?",
+    "When does morning start and end?",
+    "What things about morning would you like to change?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

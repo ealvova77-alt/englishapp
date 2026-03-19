@@ -1,0 +1,31 @@
+{
+  "id": "medium-france",
+  "title": "France",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country France?",
+    "What are the good things and bad things about France?",
+    "What is France famous for?",
+    "What do you know about French history?",
+    "What images of France do you have that are romantic?",
+    "What images of France do you have that are beautiful?",
+    "What has France given to the world?",
+    "What has the world given to France?",
+    "Is France really the most fashionable country in the world?",
+    "Who are the most famous French people you know?",
+    "How different is France from other European countries?",
+    "Do you think France is one of the world's most important nations?",
+    "Why is France one of the top tourist destinations in the world?",
+    "What do you know about France's colonial past?",
+    "Does your country have good relations with France?",
+    "What do you think about French food?",
+    "What is your idea of a typical French person?",
+    "What things about France do you think French people are proud of?",
+    "What do you know about French politics?",
+    "What would you like to ask a French person about France?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

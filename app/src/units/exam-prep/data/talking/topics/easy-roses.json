@@ -1,0 +1,31 @@
+{
+  "id": "easy-roses",
+  "title": "Roses",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'rose'?",
+    "Is the rose the most beautiful flower in the world?",
+    "Why are roses associated with romance?",
+    "What colour roses do you like best?",
+    "Has you ever given someone a rose or a bunch of roses?",
+    "Can you name all of the parts of the rose?",
+    "Do you think roses are most commonly associated with England?",
+    "If a red rose is for love, what are white, yellow and pink roses for?",
+    "What do you think of the name 'Rose' for a newborn baby (girl)?",
+    "Life is a rose; beware of the thorns. What do you think of this?",
+    "Is it more romantic to give a single rose or a dozen?",
+    "Do you like the smell of roses?",
+    "Why do you think people put rose petals in their bath?",
+    "What does the expression \"like a rose between two thorns\" mean?",
+    "If a rose were human, what kind of personality would it have?",
+    "Does a rose have any meaning or importance in your culture?",
+    "Why are rose tattoos so popular?",
+    "In what way is love like a rose?",
+    "Do men like receiving roses too?",
+    "Do you think roses are good for your health?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

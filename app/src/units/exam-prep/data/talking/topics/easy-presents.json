@@ -1,0 +1,25 @@
+{
+  "id": "easy-presents",
+  "title": "Presents",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 14,
+  "questions": [
+    "On what occasions do you give (or receive) presents?",
+    "Do you ever give people presents for no obvious reason?",
+    "What is the most useless, ridiculous or inappropriate present you have ever received? Who gave it to you? How did you react when you received it?",
+    "What are the biggest and smallest presents you have ever received?",
+    "What is the silliest present you have ever received or given to someone?",
+    "Who do you find it most difficult to buy presents for? Why?",
+    "Is it acceptable in your country to give money as a present? Why/not?",
+    "What was the best present you received as a child? Do you still have it?",
+    "What present did you wish for as a child but never got?",
+    "Do you think children get too many presents these days?",
+    "Do you buy presents well in advance or are you a last-minute shopper?",
+    "Do you wrap presents yourself? Are you good at gift-wrapping? Or do you prefer to have presents gift-wrapped in the shop?",
+    "Before Christmas, do you feel the presents under the tree and try to guess what's in them?",
+    "What would you really like to get for Christmas this year?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

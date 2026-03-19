@@ -1,0 +1,30 @@
+{
+  "id": "easy-sydney",
+  "title": "Sydney",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear of the city Sydney?",
+    "Do you think Sydney is one of the greatest cities in the world?",
+    "What are your favourite images of Sydney?",
+    "What do you know about life in Sydney?",
+    "What is your image of Sydney people?",
+    "Would you like to live in Sydney?",
+    "What things can tourists do in Sydney?",
+    "Do you think Sydney is the best place in the world to see in the New Year?",
+    "Is Sydney the best place to live in Australia?",
+    "What do you know about Sydney?",
+    "Do you think Sydney is a good place for shopping?",
+    "How tolerant and cosmopolitan do you think Sydney is?",
+    "What do you think of Sydney's sights?",
+    "Do you think Sydney is a cheap or expensive city?",
+    "Is Sydney a dangerous place to visit?",
+    "What do you know about the history of Sydney?",
+    "What do you think Sydney will be like fifty years from now?",
+    "Do you think Sydney is a good place to eat?",
+    "What do you think people who live in Sydney think of the city?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

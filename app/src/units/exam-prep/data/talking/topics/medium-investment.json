@@ -1,0 +1,31 @@
+{
+  "id": "medium-investment",
+  "title": "Investment",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'investment'?",
+    "How important is it to invest?",
+    "Do you think you'll have a lot of investments when you're older?",
+    "What kind of things can you invest in?",
+    "Do you like reading about investments?",
+    "Would you like to put money into an investment bank?",
+    "Is your country a good place to invest?",
+    "What things do you think are risky investments?",
+    "If you had just one dollar, what would you invest it in and why?",
+    "How is it possible to invest in people? Is this a good idea?",
+    "What investment opportunities that you missed do you wish you'd taken advantage of?",
+    "What investment advice have you heard recently?",
+    "Do you think you are/would be a cautious or risky investor?",
+    "What risks are there investing in the stock market?",
+    "What rates or return would you want/expect on money you invest?",
+    "Is there a history in your family of people making investments?",
+    "How far do you trust people with your money?",
+    "When should people start investing their money?",
+    "How confident are you / would you be with investing your money?",
+    "What question would you like to ask an investment expert?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

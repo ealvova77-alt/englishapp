@@ -1,0 +1,22 @@
+{
+  "id": "medium-country",
+  "title": "Country",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 11,
+  "questions": [
+    "What are three things for which your country is famous?",
+    "What are the best natural wonders in your country?",
+    "What are the best man-made things in your country?",
+    "What is the best food in your country?",
+    "What do tourists like to see when visiting your country?",
+    "What 3 things your country has achieved in the last ten years? Why are those things important? How did your country complete those tasks?",
+    "What is best about your country's: Education system? Economy? Culture? People? Art?",
+    "How does the world view your country?",
+    "Does your country have many visitors each year? Why or why not?",
+    "How would you describe your country to a foreign friend?",
+    "What would you like to change about your country? Why?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "easy-bombs",
+  "title": "Bombs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 4,
+  "questions": [
+    "People sometimes plant bombs in non-military targets (like buses, bars, banks, airports, places of worship etc.) for political reasons. What other reasons can you think of? What justification can be given for such attacks?",
+    "What motivates people to join organisations which carry out violent attacks on non-military targets? In what extreme circumstances might you be motivated to join such an organisation?",
+    "Which do you think is the more effective strategy for international change (and why)? a) peaceful protests such as marches, demonstrations, petitions etc? b) peace talks, diplomacy, international summit meetings? c) violent attacks such as assassinations, bombings etc?",
+    "What can people do to protect non-military targets from violent attacks? What, in your opinion, do bombing campaigns achieve?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

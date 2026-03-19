@@ -1,0 +1,31 @@
+{
+  "id": "medium-complaining",
+  "title": "Complaining",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'complain'?",
+    "Are you a complainer?",
+    "Who do you usually complain to?",
+    "What complaints do you have at the moment?",
+    "Have you ever complained in a restaurant, hotel, airplane or train?",
+    "How often do people complain to you?",
+    "How often do people complain about you?",
+    "Do you have any complaints about English?",
+    "What are your biggest complaints about your friends?",
+    "Do men or women complain more?",
+    "What kinds of things do you complain about?",
+    "When was the last time you complained about something?",
+    "Have you ever written a letter or e-mail of complaint?",
+    "Do you like complaining?",
+    "What is your complaining style - polite or aggressive?",
+    "How often do you complain to yourself in public?",
+    "Do you think complaining relieves stress?",
+    "Do you like to watch when other people complain?",
+    "Have you ever got a better service after you've complained?",
+    "Why might people complain about you?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

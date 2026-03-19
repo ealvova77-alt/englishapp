@@ -1,0 +1,23 @@
+{
+  "id": "advanced-corruption",
+  "title": "Corruption",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 12,
+  "questions": [
+    "Which areas do you think are the most corrupt (a) in your country (b) in other countries? E.g. Politics, education, construction, health, agriculture, the arms industry, transport, etc.",
+    "What are the effects of corruption on society?",
+    "Who is more to blame - the person who offers a bribe or the person who takes it?",
+    "Can corruption ever benefit a country?",
+    "How does corruption affect (a) people's lives in general (b) your life in particular?",
+    "What can be done to reduce or stop corruption?",
+    "How should corrupt officials be dealt with when they are found out?",
+    "Why are some countries more corrupt than others?",
+    "Is corruption more prevalent in democracies or autocracies? Why is this so?",
+    "What effect will globalisation have on corruption, do you think?",
+    "Is it OK to bribe children? Did your parents bribe you as a child?/Do you bribe your children?",
+    "Can corruption ever be wiped out or is it part of human nature?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-fishing",
+  "title": "Fishing",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Are you interested in fishing?",
+    "Is fishing an important industry in your country?",
+    "Does fishing cause harm to other aquatic life?",
+    "Do you know of any areas where over-fishing is taking place?",
+    "Would you like to go big game fishing?",
+    "Do you think there's a big difference between fishing and whaling?",
+    "Do fishing rights cause tensions between different countries?",
+    "Are there any rules for fishing?",
+    "Do you like looking at TV programmes about fishing?",
+    "What dangers do commercial fishermen face?",
+    "Is fishing a common hobby in your country?",
+    "What do you know about the history of fishing in your country?",
+    "Why do you think people like fishing as a hobby?",
+    "What kinds of fishing do you know about?",
+    "What equipment do you need to go fishing?",
+    "Are there any dangers associated with fishing?",
+    "What do you think are the differences between sea and river fishing?",
+    "How much skill do you think is involved in fishing?",
+    "Would you like to go on a fishing holiday?",
+    "What will happen to fishing if too many species of fish become endangered?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

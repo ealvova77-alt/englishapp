@@ -1,0 +1,21 @@
+{
+  "id": "advanced-nuclear-power",
+  "title": "Nuclear Power",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 10,
+  "questions": [
+    "Which countries in the world have nuclear power?",
+    "Is it fair that some countries have nuclear weapons and some are not permitted to?",
+    "Does your country have nuclear power?",
+    "What are the advantages of nuclear power?",
+    "What are the disadvantages of nuclear power?",
+    "What should be done with nuclear waste?",
+    "Should countries be allowed to test nuclear weapons? Why/not?",
+    "Where should nuclear tests be carried out?",
+    "What are the alternatives to nuclear power? What are the advantages and disadvantages of these alternatives?",
+    "How would life be different without nuclear power?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

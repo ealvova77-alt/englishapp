@@ -1,0 +1,31 @@
+{
+  "id": "easy-earthquakes",
+  "title": "Earthquakes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'earthquake'?",
+    "Have you ever experienced an earthquake or tremor?",
+    "Do you think an earthquake is the world's scariest natural disaster?",
+    "What should you do the second an earthquake hits?",
+    "Why do you think people live in areas that have lots earthquakes?",
+    "Would you move to a city like Tokyo or San Francisco, where a huge earthquake could strike at any time?",
+    "What would you put in your emergency earthquake bag?",
+    "What do you think when you see news reports of earthquakes?",
+    "Why do earthquakes happen?",
+    "What's the difference between a magnitude 6 and 7 earthquake?",
+    "What do you know about earthquakes?",
+    "What is your earliest memory of earthquakes (a movie, a story in a book, the real thing...)?",
+    "What would happen to your town if a big earthquake struck?",
+    "What would you do if an earthquake struck right now?",
+    "Do you know where the emergency shelters are in your town (for earthquakes or other natural disasters)?",
+    "Scientists say animals know hours before that an earthquake will strike. How do you think this is possible?",
+    "Do you think scientists will one day be able to make totally earthquake-proof buildings and cities?",
+    "What is the worst earthquake you've seen on the news?",
+    "Do you like earthquake disaster movies?",
+    "Have you ever sent money to earthquake victims (or victims of any other natural disaster)?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

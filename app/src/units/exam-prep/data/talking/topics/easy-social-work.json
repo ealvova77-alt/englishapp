@@ -1,0 +1,31 @@
+{
+  "id": "easy-social-work",
+  "title": "Social Work",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the phrase \"social work'?",
+    "Is social work a key part of your country's society?",
+    "Do you do any / Would you like to do any social work?",
+    "Is social work the responsibility of the government or NGOs (non-government organizations)?",
+    "What kind of people are social workers?",
+    "What kinds of jobs can you get with a degree in social work?",
+    "Why are jobs in the area of social work so poorly paid?",
+    "Do you think people who get help from social workers are always grateful?",
+    "Which countries do you think have excellent social work systems?",
+    "Do you think there'll always be a need for social work in your country?",
+    "What is social work?",
+    "What areas of social work does your government need to spend more money on?",
+    "What dangers do you think there are in social work?",
+    "What skills do you need to be a good social worker?",
+    "Are social workers respected in your country?",
+    "Do you think having a qualification in social work means you can work in any country in the world?",
+    "Would you pay more taxes to help pay for more social workers?",
+    "How far do social workers help create a safer society?",
+    "What help from a social worker would you like?",
+    "What questions would you like to ask a social worker?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

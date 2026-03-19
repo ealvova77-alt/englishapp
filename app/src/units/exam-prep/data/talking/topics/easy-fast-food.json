@@ -1,0 +1,16 @@
+{
+  "id": "easy-fast-food",
+  "title": "Fast Food",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What is fast food? Name and describe the fast food chain restaurants in your town. Which is your favorite restaurant, and why?",
+    "Why do people want fast food? Is fast food tasty? How fast is fast food? Are the restaurants conveniently located?",
+    "Why is fast food so cheap compared to other restaurants? Do you think they use high quality ingredients? What does the seating area in a typical fast food restaurant look like?",
+    "What other foods are fast, but not served in restaurants? Are snacks healthier than fast food from chain restaurants? Why or why not? Which is your favorite snack?",
+    "Will you let your kids eat fast food? How often? Do you think fast food is OK for children? Why or why not? How does fast food contribute to childhood obesity? How do fast food chains target children through advertising? Should governments control fast food restaurants in any way?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

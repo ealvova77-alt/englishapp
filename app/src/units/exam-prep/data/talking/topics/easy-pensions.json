@@ -1,0 +1,31 @@
+{
+  "id": "easy-pensions",
+  "title": "Pensions",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'pension'?",
+    "Does your government provide you with a state pension in your old age?",
+    "Why are pensions important?",
+    "Have you started contributing to a pension scheme?",
+    "How much of a pension do you think you'll need when you retire?",
+    "Do you understand how pensions work?",
+    "Has anyone ever tried to sell you a pension?",
+    "Do you think all companies should contribute to their workers' pensions?",
+    "Should the government tax pensions?",
+    "Do you think you'd be good at selling pensions?",
+    "How do pension funds operate?",
+    "What does it mean when you rollover your pension?",
+    "What's the best age to start your own pension?",
+    "How much are you prepared to pay right now in pension contributions?",
+    "What do you need to do when you plan a pension?",
+    "Do you think pension plans are risky?",
+    "What kind of life do you think you will have on a pension?",
+    "Who would you go to for advice on pensions?",
+    "Why do pension schemes sometimes collapse?",
+    "What would you do if the pension scheme you had been paying into for years suddenly collapsed due to mismanagement?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

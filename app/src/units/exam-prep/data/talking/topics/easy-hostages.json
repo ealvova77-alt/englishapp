@@ -1,0 +1,21 @@
+{
+  "id": "easy-hostages",
+  "title": "Hostages",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 10,
+  "questions": [
+    "What do you understand by the terms 'to take someone hostage', to kidnap someone, to hold someone to ransom, to abduct someone?",
+    "Can you remember any famous cases of any of the above in your country? What happened?",
+    "Can you think of any cases of any of the above in other countries around the world? What was the outcome of those situations?",
+    "What do you think motivates people to carry out such acts? What do you think they hope to achieve?",
+    "Do you think such acts are useful in helping those responsible for them to achieve their goals? Why/not?",
+    "What other ways can you suggest for hostage-takers, kidnappers etc. to achieve their aims?",
+    "In which cases, if any, do you think acts such as kidnapping, abduction or hostage-taking might be justified?",
+    "Can you imagine any extreme situation in which you might be driven to take another person hostage?",
+    "How should people who unlawfully deprive others of their freedom be treated when captured?",
+    "What difficulties do you think those held captive might face when they are released?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

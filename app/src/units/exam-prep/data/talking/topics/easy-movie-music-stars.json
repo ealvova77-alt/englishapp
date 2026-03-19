@@ -1,0 +1,16 @@
+{
+  "id": "easy-movie-music-stars",
+  "title": "Movie, Music Stars",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "Who are some famous pop stars? What is their home country? Are they famous all over the world? How did they become famous?",
+    "Who are some popular movie or TV stars? Where do they live? Are they popular in other countries? How long have they been famous? What are they best known for doing?",
+    "Do you know any crossover stars (people using different media)? Are they successful in both media? Are they talented? Why or why not?",
+    "What image do stars portray to the youth of the world? What do people learn from stars? Do you think they are normal? Are they helping or hurting us to grow into respectful citizens?",
+    "Who are some other famous role models? Do you think \"stars\" are good role models for young people? Why or why not?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-poetry",
+  "title": "Poetry",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'poetry'?",
+    "Do you like reading and listening to poetry?",
+    "How do you think poetry first started?",
+    "How is poetry different to other literary styles?",
+    "What role does poetry play in your culture?",
+    "What did you think of poetry when you studied it at school?",
+    "Poetry is a mirror which makes beautiful that which is distorted. - Percy Shelley. What do you think of Shelley's quote?",
+    "Do you think you're good at writing poetry?",
+    "The poet Robert Frost said: \"A poem begins in delight and ends in wisdom.\" Do you agree with him?",
+    "Do you have a favourite poem?",
+    "What is poetry?",
+    "Poetry is a deal of joy and pain and wonder, with a dash of the dictionary. - Kahlil Gibran. What do you think of this quote?",
+    "Is poetry important?",
+    "Do you think poetry is too much like hard work?",
+    "What can poetry teach us about life?",
+    "What do you think of the poetry from other countries and cultures?",
+    "Would you like someone to write you a poem?",
+    "Genuine poetry can communicate before it is understood. - T. S. Eliot. What do you think of Eliot's words?",
+    "If you were to write a poem right now, what would your subject be?",
+    "Do you have a favourite poet?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

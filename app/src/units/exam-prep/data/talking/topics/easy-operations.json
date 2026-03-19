@@ -1,0 +1,31 @@
+{
+  "id": "easy-operations",
+  "title": "Operations",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'operation'?",
+    "Have you ever had an operation?",
+    "Would you like to see an operation?",
+    "Would you rather be conscious or unconscious if you had an operation?",
+    "What do you think goes through people's mind the night before an operation?",
+    "Do you think there are any operations that are risk free?",
+    "Have you ever heard any stories about people being given the wrong operation?",
+    "What would be the scariest operation for you?",
+    "How do you think operations have changed over the decades?",
+    "Do you prefer the British English noun 'operation' or the American English 'surgery'?",
+    "Would you try cosmetic surgery? Which part of your face or body would you change?",
+    "What's the difference between cosmetic and plastic surgery?",
+    "Do you think surgery in the future will be performed without cutting the body open?",
+    "What would your reaction be if your doctor said you needed open heart or brain surgery?",
+    "Do you think keyhole surgery is picking a lock or operating on someone by only making a tiny hole in their body?",
+    "How much dental surgery have you had?",
+    "If it were possible, would you prefer to have surgery at home?",
+    "Would you trust having surgery in other countries?",
+    "Would you let student doctors to perform surgery on you for a fee?",
+    "How will surgery be different fifty years from now?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

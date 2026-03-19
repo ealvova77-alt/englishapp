@@ -1,0 +1,28 @@
+{
+  "id": "advanced-gender",
+  "title": "Gender",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 17,
+  "questions": [
+    "Are you happy being the gender you are?",
+    "What would you like to do that you can't do now if you changed gender?",
+    "What do you think people study in gender studies classes?",
+    "Are men and women very different?",
+    "How are the words 'gender' and 'sex' used differently in English?",
+    "Do you think men and women have different brains?",
+    "Are there different laws in your country depending on your gender?",
+    "Why do you think some people want to change their legal gender?",
+    "Why are Gods generally seen as being men?",
+    "Do men and women live in different cultures?",
+    "Is it OK for boys to play with girls' toys and vice versa?",
+    "Are men or women bigger risk takers? Why do you think so",
+    "Why do you think men are more aggressive than women?",
+    "Do you think men or women are happier?",
+    "Are their different barriers for men and women at work?",
+    "Some feminists believe the 'man' in 'human' or the 'he' in 'she', 'them' and 'they' are sexist. What do you think?",
+    "Should jobs have '-ess' attached to the name so people know they are done by women (e.g. actress, authoress, hostess...)?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

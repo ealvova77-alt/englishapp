@@ -1,0 +1,31 @@
+{
+  "id": "easy-laws",
+  "title": "Laws",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'law'?",
+    "Why do we have laws?",
+    "What laws in your country do you hate?",
+    "Are there any laws in your country that you think should be made tighter?",
+    "Have you ever broken any laws?",
+    "Do you think the laws in your country are similar to those in other countries?",
+    "Do you think there are laws for the rich and different laws for the poor?",
+    "Where, when and why do you think laws first started?",
+    "What laws do you tend to ignore?",
+    "What are gun laws like in your country?",
+    "Do you think all laws are good?",
+    "Would you like to be a lawmaker?",
+    "What would your country be like if there were no laws?",
+    "What's the craziest law you know of?",
+    "What do you think of the idea of international laws that would replace all national laws?",
+    "What new laws would you like your country to introduce?",
+    "Do you think laws are evenly applied to everyone in your society?",
+    "What new laws do you think we'll have fifty years from now?",
+    "Have you ever been to see a lawyer?",
+    "What law would you like to make for your English class?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

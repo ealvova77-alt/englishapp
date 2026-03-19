@@ -1,0 +1,31 @@
+{
+  "id": "easy-backpacking",
+  "title": "Backpacking",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Have you ever been backpacking?",
+    "What are the advantages of backpacking?",
+    "Is backpacking better than taking a package holiday?",
+    "What do you think when you see backpackers in your country?",
+    "Have you ever stayed at a backpackers or similar budget accommodation?",
+    "Is backpacking generally something for younger people?",
+    "Do you think backpacking is done only by those with little money?",
+    "How do you think backpacking around the world would change a person?",
+    "Is it better to go backpacking alone or with friends?",
+    "Do you think backpackers are similar to hippies?",
+    "Which is better, a backpack or a suitcase?",
+    "What are the negative points or dangers of backpacking?",
+    "What are the essential items to put in a backpack?",
+    "What is your image of backpackers?",
+    "Who would you choose to go backpacking with?",
+    "Would you prefer to go on a 2-week luxury cruise or go backpacking for six months?",
+    "In which countries would you most and least like to go backpacking?",
+    "Is it OK for old people to go backpacking?",
+    "Would you like to go backpacking around your own country?",
+    "Why is it called 'backpacking' and not 'rucksacking'?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

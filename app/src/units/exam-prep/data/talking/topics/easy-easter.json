@@ -1,0 +1,31 @@
+{
+  "id": "easy-easter",
+  "title": "Easter",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'Easter?",
+    "What is Easter?",
+    "According to the Christian religion, Easter is a more important holiday than Christmas. Why to you think this is so?",
+    "How do people spend Easter in your country?",
+    "What are the traditional Easter dishes in your country?",
+    "How do people prepare for Easter?",
+    "What more would you like to know about Easter?",
+    "Are there any special rituals performed right before or after Easter?",
+    "Have you ever spent Easter in another country? Would you like to?",
+    "Easter tells us that life is to be interpreted not simply in terms of things but in terms of ideals. What do you think this quote means?",
+    "Should Easter be at the same time / on the same date every year?",
+    "What do you like and dislike about Easter?",
+    "What's the symbolism of the Easter bunny and Easter eggs?",
+    "What is the meaning of Ash Wednesday, Good Friday and Holy Saturday?",
+    "What do people in your country do on Easter Monday?",
+    "Do you prefer Easter or Christmas?",
+    "There would be no Christmas if there was no Easter. Do you agree?",
+    "Is Easter less commercial than Christmas? Why (not)?",
+    "Someone once said: \"The resurrection gives my life meaning and direction and the opportunity to start over no matter what my circumstances.\" What do you think this means?",
+    "Do you think that people will stop celebrating Easter one day?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

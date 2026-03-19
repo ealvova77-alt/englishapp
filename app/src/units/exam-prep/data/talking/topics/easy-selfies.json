@@ -1,0 +1,30 @@
+{
+  "id": "easy-selfies",
+  "title": "Selfies",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'selfie'?",
+    "What does the word 'selfie' mean?",
+    "Why are selfies so popular?",
+    "Where and when do you take selfies?",
+    "Are there places you should never take selfies?",
+    "Why do some people dislike others who take selfies?",
+    "What do you think of selfie sticks?",
+    "Do you know anyone who takes too many selfies?",
+    "Who would you like to have a selfie with, and why?",
+    "Are selfies better than taking photos of other people?",
+    "Why do people think selfie sticks are dangerous?",
+    "Do you like photos of yourself? Why?",
+    "Why might it be bad to put some selfies on sites like Facebook?",
+    "Can people of all ages take selfies?",
+    "Do you prefer selfies of just yourself or of you with others?",
+    "When you take selfies, how do you share them? Why?",
+    "What do you think of selfies using drone cameras?",
+    "What's the worst selfie you have taken?",
+    "What do you think of your selfie collection?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "advanced-alternative-energy",
+  "title": "Alternative Energy",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 13,
+  "questions": [
+    "Do you try to save energy in your home? In what ways?",
+    "Would you be willing to pay more for electricity if it came from renewable energy sources?",
+    "Do you know how the energy you use in your home is produced?",
+    "Do you think there will be a major war over finite fossil fuels in the next 100 years?",
+    "How dependent is your country on non-renewable energy sources?",
+    "Has your country taken any steps to reduce its dependence on non-renewable energy sources?",
+    "Which source of renewable energy do you think will be used most in your country in the future?",
+    "Would you invest in 'green' investments? Why/why not?",
+    "Would you consider powering your home using solar panels? What are the pros and cons of doing so?",
+    "Which form of alternative energy 'ticks the most boxes', in your opinion? Which will be used most in the future?",
+    "Do you think all countries will ever sign the Kyoto protocol? Why/why not?",
+    "Do you think governments do enough to address environmental issues?",
+    "Do you think alternative energies should be subsidised by governments? What are the pros and cons of doing this?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

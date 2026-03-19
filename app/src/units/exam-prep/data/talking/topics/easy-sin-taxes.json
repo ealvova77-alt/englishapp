@@ -1,0 +1,16 @@
+{
+  "id": "easy-sin-taxes",
+  "title": "Sin Taxes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "What does your government do with the money collected through taxes? How are schools funded in your country? What about other public services?",
+    "What are sin taxes? Why do governments impose these taxes? Are they fair for all citizens? Are luxury taxes the same as sin taxes? Why or why not?",
+    "How should the government collect taxes? Do you believe in progressive taxes (higher percentage based on income)? Do you believe in flat taxes (a flat percentage for all income levels)?",
+    "What costs do \"sins\" have on society? What are some alcohol related problems? What problems are caused by smoking? How do fossil fuels affect the environment? Does pornography have negative effects on society? What about guns or other weapons?",
+    "Sin taxes raise the cost of the product being taxed. Does a higher cost deter people from using the product? How much more would you pay to: smoke, drink, drive a car or own a gun?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-youth",
+  "title": "Youth",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear the word 'youth'?",
+    "What are the good things and bad things about today's youth?",
+    "Are today's youth different from the youth of yesteryear?",
+    "How would you describe an average member of today's youth?",
+    "What is the fountain of youth?",
+    "Do you think youths understand how lucky they are?",
+    "How are the youth of different continents different to the young people in your country?",
+    "Pablo Picasso said: \"Youth has no age.\" What did he mean? Do you agree?",
+    "Someone once said: \"Don't waste your youth growing up.\" What did they mean? Do you agree?",
+    "What three adjectives would you use to describe today's youth?",
+    "What's the biggest problem with today's youth?",
+    "What aspects of today's youth make you hopeful about the future?",
+    "Do you have any wild and crazy stories from your youth?",
+    "What's the thing you hated most about your youth?",
+    "Do old people understand today's youth?",
+    "What kind of youth were you?",
+    "What things about the world do you think youths are angry about?",
+    "Herbert Asquith said: \"Youth would be an ideal state if it came a little later in life.\" What did he mean? Do you agree?",
+    "George Bernard Shaw said: \"Youth is a wonderful thing. What a crime to waste it on children.\" What did he mean? Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

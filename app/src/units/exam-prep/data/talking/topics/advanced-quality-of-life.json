@@ -1,0 +1,31 @@
+{
+  "id": "advanced-quality-of-life",
+  "title": "Quality of Life",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'quality of life'?",
+    "How is your quality of life on a scale of one to ten?",
+    "What's the difference between quality of life and standard of living?",
+    "What quality of life does a goldfish in a bowl have?",
+    "What are the indicators of quality life?",
+    "How much does it cost to live a quality, happy life?",
+    "How does the environment in your town affect your quality of life?",
+    "Would you have a better quality of life if you were more attractive?",
+    "Does your country's leader have a good quality of life?",
+    "Does technology change your quality of life?",
+    "Do you always try to increase and improve your quality of life?",
+    "What single thing could you do to increase the quality of your life?",
+    "Can money buy quality of life?",
+    "What do you think is more important, quality or longevity of life?",
+    "How would you describe your quality of life compared to your parents'?",
+    "How does crime and urban decay affect your quality of life?",
+    "What does having children do to your quality of life?",
+    "Who has a better quality of life, a student or a worker?",
+    "Will your quality of life get better or worse over the next few decades?",
+    "Does your state of mind affect your quality of life?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

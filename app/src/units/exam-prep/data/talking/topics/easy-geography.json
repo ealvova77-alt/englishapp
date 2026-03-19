@@ -1,0 +1,31 @@
+{
+  "id": "easy-geography",
+  "title": "Geography",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like geography?",
+    "Do you know a lot about the geography of your country?",
+    "What were your geography teachers like?",
+    "What do you think the difference is between physical geography and human geography?",
+    "Is your general knowledge of geography good?",
+    "What do you think it would be like to be a geographer?",
+    "Do you like looking at maps and atlases?",
+    "How has the world's geography changed over the years?",
+    "Which of these areas of geography would you choose to study - climatology, oceanography or demography?",
+    "What does the word geography mean?",
+    "Were you good at geography at school?",
+    "What do you study in geography?",
+    "Which part of the world do you think has the most interesting geography?",
+    "How important is it to study geography at school?",
+    "What are the most important things about geography that children need to know?",
+    "What jobs can you do if you have a geography degree?",
+    "What's the difference between a city and a town?",
+    "Do you like reading geography books and watching geography shows on TV?",
+    "What is the most interesting area of geography for you?",
+    "How well do you know your local geography - the area near your house?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

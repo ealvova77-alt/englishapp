@@ -1,0 +1,31 @@
+{
+  "id": "easy-sumo",
+  "title": "Sumo",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'sumo'?",
+    "Is sumo a form of wrestling or a martial art?",
+    "Do you think sumo should be included in the Olympics?",
+    "Do you think there should be fewer or more basho every year?",
+    "What do you think of the number of recent foreign yokozuna?",
+    "Do you think sumo is too traditional? Does it need to modernize?",
+    "What do you think makes sumo so exciting?",
+    "Do you like the referees and judges at a sumo basho?",
+    "Do you think sumo will become more of a world sport?",
+    "Do you think sumo could ever die out?",
+    "Do you think sumo is easy or difficult?",
+    "Should sumo rikishi today follow the same code of conduct that sumo rikishi followed many years ago?",
+    "Who do you think is the greatest ever rikishi?",
+    "Do you think there are too many scandals in sumo today?",
+    "Why are fewer and fewer young Japanese men taking up sumo?",
+    "What would you think if Japanese rikishi were in a minority in the top sumo divisions?",
+    "Do you think sumo is a cool sport to have as a national sport?",
+    "What do you think is the most exciting winning technique in sumo?",
+    "What are the most important things a rikishi needs to be successful?",
+    "What do you think of women's sumo?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

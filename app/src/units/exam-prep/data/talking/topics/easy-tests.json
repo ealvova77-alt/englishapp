@@ -1,0 +1,30 @@
+{
+  "id": "easy-tests",
+  "title": "Tests",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 19,
+  "questions": [
+    "What images spring to mind when you hear the word 'test'?",
+    "Do you get nervous when you take tests?",
+    "Are there any kinds of tests that you love?",
+    "Do you have any special routines you follow before you take a test?",
+    "What test has made you most nervous?",
+    "What do you think about while you wait for the result of a test?",
+    "Have you ever taken an IQ test?",
+    "Do you think testing is useful or a waste of time?",
+    "Do you think your test scores reflect your true ability and intelligence?",
+    "Do you like taking tests?",
+    "Are you good at taking tests?",
+    "What was the last English test that you took like?",
+    "Have you ever had a blood test?",
+    "Would you be more nervous before your driving test, a blood test or an English test?",
+    "What's the best way to prepare for a test?",
+    "What medical tests have you had?",
+    "What was the worst test you ever took?",
+    "Are there too many tests in school?",
+    "How do you feel when you fail a test?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

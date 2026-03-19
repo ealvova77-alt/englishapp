@@ -1,0 +1,30 @@
+{
+  "id": "easy-accidents",
+  "title": "Accidents",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What's the biggest accident you've ever had?",
+    "Are you accident prone?",
+    "Have you ever seen a very bad accident?",
+    "Have you ever caused an accident?",
+    "Do you know what to do or how to treat people in an accident?",
+    "Do you know anyone who is \"an accident waiting for somewhere to happen\"?",
+    "Have you ever had any accident prevention training?",
+    "How often are there major rail accidents in your country?",
+    "Do you worry about having accidents?",
+    "Have you ever had any work-related accidents?",
+    "Have you ever received compensation for an accident?",
+    "Have you ever visited the accidents and emergencies department of a hospital?",
+    "What do you think of the expression \"he / she was an accident\", meaning his / her parents didn't plan on having him / her?",
+    "Have you ever made an insurance claim for an accident?",
+    "Do you think there'll be another major nuclear accident?",
+    "What do you remember about the Space Shuttle accidents?",
+    "Have you ever run into an old friend by accident?",
+    "What do you think \"accidentally on purpose\" means?",
+    "What was the last tragic accident you read about?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

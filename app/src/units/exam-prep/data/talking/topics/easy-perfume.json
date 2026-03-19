@@ -1,0 +1,31 @@
+{
+  "id": "easy-perfume",
+  "title": "Perfume",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'perfume'?",
+    "Do you like perfume?",
+    "Is perfume an important part of your culture?",
+    "Do you think perfume is good for your skin?",
+    "Do you think it's OK for men to wear perfume?",
+    "Do you mind if someone is wearing overpowering perfume on the train or in an elevator?",
+    "What do you know about the history of perfume?",
+    "Are French perfumes the best?",
+    "What are the ingredients of perfume?",
+    "From what age do you think it's OK for people to start wearing perfume?",
+    "Do you think perfume needs to be so expensive?",
+    "Do you know the difference between a cheap and expensive perfume just by the smell?",
+    "Do you like browsing around the perfume departments in stores?",
+    "Is perfume only for the rich people of the world?",
+    "What makes a great perfume advertisement?",
+    "Do you think perfume smells better if it is promoted by a pop star or movie star?",
+    "If you could choose a new perfume's name, what would you choose and why?",
+    "What's the biggest reason to wear perfume?",
+    "If you could make your own perfume, what smells would you like to include?",
+    "Do you think a perfume named after your country or city would sell well?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-brain",
+  "title": "Brain",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What do you think of the brain?",
+    "Do you do anything to look after your brain?",
+    "How much of your brain do you use?",
+    "What do neuroscientists know about the brain?",
+    "What do neuroscientists want to know about the brain?",
+    "How is the brain structured?",
+    "What diseases affect the brain?",
+    "Who is the brains of you family?",
+    "How often do you tax your brain?",
+    "How many different functions does the brain perform?",
+    "What would you say about your own brain?",
+    "Do you have a quick brain?",
+    "Has anyone ever called you a birdbrain (or the equivalent in your language)?",
+    "Do you know what Left Brain, Right Brain means?",
+    "Why do English speakers say 'brainstorm'?",
+    "What do you think the reptile, mammal and primate parts of the brain control?",
+    "Has your country ever experienced or benefited from a brain drain?",
+    "What do you think the differences are between male and female brains?",
+    "If you had a brain transplant, would you think differently of have a new personality?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "easy-latin-america",
+  "title": "Latin America",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "How did Latin America get its name?",
+    "What springs to mind when you hear the term 'Latin America'?",
+    "Do you think people from Latin America like the term 'Latin America'?",
+    "Why isn't Latin America as rich and as advanced as North America?",
+    "What do you think Latin America will be like 50 years from now?",
+    "What has Latin America given to the world?",
+    "What do people from Latin America have in common?",
+    "How are the peoples of Latin America different to each other?",
+    "What things about Latin America do you think Latin American people are proud of?",
+    "What do you know about Latin American politics and political leaders?",
+    "What are the differences between Latin America and North America?",
+    "What are the good things and bad things about Latin America?",
+    "Do you think there is a Latin American culture?",
+    "What do you think the rest of the world thinks about Latin America?",
+    "What images of Latin America do you have that are beautiful?",
+    "What do you know about Latin America's history?",
+    "Which Latin American country would you most like to live in?",
+    "What do you know about the geography of Latin America?",
+    "Who are the most famous Latin American people you know?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "easy-athletes",
+  "title": "Athletes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 5,
+  "questions": [
+    "Should athletes be considered role models?",
+    "Why do you think some people are good athletes?",
+    "Why do you think male athletes get paid more than female athletes?",
+    "Should athletes get special treatment in schools? Why or why not?",
+    "Who are your favorite athletes? Why?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

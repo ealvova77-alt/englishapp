@@ -1,0 +1,31 @@
+{
+  "id": "easy-jewelry",
+  "title": "Jewelry",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'jewelry'?",
+    "Are you a jewelry person?",
+    "What kind of jewelry do you like?",
+    "Do you like wearing jewelry?",
+    "Do you think wearing a lot of jewelry looks good or bad?",
+    "What kind of jewelry looks good on men?",
+    "Are diamonds really a girl's best friend?",
+    "Why do people wear jewelry?",
+    "Do you like traditional jewelry or ethnic jewelry?",
+    "What do you think of cheap jewelry?",
+    "Do people look better with or without jewelry?",
+    "Is there any jewelry that you wear 24/7?",
+    "Would you like to wear the jewelry the Queen of England wears?",
+    "How often do you go in jewelry shops?",
+    "Do you think jewelry should be passed down from one generation to the next?",
+    "Is jewelry sexy?",
+    "Is a wedding ring considered to be jewelry?",
+    "Do you prefer gold or silver jewelry?",
+    "What is the best age for boys and girls to start wearing jewelry?",
+    "What piece of jewelry would you like to design and then have a jeweler make for you?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

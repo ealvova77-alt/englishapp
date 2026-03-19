@@ -1,0 +1,28 @@
+{
+  "id": "easy-tv-radio",
+  "title": "Tv, Radio",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 17,
+  "questions": [
+    "Do you think TV can be educational? Why? Why not?",
+    "What is your favourite radio station?",
+    "What is you favourite television station?",
+    "Do you listen to the radio? How often?",
+    "What is your favourite television program?",
+    "How often do you watch television?",
+    "In your opinion, is TV too explicit at times?",
+    "Should there be more programs directed towards children or young people?",
+    "Which type of shows do you normally watch?",
+    "Why are talk shows/game shows so popular?",
+    "Which do you prefer games shows or talk shows?",
+    "Why do you watch TV?",
+    "When do you watch the most TV?",
+    "Do you think that children watch too much television?",
+    "At what time do you think it is suitable to show programs of a sexual nature?",
+    "At what time do you think it is suitable to show programs of a violent nature?",
+    "How many televisions and radios do you have in your home? What about your car?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

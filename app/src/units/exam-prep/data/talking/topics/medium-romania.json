@@ -1,0 +1,31 @@
+{
+  "id": "medium-romania",
+  "title": "Romania",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the country Romania?",
+    "What are the good things and bad things about Romania?",
+    "What is Romania most famous for?",
+    "What do you know about Romanian history?",
+    "What images of Romania do you have that are beautiful and mysterious?",
+    "What do you think about Romanians?",
+    "What has Romania given to Europe and the world?",
+    "Would you like to visit Romania, or live there?",
+    "What do you know about the geography of Romania?",
+    "Who are the most famous Romanian people you know?",
+    "How different is Romania from other European countries?",
+    "What do you know about the different Romanian cultures?",
+    "What do you think Romania's neighbours think about Romania?",
+    "What do you think Romania will be like 50 years from now?",
+    "Does your country have good relations with Romania?",
+    "What do you think about Romania's leaders?",
+    "What is your idea of a typical Romanian?",
+    "What things about Romania do you think Romanians are proud of?",
+    "What do you know about Romanian politics?",
+    "What would you like to ask a Romanian about Romania?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

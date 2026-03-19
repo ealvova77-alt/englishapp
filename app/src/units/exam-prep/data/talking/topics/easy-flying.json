@@ -1,0 +1,31 @@
+{
+  "id": "easy-flying",
+  "title": "Flying",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'flying'?",
+    "What are the best things about flying?",
+    "Can you remember the first time you flew?",
+    "Do you think flying has got better or worse over the years?",
+    "Do you prefer flying or taking the train?",
+    "Do you have an 'airplane routine' or 'in-flight habits' when you fly?",
+    "Do you think flight attendants like flying?",
+    "Which airlines would you recommend (or not) and why?",
+    "How safe do you think flying is?",
+    "Do you think we'll be flying to the Moon and Mars one day?",
+    "Do you like flying?",
+    "What are the worst things about flying?",
+    "Do you think we'll be using flying cars one day?",
+    "Would you like to learn to fly?",
+    "Which is better, flying in an airplane or helicopter?",
+    "What does it mean if you're flying in your dreams?",
+    "Would you like to be able to fly like a bird?",
+    "Do you think the skies of the future will have traffic jams?",
+    "Do you ever think or worry about the plane crashing when you're flying somewhere?",
+    "Where would you like to fly to right now?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

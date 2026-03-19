@@ -1,0 +1,31 @@
+{
+  "id": "debate-racism",
+  "title": "Racism",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'racism'?",
+    "How much racism is there in your country?",
+    "Have you ever been the victim of racism?",
+    "What do you do when you see racism against others?",
+    "Have you ever done anything to help stamp out racism?",
+    "In which country do you think racism is worst?",
+    "Why are people racist?",
+    "Who is the biggest racist you know?",
+    "Is racism getting worse or disappearing in your country?",
+    "What kind of world would it be if there was no racism?",
+    "Do you ever have racist thoughts?",
+    "Do you think racism will ever disappear from this world?",
+    "How do you explain racism to a child?",
+    "What races do people in your country discriminate against?",
+    "What punishments should there be for those guilty of racism?",
+    "What's the best way to stamp out racism?",
+    "What's the worst example of racism you've witnessed or experienced?",
+    "Do you think racism feels differently to black, white, Asian, Indian, Arab... people?",
+    "What adjectives would you use to describe racism?",
+    "What is worse, racism, sexism or homophobia?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

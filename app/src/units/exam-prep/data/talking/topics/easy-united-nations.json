@@ -1,0 +1,30 @@
+{
+  "id": "easy-united-nations",
+  "title": "United Nations",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What comes to mind when you hear the words 'United Nations'?",
+    "Are the nations united?",
+    "Does the United Nations work?",
+    "Does your country respect the United Nations and follow all of its decisions and resolutions?",
+    "What should happen to countries that ignore UN decisions and resolutions?",
+    "What is the alternative to the United Nations?",
+    "What are the good things and bad things about the United Nations?",
+    "What makes you angry about the United Nations?",
+    "How has the United Nations changed the world?",
+    "Former General Secretary Kofi Annan said: \"More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that, my friends, is why we have the United Nations.\" Do you think all nations will master this common destiny?",
+    "Do the big nations have too much power in the United Nations?",
+    "Would you like to work for the United Nations?",
+    "Is the Secretary General of the United Nations the world's most powerful and important person?",
+    "In which countries should the United Nations do more right now?",
+    "Do you think the headquarters of the UN should be in New York?",
+    "What do you know about the different parts of the UN?",
+    "Is the United Nations the world's most international organization?",
+    "Would you like to be the next UN Secretary General?",
+    "The 33rd US President Harry Truman said: \"The United Nations is designed to make possible lasting freedom and independence for all its members.\" Do you think these will come one day?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

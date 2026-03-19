@@ -1,0 +1,31 @@
+{
+  "id": "easy-eggs",
+  "title": "Eggs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like eating eggs?",
+    "How often do you eat eggs?",
+    "What's your favorite way of cooking eggs?",
+    "Have you ever eaten raw eggs?",
+    "What's the difference between white and brown eggs?",
+    "What kind of meals do you cook with eggs?",
+    "Do you like to know which poultry farm the eggs you buy come from?",
+    "Do you think eggs are good value for money?",
+    "What do you know about the nutritional value of eggs?",
+    "Are there any interesting customs in your country using eggs?",
+    "Do you prefer soft or hard boiled eggs?",
+    "Have you had eggs from birds other than chickens?",
+    "What does the expression \"to have egg on your face\" mean? Have you ever had egg on your face?",
+    "Do you worry about diseases you can get from eggs?",
+    "Do you prefer the egg white or the yolk?",
+    "What are you like at breaking eggs when you cook?",
+    "Do you usually buy free range eggs or those from battery chickens?",
+    "Have you ever wanted to throw an egg at someone?",
+    "What have you eaten in the past few days that contained eggs?",
+    "What would your life be like without eggs?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

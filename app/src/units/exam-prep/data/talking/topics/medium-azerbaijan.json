@@ -1,0 +1,21 @@
+{
+  "id": "medium-azerbaijan",
+  "title": "Azerbaijan",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 10,
+  "questions": [
+    "What images spring to mind when you hear the country Azerbaijan?",
+    "What are the good things and bad things about Azerbaijan?",
+    "What is Azerbaijan most famous for?",
+    "What do you know about Azerbaijan's history?",
+    "What are the differences between Azerbaijan and your country?",
+    "What do you think about Azeri people?",
+    "What has Azerbaijan given to the world?",
+    "Would you like to visit Azerbaijan, or live there?",
+    "What do you know about the geography of Azerbaijan?",
+    "Who are the most famous Azeri people you know?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

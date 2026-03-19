@@ -1,0 +1,31 @@
+{
+  "id": "easy-environmental-problems",
+  "title": "Environmental Problems",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What do you think when you hear the words 'environmental problem'?",
+    "Do you add to the environment's problems in your daily life?",
+    "What can you do every day to help the environment?",
+    "Will the problems get worse or will they slowly disappear?",
+    "What is the biggest environmental problem? Why do you think so?",
+    "Which do you think is worse, litter in the countryside or coral bleaching?",
+    "How eco-friendly is your country?",
+    "What causes climate change and how can we reverse it?",
+    "What problems do you know of about water?",
+    "Will we (humans) kill the Earth one day?",
+    "Why is an environmental problem a problem?",
+    "What makes environmental problems?",
+    "Do you think animals are angry with humans for destroying the Earth?",
+    "Which do you think is worse, desertification or noise pollution?",
+    "How would you explain to someone who doesn't know what global warming is?",
+    "How would you feel if all the pandas died and became extinct?",
+    "Who is most responsible for creating environmental problems?",
+    "Is it better if we all went back to nature (left the cities and moved to the countryside)?",
+    "Is it possible for everyone to change their lifestyle to help the Earth?",
+    "Shopping increases environmental problems. Should we stop shopping?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

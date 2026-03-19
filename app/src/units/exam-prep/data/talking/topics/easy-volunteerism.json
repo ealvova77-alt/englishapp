@@ -1,0 +1,31 @@
+{
+  "id": "easy-volunteerism",
+  "title": "Volunteerism",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'volunteer'?",
+    "Do you often volunteer to do things?",
+    "Have you ever volunteered to do something and then regretted volunteering?",
+    "What kind of voluntary work would you like to do?",
+    "What would the world be like if no one volunteered to do anything?",
+    "Has anyone ever volunteered your services and you didn't want them to?",
+    "Would you like to work as a volunteer overseas?",
+    "What was your last volunteer effort?",
+    "Does your town have lots of volunteer schemes?",
+    "When was the last time someone volunteered to help you?",
+    "Do you think we should all volunteer to do something good for others?",
+    "December 5th is International Volunteer Day. What do you think happens or should happen on this day?",
+    "How do you feel about yourself after you've finished a task you volunteered for?",
+    "Could all of the world's problems be solved through volunteerism?",
+    "What would you like to see more people volunteer for?",
+    "Are volunteers special?",
+    "Are you always the first to volunteer?",
+    "Would you ever volunteer to help the lion tamer or the fire-eater in a circus?",
+    "Do you think doing voluntary work is good for your resume?",
+    "Would you join the volunteer army of your country?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "easy-duty-family",
+  "title": "Duty, Family",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 6,
+  "questions": [
+    "What is a duty?",
+    "Did you ever study or learn about duty? Where did you learn about duty? Who taught you about duty?",
+    "Why is family important? How does your family help you in life? Does your family ever cause you problems?",
+    "What are your responsibilities at home? Do you have any specials chores? Do you care for siblings? Do you give any money to your parents?",
+    "Do you think you \"owe\" your parents? Do all children \"owe\" their parents? Why or why not? Should parents pay their children's school tuition? Should children support their parents after they retire?",
+    "What duties do husbands and wives have in a family? How should couples support each other? Do husbands and wives have a duty to be faithful? Do married couples have a duty to tell each other the truth? Why or why not? Do you think husbands and wives should share their money?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-security",
+  "title": "Security",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'security'?",
+    "Do you have all the security you need?",
+    "What would life be like with little security?",
+    "Do you get nervous going through airport security?",
+    "What do you think of world security since the 9-11 attacks?",
+    "What do you do to make sure your Internet security is strong?",
+    "What does the UN Security Council do? How effective is it?",
+    "Does your country provide good social security if you have no job or home?",
+    "Douglas MacArthur said: \"There is no security on this earth. Only opportunity.\" Do you agree with this?",
+    "Franklin Delano Roosevelt said: \"True individual freedom cannot exist without economic security and independence.\" Do you agree?",
+    "What kinds of security are there in life?",
+    "How important is financial security to you?",
+    "What kinds of security measures are there in your home?",
+    "Do you worry about job security?",
+    "Do you always download security patches from Microsoft?",
+    "What do you think of airline security?",
+    "Do you have to have security in a relationship?",
+    "If you had to choose between security and freedom, which would you go for?",
+    "Someone once said: \"Security is an illusion. Life is either a daring adventure or it is nothing at all.\" Do you agree?",
+    "Britain's Lord Acton said: \"The most certain test by which we judge whether a country is really free is the amount of security enjoyed by minorities.\" Do you agree with this?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

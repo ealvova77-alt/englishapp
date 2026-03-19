@@ -1,0 +1,21 @@
+{
+  "id": "advanced-conservative-values",
+  "title": "Conservative Values",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 10,
+  "questions": [
+    "What does it mean to be conservative? Is it good or bad to be conservative? Why?",
+    "What does it mean to be liberal? Is it good or bad to be liberal? Why?",
+    "What recently became acceptable in your country? Do you have any tattoos? Do your parents? Do young people wear revealing clothing? Was that OK in the past?",
+    "How do countries differ in what is acceptable? What is accepted in the US/Europe, but not in your country? Do you think the US and Europe are too liberal? Why or why not?",
+    "What do you think will be acceptable for your children? What about your grandchildren? Do you think all societies become more liberal as time passes?",
+    "What countries are the most conservative?",
+    "Which countries are the most liberal?",
+    "How do people's values change with age?",
+    "Are you liberal or conservative? Why?",
+    "Do you prefer people who are more liberal or conservative? Why?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

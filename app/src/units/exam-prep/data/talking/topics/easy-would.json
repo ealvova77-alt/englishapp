@@ -1,0 +1,31 @@
+{
+  "id": "easy-would",
+  "title": "Would",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Where do you want to go on vacation next? Why do you want to go there?",
+    "What do you want to eat for lunch/dinner? Why do you want to eat that?",
+    "Which university would you like to go to? Why would you like to go there?",
+    "What would you like to do right now? Why would you like to do that?",
+    "Where would you like to go right now? Why would you go there?",
+    "What food would you like to eat right now? Why would you like to eat that?",
+    "What one thing would you like to change about yourself? Why do you want to change that?",
+    "Which famous person would you like to meet? Why would you like to meet them?",
+    "What gifts would you like to get for your birthday? Why do you want those?",
+    "What gift would you like to give to your best friend for their birthday? Why do you want to give them that?",
+    "Can you describe your perfect day? What would you like to do?",
+    "Would you like to be famous? Why/Why not?",
+    "Would you like to be rich? Why/why not?",
+    "How old would you like to be when you get married?",
+    "How many children would you like to have? Why would you like that many children?",
+    "Would you like to live in the city or the countryside? Why?",
+    "What movie do you want to see?",
+    "Ideally, what time would you like school to finish?",
+    "What album do you want to buy? Why do you want to buy that?",
+    "Would you rather relinquish some of your brains, more beauty, or some of your chutzpah?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

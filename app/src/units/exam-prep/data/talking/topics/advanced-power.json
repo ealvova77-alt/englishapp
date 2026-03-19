@@ -1,0 +1,31 @@
+{
+  "id": "advanced-power",
+  "title": "Power",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'power'?",
+    "Do you have power?",
+    "Is power a good or bad thing?",
+    "Does your country have a lot of power?",
+    "Mao Zedong said: \"Political power grows out of the barrel of a gun.\" Do you agree with him?",
+    "Lord Acton said: \"Power tends to corrupt, absolute power corrupts absolutely.\" Do you agree with this?",
+    "People in today's Internet age say knowledge is power. Do you feel more powerful?",
+    "If you had lots of power, what would you do with it?",
+    "Which is the world's most dangerous power?",
+    "Have you ever played power games with a friend, colleague or family member?",
+    "What would you like the power to be able to do?",
+    "Do politicians in your country abuse their political power?",
+    "When was the last time there was a power struggle in your country?",
+    "To what degree do you think money is power?",
+    "How much economic power does your country have in your region and in the world?",
+    "What do you think of colonial power?",
+    "What do corrupt leaders do to hold on to their power?",
+    "Do you believe in the power of prayer?",
+    "What would the world be like if everyone had the same power?",
+    "What do you think of the power of nature?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

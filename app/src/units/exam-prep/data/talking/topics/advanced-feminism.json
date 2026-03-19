@@ -1,0 +1,31 @@
+{
+  "id": "advanced-feminism",
+  "title": "Feminism",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "What is feminism?",
+    "Why isn't there something called 'masculinism'?",
+    "Is your country totally fair and equal to women and men?",
+    "What do you know about the history of feminism?",
+    "What have feminist movements achieved in your country?",
+    "Do you think feminism sometimes has an unfair image?",
+    "Why do you think relatively few women belong to feminist movements?",
+    "Can men be feminists?",
+    "What important things should men know about feminism?",
+    "Why is there a stereotype of feminists hating men?",
+    "Do you think feminist movements are needed in this century?",
+    "How wide is the gender gap in your country?",
+    "What do you think feminists mean by 'reproductive freedom'?",
+    "What is your opinion of 'sexual objectification' - portraying women (or men) as objects of sexual desire?",
+    "What is the biggest worldwide problem facing women?",
+    "What problems are there for women in other countries that do not exist in your country?",
+    "What do you think of the view that marriage constitutes slavery for women, and that freedom for women cannot be won without the abolition of marriage?",
+    "There is a site called \"Ladies Against Feminism,\" which \"promotes beautiful womanhood.\" What do you think this is all about?",
+    "How would the world change if there was perfect sexual equality?",
+    "Which woman has made the greatest progress for women?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

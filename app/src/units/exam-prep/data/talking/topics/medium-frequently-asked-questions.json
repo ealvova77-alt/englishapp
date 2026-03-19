@@ -1,0 +1,28 @@
+{
+  "id": "medium-frequently-asked-questions",
+  "title": "Frequently Asked Questions",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 17,
+  "questions": [
+    "What's for dinner?",
+    "Which came first, the chicken or the egg?",
+    "Why does my computer keep freezing?",
+    "Chicken or beef?",
+    "Where will I be in twenty years?",
+    "How do the pictures arrive on the TV screen?",
+    "Why do companies have to put silly music on their answering machines?",
+    "How did he/she get elected?",
+    "What will the weather be like tomorrow?",
+    "Why do I have to go to work?",
+    "Will you marry me?",
+    "Why do I pay so much tax?",
+    "Are we there yet?",
+    "When I die, will I go to heaven?",
+    "Is it really time to wake up?",
+    "Why am I studying English?",
+    "Done anything interesting recently?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

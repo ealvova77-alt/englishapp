@@ -1,0 +1,31 @@
+{
+  "id": "easy-downloading",
+  "title": "Downloading",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "How often do you download files?",
+    "What would you do if you couldn't download things?",
+    "Does it ever take you too long to download mail?",
+    "What do you think of being able to download music?",
+    "Do you prefer to download music or have the CD?",
+    "Do you pay to download music or do you download it illegally?",
+    "Have you ever used the Apple Store, Amazon MP3 or similar download services?",
+    "Do you think your government needs to crack down on illegal downloading?",
+    "Do you download video files from sites like YouTube?",
+    "What other things would you like to be able to download which you can't at the moment?",
+    "Do you think illegal downloading is the same as stealing something from a shop?",
+    "What do you think musicians think about their music being downloaded illegally?",
+    "How often and what kinds of software do you download?",
+    "Have you ever had problems downloading something?",
+    "Do you ever download security patches and upgrades to your OS?",
+    "What kinds of games do you download?",
+    "Have you ever downloaded files and then not been able to find them?",
+    "Do you worry about viruses when you download files?",
+    "What is the difference between downloading and streaming?",
+    "What are the advantages and disadvantages of downloading?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

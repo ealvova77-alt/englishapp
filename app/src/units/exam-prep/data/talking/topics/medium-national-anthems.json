@@ -1,0 +1,31 @@
+{
+  "id": "medium-national-anthems",
+  "title": "National Anthems",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'national anthem'?",
+    "Do you like your national anthem?",
+    "What feelings do you have when you hear your national anthem?",
+    "Do you know all the words to your national anthem?",
+    "Do you think your national anthem is the right one or would you like a different one?",
+    "Have your eyes ever filled with tears at the sound of your national anthem?",
+    "Do you think your national anthem should be played regularly in schools?",
+    "What is the most meaningful line in your national anthem?",
+    "Some countries play the national anthem in movie theatres before a film begins. What do you think of this?",
+    "Do you think you should stand when you hear another country's national anthem?",
+    "Are national anthems useful, necessary, important?",
+    "What national anthems from other countries do you like?",
+    "Are there any national anthems you hate?",
+    "Do you always stand and put your hand on your heart when you hear your national anthem?",
+    "What would you feel if people booed your national anthem?",
+    "Would you like to sing your national anthem to thousands of people at a special occasion in your country?",
+    "If you could choose a pop or rock song to be your country's national anthem, what would you choose?",
+    "Do you think a world anthem would be better than national anthems?",
+    "Do the words of your national anthem reflect your country's culture today?",
+    "What new words would you like to add to your national anthem?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

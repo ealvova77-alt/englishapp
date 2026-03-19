@@ -1,0 +1,30 @@
+{
+  "id": "debate-jesus",
+  "title": "Jesus",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 19,
+  "questions": [
+    "Is Jesus important in your life?",
+    "What goes through your mind when you see images of Jesus?",
+    "Do you think Jesus was really white, with light brown hair and blue eyes?",
+    "What do you know about Jesus' birth?",
+    "Why is Jesus called 'Jesus Christ'?",
+    "What would Jesus do if he were alive on Earth today?",
+    "Why did Jesus have only male disciples?",
+    "Do you think it's OK to name your son Jesus?",
+    "Is there such a thing as too much Jesus?",
+    "The Bible says little or nothing about Jesus when he was in his teens and early twenties. What happened to him then?",
+    "Do you believe Jesus is the son of God?",
+    "What do you know about Jesus' death?",
+    "Why is Jesus so important to Christians?",
+    "What do you think when people say 'Jesus' or 'Jesus Christ' when they are angry?",
+    "What would the world be like today if Jesus had never existed?",
+    "How would the world be different today if God had had a daughter instead of a son?",
+    "What were the teachings of Jesus?",
+    "Do you think Jesus needs to come back to the world today?",
+    "What questions would you like to ask Jesus? What do you think his answers would be?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

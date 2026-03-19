@@ -1,0 +1,25 @@
+{
+  "id": "easy-vacations",
+  "title": "Vacations",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 14,
+  "questions": [
+    "Where did you go on your last holiday?",
+    "Where are you planning on going for your next holiday?",
+    "Which countries are top of the list of countries you would like to visit?",
+    "Which countries don't appeal to you?",
+    "Have you been abroad many times? Where have you been?",
+    "Do you consider yourself 'well travelled'?",
+    "Which travel destinations did you most enjoy as a child? Have your tastes changed?",
+    "Did you ever go on a school exchange when you were a teenager? Where did you go? How did you find the experience?",
+    "Who is you favourite travel companion? Why?",
+    "Which continents appeal to you most? Which don't appeal to you so much? Why/why not?",
+    "Could you describe your best experience abroad?",
+    "Do you prefer to travel alone, with one other person, in a small group or in a large group? What are the advantages and disadvantages?",
+    "Have you ever travelled anywhere dangerous? What precautions did you take?",
+    "What precautions is it necessary to take, even when travelling in safer countries?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

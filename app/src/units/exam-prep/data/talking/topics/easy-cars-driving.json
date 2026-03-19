@@ -1,0 +1,22 @@
+{
+  "id": "easy-cars-driving",
+  "title": "Cars / Driving",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 11,
+  "questions": [
+    "If you could buy any car in the world, which car would you choose?",
+    "Do you think of your car as a status symbol, or just as something that gets you from A to B?",
+    "Do you buy new or second-hand cars? What are the advantages and disadvantages?",
+    "Do you consider the environment when buying a car? Would you ever consider buying a hybrid or electric car?",
+    "How do you think cars will change in the next 50 years?",
+    "Which car brands would you recommend to a friend? Why?",
+    "Which car brands don't you recommend? Why don't you recommend them?",
+    "'Buying a new car is the worst investment you can make; a car loses half its value as soon as you drive it out of the dealership.' Do you agree or disagree?",
+    "Which country do you think makes the best luxury cars? Which country do you think makes the best budget cars?",
+    "Do you negotiate with car dealers? Give an example of something you negotiated. Were you successful?",
+    "What kind of car do you think we will drive when oil finally runs out? Which technology will win out in the end?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

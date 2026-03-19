@@ -1,0 +1,31 @@
+{
+  "id": "easy-speed",
+  "title": "Speed",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'speed'?",
+    "What is the speed limit on the roads in your country?",
+    "Does speed kill?",
+    "Are you a speed freak? Do you love going fast?",
+    "What's the fastest speed you've ever been in a car at?",
+    "Why do people love speed so much?",
+    "Are our lives getting faster and faster?",
+    "What things can you do at lightning speed?",
+    "Mahatma Gandhi said: \"There is more to life than simply increasing its speed.\" Do you agree?",
+    "Tadao Ando said: \"The speed of change makes you wonder what will become of architecture.\" What do you think?",
+    "What do you think of speed?",
+    "What do you think of people who drive at very high speeds?",
+    "How important is speed in your life?",
+    "Do you need high speed Internet?",
+    "Would you like to travel at the speed of light?",
+    "Do you ever speed dial on your mobile?",
+    "Do you worry about speed cameras and speed checks on the roads?",
+    "Are you a speed reader?",
+    "Someone once said: \"There are no speed limits on the road to excellence.\" What does this mean? Do you agree with it?",
+    "Confucius once said: \"It does not matter how slowly you go, so long as you do not stop.\" Do you agree with him?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

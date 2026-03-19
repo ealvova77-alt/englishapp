@@ -1,0 +1,23 @@
+{
+  "id": "easy-cooking",
+  "title": "Cooking",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 12,
+  "questions": [
+    "Are you a good cook? Why/why not?",
+    "Which recipes do you cook most often?",
+    "What is your favourite kind of food to cook? Why?",
+    "Which meal (breakfast/lunch/dinner) do you enjoy cooking most?",
+    "Do you like cooking as a social activity?",
+    "Who do you like to cook with?",
+    "Are you interested in cooking food from other cultures? Which cultures and why?",
+    "What personal qualities and skills do you need to be a good cook, in your opinion?",
+    "Are you interested in cookery programmes or celebrity chefs? Which celebrity chefs do you recommend? Which do you not recommend?",
+    "Would you ever consider becoming a professional cook? What are the advantages and disadvantages of this profession?",
+    "What would your dream kitchen look like?",
+    "'Women are better cooks than men, simply because they are able to multitask!' Do you agree or disagree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

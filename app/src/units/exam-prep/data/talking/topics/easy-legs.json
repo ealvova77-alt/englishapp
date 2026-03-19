@@ -1,0 +1,31 @@
+{
+  "id": "easy-legs",
+  "title": "Legs",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like your legs?",
+    "Is two the best number of legs to have for a human?",
+    "Do you need to stretch your legs (take a break and go for a walk)?",
+    "How often, when and where do you cross your legs?",
+    "Have you ever broken or injured a leg?",
+    "Do you think legs are attractive?",
+    "How would you describe your legs?",
+    "Do you think men with hairy legs should shave them?",
+    "What's the best way to get shapely legs?",
+    "What do you do when you get cramp in your legs?",
+    "What springs to mind when you hear the word 'legs'?",
+    "Can you name all the different parts of the leg?",
+    "Do you ever get wobbly legs or go weak at the knees?",
+    "Which are more useful, legs or arms?",
+    "Why are long legs considered attractive? Would you like longer legs?",
+    "Do people ever pull your leg (play a trick or joke on you) or do you ever pull other people's legs?",
+    "Have your legs ever been very, very tired?",
+    "What health and medical problems do you know of that affect only our legs?",
+    "What different things can you do with your legs?",
+    "What would you like to know about legs?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

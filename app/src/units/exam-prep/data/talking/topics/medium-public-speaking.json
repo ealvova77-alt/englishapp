@@ -1,0 +1,49 @@
+{
+  "id": "medium-public-speaking",
+  "title": "Public Speaking",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 6,
+  "vocabulary": [
+    {
+      "term": "speak with confidence",
+      "meaning": "to speak in a calm, clear, and self-assured way",
+      "example": "A good presenter can speak with confidence even under pressure."
+    },
+    {
+      "term": "engage the audience",
+      "meaning": "to keep listeners interested and involved",
+      "example": "Stories and questions can help a speaker engage the audience."
+    },
+    {
+      "term": "clear structure",
+      "meaning": "an organized beginning, middle, and end",
+      "example": "A clear structure makes a speech easier to follow."
+    },
+    {
+      "term": "body language",
+      "meaning": "the way a person uses posture, gestures, and facial expressions",
+      "example": "Positive body language can make a speaker look more professional."
+    },
+    {
+      "term": "maintain eye contact",
+      "meaning": "to look at listeners while speaking",
+      "example": "It is easier to maintain eye contact in a small room."
+    },
+    {
+      "term": "stage fright",
+      "meaning": "nervousness before or during speaking in front of people",
+      "example": "Many students experience stage fright before their first presentation."
+    }
+  ],
+  "questions": [
+    "Why or why not would you like to have a job that involves public speaking?",
+    "What are some jobs that involve public speaking?",
+    "Do you know any good public speakers? Who?",
+    "Do you know any bad public speakers? Who?",
+    "What makes a person a good public speaker?",
+    "What makes a person a bad public speaker?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

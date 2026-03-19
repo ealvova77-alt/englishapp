@@ -1,0 +1,21 @@
+{
+  "id": "medium-college-life",
+  "title": "College Life",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 10,
+  "questions": [
+    "What are the most popular clubs on campus? Why?",
+    "How much free time do you have? What do you do with it?",
+    "What do you thnk is the worst thing that students do in their free time. Why?",
+    "How do most teachers spend their free time?",
+    "Are campuses safe? Why or why not?",
+    "How do students help each other?",
+    "What is something that students do that is harmful to other students?",
+    "What do you think this university needs to make it better?",
+    "What do most people thnk of college students?",
+    "What do you think is the hardest major? Why?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

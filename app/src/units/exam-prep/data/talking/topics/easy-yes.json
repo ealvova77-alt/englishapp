@@ -1,0 +1,31 @@
+{
+  "id": "easy-yes",
+  "title": "Yes",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the word 'yes'?",
+    "How often do you say yes every day?",
+    "Is it sometimes difficult to say yes?",
+    "How often do you regret saying yes?",
+    "When do you hope the answer is always yes?",
+    "How many different ways are there of saying yes?",
+    "Has anyone ever got you to say yes against your will?",
+    "What words usually follow 'yes'?",
+    "Someone once said: \"Yes and no are very short words to say, but we should think for some length of time before saying them.\" Do you agree?",
+    "Tony Blair said: \"The art of leadership is saying no, not saying yes. It is very easy to say yes.\" Do you agree?",
+    "Do you like the word yes?",
+    "Do you say yes or no more?",
+    "How does intonation change the meaning of saying yes?",
+    "How would life be different is the word 'yes' was taken out of our language?",
+    "Do you always say yes when someone asks you for a favour?",
+    "What was the happiest yes of your life?",
+    "How many languages can you say yes in?",
+    "When was the last time you screamed a big \"YES!!!!\" (even if it was in your head)?",
+    "Joseph Campbell said: \"The big question is whether you are going to be able to say a hearty yes to your adventure.\" Do you agree?",
+    "Albert Camus said: \"Charm is a way of getting the answer yes without asking a clear question.\" Do you agree?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

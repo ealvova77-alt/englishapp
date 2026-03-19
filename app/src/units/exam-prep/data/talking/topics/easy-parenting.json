@@ -1,0 +1,30 @@
+{
+  "id": "easy-parenting",
+  "title": "Parenting",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "What springs to mind when you hear the word 'parenting'?",
+    "What do you think is the most important thing to remember about parenting?",
+    "Do you think you'd be / you are a good parent?",
+    "What did you learn from your parents about parenting?",
+    "Do you think parenting is easy?",
+    "Why do things go wrong with some parents?",
+    "Did your parents excel in parenting skills?",
+    "Do you think parenting has changed throughout the ages?",
+    "What would you do differently from your parents?",
+    "Would you buy a parenting book and video?",
+    "Do you think parenting is the same all over the world?",
+    "How long does parenting last?",
+    "What do you think of the word 'parenting'? Is there a better word?",
+    "Do you think children should learn parenting skills at school?",
+    "Are parenting skills different for women and men?",
+    "What do you think children think of their parents' parenting skills?",
+    "Would you tell your friend if you thought s/he was being a bad parent?",
+    "Do you think kids should be able to fill in surveys and rank their parents on their parenting skills?",
+    "What do you think of the parenting skills of Michael Jackson and Britney Spears?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

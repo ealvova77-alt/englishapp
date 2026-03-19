@@ -1,0 +1,31 @@
+{
+  "id": "easy-football-soccer",
+  "title": "Football Soccer",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Why do you think football is the world's most popular sport?",
+    "Why does football attract hooligans?",
+    "Is there anything else that joins the world in celebration like the football World Cup?",
+    "In 30 seconds, can you explain what football is?",
+    "Do you think women's football is as exciting as men's?",
+    "Some people believe football is a matter of life and death...I can assure you it is much, much more important than that. What do you think of the thoughts of this famous football manager?",
+    "How can football authorities change the rules to make the game more exciting?",
+    "What do you know about the history of football?",
+    "'Football' or 'soccer' - Which word is best?",
+    "Pele or Maradona - Who was better?",
+    "Do you think football is a sport and an art?",
+    "Do you think professional footballers get paid too much?",
+    "What do you like and dislike about football?",
+    "Do you think the bosses of American sports like baseball and American football are jealous of the worldwide popularity of football?",
+    "Where is the world's best football played?",
+    "What do you understand by the term 'football widow'?",
+    "Do you think football will one day become the number one sport in the USA?",
+    "Is there a better feeling in life than to score the winning goal for your country in football's World Cup final?",
+    "Is it a problem that so few goals are scored in football?",
+    "Do you think football will be different 50 or 100 years from now?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

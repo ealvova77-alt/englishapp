@@ -1,0 +1,31 @@
+{
+  "id": "advanced-standard-of-living",
+  "title": "Standard of Living",
+  "packId": "advanced",
+  "packTitle": "Advanced",
+  "theme": "Society, Media & The World",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the term 'standard of living'?",
+    "What's your standard of living like?",
+    "Has your standard of living gone up or down over the years?",
+    "What is the standard of living like in your country compared to its neighbours?",
+    "Do you think standard of living is more important than quality of life?",
+    "Bhutan measures Gross Domestic Happiness, pretty much all other countries measure standard of living. Which is best?",
+    "What do we measure to find the standard of living?",
+    "Would you include issues like the climate and crime in measuring the standard of living?",
+    "What do you think your standard of living will be like when you retire?",
+    "Do you think the standard of living is a cultural or economic measurement?",
+    "How do countries increase the standard of living for citizens?",
+    "Is it possible for all countries to enjoy the same standard of living?",
+    "Why don't countries copy the economic policies of the countries with the highest standard of living?",
+    "Would you like to move to the country with the highest standard of living?",
+    "Is the standard of living related to the cost of living?",
+    "Do you think your town has a high standard of living?",
+    "Is the standard of living or the standard of loving most important?",
+    "What part does the Internet play in the standard of living?",
+    "Could you cope with the standard of living in the developing world?",
+    "An Indian spiritual leader said: \"It is not the standard of living that is important, but the manner of living.\" Do you agree?"
+  ],
+  "sourceFile": "advanced_social_analytical.pdf"
+}

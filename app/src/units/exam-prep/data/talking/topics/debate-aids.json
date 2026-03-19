@@ -1,0 +1,31 @@
+{
+  "id": "debate-aids",
+  "title": "AIDS",
+  "packId": "debate",
+  "packTitle": "Advanced Debate",
+  "theme": "Ideas, Ethics & Debate",
+  "questionCount": 20,
+  "questions": [
+    "When did you first hear about AIDS?",
+    "What do you know about AIDS?",
+    "What's the difference between AIDS and HIV?",
+    "What do 'AIDS' and 'HIV' mean?",
+    "What does HIV/AIDS do to the human body?",
+    "How serious a problem is AIDS around the world?",
+    "Are governments doing enough to combat AIDS?",
+    "How badly is your country affected by AIDS?",
+    "How do people get HIV/ AIDS?",
+    "When do you think there'll be a cure for AIDS?",
+    "Have you had or would you ever have an AIDS test?",
+    "Are you worried about AIDS?",
+    "Do you worry about AIDS and your children?",
+    "Do you know anyone or have you met anyone with HIV/AIDS?",
+    "Do you trust your partner 100 percent?",
+    "Were you taught about AIDS at school?",
+    "What's your government doing to combat AIDS?",
+    "What's the best protection against AIDS?",
+    "Is AIDS a taboo subject in your country?",
+    "What question would you ask an AIDS sufferer?"
+  ],
+  "sourceFile": "advanced_debate_sensitive_controversial.pdf"
+}

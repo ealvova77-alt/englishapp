@@ -1,0 +1,31 @@
+{
+  "id": "easy-gardening",
+  "title": "Gardening",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you like gardening?",
+    "What is it about gardening that makes many people love it?",
+    "Is gardening a hobby for young or old people?",
+    "Do you need a big garden to enjoy gardening, or can someone living in an apartment also do a bit of gardening?",
+    "Do you think gardening is an expensive hobby?",
+    "What do you think of the idea of everyone having a vegetable and herb garden to help the world's food problems?",
+    "Do you like looking at gardening shows on TV and reading gardening magazines?",
+    "Do you know anyone who is crazy about gardening?",
+    "What kind of equipment do you need to have gardening as a hobby?",
+    "Do you think gardening is the same all over the world?",
+    "What springs to mind when you hear the word 'gardening'?",
+    "Would you like a job as a gardener, or as a landscape architect?",
+    "What do you think market gardening is?",
+    "Do you like walking around gardens?",
+    "Do you think the 'English country garden' is the best?",
+    "Are gardens good for the environment?",
+    "What do you know / think about Japanese Zen gardens?",
+    "Do you have green fingers (UK) green thumbs (USA)?",
+    "Do you think all schools should have a classroom garden and a kitchen garden?",
+    "What dangers are involved with gardening?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

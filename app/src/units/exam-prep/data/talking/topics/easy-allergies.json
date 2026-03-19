@@ -1,0 +1,31 @@
+{
+  "id": "easy-allergies",
+  "title": "Allergies",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "Do you have any allergies?",
+    "What do you think would be the worst thing to be allergic to?",
+    "What things are people allergic to in your country?",
+    "Some people are allergic to the twenty-first century. What do you think this means?",
+    "What would life be like if you suddenly became allergic to your favorite food?",
+    "What do you think... / What is... life like for hay fever sufferers?",
+    "What would you do if you suddenly had extreme allergic reactions to your pet / partner / best friend?",
+    "What are the most common allergens?",
+    "Why are some people allergic to eggs, wheat or peanuts while others are not?",
+    "What are the symptoms of allergies?",
+    "Can people be cured of allergies?",
+    "Some people say children who don't like taking a bath are allergic to soap. Do you have a similar saying in your country?",
+    "Do you think it's possible that lazy people are allergic to work?",
+    "Do you think people with food allergies feel deprived?",
+    "Do you know anyone who is allergic to opening his/her wallet?",
+    "Do any of your family or friends have allergies?",
+    "Which would be worse for you, an allergy to milk, alcohol or animals?",
+    "What new allergies might be found in the future?",
+    "How can you make children with allergies feel better?",
+    "Are you ever allergic to speaking English?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

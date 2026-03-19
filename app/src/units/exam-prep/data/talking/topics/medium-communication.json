@@ -1,0 +1,23 @@
+{
+  "id": "medium-communication",
+  "title": "Communication",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 12,
+  "questions": [
+    "Is it important to be a good communicator in your profession?",
+    "Do you think that people who communicate well are more successful?",
+    "Which means of communication do you prefer?",
+    "Do you think the younger generation communicates differently than the older generation?",
+    "Which means of communication to you find most efficient?",
+    "Has the way you communicate changed in the last 20 years?",
+    "Do you think people communicated more personally in the past?",
+    "Have you ever had trouble communicating with someone at work or in your private life?",
+    "How has communication changed in the last 100 years?",
+    "How do you think communication will change in the future?",
+    "Do people who communicate a lot via social media find it difficult to relate to people interpersonally?",
+    "How much is communicated through body language? Is it something you can rely on?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

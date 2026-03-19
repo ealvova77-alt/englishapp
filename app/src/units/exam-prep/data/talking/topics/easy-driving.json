@@ -1,0 +1,30 @@
+{
+  "id": "easy-driving",
+  "title": "Driving",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 19,
+  "questions": [
+    "Do you like driving / sitting in a car?",
+    "What does driving mean to you?",
+    "Do you think people change character when they are behind the wheel?",
+    "Have you ever been in / had / seen a driving accident?",
+    "What's the most dangerous piece of driving you've ever seen?",
+    "Do you (or someone you know well) always follow the rules of the road when you (they) drive?",
+    "What do you think about when you are driving?",
+    "Do you think you are a good or bad driver?",
+    "Do you think there should be more rules for drivers in your country?",
+    "When do you think people should be allowed to drive a car?",
+    "What do you think of the driving in other countries?",
+    "How often do you think people need to renew their driving licence or driving skills?",
+    "What should governments do to make driving safer?",
+    "Do you prefer to drive or travel by another form of transport?",
+    "What do other people think of or say about your driving?",
+    "What do you think the punishment for drunk driving should be?",
+    "Do you think drivers should be tested frequently to continually improve their driving skills?",
+    "Do you think men or women are the best drivers?",
+    "If you went on a driving holiday, where would you like to go?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "easy-myths-legends",
+  "title": "Myths, Legends",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 4,
+  "questions": [
+    "What is the difference between a myth and a legend?",
+    "What purpose do myths and legends serve?",
+    "What is your favorite myth or legend and why?",
+    "What do you think about people rewriting old stories, Disney's \"Mulan\" for instance?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-rain",
+  "title": "Rain",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What comes to mind when you hear the word 'rain'?",
+    "Do you like rain?",
+    "How does rain change your feelings?",
+    "Do you wish it rain more or rain less where you live?",
+    "What kind of rain do you like?",
+    "What do you like to do in the rain?",
+    "Have you ever done a rain dance?",
+    "Can you think of a time when it rained and you really wished it would stop?",
+    "Do you think rain means the same thing to people in different countries?",
+    "What do you think of the sound and smell of rain?",
+    "Why does it rain cats and dogs in England?",
+    "Do you think acid rain is still a problem?",
+    "Do you think it's OK to drink rainwater?",
+    "Where does rain come from? How is it formed?",
+    "Has anyone ever \"rained on your parade\"?",
+    "When was the last time you got soaked in the rain?",
+    "When can rain be dangerous?",
+    "What's the difference between drizzle, a shower, a downpour, the heavens opening, and heavy rain?",
+    "Are there any poems or songs about rain in your language?",
+    "What do you think of raindrops and rainbows?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "easy-microsoft",
+  "title": "Microsoft",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'Microsoft'?",
+    "Do you think Microsoft is a good company?",
+    "Do you think Hotmail accounts are better than other e-mail services?",
+    "Do you use Messenger? What do you think of it?",
+    "Do you think Microsoft is a monopoly and has too much power?",
+    "Do you think Microsoft's products are the best of their type?",
+    "What do you think of Microsoft Office?",
+    "What do you know or think about Microsoft competitors, such as Apple Computers and Linux?",
+    "Do you think Microsoft will always be the top software company?",
+    "Do you think Microsoft would be a good company to work for?",
+    "What does Microsoft do?",
+    "What would the world be like without Microsoft?",
+    "Are you happy with the Microsoft products you have?",
+    "What is the best thing Microsoft has produced?",
+    "What do you think Bill Gates does every day at Microsoft?",
+    "What do you know about the history of Microsoft?",
+    "Is the Vista OS better than the ones that came before it?",
+    "If Microsoft has so many problems, why is it on 95% of the world's computers?",
+    "Which company do you like better, Microsoft or Google?",
+    "What questions would you like to ask Bill Gates?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

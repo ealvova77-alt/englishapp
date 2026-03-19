@@ -1,0 +1,31 @@
+{
+  "id": "easy-nobel-prize",
+  "title": "Nobel Prize",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What images spring to mind when you hear the phrase \"Nobel Prize\"?",
+    "What do you think of the Nobel Prize?",
+    "What do you know about the different Nobel prizes?",
+    "What do you know about the different Nobel Prize winners?",
+    "What do you know about the life of Alfred Nobel?",
+    "Does your country have many Nobel Prize winners?",
+    "Would you prefer to win a Nobel Prize for peace, literature, medicine, physics or economics?",
+    "Ghandi never won the Nobel Prize for Peace. Do you think he should have?",
+    "Do you know any Nobel Prize winners who should not have received the award?",
+    "What do Nobel Prize winners have in common?",
+    "Would you rather win a Nobel Prize, an Oscar, an Olympic gold medal or a World Cup winner's medal?",
+    "Men usually win Nobel Prizes. Does this make the Nobel selection committee sexist?",
+    "If you could make a new Nobel Prize category, what would it be and who would win it?",
+    "Do you think there should be a Nobel Prize for the environment?",
+    "Are there any better prizes in the world than the Nobel Peace prize?",
+    "What do you think you should win a Nobel Prize for?",
+    "How does winning a Nobel Prize change the winner's life?",
+    "Should a Nobel Prize winner try to change the world?",
+    "Would you rather attend the Oscars or the Nobel Prize ceremony?",
+    "What would you like to ask a Nobel Prize winner?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "medium-commuting",
+  "title": "Commuting",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "School, Work & Practical Life",
+  "questionCount": 12,
+  "questions": [
+    "How do you commute to your place of work?",
+    "How far do you travel and how long does it take?",
+    "What do you dislike most about commuting? The time? The expense? The energy?",
+    "Is it difficult to find parking in your town/city? Is it expensive?",
+    "Do you commute during rush hour? What is the best way to avoid getting stuck in traffic jams?",
+    "What was public transport like in your city in the past? How do you think it will change in future?",
+    "If you were offered a better job with a better salary, would you be willing to commute further?",
+    "How would you rate the public transport system in your town/city? What would you improve?",
+    "If public transport in your town/city were free of charge, would you use it more often?",
+    "Do you ever use your bicycle to commute? If not, what would encourage you to do so?",
+    "Is it easy to ride a bicycle in your town/city?",
+    "What are the pros and cons of using a bicycle for commuting?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

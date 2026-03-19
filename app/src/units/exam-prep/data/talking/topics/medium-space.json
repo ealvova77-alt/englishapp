@@ -1,0 +1,21 @@
+{
+  "id": "medium-space",
+  "title": "Space",
+  "packId": "medium",
+  "packTitle": "Medium",
+  "theme": "Society, Media & The World",
+  "questionCount": 10,
+  "questions": [
+    "What is the difference between 'astrology' and 'astronomy'?",
+    "Are you interested in astrology, the signs of the zodiac, etc? What star sign are you? Do you read your horoscope regularly? Why/not?",
+    "Would you like to be an astronomer? Why/not?",
+    "What do you think we can learn from space exploration?",
+    "Do you think that we should invest large sums of money in the exploration of other planets while some people on this planet are living and dying in poverty?",
+    "Would you like to travel into space, if it was possible? Where would you go and why?",
+    "Do you believe that aliens/UFOs have ever visited our planet?",
+    "Have you ever seen a shooting star, a comet or an eclipse of the moon or sun?",
+    "How would our lives be different if we still believed that the Earth was at the centre of the universe?",
+    "Do you think schoolchildren should learn about the universe we live in? Why/not?"
+  ],
+  "sourceFile": "medium_practical_school_work_world.pdf"
+}

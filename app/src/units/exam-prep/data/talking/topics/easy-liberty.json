@@ -1,0 +1,31 @@
+{
+  "id": "easy-liberty",
+  "title": "Liberty",
+  "packId": "easy",
+  "packTitle": "Easy",
+  "theme": "Everyday Life & Personal Experience",
+  "questionCount": 20,
+  "questions": [
+    "What springs to mind when you hear the word 'liberty'?",
+    "What is the difference between freedom and liberty?",
+    "What do you value most - life, liberty or the pursuit of happiness?",
+    "Do you feel you have a lack of liberty?",
+    "Which world country do you think most values liberty?",
+    "Which world country do you think least values liberty?",
+    "What are civil liberties and how important are they to you?",
+    "Would you fight or riot to protect your liberty?",
+    "Is there religious liberty in your country?",
+    "Have you been to countries where there is very little liberty for the people? What did you think?",
+    "What does liberty mean in your country?",
+    "What do you think of New York's Statue of Liberty?",
+    "How would you feel if your liberty was taken away?",
+    "Do children have the same liberties as adults?",
+    "What extra liberties would you like?",
+    "Do people ever take liberties with you?",
+    "How would you define liberty?",
+    "What do you know about the Liberty Bell?",
+    "Do you think you'll enjoy more or fewer liberties in the future?",
+    "What questions about liberty would you like answers to?"
+  ],
+  "sourceFile": "easy_familiar_concrete_personal.pdf"
+}
